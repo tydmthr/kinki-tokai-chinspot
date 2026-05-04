@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>異界巡礼 — 近畿・東海 珍スポット＆奇祭百景</title>
+<meta name="description" content="近畿・東海地方の一生記憶に残る珍スポット50件と奇祭・カオスイベント47件を厳選収録。インタラクティブ地図と年間カレンダーで巡る、もう一つの日本。" />
+<meta property="og:title" content="異界巡礼 — 近畿・東海 珍スポット＆奇祭百景" />
+<meta property="og:description" content="近畿・東海の一生記憶に残る珍スポット50件と奇祭47件をマップ＋カレンダーで案内。" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;600;800;900&family=Noto+Sans+JP:wght@400;500;700&family=DotGothic16&family=Shippori+Mincho+B1:wght@500;700;800&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" />
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/regular/style.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/fill/style.css" />
+
+<link rel="stylesheet" href="style.css" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='75' font-size='80'%3E%E9%AC%BC%3C/text%3E%3C/svg%3E" />
+</head>
+<body>
+
+<!-- 紋章SVG defs -->
+<svg width="0" height="0" style="position:absolute">
+  <defs>
+    <pattern id="seigaiha" width="40" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 0 20 Q 10 0 20 20 T 40 20" fill="none" stroke="currentColor" stroke-width="0.6" opacity="0.18"/>
+    </pattern>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feBlend in="SourceGraphic" mode="multiply"/>
+    </filter>
+  </defs>
+</svg>
+
+<!-- ヘッダー -->
+<header class="site-header">
+  <div class="brand">
+    <svg class="logo" viewBox="0 0 60 60" aria-label="異界巡礼ロゴ">
+      <circle cx="30" cy="30" r="27" fill="none" stroke="currentColor" stroke-width="1.2"/>
+      <circle cx="30" cy="30" r="20" fill="none" stroke="currentColor" stroke-width="0.8"/>
+      <path d="M 30 8 L 30 52 M 8 30 L 52 30" stroke="currentColor" stroke-width="0.5" opacity="0.5"/>
+      <text x="30" y="38" text-anchor="middle" font-family="Shippori Mincho B1, serif" font-size="20" font-weight="800" fill="currentColor">鬼</text>
+    </svg>
+    <div class="brand-text">
+      <h1 class="brand-name">異界巡礼</h1>
+      <p class="brand-sub">近畿・東海 珍スポット＆奇祭百景</p>
+    </div>
+  </div>
+  <nav class="tabs" id="tabs" role="tablist">
+    <button class="tab active" data-tab="hero" role="tab"><i class="ph ph-house"></i><span>序</span></button>
+    <button class="tab" data-tab="map" role="tab"><i class="ph ph-map-trifold"></i><span>地図</span></button>
+    <button class="tab" data-tab="calendar" role="tab"><i class="ph ph-calendar-blank"></i><span>祭暦</span></button>
+    <button class="tab" data-tab="list" role="tab"><i class="ph ph-list-magnifying-glass"></i><span>名鑑</span></button>
+  </nav>
+</header>
+
+<!-- HERO -->
+<section class="view view-hero active" id="view-hero">
+  <div class="hero-inner">
+    <p class="hero-eyebrow">近 畿 ・ 東 海 ／ 異 界 案 内</p>
+    <h2 class="hero-title">
+      <span class="hero-line-1">忘れられぬ</span>
+      <span class="hero-line-2">記憶のための、</span>
+      <span class="hero-line-3">もう一つの日本。</span>
+    </h2>
+    <p class="hero-lede">
+      表通りの観光案内には載らない。<br>
+      しかし確かに其処にある——個人が一生をかけて作り上げたコンクリートの楽園。<br>
+      千年続く土俗の祭礼。語り継がれた廃墟と祠。<br>
+      <strong>近畿・東海の珍スポット50件と奇祭47件を、地図と暦で巡る。</strong>
+    </p>
+
+    <div class="hero-stats">
+      <div class="stat"><span class="stat-num">50</span><span class="stat-label">珍スポット</span></div>
+      <div class="stat-divider"></div>
+      <div class="stat"><span class="stat-num">47</span><span class="stat-label">奇祭・暦</span></div>
+      <div class="stat-divider"></div>
+      <div class="stat"><span class="stat-num">10</span><span class="stat-label">府県</span></div>
+    </div>
+
+    <div class="hero-cta">
+      <button class="cta-primary" data-goto="map"><i class="ph ph-map-trifold"></i>地図で巡る</button>
+      <button class="cta-secondary" data-goto="calendar"><i class="ph ph-calendar-blank"></i>祭暦を開く</button>
+    </div>
+
+    <div class="hero-categories">
+      <p class="cat-title">四つの異界</p>
+      <div class="cat-grid">
+        <div class="cat-card cat-folk" data-cat="folk">
+          <span class="cat-glyph">祓</span>
+          <h3>土俗・奇祭</h3>
+          <p>性、火、裸、奇習。<br>千年の信仰の核心。</p>
+        </div>
+        <div class="cat-card cat-bkyu" data-cat="bkyu">
+          <span class="cat-glyph">魁</span>
+          <h3>B級・カオス</h3>
+          <p>個人が作った珍博物館、<br>コンクリート像群。</p>
+        </div>
+        <div class="cat-card cat-horror" data-cat="horror">
+          <span class="cat-glyph">霊</span>
+          <h3>心霊・廃墟</h3>
+          <p>有名心霊、廃墟、<br>いわく付きの場所。</p>
+        </div>
+        <div class="cat-card cat-mystery" data-cat="mystery">
+          <span class="cat-glyph">秘</span>
+          <h3>聖地・ミステリー</h3>
+          <p>巨石、UFO、ピラミッド、<br>超古代史の影。</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="hero-note">
+      <p>※ 心霊スポット・廃墟は来訪を推奨しません。歴史と来歴の記録として収録しています。<br>
+      ※ 祭事日程は2026年5月〜2027年4月の年間サイクルを基準。詳細は必ず公式情報で確認を。</p>
+    </div>
+  </div>
+</section>
+
+<!-- MAP -->
+<section class="view view-map" id="view-map">
+  <aside class="map-sidebar" id="mapSidebar">
+    <div class="filter-block">
+      <label class="filter-label">検索</label>
+      <input type="search" id="spotSearch" placeholder="名前・地域で絞る" class="search-input"/>
+    </div>
+    <div class="filter-block">
+      <label class="filter-label">カテゴリ</label>
+      <div class="cat-filter" id="catFilter">
+        <button class="cat-chip active" data-cat="all">すべて<span class="count" id="cnt-all"></span></button>
+        <button class="cat-chip cat-folk" data-cat="folk">土俗・奇祭<span class="count" id="cnt-folk"></span></button>
+        <button class="cat-chip cat-bkyu" data-cat="bkyu">B級<span class="count" id="cnt-bkyu"></span></button>
+        <button class="cat-chip cat-horror" data-cat="horror">心霊<span class="count" id="cnt-horror"></span></button>
+        <button class="cat-chip cat-mystery" data-cat="mystery">聖地<span class="count" id="cnt-mystery"></span></button>
+      </div>
+    </div>
+    <div class="filter-block">
+      <label class="filter-label">表示種別</label>
+      <div class="layer-toggle">
+        <label><input type="checkbox" id="showSpots" checked /> 珍スポット<span class="dot" style="background:#c8332b"></span></label>
+        <label><input type="checkbox" id="showFests" checked /> 祭事地<span class="dot" style="background:#d4a437"></span></label>
+      </div>
+    </div>
+    <div class="result-list" id="resultList"></div>
+  </aside>
+  <div id="map"></div>
+  <button class="sidebar-toggle" id="sidebarToggle" aria-label="サイドバー切替"><i class="ph ph-list"></i></button>
+</section>
+
+<!-- CALENDAR -->
+<section class="view view-calendar" id="view-calendar">
+  <div class="cal-header">
+    <h2 class="cal-title">奇祭暦 — 一年で日本が一番ヤバい日々</h2>
+    <p class="cal-sub">2026年5月 〜 2027年4月</p>
+    <div class="cal-cat-filter" id="calCatFilter">
+      <button class="cat-chip active" data-fcat="all">すべて</button>
+      <button class="cat-chip" data-fcat="naked">裸</button>
+      <button class="cat-chip" data-fcat="fire">火</button>
+      <button class="cat-chip" data-fcat="weird">奇習</button>
+      <button class="cat-chip" data-fcat="sex">性</button>
+      <button class="cat-chip" data-fcat="animal">動物</button>
+      <button class="cat-chip" data-fcat="other">他</button>
+    </div>
+  </div>
+  <div class="cal-grid" id="calGrid"></div>
+</section>
+
+<!-- LIST -->
+<section class="view view-list" id="view-list">
+  <div class="list-header">
+    <h2 class="list-title">百景名鑑</h2>
+    <div class="list-tabs">
+      <button class="list-tab active" data-listtab="spots">珍スポット 50</button>
+      <button class="list-tab" data-listtab="festivals">奇祭 47</button>
+    </div>
+    <input type="search" id="listSearch" placeholder="検索（名前・地域・カテゴリ）" class="search-input list-search"/>
+  </div>
+  <div class="list-grid" id="listGrid"></div>
+</section>
+
+<!-- DETAIL MODAL -->
+<div class="modal" id="modal" aria-hidden="true">
+  <div class="modal-backdrop" data-close></div>
+  <article class="modal-content" id="modalContent"></article>
+</div>
+
+<footer class="site-footer">
+  <p>異界巡礼 — 近畿・東海 珍スポット＆奇祭百景<br>
+  資料：オマツリジャパン、東京別視点ガイド、おすすめ珍スポット、各神社・施設公式サイトほか。<br>
+  <span class="caution">※ 私有地への侵入・心霊スポット夜間立入は厳に慎まれたし。</span></p>
+</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
