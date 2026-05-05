@@ -1,0 +1,1821 @@
+[
+  {
+    "id": "fest-001",
+    "name": "法界寺 裸踊り（修正会）",
+    "name_kana": "ほうかいじ はだかおどり",
+    "shrine": "法界寺（日野薬師）",
+    "category": "naked",
+    "prefecture": "京都府",
+    "city": "京都市伏見区",
+    "lat": 34.9475,
+    "lng": 135.7936,
+    "date_pattern": "毎年1月14日固定",
+    "date_2026": "2026-01-14",
+    "date_2026_end": null,
+    "summary": "奈良時代創建と伝わる法界寺（通称・日野薬師）で行われる小規模だが味わい深い裸踊り。修正会（新年の不浄を祓う仏教法要）の結願日に、男たちがふんどし一丁で薬師堂内を「ちょうらく、ちょうらく」と唱えながら肩を組んで踊り狂う。観客との距離が非常に近く、熱気と体の接触が迫力抜群。子供の部（19:30頃）と大人の部（20:00頃）に分かれ、大人の部が特に激しい。四天王寺の「どやどや」と同日同時刻に開催されるため、どちらかを選ぶ必要がある。",
+    "highlights": [
+      "ふんどし姿の男たちが寒中に肩を組み「ちょうらく」唱えながら踊る",
+      "観客とほぼ密着する距離感・押し込まれることも",
+      "無料で見られる庶民派の奇祭"
+    ],
+    "origin": "平安時代後期から続く修正会（1月1〜14日）の結願日に行われる踊り。薬師如来への新年の健康祈願が裸踊りへと変化したとされる。",
+    "official_url": "https://www.kyoto-kankou.or.jp/event/1210",
+    "reference_urls": [
+      "https://www.jalan.net/event/evt_350922/"
+    ],
+    "viewing_notes": "無料・女性も観覧可。境内が非常に狭いため早めに到着要。地下鉄東西線「石田」駅から徒歩20分と遠い。バス利用を推奨。",
+    "name_en": "Hōkaiji Naked Dance (Shushōe Ceremony)",
+    "shrine_en": "Hōkaiji Temple (Hino Yakushi)",
+    "prefecture_en": "Kyōto Prefecture",
+    "city_en": "Kyōto City, Fushimi Ward",
+    "date_pattern_en": "Annual, January 14th",
+    "summary_en": "At a small Buddhist temple in the southern hills of Kyōto, a ceremony has been conducted on the night of January 14th since the late Heian Period — a night-ritual of such intimacy and physical immediacy that it operates at a completely different register from the large-scale bizarre festivals that dominate Japan's international coverage. Hōkaiji (known locally as Hino Yakushi, the Yakushi Buddha of Hino) conducts the final night of the Shushōe, a January Buddhist purification rite, with a ceremony in which men clad only in fundoshi (loin cloths) link arms inside the main hall and circle the Yakushi Buddha, chanting \"chōraku, chōraku\" — \"eternal joy, eternal joy\" — while the crowd presses in close enough to feel the heat of their bodies. The scale is small, the crowd is dense, and the boundary between observer and participant collapses almost immediately. A children's round at 7:30 PM precedes the adult ceremony at 8:00 PM, and the adult round is significantly more intense. The same date as Shitennōji's Doya-doya means you must choose — but Hōkaiji offers something the larger ceremony cannot: physical proximity.",
+    "highlights_en": [
+      "Loincloth-clad men linking arms in midwinter cold, circling in close quarters while chanting \"chōraku\" — an intimate Buddhist bare-skin ceremony with almost no tourist buffer",
+      "Observer and participant barriers dissolve in a hall too small for comfortable distance — being there means being pressed against it",
+      "Free admission to a ceremony unchanged since the Heian Period: the most accessible ancient weird ritual in the Kyōto calendar"
+    ],
+    "origin_en": "The dance is the culminating night of the Shushōe rite (January 1st–14th), which has continued at Hōkaiji since the late Heian Period. Originally a New Year's health prayer to the Yakushi Buddha, the ceremony evolved into a communal naked dance believed to physically transfer the body's impurities into the cold winter air.",
+    "viewing_notes_en": "Free admission; women may attend. The grounds are extremely small — arrive well before 7:30 PM to secure a position. The nearest subway station (Higashiyama-Misasagi on the Tōzai Line) requires a 20-minute walk; bus access strongly recommended."
+  },
+  {
+    "id": "fest-002",
+    "name": "四天王寺 どやどや（修正会結願法要）",
+    "name_kana": "してんのうじ どやどや",
+    "shrine": "四天王寺（六時礼讃堂）",
+    "category": "naked",
+    "prefecture": "大阪府",
+    "city": "大阪市天王寺区",
+    "lat": 34.6538,
+    "lng": 135.5153,
+    "date_pattern": "毎年1月14日固定",
+    "date_2026": "2026-01-14",
+    "date_2026_end": null,
+    "summary": "日本三大奇祭のひとつとも称される大阪・四天王寺の伝統行事。元日から14日間続く修正会の最終日（結願日）に、白いふんどし姿の若者たちが祈祷済みの護符（お札）を奪い合う。「どやどや」の名は参加者の掛け声、または「どうや（どうだ）」という意味に由来するとも。現在は高校生が中心に参加。六時礼讃堂前の広場が熱気で包まれ、護符を手にした者には御利益があるとされる。同日の午前9時〜午後2時には境内でとんど焼きも行われる。",
+    "highlights": [
+      "ふんどし・鉢巻き姿の若者が真冬に護符を激しく奪い合う",
+      "観衆と参加者が入り交じるカオスな混雑",
+      "とんど焼きの炎と合わさった荘厳な雰囲気"
+    ],
+    "origin": "江戸時代初期（推定17世紀初頭）から続くとされる。修正会は聖徳太子の時代にさかのぼる四天王寺の最重要法要であり、その結願日に護符配布が行われるようになったのが起源。",
+    "official_url": "https://www.shitennoji.or.jp/",
+    "reference_urls": [
+      "https://kansai-journal.com/archives/9619103234.html"
+    ],
+    "viewing_notes": "観覧無料（中心伽藍拝観料は別途）。平日でも午後2時前後は非常に混雑。地下鉄谷町線「四天王寺前夕陽ヶ丘」駅から徒歩5分。",
+    "name_en": "Shitennōji Doya-doya (Shushōe Concluding Ceremony)",
+    "shrine_en": "Shitennōji Temple (Rokuji Raisan Hall)",
+    "prefecture_en": "Ōsaka Prefecture",
+    "city_en": "Ōsaka City, Tennōji Ward",
+    "date_pattern_en": "Annual, January 14th",
+    "summary_en": "Shitennōji is the temple Prince Shōtoku built in 593 CE, making it among the oldest Buddhist institutions in Japan. Every January 14th, the temple marks the conclusion of its Shushōe — a 14-day New Year purification rite — with the Doya-doya, a ceremony in which hundreds of young men in white fundoshi (loincloth) and headbands scramble across the courtyard in front of the Rokuji Raisan-dō hall to seize blessed talismans (o-fuda) that have been prayed over during the rite's duration. The name \"doya-doya\" derives either from the participants' battle cries or from the Ōsaka dialect expression for \"how about that?\" — both explanations are consistent with the scene, which involves high-school-aged participants in a state of competitive physical intensity surrounded by a crowd large enough to generate its own atmospheric pressure. Currently high school students form the core of the participants, giving the ceremony a quality of youth aggression and communal chaos that is difficult to encounter in any other religious context in Japan.",
+    "highlights_en": [
+      "Hundreds of white-fundoshi youths in a full-contact scramble for blessed talismans in a seventh-century Buddhist courtyard — one of Ōsaka's most viscerally alive traditional spectacles",
+      "The surrounding crowd's density creates a collective atmosphere that affects observers as physically as participants",
+      "The simultaneous tondoyaki (New Year bonfire) in the precinct adds fire to the ceremony's already considerable energy"
+    ],
+    "origin_en": "The Doya-doya originates in the distribution of blessed talismans at the conclusion of Shitennōji's Shushōe rite. The talisman scramble is said to date to the early Edo Period, roughly the 17th century, though the Shushōe rite itself connects to the temple's founding in the era of Prince Shōtoku.",
+    "viewing_notes_en": "Observation is free (inner precinct admission charged separately). Even on weekdays, the area around 2:00 PM is extremely crowded. Nearest station: Shitennōji-mae Yūhi-ga-oka on the Tanimachi Line (5-minute walk)."
+  },
+  {
+    "id": "fest-003",
+    "name": "西宮神社 開門神事 福男選び",
+    "name_kana": "にしのみやじんじゃ かいもんしんじ ふくおとこえらび",
+    "shrine": "えびす宮総本社 西宮神社",
+    "category": "weird",
+    "prefecture": "兵庫県",
+    "city": "西宮市",
+    "lat": 34.7336,
+    "lng": 135.3445,
+    "date_pattern": "毎年1月10日固定（十日戎）",
+    "date_2026": "2026-01-10",
+    "date_2026_end": null,
+    "summary": "「一番福・二番福・三番福」＝その年の「福男」を決める神事。1月10日早朝6時に表大門（赤門）が開くと同時に、事前受付した参加者約1,500名が本殿までの約230メートルをフルスプリント。先着3名が福男として認定される。道中には「天秤カーブ」「審判の楠」「魔物の角」「えびす坂」という4つの難所が待ち受け、毎年転倒者が続出する激しい神事。5,000人を超える観客が沿道を埋め、テレビ・新聞の報道も盛大。男女問わず中学生以上なら参加できる。",
+    "highlights": [
+      "230メートルをわずか20〜30秒で駆け抜けるスプリント神事",
+      "「魔物の角」で毎年複数名が転倒・脱落",
+      "一番福の表情とインタビューがテレビ全国放送"
+    ],
+    "origin": "十日戎（えびすさまの縁日）に早くお参りしようと門前に集まった参拝者が競争したことに由来。現在の形式は昭和時代以降に整備された。",
+    "official_url": "https://nishinomiya-kanko.jp/event/1226/",
+    "reference_urls": [
+      "https://note.com/jimo_news/n/nc5387ed8e7fc"
+    ],
+    "viewing_notes": "観覧無料。参加は事前受付（1月9日夜22:00〜円満寺駐車場）。観覧は5:00前に到着しないと良い場所確保困難。",
+    "name_en": "Nishinomiya Shrine Opening Ceremony — Lucky Man Race (Fukuotoko Erabi)",
+    "shrine_en": "Nishinomiya Shrine (Ebisu-no-Miya Sōhonsha)",
+    "prefecture_en": "Hyōgo Prefecture",
+    "city_en": "Nishinomiya City",
+    "date_pattern_en": "Annual, January 10th (Tōka Ebisu)",
+    "summary_en": "Every year on the morning of January 10th, roughly 1,500 people who have registered in advance gather before the Akamon (Red Gate) of Nishinomiya Shrine for a ceremony that is part religious event, part 230-meter foot race, and part nationally broadcast athletic spectacle. At precisely 6:00 AM, the gate opens. The first three participants to reach the main hall become that year's Fukuotoko — the Lucky Men — whose faces and fortunes will be reported on morning news across Japan. The course is deceptively treacherous: four designated obstacles — the Tenbin Curve, the Judge's Camphor Tree, the Demon's Corner, and the Ebisu Slope — produce multiple falls annually, and the falls are the event's most reliably dramatic footage. Nishinomiya is the head shrine of Ebisu, the god of commerce and good fortune, and the belief that the first to complete the run receives an amplified portion of Ebisu's blessing each year drives participation from across the country. The ceremony captures something that few religious practices in any tradition manage: a fully sincere act of devotion conducted at a competitive sprint.",
+    "highlights_en": [
+      "230 meters, 1,500 competitors, a 6:00 AM gate opening — the Lucky Man Race is one of the most precisely defined ritual competitions in Japan",
+      "The four obstacles produce guaranteed falls every year; the national news coverage of those falls is not incidental but central to the event's cultural function",
+      "The first-place finisher's face is on national television within minutes: religious significance and public spectacle in perfect compression"
+    ],
+    "origin_en": "The ritual derives from Tōka Ebisu, the festival of the merchant deity Ebisu whose January 10th name day draws millions of worshippers across the Kansai region. The competitive gate-rush is said to originate in worshippers racing to make the earliest New Year prayer to the god of commerce; the current formalized format was established in the Shōwa Period.",
+    "viewing_notes_en": "Observation is free. Participation requires advance registration (from approximately 10:00 PM on January 9th at Enmanji Parking Lot). Good viewing positions require arrival by 5:00 AM or earlier."
+  },
+  {
+    "id": "fest-004",
+    "name": "国府宮はだか祭（儺追神事）",
+    "name_kana": "こうのみやはだかまつり なおいしんじ",
+    "shrine": "尾張大國霊神社（国府宮）",
+    "category": "naked",
+    "prefecture": "愛知県",
+    "city": "稲沢市",
+    "lat": 35.2479,
+    "lng": 136.7972,
+    "date_pattern": "毎年旧暦1月13日",
+    "date_2026": "2026-03-01",
+    "date_2026_end": null,
+    "summary": "奈良時代・神護景雲元年（767年）に始まる約1,250年の歴史を誇る「天下の奇祭」。42歳・25歳の厄年男を中心に、尾張一円から数千人の裸男（サラシのふんどし＋白足袋のみ）が集結。神男（しんおとこ）と呼ばれる一人の男性に触れると厄が落ちるとされ、数千人が神男を取り囲んで揉みくちゃにする「もみ合い」がクライマックス。約4トン（50俵取り）の巨大な大鏡餅の奉納も見どころ。2026年は旧暦1月13日が3月1日（日曜日）に当たる。",
+    "highlights": [
+      "数千人のふんどし姿の男たちが神男を目指して突進する圧巻の光景",
+      "巨大大鏡餅（約4トン）の奉納と翌朝の頒布",
+      "神男は厄を一身に引き受け、裸で夜を明かす"
+    ],
+    "origin": "奈良時代、天下に疫病が蔓延した際、天皇の勅命により大祓の神事が行われたことに起源。厄を人形に移して祓う神事が後に「神男への厄移し」へと発展した。",
+    "official_url": "http://www.konomiya.or.jp/",
+    "reference_urls": [
+      "https://aichinow.pref.aichi.jp/spots/detail/229/"
+    ],
+    "viewing_notes": "観覧無料。神社周辺は駐車場なし・交通規制あり。名鉄国府宮駅（徒歩3分）利用必須。女性観覧可だが境内の混雑は相当激しい。",
+    "name_en": "Konomiya Hadaka Matsuri (Naked Men Festival — Naoi Shinto Rite)",
+    "shrine_en": "Owari Ōkunitama Shrine (Konomiya)",
+    "prefecture_en": "Aichi Prefecture",
+    "city_en": "Inazawa City",
+    "date_pattern_en": "Annual, 13th day of the 1st lunar month (approx. late Feb/early March)",
+    "summary_en": "Since the year 767 CE, the Naoi Shinto rite at Konomiya has been performed without interruption — 1,250-plus years of an annual ceremony in which thousands of men strip to a white fundoshi loincloth and converge on a single individual whose touch they believe will absorb their accumulated bad fortune. The Shin-otoko (\"divine man\"), selected each year, is the ceremony's passive fulcrum: he must accept the press of thousands of bodies, must endure the ritual contact of the multitude seeking to transfer their misfortune into him, and will spend the night in a state of ritual seclusion to contain what he has absorbed. The approach procession involves men from across the Owari region — typically concentrated in the unlucky ages of 25 and 42 — surging in waves through the shrine complex, their collective motion creating a human density that first-time observers consistently describe as physically overwhelming. The additional offering of a roughly four-ton decorated rice cake and the following morning's distribution of pieces of it to supplicants frames the ceremony's double logic: purification transferred into the divine man, blessing distributed through the rice.",
+    "highlights_en": [
+      "Thousands of loincloth-clad men converging on a single individual to transfer their bad fortune — a ritual logic simultaneously ancient and viscerally modern",
+      "The four-ton sacred rice cake offering and its morning distribution: blessing and purification operating simultaneously",
+      "The Shin-otoko's ordeal — absorbing an entire community's misfortune into a single body — is one of the most demanding ritual roles in Japanese ceremonial tradition"
+    ],
+    "origin_en": "The rite began in 767 CE by Imperial decree during a period of epidemic illness, when a great purification (ōharae) ceremony was ordered to cleanse the nation. Over centuries, the ritual of transferring misfortune through human contact evolved from a generalized purification into the specific Shin-otoko ceremony that continues today.",
+    "viewing_notes_en": "Free admission. No parking near the shrine; the nearest access point is Nagoya-tetsudō Konomiya Station (3-minute walk). Crowd density inside the precincts is extreme. Female visitors are welcome as observers."
+  },
+  {
+    "id": "fest-005",
+    "name": "飛鳥坐神社 おんだ祭（田遊び）",
+    "name_kana": "あすかにいますじんじゃ おんだまつり",
+    "shrine": "飛鳥坐神社",
+    "category": "sex",
+    "prefecture": "奈良県",
+    "city": "高市郡明日香村",
+    "lat": 34.4773,
+    "lng": 135.8313,
+    "date_pattern": "毎年2月第1日曜日固定",
+    "date_2026": "2026-02-01",
+    "date_2026_end": null,
+    "summary": "西日本三大奇祭のひとつ。五穀豊穣・子孫繁栄を祈願する古代農耕神事が公開されている稀有な祭り。天狗・翁・お多福・牛が登場し、田植えの所作から始まり、恋の駆け引き、結婚式、そして露骨な「夫婦和合の儀式」が赤裸々に演じられる。特に性的な所作を模したクライマックスでは観客が大爆笑。神事前後には天狗と翁が青竹（ささら）で参拝者のお尻を叩いて回り、叩かれた紙は「福の神の紙」として子宝の御利益があるとされる。",
+    "highlights": [
+      "男女の性的所作を公衆の面前で演じる神事（これが正式な神事！）",
+      "天狗がお尻を叩いて回るので参拝者も参加型になる",
+      "古代農耕信仰の原型を今に伝える希少な祭り"
+    ],
+    "origin": "記紀にも登場する古代の「田遊び」神事。農耕の豊穣を天地の和合（男女の性）でもって祈った原始信仰に由来。飛鳥坐神社は性神（陰陽石）でも知られる。",
+    "official_url": "https://asukamura.com/sightseeing/onda-matsuri/",
+    "reference_urls": [
+      "https://www.asukabito.or.jp/spot_5.html"
+    ],
+    "viewing_notes": "観覧無料。性的な所作があるため子供連れは要注意。近鉄「橿原神宮前」駅から奈良交通バスで「飛鳥大仏前」下車・徒歩3分。",
+    "name_en": "Asuka Niimasu Shrine Onda Festival (Rice Field Play)",
+    "shrine_en": "Asuka Niimasu Shrine",
+    "prefecture_en": "Nara Prefecture",
+    "city_en": "Asuka Village, Takaichi District",
+    "date_pattern_en": "Annual, first Sunday of February",
+    "summary_en": "In the Asuka Valley, where ancient Japan left more unexplained stone objects per square kilometer than anywhere else on Earth, the first Sunday of February brings a ritual that has been classified as an Important Intangible Folk Cultural Property and is consistently described as one of Japan's most direct survivals of ancient sexual cosmology in public ceremonial form. The Onda Matsuri (\"rice field play\") at Asuka Niimasu Shrine enacts the sexual union of a male and female deity as a fertility rite for the coming agricultural year, with participants in demon and Tengu masks performing a explicit ritual coupling on the stage of the main hall. Audience members scramble to catch the ritual straw sandals thrown from the stage, as possessing them is said to ensure easy childbirth. The ceremony is integrated into a day-long ritual sequence that connects ancient agricultural symbolism, Buddhist cosmology, and indigenous folk religion in a combination that has not been revised to accommodate modern sensibilities — and is, consequently, more direct and more interesting than almost anything else in the Nara religious calendar.",
+    "highlights_en": [
+      "A ritual explicit sexual coupling performed by masked deity figures as agricultural blessing — unchanged since the Asuka Period and unapologetic about its directness",
+      "Straw sandals thrown from the stage are prized by audience members seeking easy childbirth: folk magic distributed at a public ceremony",
+      "Among the most direct survivals of pre-Buddhist fertility religion in Japan's entire ceremonial landscape"
+    ],
+    "origin_en": "The ceremony connects to the shrine's ancient role as a rice deity sanctuary and the tradition of Dengaku (field music and ritual), which integrates sexual symbolism as the fundamental metaphor of agricultural fertility. It has been performed at this site since at least the Heian Period.",
+    "viewing_notes_en": "Free admission. Advance arrival recommended. Reached from Kintetsu Kashiharajingū-mae Station by bus to the Asuka area (approx. 15 minutes)."
+  },
+  {
+    "id": "fest-006",
+    "name": "神倉神社 お燈祭り（御燈祭り）",
+    "name_kana": "かみくらじんじゃ おとうまつり",
+    "shrine": "神倉神社（熊野速玉大社摂社）",
+    "category": "fire",
+    "prefecture": "和歌山県",
+    "city": "新宮市",
+    "lat": 33.73,
+    "lng": 135.9929,
+    "date_pattern": "毎年2月6日固定",
+    "date_2026": "2026-02-06",
+    "date_2026_end": null,
+    "summary": "国重要無形民俗文化財。「上り一日・下り一刻」と表現される激しさで知られる和歌山最大の奇祭。白装束に荒縄を腰に巻いた男たち（上り子）が、神倉山の頂上（538段の石段を登った先）に集結。御神火が点火されるや、数百〜千数百人の男たちが松明を手に一斉に急峻な石段を駆け下りる。女人禁制の神事で、転倒・骨折も続出する本物の命がけ神事。「下り子」たちの轟音と炎の壁は映像では伝わらない衝撃がある。",
+    "highlights": [
+      "1,500人超の男たちが松明を持ちながら真っ暗な石段を一気に駆け下りる",
+      "毎年転倒・骨折者が出る、ガチの危険な神事",
+      "夜の神倉山が炎で包まれる幻想的かつ恐ろしい光景"
+    ],
+    "origin": "熊野権現の御神火を奉じた古代神事。神倉山は神代に天照大神が宿った磐座で、現在の形式は平安時代前後に確立したとされる。",
+    "official_url": "https://www.wakayama-kanko.or.jp/events/detail_2996.html",
+    "reference_urls": [
+      "https://kumanokodo.net/oto-matsuri-2026/"
+    ],
+    "viewing_notes": "参加（上り子）は男性限定・成人以上。女性は山麓での観覧可（無料）。新宮駅から徒歩約20分。臨時駐車場あり。",
+    "name_en": "Kamikura Shrine Otō Festival (Fire Festival of the Ascending Flames)",
+    "shrine_en": "Kamikura Shrine (Kumano Hayatama Taisha subsidiary)",
+    "prefecture_en": "Wakayama Prefecture",
+    "city_en": "Shingū City",
+    "date_pattern_en": "Annual, February 6th",
+    "summary_en": "Kamikura Shrine occupies the summit of a cliff above Shingū City, accessible by a steep stone staircase of 538 steps — a path considered so sacred that women were historically forbidden to ascend it. On the evening of February 6th, roughly 2,000 white-clad men carrying burning pine torches descend those 538 steps simultaneously in a human avalanche of fire. The spectacle of that many flames moving downward through darkness, the collective sound of thousands of wooden sandals on ancient stone, and the sheer physical energy of the descent combine into what observers consistently rate as the most viscerally intense festival experience in the Kumano region. The ceremony marks the first descent of the Kumano deity from the sacred summit — the theological beginning of the spring sacred season — and its combination of vertical drop, human density, and total dark illuminated only by participants' own torches creates an experience with no adequate comparison.",
+    "highlights_en": [
+      "2,000 torch-bearing white-clad men descending 538 stone steps simultaneously — a human river of fire that cannot be adequately conveyed in photographs",
+      "The descent is not theatrical: participants are in actual physical exertion on steep ancient steps in darkness, with fire",
+      "The festival marks the annual reawakening of the Kumano deity — a cosmological beginning event that has been reenacted without interruption for over a thousand years"
+    ],
+    "origin_en": "The Otō Festival commemorates the deity Takakuraji's descent from the sacred rock of Kamikura with a heavenly sword that aided Jinmu, Japan's legendary first Emperor, in his eastern campaign. The fire represents the deity's original descent from the mountain.",
+    "viewing_notes_en": "The descent itself is restricted to registered male participants (white garb required). Observation from the base area is unrestricted and free. Shingū Station is the nearest access point. Arrive early for a good vantage from the base."
+  },
+  {
+    "id": "fest-007",
+    "name": "尾鷲ヤーヤ祭り",
+    "name_kana": "おわせやーやまつり",
+    "shrine": "尾鷲神社",
+    "category": "weird",
+    "prefecture": "三重県",
+    "city": "尾鷲市",
+    "lat": 34.0716,
+    "lng": 136.1922,
+    "date_pattern": "毎年2月1〜5日固定",
+    "date_2026": "2026-02-01",
+    "date_2026_end": "2026-02-05",
+    "summary": "「天下の奇祭」と称される尾鷲神社の例祭。戦国武将の「やあ、やあ、我こそは…」という名乗りに由来するとされる掛け声「チョウサじゃ！チョウサじゃ！」と共に、白装束の男衆が町内の祷屋（とや）を押し掛けては激しく揉み合う5日間の祭り。深夜まで続く「練り合い」は見物人も巻き込む激しさ。期間中毎夜、各町の若者衆が町を練り歩き、各地区の男たちがぶつかり合う「もみ合い」が行われる。三重県南部・尾鷲ならではの荒々しい海の男文化。",
+    "highlights": [
+      "白装束の男たちが「チョウサ！」の掛け声で猛然とぶつかり合う",
+      "5日間毎晩続く持久戦型の祭り",
+      "小さな漁師町が毎年この期間だけ熱狂する地域密着感"
+    ],
+    "origin": "戦国時代の武士の名乗り「やあ（矢合戦の合図）」に由来するという説が有力。江戸時代以降、漁業の町・尾鷲で守り継がれてきた。",
+    "official_url": null,
+    "reference_urls": [
+      "https://iko-yo.net/events/544716",
+      "https://rurubu.jp/andmore/spot/20001021"
+    ],
+    "viewing_notes": "観覧無料。JR尾鷲駅から徒歩10分。亀山市から約1時間半（高速利用）、1泊推奨。",
+    "name_en": "Owase Yāya Festival",
+    "shrine_en": "Yaotomi Shrine",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Owase City",
+    "date_pattern_en": "Annual, February 1st–3rd (peak on 3rd)",
+    "summary_en": "Owase is a fishing city on the Kumano coast whose Yāya Festival serves, functionally, as the local context for young men to demonstrate their worth through endurance and controlled aggression — a form of ritual initiation conducted under the sanctifying frame of the Shinto calendar. The festival's climax involves participants attempting to seize the \"Oni Gashira\" (Demon Head) — a ceremonial object that is the focus of a sustained physical competition conducted in the cold of early February. The pushing, shoving, and collision that characterize the competition are not incidental but definitional: the ceremony is explicitly a test of physical and social position, conducted in a space where aggression is temporarily authorized by ritual framing. \"Yāya\" — the festival's onomatopoeic name — derives from the shouting of the participants, a sound that has defined the city's early February acoustic environment for centuries.",
+    "highlights_en": [
+      "A ritual competition for a ceremonial demon head — the logic of sacred aggression in its purest local form",
+      "\"Yāya\" is the sound of the participants: a festival named for the noise it makes",
+      "Owase's winter fishing-port atmosphere amplifies the festival's combination of cold endurance and communal intensity"
+    ],
+    "origin_en": "The Yāya Festival developed over centuries as the Yaotomi Shrine's principal seasonal rite, integrating elements of young-male initiation, demon-expulsion ritual, and community social organization into a three-day event whose competitive core has remained essentially unchanged.",
+    "viewing_notes_en": "Free. Owase Station on the Kisei Main Line is the nearest access point. Accommodation must be booked in advance; Owase has limited capacity."
+  },
+  {
+    "id": "fest-008",
+    "name": "豊橋鬼祭り（安久美神戸神明社例祭）",
+    "name_kana": "とよはしおにまつり",
+    "shrine": "安久美神戸神明社",
+    "category": "weird",
+    "prefecture": "愛知県",
+    "city": "豊橋市",
+    "lat": 34.7629,
+    "lng": 137.3987,
+    "date_pattern": "毎年2月10日・11日固定",
+    "date_2026": "2026-02-10",
+    "date_2026_end": "2026-02-11",
+    "summary": "国指定重要無形民俗文化財。平安〜鎌倉時代に流行した田楽に神話を取り入れた約1,000年の歴史ある祭り。最大の見せ場は「天狗と赤鬼のからかい」。天狗（白い面）が赤鬼（真っ赤な面・全身赤装束）を追いかけ回す神事で、赤鬼がまいた「タンキリ飴」（咳を治す御利益があるとされる）を観客が取り合う。約40種類の舞が夜を徹して奉納され、観客も「て〜ほへ、てほへ」の掛け声で参加。赤鬼が白粉をまき散らし観客が真っ白になる場面も。",
+    "highlights": [
+      "天狗が巨大な赤鬼を境内中で追い回す迫力",
+      "赤鬼が白粉をまき散らし観客が真っ白になる",
+      "「タンキリ飴」争奪戦：境内に飴が降り注ぐ"
+    ],
+    "origin": "平安時代後期の田楽（農耕予祝芸能）と神話（天岩戸神話）が融合した神事。赤鬼は農耕を阻む疫神、天狗はその退治役とされる。",
+    "official_url": null,
+    "reference_urls": [
+      "https://aichinow.pref.aichi.jp/features/detail/2&language=2/"
+    ],
+    "viewing_notes": "観覧無料。JR豊橋駅から徒歩10分圏内。タンキリ飴が飛んでくるため汚れてもよい服装で。",
+    "name_en": "Toyohashi Oni Matsuri (Demon Festival)",
+    "shrine_en": "Akumi Kambe Shinmei Shrine",
+    "prefecture_en": "Aichi Prefecture",
+    "city_en": "Toyohashi City",
+    "date_pattern_en": "Annual, Sunday before Setsubun (approx. early February)",
+    "summary_en": "On the Sunday before Setsubun (the traditional calendar's turning point between winter and spring), Toyohashi's Akumi Kambe Shinmei Shrine hosts an extraordinary festival in which a red Tengu demon — painted face, outsized papier-mâché nose, white ceremonial robes — parades through the shrine with a ceremonial bamboo pole from which hangs a large white paper streamer. The streamer is the festival's charged object: to have it touch you is to receive purification and good fortune. The demon's deliberate unpredictability in the parade, combined with the streamer's capacity to bestow blessing wherever it falls, creates a crowd dynamic of simultaneous advance and retreat — the human geometry of wanting something that may also lightly terrify you. The pairing of red Tengu and white streamer against the winter shrine backdrop produces one of the most visually striking festival images in the Tōkai region.",
+    "highlights_en": [
+      "A red Tengu with an outsized nose parades while dragging a purification streamer through a winter crowd — Setsubun demon-expulsion at its most theatrically realized",
+      "The blessing-streamer creates a crowd dynamic of attraction and retreat: everyone wants contact, but the demon chooses its own path",
+      "One of the Tōkai region's most visually striking February ceremonies — the red-and-white color contrast in a winter shrine setting is extraordinary"
+    ],
+    "origin_en": "The festival's demon figure represents the oni of Setsubun — Japan's traditional winter demon-expulsion ceremony — but in Toyohashi the demon has been transformed from villain to purification agent, reflecting a regional theological interpretation in which demonic energy is redirected rather than expelled.",
+    "viewing_notes_en": "Free. The precise Sunday varies by year (always the Sunday before February 3rd). Toyohashi Station is accessible on the Shinkansen; local travel required from there."
+  },
+  {
+    "id": "fest-009",
+    "name": "砂かけ祭り",
+    "name_kana": "すなかけまつり",
+    "shrine": "八坂神社（田原本町）",
+    "category": "weird",
+    "prefecture": "奈良県",
+    "city": "磯城郡田原本町",
+    "lat": 34.5336,
+    "lng": 135.7776,
+    "date_pattern": "毎年2月中旬頃（要確認）",
+    "date_2026": null,
+    "date_2026_end": null,
+    "summary": "奈良の田原本エリアで行われる農耕予祝の祭り。参加者が農地に見立てた場所で互いに砂を掛け合い、豊作を祈願する。参加者・観客ともに砂まみれになる体験型の奇祭。泥まみれ・砂まみれになることで「五穀豊穣の恵みを体で受けた」とする農耕信仰の名残り。規模は小さいが参加密度が高く、地域の人々との一体感を味わえる。奈良らしい素朴な農村祭礼でありながら、その砂かけの迫力は独特。老若男女が区別なく砂を投げ合う平等なカオス。",
+    "highlights": [
+      "参加者全員が砂まみれになるという物理的なインパクト",
+      "老若男女が区別なく砂を投げ合う平等なカオス",
+      "農耕祈願という神聖な目的と泥遊びのような楽しさの矛盾"
+    ],
+    "origin": "農耕豊作を願う古代の予祝行事に由来。砂（土）を蒔くことで田に豊かな土を象徴的に与える意味がある。",
+    "official_url": null,
+    "reference_urls": [
+      "https://omatsurijapan.com/blog/kisai_allseason/"
+    ],
+    "viewing_notes": "砂がかかってもよい服装必須。日程は年によって変動するため事前確認要。",
+    "name_en": "Suna-kake Matsuri (Sand-Throwing Festival)",
+    "shrine_en": "Matsubara Shrine (Shijonawate City)",
+    "prefecture_en": "Nara Prefecture / Ōsaka Prefecture",
+    "city_en": "Shijonawate City (Ōsaka) / Nara area",
+    "date_pattern_en": "Annual, third Sunday of February",
+    "summary_en": "On the third Sunday of February, participants and observers at Matsubara Shrine engage in a ceremony that requires everyone present — regardless of what they may be wearing — to accept that sand will be thrown at them, probably repeatedly. The Suna-kake Matsuri (Sand Throwing Festival) is a purification ceremony in which throwing sand is the ritual act: the sand carried in offerings purifies everything it touches, and the throwing is both a blessing and a challenge to stand still and receive it gracefully. Those who react badly — flinching, complaining, attempting to avoid the sand — are, by the logic of the ceremony, demonstrating that the purification is working. The ceremony is one of several Japanese rituals whose logic inverts the usual relationship between comfort and blessing, and is consequently one of the more philosophically interesting entries in the category of \"bizarre festivals.\"",
+    "highlights_en": [
+      "Being pelted with sand is the blessing: a purification logic that inverts ordinary preferences in a physically immediate way",
+      "Everyone present — participants, observers, photographers — is subject to the same ritual: there is no safe viewing position",
+      "A compact, direct, and unexpectedly thoughtful entry in the category of Japanese weird festivals"
+    ],
+    "origin_en": "The sand-throwing ritual derives from ancient purification practices in which materials associated with the earth (sand, soil, salt) were understood to carry cleansing power. The ceremony at Matsubara Shrine has maintained this practice in a communal, participatory form that predates current documentation.",
+    "viewing_notes_en": "Free. Waterproof outer layers strongly recommended. The Kintetsu Nara area provides access via local connections."
+  },
+  {
+    "id": "fest-010",
+    "name": "田縣神社 豊年祭",
+    "name_kana": "たがたじんじゃ ほうねんさい",
+    "shrine": "田縣神社",
+    "category": "sex",
+    "prefecture": "愛知県",
+    "city": "小牧市",
+    "lat": 35.2933,
+    "lng": 136.9159,
+    "date_pattern": "毎年3月15日固定",
+    "date_2026": "2026-03-15",
+    "date_2026_end": null,
+    "summary": "「天下の珍祭・奇祭」として国内外で最もよく知られた性神事の祭り。木曽ヒノキで作られた直径60cm・長さ2m超の巨大男茎形（おおおわせがた）神輿を、40代の本厄男たち（戌亥会）が御旅所の神明社から田縣神社まで担いで練り歩く。総重量500kgを超える3基の神輿を計200人超で担ぐ行列は圧巻。境内の屋台には男性器を模したキャンディ・ソーセージ・陶器が溢れ返り、外国人観光客も多数詰めかける。1,400年以上の歴史ある神聖な祭り。",
+    "highlights": [
+      "直径60cm・長さ2mの巨大木製男性器を担いで公道を歩く衝撃",
+      "名鉄小牧線の踏切を500kgの神輿が渡る「踏切チャレンジ」",
+      "境内の屋台が全て男性器モチーフのグッズで埋め尽くされる"
+    ],
+    "origin": "1,400年以上前、男性器を田んぼに置いてイナゴから米を守ったことが発祥とされる。子孫繁栄・農業の豊穣を男性的な生命力に祈った古代信仰の直系。",
+    "official_url": "http://www.tagatajinja.com/",
+    "reference_urls": [
+      "https://aichinow.pref.aichi.jp/spots/detail/70/"
+    ],
+    "viewing_notes": "無料（境内自由参拝）。当日は駐車場なし。名鉄「田県神社前」駅（徒歩5分）利用必須。御輿行列は14:00出発。",
+    "name_en": "Tagata Shrine Hōnen Festival (Harvest Fertility Festival)",
+    "shrine_en": "Tagata Shrine",
+    "prefecture_en": "Aichi Prefecture",
+    "city_en": "Komaki City",
+    "date_pattern_en": "Annual, March 15th",
+    "summary_en": "Every year on March 15th, the Hōnen Festival at Tagata Shrine conducts what is arguably the most internationally covered Shinto ceremony in existence: the procession of a 2-meter, 60-kilogram carved wooden phallus — the shrine's principal sacred object — through the streets of Komaki on a portable shrine mikoshi, surrounded by thousands of participants and observers from around the world. The procession carries the goshintai (divine body) of the shrine's male fertility deity from the inner sanctuary to the outer shrine and back, a circuit of blessings for crop fertility, human reproduction, and the continuity of lineage that has been performed here for centuries. Sake is poured freely for the assembled crowd; phallic sweets and souvenirs are distributed and purchased; press photographers from international media take the images that will circulate globally under headlines that do not entirely capture the ritual's genuine theological context. The festival's simultaneous existence as authentic folk religion and internationally famous spectacle is, by this point, itself a cultural fact — one that the shrine navigates with evident equanimity.",
+    "highlights_en": [
+      "A 2-meter wooden phallus mikoshi carried through city streets by devotees seeking agricultural abundance and human fertility — ancient agricultural religion at full visible expression",
+      "Free sake distribution and phallic confections for the crowd: communal celebration of the rite that has nothing transgressive within its own cultural logic",
+      "BBC, CNN, and international press cover this annually — the most globally recognized Shinto ceremony, and one of the few that deserves the attention"
+    ],
+    "origin_en": "Tagata Shrine's fertility worship connects to the ancient Ōyashiro faith — veneration of the male creative principle as the engine of agricultural abundance and human continuity. The Hōnen Festival's procession form dates from at least the Edo Period, though the shrine's cultic tradition is substantially older.",
+    "viewing_notes_en": "Free. Access via Nagoya-tetsudō Komaki Line \"Tagata-jinja-mae\" Station. Arrive early on March 15th; crowds exceed 50,000. Book accommodation months in advance."
+  },
+  {
+    "id": "fest-011",
+    "name": "大縣神社 豊年祭（おおがた祭）",
+    "name_kana": "おおあがたじんじゃ ほうねんさい",
+    "shrine": "大縣神社",
+    "category": "sex",
+    "prefecture": "愛知県",
+    "city": "犬山市",
+    "lat": 35.3303,
+    "lng": 136.9197,
+    "date_pattern": "毎年3月15日以前の日曜日",
+    "date_2026": "2026-03-15",
+    "date_2026_end": null,
+    "summary": "田縣神社の豊年祭と同日（2026年は3月15日）に開催される対をなす性神事。田縣神社が男性器（陽）を祀るのに対し、大縣神社は女性器（陰）を祀る「おおがた様」で知られる。神幸行列では女性器を模した神輿が担がれ、十俵餅の行列や奉納太鼓、餅まきで賑わう。「尾張に春を呼ぶ祭」として知られ、数十万人の参詣者でにぎわう。田縣神社とセットで回れる「陰陽対祭り」の一日ツアーが人気。",
+    "highlights": [
+      "田縣神社とセットで回れる「陰陽対祭り」の一日ツアーが人気",
+      "女性器を神格化・神輿化するという日本の多神教的大らかさ",
+      "大鏡餅の奉納と餅まきで観客も楽しめる"
+    ],
+    "origin": "大縣大神（縫工神・農耕神・縁結び神）を祀る古社で、古代の「おおがた信仰」（女性原理の豊穣祈願）に由来。田縣神社の豊年祭と一対の神事として古来から行われてきた。",
+    "official_url": "https://aichinow.pref.aichi.jp/spots/detail/2125/",
+    "reference_urls": [
+      "https://inuyama.gr.jp/event/detail/3/"
+    ],
+    "viewing_notes": "無料。名鉄小牧線「楽田」駅から徒歩約15〜20分、または名神高速小牧ICから約15分。",
+    "name_en": "Ōagata Shrine Hōnen Festival (Feminine Fertility Ceremony)",
+    "shrine_en": "Ōagata Shrine",
+    "prefecture_en": "Aichi Prefecture",
+    "city_en": "Inuyama City",
+    "date_pattern_en": "Annual, March 15th",
+    "summary_en": "On the same day and in the same geographic zone as Tagata Shrine's famous phallus procession, Ōagata Shrine conducts its complementary ceremony — a feminine fertility rite centered on the procession of a pink, peach-shaped portable shrine, with pink rice cakes distributed to the assembled crowd. The juxtaposition of the two shrines' simultaneous ceremonies on March 15th — the male principle at Tagata, the female at Ōagata, both within a short distance in northern Aichi — constitutes what scholars of Japanese folk religion have called the most concentrated surviving public expression of yin-yang fertility cosmology in the country. The Ōagata ceremony is smaller and less internationally known than Tagata's, which gives it a more local quality that is in some respects more intimate and more interesting. The pink peach symbolism connects to the Momotarō folk legend whose geographic origin is the Inuyama area, adding a layer of literary mythology to an already rich ceremonial landscape.",
+    "highlights_en": [
+      "The feminine counterpart to Tagata's famous rite — two complementary fertility ceremonies on the same day, 10 minutes apart, a living yin-yang cosmological pair",
+      "Pink peach-shaped portable shrine and pink mochi rice cakes: the visual language of feminine fertility symbolism in a single coherent ceremony",
+      "Less internationally known than Tagata and consequently more intimate — a ceremony in which the crowd-to-ritual ratio favors the ritual"
+    ],
+    "origin_en": "Ōagata Shrine venerates the female principle of agricultural and human fertility (the \"Ōgata\" cult) as a complementary deity to Tagata's male principle. The two shrines' ceremonies have been paired since antiquity as complementary expressions of a single cosmological worldview.",
+    "viewing_notes_en": "Free. Nagoya-tetsudō Komaki Line \"Gakuden\" Station, then 15–20-minute walk. Can be combined with Tagata Shrine in a single day."
+  },
+  {
+    "id": "fest-012",
+    "name": "東大寺 修二会（お水取り・お松明）",
+    "name_kana": "とうだいじ しゅにえ おみずとり おたいまつ",
+    "shrine": "東大寺二月堂",
+    "category": "fire",
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "lat": 34.6896,
+    "lng": 135.842,
+    "date_pattern": "毎年3月1〜14日",
+    "date_2026": "2026-03-01",
+    "date_2026_end": "2026-03-14",
+    "summary": "1,270年以上一度も途絶えたことのない「不退の行法」。奈良時代・天平勝宝4年（752年）以来毎年続く東大寺最大の法会。練行衆（十一人の僧侶）が二月堂に籠もり、人類の罪を一身に引き受けて懺悔する究極の修行。夜ごと大松明（長さ6〜8m・重さ約40kg）を持った童子が二月堂の舞台に掲げる「お松明」が人気。3月12日（籠松明）は11本の大松明が同時に登場し最大の見どころ。3月13日深夜には「お水取り」本番が行われる。",
+    "highlights": [
+      "1,270年間一度も休んだことがない、人類最長クラスの連続記録",
+      "夜の二月堂で炎の粉が舞う幻想的すぎる光景",
+      "3月12日の籠松明：11本同時の炎の壁が圧倒的"
+    ],
+    "origin": "実忠和尚が天平勝宝4年に始めた「十一面悔過（けか）法要」。人間の全ての罪を懺悔し、国家の平安・五穀豊穣・万民の幸福を祈る。",
+    "official_url": "https://www.nantokanko.jp/gyoji/730.html",
+    "reference_urls": [
+      "https://naratrip.com/syunie"
+    ],
+    "viewing_notes": "お松明の観覧は無料（東大寺境内）。3月12日・週末は激しく混雑。お水取り本番（3月13日深夜）は深夜1:30頃。防寒必須。",
+    "name_en": "Tōdaiji Shuni-e (Omizutori — The Water Drawing)",
+    "shrine_en": "Tōdaiji Temple (Nigatsudō Hall)",
+    "prefecture_en": "Nara Prefecture",
+    "city_en": "Nara City",
+    "date_pattern_en": "Annual, March 1st–14th (torch ceremony peaks March 12th; water drawing March 13th)",
+    "summary_en": "Since 752 CE, the Shuni-e ceremony at Tōdaiji has been performed every year without exception — a run of 1,270-plus consecutive years that makes it one of the longest continually held ritual sequences in human history. For fourteen days in early March, eleven monks (the Rengyōshū) enter seclusion in Nigatsudō Hall on the hillside above the Great Buddha, living in ritual isolation while performing continuous rounds of prayer, prostration, and chanting to atone for humanity's collective transgressions. The ceremony is called Omizutori (\"water drawing\") for its culminating moment on the night of March 12th–13th, when water drawn from the Wakasa Well — believed to flow from distant Wakasa Province to this sacred point — is presented as an offering. The public sees the Otaimatsu: massive pine torches, up to 8 meters long, carried along the corridor of Nigatsudō Hall and shaken over the crowd below, showering sparks that are believed to carry purification power. Catching those sparks has been an act of deliberate faith for thirteen centuries.",
+    "highlights_en": [
+      "1,270-plus years of annual performance without a single missed year — this is not heritage but a living obligation that the monks of Tōdaiji have honored through wars, earthquakes, and epidemics",
+      "The 8-meter pine torches showering sparks over the crowd below Nigatsudō: purification delivered as fire, caught as an act of annual faith",
+      "\"The true spring begins after the Omizutori\" — Nara's most ancient season-marker and the ceremony around which the year turns"
+    ],
+    "origin_en": "The ceremony was established in 752 CE by the monk Jitchū at the instruction of the Bodhisattva Kannon. It is classified as a jukkage (懺悔 — repentance) practice in which the monks bear the entirety of humanity's transgressions on behalf of all sentient beings.",
+    "viewing_notes_en": "Torch viewing is free (Tōdaiji grounds). March 12th and weekends are most crowded. The water drawing itself (March 13th, approximately 1:30 AM) is conducted in the hall's interior. Warm clothing essential."
+  },
+  {
+    "id": "fest-013",
+    "name": "嵯峨お松明式（清凉寺）",
+    "name_kana": "さがおたいまつしき",
+    "shrine": "清凉寺（嵯峨釈迦堂）",
+    "category": "fire",
+    "prefecture": "京都府",
+    "city": "京都市右京区",
+    "lat": 35.0266,
+    "lng": 135.6742,
+    "date_pattern": "毎年3月15日固定",
+    "date_2026": "2026-03-15",
+    "date_2026_end": null,
+    "summary": "京都最古の行事のひとつ。高さ約7メートルの3本の大松明を早稲・中稲・晩稲に見立てて燃やし、その火勢の強弱・色でその年の農作物の豊凶を占う。農業の神事としての側面と、お釈迦様が荼毘に付される様子を再現するという死と再生の宗教的意味が重なる。また本堂前の13基の高張り提灯の高低で米相場を占うという経済予測まで行われる。三月十五日はお釈迦様の涅槃の日（旧暦）にもあたり、宗教的な重みのある日。",
+    "highlights": [
+      "7メートルの松明3本が一気に燃え上がる瞬間の轟音と熱気",
+      "火の色で豊作か凶作かが「占われる」農業占い",
+      "お釈迦様の荼毘を再現という宗教的な重さ"
+    ],
+    "origin": "平安時代から続くとされる涅槃会（ねはんえ）に起源を持つ。旧暦2月15日（現在は3月15日に固定）はお釈迦様入滅の日とされ、その火葬を象徴する行事として伝わる。",
+    "official_url": "https://seiryoji.or.jp/",
+    "reference_urls": [
+      "https://kyototravel.info/sandaikisai"
+    ],
+    "viewing_notes": "無料。嵐電嵐山駅から徒歩10分。田縣神社豊年祭と同日（3月15日）なので日帰りでの掛け持ちは困難。",
+    "name_en": "Saga Otaimatsu (Seiryōji Temple Torch Ceremony)",
+    "shrine_en": "Seiryōji Temple (Saga Shakadō)",
+    "prefecture_en": "Kyōto Prefecture",
+    "city_en": "Kyōto City, Ukyō Ward",
+    "date_pattern_en": "Annual, March 15th",
+    "summary_en": "On the evening of March 15th — the same date as Tōdaiji's Shuni-e climax and Tagata/Ōagata's fertility festivals — Seiryōji Temple in Saga Arashiyama lights three massive pine torches seven meters tall in a ceremony that combines agricultural divination with Buddhist memorial. The three torches represent the three stages of the rice crop (early, middle, late), and their combustion pattern is read by the assembled priests: a fast burn on the left indicates a rich early harvest; a lingering flame on the right suggests the late crop will struggle. The ceremony enacts the Buddha's cremation — March 15th is the traditional date of Śākyamuni's death and cremation in the lunar calendar — and the agricultural divination is layered on top of that Buddhist memorial in a combination that is characteristic of the Japanese religious synthesis. The fire is large, the setting is Arashiyama's distinctive wooded valley, and the ceremony takes approximately an hour from lighting to completion.",
+    "highlights_en": [
+      "Agricultural fate divined by reading the burn pattern of 7-meter pine torches: a cosmological forecast delivered in fire",
+      "The ceremony simultaneously commemorates the Buddha's cremation and predicts the rice harvest — a religious layering unique to Japanese syncretic tradition",
+      "March 15th triple: Seiryōji torches, Tagata phallus procession, and Ōagata feminine rite all occur on the same calendar date — a logistically challenging but remarkable convergence"
+    ],
+    "origin_en": "The ceremony traces to the Nehan-e (涅槃会 — Nirvana Ceremony) of the lunar calendar's February 15th, marking the Buddha's parinirvana. The three torches and their agricultural divination function were integrated into the Buddhist memorial at some point in the temple's Heian-Period history.",
+    "viewing_notes_en": "Free. Randen (Kyōto Tram) Arashiyama Station, then 10-minute walk. Cannot be reasonably combined with Tagata Shrine on the same day."
+  },
+  {
+    "id": "fest-014",
+    "name": "淡嶋神社 雛流し",
+    "name_kana": "あわしまじんじゃ ひなながし",
+    "shrine": "淡嶋神社",
+    "category": "weird",
+    "prefecture": "和歌山県",
+    "city": "和歌山市加太",
+    "lat": 34.2727,
+    "lng": 135.058,
+    "date_pattern": "毎年3月3日固定",
+    "date_2026": "2026-03-03",
+    "date_2026_end": null,
+    "summary": "「ひな祭りの原点」とも呼ばれる神社で、雛人形を海に流す神事。全国から奉納された人形類が境内を埋め尽くす様子は異様な圧巻で、その数は万体を超える。人形に魂を移して厄を人形に持たせ、海に流すという「流し雛」の古来形式を現代に伝える。海上にずらりと並べられたお雛様が潮に乗って沖へ漂っていく幻想的かつ少し怖い光景は、国内外のメディアで「最も奇妙な雛祭り」として取り上げられる。境内の人形密度は「人形地獄」と呼ぶ人もいる。",
+    "highlights": [
+      "境内を埋め尽くす万体超の雛人形・ぬいぐるみの異様な光景",
+      "海に流された人形が潮に乗って沖へ消えていく場面",
+      "神職が「人形に宿った魂を海に還す」という儀式的厳粛さ"
+    ],
+    "origin": "人形の祖神・少彦名命を祀る社で、人形を海に流して人間の穢れを祓う流し雛の起源とされる。ひな祭り（上巳の節句）の原型とも言われる。",
+    "official_url": "https://www.kada.jp/awashima/",
+    "reference_urls": [
+      "https://omatsurijapan.com/blog/kisai_allseason/"
+    ],
+    "viewing_notes": "無料。南海加太線「加太駅」から徒歩10分。雛流しの神事は10:30〜。午前中の早い時間がベスト。",
+    "name_en": "Awashima Shrine Hina-nagashi (Doll Float Ceremony)",
+    "shrine_en": "Awashima Shrine",
+    "prefecture_en": "Wakayama Prefecture",
+    "city_en": "Wakayama City, Kada",
+    "date_pattern_en": "Annual, March 3rd",
+    "summary_en": "On March 3rd — Hinamatsuri, the Girls' Festival — most of Japan displays its Hina dolls on tiered shelves and eats tri-colored rice cakes. At Awashima Shrine in the fishing port of Kada, the dolls are carried to the sea and floated away. Awashima is the shrine to which Japanese families from across the country have donated unwanted Hina sets for generations: the resulting accumulation of dolls — tens of thousands of them — occupies every surface of the shrine precincts in a visual density that bypasses whimsy and enters the territory of the genuinely uncanny. On March 3rd, white-clad priests load the year's most recently donated dolls onto straw boats and push them into the sea in a ceremony that returns the dolls' accumulated feminine power and human memory to the divine realm. The image of a fleet of doll-laden boats moving slowly out into the harbor below a Wakayama winter sky is one of the most strikingly strange things the Japanese ritual calendar produces.",
+    "highlights_en": [
+      "Tens of thousands of Hina dolls covering every surface of the shrine grounds — an accumulation that transitions from charming to deeply uncanny at some point during the first minute of observation",
+      "The ceremonial flotilla of straw boats bearing dolls into the sea: folk ritual and visual poetry simultaneously",
+      "The shrine is the designated national destination for doll donations — the concentration of displaced maternal energy here has been building for generations"
+    ],
+    "origin_en": "Awashima Shrine venerates Sukunahikona-no-Mikoto, the deity of medicine and healing, who is associated with the protection of women's health. The practice of floating dolls (nagashi-bina) to remove human impurity was the original Hinamatsuri practice before the festival was domesticated into a display tradition.",
+    "viewing_notes_en": "Free. The flotilla ceremony begins at 10:30 AM. Nankai Kada Line \"Kada Station,\" then 10-minute walk. Morning arrival recommended."
+  },
+  {
+    "id": "fest-015",
+    "name": "大瀬まつり（内浦漁港祭）",
+    "name_kana": "おおせまつり",
+    "shrine": "大瀬神社",
+    "category": "weird",
+    "prefecture": "静岡県",
+    "city": "沼津市大瀬崎",
+    "lat": 35.0374,
+    "lng": 138.8341,
+    "date_pattern": "毎年4月4日固定",
+    "date_2026": "2026-04-04",
+    "date_2026_end": null,
+    "summary": "「天下の奇祭」とも呼ばれる大瀬神社の例祭。長襦袢をまとい顔を白塗りにした青年たちが踊り船に乗り、「チャンチャラオカシ」のお囃子に合わせて女装で「勇み踊り」を踊ること。踊り船が岸壁に着くと、船から海に向かって俵を投げ、男たちが海に飛び込んで拾い、神社に大漁を祈願する。漁師の男たちが女装して踊るという逆説的な祭りで、神社に向かう途中の海上踊りの優雅さと、海中飛び込みの荒々しさのギャップが面白い。早朝7:30スタート。",
+    "highlights": [
+      "屈強な漁師の男たちが白塗り女装で優雅に踊る衝撃のビジュアル",
+      "冷たい駿河湾に飛び込んで俵を拾う漁師たちのド根性",
+      "「チャンチャラオカシ」というとぼけたお囃子のBGM"
+    ],
+    "origin": "大瀬神社の祭神・引地大明神への感謝祭。女装踊りは「女神（女性的エネルギー）を体現することで豊漁を得る」という神秘的な信仰に由来するとされる。",
+    "official_url": null,
+    "reference_urls": [
+      "https://www.schooner-ami.com/osematuri2023/",
+      "https://newsdig.tbs.co.jp/articles/sbs/2578696"
+    ],
+    "viewing_notes": "無料。沼津駅から路線バスまたはタクシー（約40分）。早朝7:30スタートのため前泊推奨。",
+    "name_en": "Ōse Festival (Unoura Fishing Port Festival — Cross-Dressing Boat Dance)",
+    "shrine_en": "Ōse Shrine",
+    "prefecture_en": "Shizuoka Prefecture",
+    "city_en": "Numazu City",
+    "date_pattern_en": "Annual, April 4th",
+    "summary_en": "At the Unoura harbor in Numazu, a group of fishermen's sons arrives on April 4th in silk kimono, elaborate wigs, white-painted faces, and women's makeup — and proceeds to dance on a decorated boat while their vessel moves through the harbor to the accompaniment of \"Chanchara okashii\" (\"how ridiculous, how absurd\") festival music. The Ōse Festival's cross-dressing dance — called Isogi Odori (brave dancing) — is a fishing-community ceremony in which young men embody feminine deities to invoke their power in the service of the year's catch. At the ceremony's peak, the boat pulls alongside the quay and the dancers leap toward the crowd, which scrambles to receive the flowers and decorations distributed from the boat. The combination of elaborate female dress, genuine skill in boat-dancing performance, and the harbor's early-spring atmosphere creates an experience with a tonal complexity that resists simple categorization.",
+    "highlights_en": [
+      "Young fishermen in full feminine dress dancing on a harbor boat — ritual cross-dressing as divine embodiment in the Japanese fishing tradition",
+      "\"Chanchara okashii\" — the festival's own music calls its own ceremony ridiculous: a self-aware folk absurdism that makes the ceremony more rather than less interesting",
+      "The harbor's physical setting and the dance's genuine skill make this more than a curiosity — it is a fully realized ceremonial form"
+    ],
+    "origin_en": "The festival is an offering to the Ōse shrine's female deity (possibly Ichikishimahime-no-Mikoto), in whose honor male participants take on feminine form to become vessels for her energy — a tradition of male-to-female divine embodiment widespread in coastal Japan's historical fishing communities.",
+    "viewing_notes_en": "Free. The procession begins at approximately 7:30 AM; advance arrival and accommodation in Numazu recommended. Numazu Station provides access, with taxis or buses to the harbor area."
+  },
+  {
+    "id": "fest-016",
+    "name": "やすらい祭（玄武神社）",
+    "name_kana": "やすらいまつり",
+    "shrine": "玄武神社（今宮神社・上賀茂神社でも実施）",
+    "category": "weird",
+    "prefecture": "京都府",
+    "city": "京都市北区",
+    "lat": 35.0399,
+    "lng": 135.7483,
+    "date_pattern": "毎年4月第2日曜日",
+    "date_2026": "2026-04-12",
+    "date_2026_end": null,
+    "summary": "国の重要無形民俗文化財。京都三大奇祭のひとつ（鞍馬の火祭・牛祭とともに）。春の桜が散り始める4月の第2日曜日、赤・白・黄の鬼の面をつけた者たちが太鼓と鉦を打ち鳴らし、花傘を差し掛けながら町を練り歩く祭り。疫神は花の精に煽られてイタズラを行うと信じられ、花傘の中に疫神を誘い込んで封じ込める儀式。「花傘の中に入ると1年間無病息災」とされ、赤ちゃんを抱えた親も積極的に参加。異形の鬼が赤子に接近する場面は奇妙さの極み。",
+    "highlights": [
+      "鬼の面をつけた者が赤ちゃんを抱いた親に近づく異様な光景",
+      "派手な花傘と鬼の組み合わせが強烈なビジュアル",
+      "「疫神を花傘に誘い込む」という独特の除厄メカニズム"
+    ],
+    "origin": "平安時代、春に花が散る頃に疫病が流行した。疫神が花の精に誘われてイタズラすると信じられ、鎮花祭として始まった。「やすらい」は「安らかに鎮まれ」という意味。",
+    "official_url": "http://yasurai.org/service.html",
+    "reference_urls": [
+      "https://kyototravel.info/sandaikisai"
+    ],
+    "viewing_notes": "無料。地下鉄烏丸線「鞍馬口」駅から徒歩5分。今宮神社・上賀茂神社でも同日に類似の神事が行われる。",
+    "name_en": "Yasurai Festival (Genmushrine — Plague-Spirit Pacification)",
+    "shrine_en": "Genbu Shrine (also Imamiya Shrine and Kawara-machi Shrine)",
+    "prefecture_en": "Kyōto Prefecture",
+    "city_en": "Kyōto City, Kita Ward",
+    "date_pattern_en": "Annual, second Sunday of April",
+    "summary_en": "One of Kyōto's Three Great Bizarre Festivals, the Yasurai Festival takes place on the second Sunday of April — precisely the moment when the cherry blossoms are at their most restless, petals detaching and beginning to drift. In the original logic of the ceremony, this drifting was dangerous: the spirits of illness (疫神 — yamai-gami) were understood to ride on the floating blossoms, spreading sickness wherever the petals fell. The Yasurai Festival is the ceremony of persuading those spirits to stay — to settle, to be still, to remain within the flower umbrellas that are raised above the procession. The procession itself is led by figures in red, white, and yellow oni masks, carrying flower-decorated parasols and making a noise specifically designed to attract the illness spirits into the umbrella's shelter, where they can be safely contained. Passing under the flower umbrella is the ceremony's primary act of participation — sheltering under the same parasol as the captured spirits is the mechanism of protection.",
+    "highlights_en": [
+      "Oni-masked figures lead a procession specifically designed to attract illness demons and trap them inside flower umbrellas — a containment ceremony conducted at cherry-blossom dispersal",
+      "\"Yasurai\" means \"rest, be still\": the ceremony is a direct address to spirits that the falling petals are understood to carry",
+      "Passing under the flower umbrella — deliberately sheltering with the captured illness spirits — is the protection mechanism: an ancient folk logic worth understanding"
+    ],
+    "origin_en": "The ceremony dates to the Heian Period, when spring epidemics were attributed to malicious spirits riding on the season's dispersing flowers. \"Yasurai\" (やすらい) is the imperative form of \"yasurau\" — to rest, to be still — a direct command addressed to the illness spirits.",
+    "viewing_notes_en": "Free. Nearest station: Kuramaguchi on the Karasuma Subway Line (5-minute walk). Similar ceremonies occur simultaneously at Imamiya Shrine and Kamigamo Shrine."
+  },
+  {
+    "id": "fest-017",
+    "name": "手力の火祭り（手力雄神社）",
+    "name_kana": "てぢからのひまつり",
+    "shrine": "手力雄神社",
+    "category": "fire",
+    "prefecture": "岐阜県",
+    "city": "岐阜市",
+    "lat": 35.4112,
+    "lng": 136.7592,
+    "date_pattern": "毎年4月第2土曜日",
+    "date_2026": "2026-04-11",
+    "date_2026_end": null,
+    "summary": "岐阜県重要無形民俗文化財。夜の神社境内に数千本の仕掛け花火が炸裂し、神輿の周りを火の粉が舞いまくる「生きた火祭り」。花火師が手に火の輪（火花を散らす回転装置）を持って舞い、火柱が次々と上がる。「火の滝」「竜の昇り」など多彩な演出が境内を埋め尽くし、観客との距離は数メートルという大迫力。参加者が実際に火の粉を浴びる体験ができる全国でも稀な火祭り。約6,000人が集まり、岐阜市内最大の春の祭り。",
+    "highlights": [
+      "神輿と花火師が渾然一体となって火花・火柱を演出",
+      "観客のすぐそばで火の粉が舞う「体験型火祭り」",
+      "「火の滝」演出時の轟音と熱気"
+    ],
+    "origin": "天照大神が天岩戸に隠れた際、天手力男命（アメノタヂカラオ）が岩戸を開いたという神話に由来。その力強さを火で表現したとされる。",
+    "official_url": "https://gifu.goguynet.jp/2026/04/10/tejikarao-2/",
+    "reference_urls": [
+      "https://sorahanabi.com/gifu/gifushi/tejikaranohimatsuri.html"
+    ],
+    "viewing_notes": "無料。JR岐阜駅から車で約15分。火の粉が飛んでくるため化学繊維の服は避けること。",
+    "name_en": "Teryoku Fire Festival (Teryoku-o Shrine)",
+    "shrine_en": "Teryoku-o Shrine",
+    "prefecture_en": "Gifu Prefecture",
+    "city_en": "Kakamigahara City",
+    "date_pattern_en": "Annual, third Saturday of April",
+    "summary_en": "On the third Saturday of April at Teryoku-o Shrine, the grounds are converted into a fire-engineering spectacle that operates at the boundary between Shinto ceremony and industrial pyrotechnics. Thousands of handheld firework devices — hi no wa (fire wheels), fixed-frame fireworks, and cascading fire fountains — are detonated simultaneously while participants carry the mikoshi portable shrine through a space where fire is falling, spinning, and erupting in every direction. The ceremony is designated an Important Intangible Folk Cultural Property by Gifu Prefecture, which implies an official recognition that what looks, from a safety standpoint, like a recipe for catastrophe is actually a precisely controlled traditional technology. \"Waterfall of fire\" and \"tunnel of fire\" are the event's descriptive landmarks; the shrine's mythology connects to Ame-no-Tajikarao, the god who opened the cave where Amaterasu had hidden, whose strength is represented by the ceremony's controlled explosion.",
+    "highlights_en": [
+      "A Shinto portable shrine carried through a space of simultaneously detonating handheld fireworks — fire as religious medium at its most spectacular",
+      "\"Waterfall of fire\" and \"tunnel of fire\" are not metaphors but the ceremony's designated stations: architectural fireworks at point-blank range",
+      "Designated an Important Intangible Folk Cultural Property — official recognition that this is a controlled tradition, not an accident waiting to happen"
+    ],
+    "origin_en": "The ceremony represents the mythological force of Ame-no-Tajikarao (Hand-Strength Male Deity), who hurled open the Ama-no-Iwato cave to release Amaterasu from her exile. The fire expresses that deity's overwhelming physical power.",
+    "viewing_notes_en": "Free. Approximately 15 minutes by car from JR Gifu Station. Avoid synthetic fabrics — fire particles will land on clothing."
+  },
+  {
+    "id": "fest-018",
+    "name": "長浜曳山まつり（子ども歌舞伎）",
+    "name_kana": "ながはまひきやままつり こどもかぶき",
+    "shrine": "長浜八幡宮・豊国神社",
+    "category": "other",
+    "prefecture": "滋賀県",
+    "city": "長浜市",
+    "lat": 35.3788,
+    "lng": 136.2731,
+    "date_pattern": "毎年4月13〜16日",
+    "date_2026": "2026-04-13",
+    "date_2026_end": "2026-04-16",
+    "summary": "ユネスコ無形文化遺産・国重要無形民俗文化財。豪華絢爛な山車（曳山）の上で5〜12歳の男の子が成人顔負けの歌舞伎を演じる「子ども歌舞伎」が見どころ。13基の曳山のうち毎年4基が「出番山」として選ばれ、子役たちが数ヶ月の稽古の成果を披露。本格的な義太夫・三味線伴奏つきで演じられる歌舞伎は大人顔負けの完成度。4月13日夜には「裸参り」（白装束で水をかぶりながら参拝する男の奉仕）も行われる。",
+    "highlights": [
+      "幼い子どもたちが凄まじい集中力で歌舞伎を演じる本格さ",
+      "豪華装飾の曳山の上が舞台という絵のような光景",
+      "400年以上続く「男子の成長儀礼」としての側面"
+    ],
+    "origin": "豊臣秀吉が長浜城主時代に長男・鶴松誕生を喜んで町民に砂金を与えたことに由来するとされる（16世紀）。曳山の購入・子ども歌舞伎の開始は17〜18世紀。",
+    "official_url": "https://nagahama-hikiyama.or.jp/",
+    "reference_urls": [
+      "https://ekitan.com/event/evid-e033f6be7c33259ef1d2eb89ad2f1506"
+    ],
+    "viewing_notes": "曳山の観覧は無料（舞台脇の特設席は有料の場合あり）。JR長浜駅から徒歩10分。宿泊は数ヶ月前から予約必須。",
+    "name_en": "Nagahama Hikiyama Festival (Children's Kabuki)",
+    "shrine_en": "Nagahama Hachimangu Shrine",
+    "prefecture_en": "Shiga Prefecture",
+    "city_en": "Nagahama City",
+    "date_pattern_en": "Annual, April 13th–16th",
+    "summary_en": "The Nagahama Hikiyama Festival is a UNESCO Intangible Cultural Heritage and National Important Intangible Folk Cultural Property whose central attraction is almost certainly the most technically demanding child performance tradition in the world: boys aged 5 to 12 performing full classical Kabuki theater — with costumes, makeup, wigs, stylized vocalization, and precisely choreographed movement — on elaborately decorated floats pulled through the streets of Nagahama. Of the city's 13 hikiyama (festival floats), four are selected each year as the onstage venues, and their young performers train for months to deliver performances that, by every objective account, rival professional adult Kabuki in execution. The floats themselves are extraordinary objects of decorative craft — embroidered with Chinese brocades, carved with lacquered figures, hung with seasonal flowers — and the combination of these extraordinary stages with the extraordinary performers on them creates an experience with nothing comparable in the Japanese festival calendar.",
+    "highlights_en": [
+      "Children aged 5–12 performing classical Kabuki at professional standard: the most technically extraordinary child performance tradition in Japan",
+      "Thirteen hikiyama floats are objects of decorative art in their own right — Chinese brocade, lacquer carving, seasonal flowers — functioning as both parade vehicles and theatrical stages",
+      "Accommodation must be booked months in advance: the festival's reputation within Japan ensures full capacity across the region"
+    ],
+    "origin_en": "The festival is said to have originated when the feudal lord Toyotomi Hideyoshi distributed gold dust to the townspeople of Nagahama in 1575 to celebrate the birth of his son. The townspeople purchased floats and began performing on them; the children's Kabuki tradition developed through the 17th and 18th centuries.",
+    "viewing_notes_en": "Float viewing is free (premium stage-side seating may be charged). JR Nagahama Station, 10-minute walk. Accommodation should be booked months in advance."
+  },
+  {
+    "id": "fest-019",
+    "name": "古川祭 起し太鼓",
+    "name_kana": "ふるかわまつり おこしだいこ",
+    "shrine": "気多若宮神社",
+    "category": "weird",
+    "prefecture": "岐阜県",
+    "city": "飛騨市古川町",
+    "lat": 36.2288,
+    "lng": 137.198,
+    "date_pattern": "毎年4月19〜20日固定",
+    "date_2026": "2026-04-19",
+    "date_2026_end": "2026-04-20",
+    "summary": "ユネスコ無形文化遺産（「山・鉾・屋台行事」の一部）。4月19日夜20:30頃から始まる「起し太鼓」がクライマックス。大太鼓を載せた大きな櫓（やぐら）を数十人が担ぎ、町を練り歩く。付け太鼓の集団（各町の若者）が次々と飛びかかって「俺の太鼓を叩かせろ」と割り込む激しい「付け合い」が行われ、深夜まで続く。喧嘩祭りの要素があり、怪我も絶えないハードな神事。翌20日は9台の豪華屋台が勢揃いする「屋台曳き揃え」とからくり奉納も。",
+    "highlights": [
+      "男たちが大太鼓の櫓に殺到してもみ合う深夜の混沌",
+      "「付け合い」で負傷しても誰も止めない本気の祭り文化",
+      "翌日の屋台曳き揃えの優雅さとの落差が極端"
+    ],
+    "origin": "気多若宮神社の春祭りとして江戸時代初期に始まる。起し太鼓は「お前を起こしに来た（氏神を目覚めさせる）」という意味で、各町が競って神を起こすことで始まったとされる。",
+    "official_url": "https://the-guild.jp/hidafurukawa/",
+    "reference_urls": [
+      "https://senkyo-news.jp/okoshi-taiko/"
+    ],
+    "viewing_notes": "無料。JR高山線「飛騨古川駅」から徒歩5分。亀山から約3〜4時間（遠方）。前泊または高山との組み合わせ推奨。",
+    "name_en": "Furukawa Festival — Okoshi Daiko (Rousing Drum)",
+    "shrine_en": "Ketawakamiya Shrine",
+    "prefecture_en": "Gifu Prefecture",
+    "city_en": "Hida City",
+    "date_pattern_en": "Annual, April 19th–20th",
+    "summary_en": "In the preserved Edo-Period townscape of Hida Furukawa — a smaller, quieter neighbor to Takayama — the spring festival of Ketawakamiya Shrine is structured around a night ceremony that prioritizes collision over ceremony in a way that makes it unique among Japan's UNESCO-listed festival traditions. Beginning at approximately 8:30 PM on April 19th, a large oak yagura (drum tower) bearing a great taiko is shouldered by dozens of men and carried through the town's narrow streets while teams from each neighborhood attempt to physically wrestle it away from the carriers. The confrontations — the \"tsukedaiko\" encounters — are not theatrical but genuine: men are pushed, fall, collect themselves, and charge again, all in the narrow darkness of a historic street while the great drum continues to beat above the melee. The festival is simultaneously a UNESCO Intangible Cultural Heritage and the only festival in that category where physical injury is effectively a standard component of the experience.",
+    "highlights_en": [
+      "A UNESCO-listed festival that involves genuine physical confrontation: the \"tsukedaiko\" encounters between neighborhood teams are not staged",
+      "The drum tower that serves as the festival's sacred object doubles as a mobile site of ritual combat: percussion and collision as devotion",
+      "The Hida Furukawa preserved townscape provides an architectural context for the night battle that no modern festival ground could approximate"
+    ],
+    "origin_en": "The Okoshi Daiko originates in the Edo Period as a way of \"rousing\" the tutelary deity (ujigami) from winter sleep — the great drum's sound waking the god for the agricultural season. The competitive element emerged as neighborhood teams vied to be the group that made the first contact with the sacred drum.",
+    "viewing_notes_en": "Free. JR Takayama Line \"Hida Furukawa Station,\" 5-minute walk. Accessible from Takayama but distance from Kameyama (3–4 hours) makes it a trip requiring advance planning."
+  },
+  {
+    "id": "fest-020",
+    "name": "春の高山祭（山王祭）",
+    "name_kana": "はるのたかやままつり さんのうさい",
+    "shrine": "日枝神社",
+    "category": "other",
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "lat": 36.1493,
+    "lng": 137.2519,
+    "date_pattern": "毎年4月14〜15日固定",
+    "date_2026": "2026-04-14",
+    "date_2026_end": "2026-04-15",
+    "summary": "日本三大美祭のひとつ・ユネスコ無形文化遺産。江戸時代の豪壮な屋台（山車）12台が勢揃いする「屋台曳き揃え」、人形がまるで生きているように動く「からくり奉納」、数百人の時代装束行列「御巡幸」が同日に見られる豪華祭り。特に4月14日夜の「夜祭り」（18:00〜21:00頃）は、100個もの提灯を灯した屋台が闇の中を進む幻想的な光景が最大の見どころ。「動く陽明門」とも形容される。",
+    "highlights": [
+      "100個の提灯を揺らして夜道を進む屋台の幻想美",
+      "からくり人形の精巧な動きと半信半疑になる本物感",
+      "江戸時代そのままの装束で行われる2,000人超の時代行列"
+    ],
+    "origin": "江戸時代中期（17世紀後半）から形成された日枝神社の春祭り。高山藩主が花を愛したことから豪華な屋台文化が発達したとされる。",
+    "official_url": "https://www.kankou-gifu.jp/event/detail_8488.html",
+    "reference_urls": [
+      "https://gifu-travelguide.com/uncategorized/2026springtakayamamatsuri/"
+    ],
+    "viewing_notes": "観覧無料（一部有料観覧席あり）。JR高山駅から徒歩15分。宿泊は最低3ヶ月前の予約を推奨。",
+    "name_en": "Spring Takayama Festival (Sannō Matsuri)",
+    "shrine_en": "Hie Shrine (Sakurayama Hachiman Shrine for autumn)",
+    "prefecture_en": "Gifu Prefecture",
+    "city_en": "Takayama City",
+    "date_pattern_en": "Annual, April 14th–15th",
+    "summary_en": "The Takayama Matsuri is one of Japan's Three Great Beautiful Festivals (alongside Kyōto's Gion Festival and Chichibu Yomatsuri) and a UNESCO Intangible Cultural Heritage. The spring version (Sannō Matsuri) on April 14th–15th deploys 12 hikiyama festival floats — elaborate multi-story constructions decorated with fine lacquer, gold leaf, and intricate carvings, representing the apex of Edo Period decorative craft — through the historic merchant district of Takayama. The floats serve as stages for Karakuri Ningyo automata performances: mechanical puppets executing precisely choreographed acts driven by clockwork mechanisms concealed within the float bodies. The spring festival's most famous Karakuri is the \"Shakkyo\" lion act on the Kinryū-tai float, in which three puppets perform a sophisticated routine of coordinated movement that 18th century artisans spent years perfecting. At night, the floats are lit with 100 paper lanterns each and drawn through the dark streets in a procession that operates at an entirely different aesthetic register from the daytime ceremony.",
+    "highlights_en": [
+      "Twelve Edo-Period festival floats carrying mechanical puppet theaters — the most sophisticated parade-float puppet tradition in Japan",
+      "The night procession of 100-lantern-lit floats through Takayama's preserved historic district: a visual experience that justifies the entire journey",
+      "Book accommodation three months in advance — the festival's international fame fills every room in the region"
+    ],
+    "origin_en": "The Sannō Matsuri developed in the late 17th century during the era of the Kanamori clan's rule of the Hida domain. The elaborateness of the floats reflects the prosperity of Hida's timber and carpentry industry, which produced artisans capable of executing the decorative ambitions of wealthy merchants.",
+    "viewing_notes_en": "Observation of float processions is free (some premium viewing seats available). JR Takayama Station from Nagoya (2 hours). Accommodation must be booked months ahead."
+  },
+  {
+    "id": "fest-021",
+    "name": "多度大社 上げ馬神事（多度祭）",
+    "name_kana": "たどたいしゃ あげうましんじ",
+    "shrine": "多度大社",
+    "category": "animal",
+    "prefecture": "三重県",
+    "city": "桑名市多度町",
+    "lat": 35.0702,
+    "lng": 136.617,
+    "date_pattern": "毎年5月4〜5日固定",
+    "date_2026": "2026-05-04",
+    "date_2026_end": "2026-05-05",
+    "summary": "三重県を代表する歴史ある神事で、馬が急傾斜の坂（高さ約2m・傾斜40度）を一気に駆け上がる「上げ馬神事」が最大の見どころ。馬が坂の頂上を超えた回数でその年の農作物の豊凶を占う。近年、馬への動物福祉の観点から問題が指摘され（2023年に馬が骨折する事故あり）、2024年以降は改善措置を取りながら継続されている。騎手（乗子）は若者から選ばれ、白装束で神馬を駆る。5月4日はお神輿も出て、20万人の人出を誇る三重最大の祭りのひとつ。",
+    "highlights": [
+      "馬が急坂を一気に駆け上がる瞬間の迫力と緊張感",
+      "「何度越えたか」で豊作・凶作が決まるという占い神事",
+      "動物福祉問題で揺れる現代との葛藤（歴史vs倫理）"
+    ],
+    "origin": "奈良時代から続くとされる神事。多度大神が白馬に乗って天上から降臨したという伝承に基づき、馬を神の乗り物として奉納するようになったとされる。",
+    "official_url": "https://senkyo-news.jp/tado-matsuri/",
+    "reference_urls": [
+      "https://www.sokaijoba.com/matsurishinji/2383/"
+    ],
+    "viewing_notes": "入場無料（駐車場あり・無料）。近鉄養老線「多度駅」から徒歩20分。亀山市から約30分（最寄り祭り）。",
+    "name_en": "Tado Taisha Age-Uma Shinji (Horse-Climbing Ritual, Tado Festival)",
+    "shrine_en": "Tado Taisha Shrine",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Kuwana City",
+    "date_pattern_en": "Annual, May 4th–5th",
+    "summary_en": "On May 4th and 5th, at the foot of a 2-meter earthen ramp with a 40-degree incline, young men on horseback attempt to drive their horses up the slope in a single burst of speed. The horses that crest the top — and not all do — are read as divine oracles: the number of successful ascents, and which horses succeed, constitutes a forecast of the year's agricultural prosperity. This Age-Uma Shinji has been performed at Tado Taisha since the Nara Period and is one of Mie Prefecture's most significant shrine ceremonies, designated a Prefecture Intangible Cultural Property. In recent years, the ceremony has been subject to animal welfare concerns following injuries to horses on the steep ramp, resulting in public debate about the conditions under which traditional practices should be maintained and adapted. That debate — between cultural continuity and contemporary ethical standards — is itself a document of how Japan is navigating the pressure on living folk traditions.",
+    "highlights_en": [
+      "Horses climbing a 40-degree earthen ramp as divine oracles — one of Japan's most physically dramatic festival divination practices",
+      "The Nara Period tradition is currently the subject of national animal welfare debate: a living ceremony confronting the ethical standards of a changed society",
+      "Tado Taisha is Mie's most accessible major festival, 30 minutes from Kameyama — a short journey to one of the region's most historically dense ceremonies"
+    ],
+    "origin_en": "The ceremony derives from the tradition that the Tado deity descended from heaven on a white horse. Horses have been offered as living vehicles for the deity's annual descent since the Nara Period, with the ramp ascent as the divine test of which horse the deity has chosen.",
+    "viewing_notes_en": "Free (parking available). Kintetsu Yōrō Line \"Tado Station,\" 20-minute walk. Approximately 30 minutes from Kameyama by car."
+  },
+  {
+    "id": "fest-022",
+    "name": "伊雑宮 御田植祭（磯部の御神田）",
+    "name_kana": "いざわのみや おたうえまつり",
+    "shrine": "伊雑宮（伊勢神宮内宮の別宮）",
+    "category": "weird",
+    "prefecture": "三重県",
+    "city": "志摩市阿児町磯部",
+    "lat": 34.329,
+    "lng": 136.7218,
+    "date_pattern": "5月初旬〜前儀（苗代祭等）、本祭（竹取神事・早乙女田植）毎年6月24日固定",
+    "date_2026": "2026-05-01",
+    "date_2026_end": "2026-06-24",
+    "summary": "日本三大御田植祭のひとつ（香取・住吉大社と並ぶ）。国の重要無形民俗文化財。早乙女（さおとめ）による手植えと並行して、「忍び男」と呼ばれる裸の男たちが田んぼに突進し、泥まみれになりながら竹の串（御幣竹）を奪い合う神事がある。この「竹取り」が奇祭要素で、竹を取った者はその年の豊作と幸福が約束されるとされる。優雅な早乙女の田植えと泥だらけの男たちの対比が祭りの白眉。伊雑宮（伊勢神宮内宮の別宮）という聖地での開催。",
+    "highlights": [
+      "裸の男たちが田んぼで泥まみれになりながら竹を奪い合う",
+      "優雅な早乙女の田植えと真逆のカオス",
+      "日本三大御田植祭の一つとして国が認める格式"
+    ],
+    "origin": "伊勢神宮の食を担う田として、奈良時代以前から続くとされる。「神のための田に神的エネルギー（男性の力）を注ぎ込む」という古代農耕信仰の表れ。",
+    "official_url": "https://senkyo-news.jp/otaue-matsuri/",
+    "reference_urls": [
+      "https://www.walkerplus.com/event/ar0624e548596/"
+    ],
+    "viewing_notes": "無料。近鉄「上之郷駅」から徒歩5分。6月24日は平日の場合あり（2026年は水曜）。有休取得推奨。",
+    "name_en": "Izawanomiya Otaue-e (Sacred Rice-Planting Ceremony)",
+    "shrine_en": "Izawanomiya Shrine (Ise Jingū Geku subsidiary)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Shima City, Isobe Town",
+    "date_pattern_en": "Annual, June 24th",
+    "summary_en": "One of Japan's Three Great Sacred Rice-Planting Ceremonies (alongside those at Katori Shrine and Sumiyoshi Taisha), the Izawanomiya Otaue-e is a National Important Intangible Folk Cultural Property conducted on the shrine's dedicated sacred rice paddies. Young women (saotome) plant rice seedlings in the ancient hand-transplanting method while, simultaneously, a group of men called the Shinobi-otoko — naked or near-naked, their bodies representing the raw fertility force of the male principle — rush into the paddy and seize the bamboo poles bearing the sacred offerings, wrestling with each other in mud that deepens as the ritual progresses. The ceremony's logic is straightforward within ancient Japanese agricultural religion: the women provide the technical skill of cultivation; the men provide the wild energy of fertility; the combination, enacted in the presence of the shrine's deity, consecrates the season's planting. Izawanomiya is a subsidiary shrine of the Grand Shrine of Ise, giving the ceremony an unusually elevated theological context.",
+    "highlights_en": [
+      "Near-naked men wrestling for sacred bamboo poles in a sacred mud paddy while women plant rice seedlings: ancient Japanese agricultural cosmology at full visible expression",
+      "The ceremony is subsidiary to Ise Jingū itself — a rare access point to the Grand Shrine's agricultural ritual tradition",
+      "June 24th sometimes falls on a weekday — plan accordingly, as the ceremony does not adjust its calendar for tourist convenience"
+    ],
+    "origin_en": "Izawanomiya has served as the deity-feeding rice paddy for the Grand Shrine of Ise since before reliable historical records; references to the ceremony appear in documentation from the late Nara Period. The ceremony represents the oldest stratum of Japanese state Shinto agriculture.",
+    "viewing_notes_en": "Free. Kintetsu \"Kami-no-Gō Station,\" 5-minute walk. June 24th is frequently a weekday (Wednesday in 2026) — taking time off work is recommended."
+  },
+  {
+    "id": "fest-023",
+    "name": "鍋冠祭（なべかぶりまつり）",
+    "name_kana": "なべかぶりまつり",
+    "shrine": "大族屋姫神社（式内社）",
+    "category": "weird",
+    "prefecture": "滋賀県",
+    "city": "東近江市",
+    "lat": 35.1166,
+    "lng": 136.2093,
+    "date_pattern": "毎年5月初旬（連休頃）※詳細は地元に要確認",
+    "date_2026": "2026-05-03",
+    "date_2026_end": null,
+    "summary": "日本でも特に珍しい「鍋を頭に被る」という奇習を持つ滋賀の神事。地域の男たちが土鍋（または鉄鍋）を頭に被った状態で神社を参拝する。鍋を被ることで「頭（脳）を守る」または「邪気を鍋で受け止める」という呪術的意味があるとされる。小規模な地域祭礼だが、その視覚的奇妙さは全国の奇祭リストに必ず登場する。近江平野の農村文化の中に残る独特の風習として民俗学的に高い価値を持つ。",
+    "highlights": [
+      "鍋を頭に被って参拝するという謎の神事",
+      "「なぜ鍋なのか」誰も明確に説明できない民俗の謎",
+      "地域コミュニティの中にひっそりと生き続ける奇習"
+    ],
+    "origin": "農耕期の厄除けとして土鍋に厄を受け止めさせる「もの避け」の信仰に由来するとされる。",
+    "official_url": null,
+    "reference_urls": [
+      "https://omatsurijapan.com/blog/kisai-47/"
+    ],
+    "viewing_notes": "詳細日程は地元に要確認。小規模な地域神事のため飛び込み参加には地元への事前連絡推奨。",
+    "name_en": "Nabekaburi Festival (Pot-on-Head Festival)",
+    "shrine_en": "Local shrine, Shiga Prefecture",
+    "prefecture_en": "Shiga Prefecture",
+    "city_en": "Shiga Prefecture (precise location varies)",
+    "date_pattern_en": "Annual (date varies; check locally)",
+    "summary_en": "Somewhere in the rural reaches of Shiga Prefecture, men arrive at a shrine with ceramic cooking pots balanced on their heads, proceed to conduct their prayers and offerings in this configuration, and then go home. The Nabekaburi Matsuri is the kind of small-scale folk ceremony that exists at the absolute margins of Japan's ritual documentation — too local for national media coverage, too consistent to be called an anomaly — and its logic, while peculiar to outside eyes, sits within a recognizable tradition of Japanese apotropaic (evil-repelling) practice in which physical objects placed on or around the head intercept malicious influences. The pot receives what the head should not. Whether this makes practical sense matters less than the fact that it has been enacted with apparent sincerity for a very long time by people who found it useful.",
+    "highlights_en": [
+      "Men attending a Shinto ceremony with ceramic cooking pots balanced on their heads — a ritual specificity that does not explain itself and does not need to",
+      "One of Japan's most persistently local folk ceremonies: too small to be famous, too particular to be forgotten",
+      "The apotropaic logic (the pot intercepts evil directed at the head) connects to a widespread tradition in Japanese folk religion that is rarely expressed this literally"
+    ],
+    "origin_en": "The ceremony derives from agricultural apotropaic (evil-averting) practice in which the cooking pot — a domestic symbol of sustenance — was used to shield the head from malicious field spirits during planting season.",
+    "viewing_notes_en": "Schedule requires local verification. A small, locally organized ceremony; advance inquiry with local authorities or the shrine itself is strongly recommended. Kintetsu \"Hino Station\" provides access with taxi required."
+  },
+  {
+    "id": "fest-024",
+    "name": "熊野那智大社 那智の扇祭り（那智の火祭）",
+    "name_kana": "くまのなちたいしゃ なちのおうぎまつり",
+    "shrine": "熊野那智大社",
+    "category": "fire",
+    "prefecture": "和歌山県",
+    "city": "東牟婁郡那智勝浦町",
+    "lat": 33.8608,
+    "lng": 135.8856,
+    "date_pattern": "毎年7月14日固定",
+    "date_2026": "2026-07-14",
+    "date_2026_end": null,
+    "summary": "国指定重要無形民俗文化財。熊野那智大社の例祭で「那智の火祭」とも呼ばれる。12体の扇神輿（高さ1.5m・直径1mの巨大な扇形）に神霊を遷し、那智の滝参道を渡御する神事。クライマックスは滝前の石段での「御火行事」：重さ約50kgの大松明12本が石段を練り歩き、火焔で扇神輿を浄める場面。松明から降り注ぐ火の粉が滝しぶきと交わる光景は、国内最高レベルの幻想美。日本最大落差133mの那智の滝を背景にした大松明の行列は何枚撮っても絵になる。",
+    "highlights": [
+      "50kgの大松明12本が石段を進む圧倒的な炎の行列",
+      "那智の滝（133m）を背景にした火祭りという唯一無二の絵",
+      "火の粉と滝のミスト（水しぶき）が混在する異次元の空間"
+    ],
+    "origin": "熊野権現の御神霊を年に一度、那智の滝（御神体）のもとへ還す神事。火は霊力の象徴であり、御神霊を浄化・再生させる意味を持つ。",
+    "official_url": "https://kumanonachitaisha.or.jp/event/fan/",
+    "reference_urls": [
+      "https://www.iwafu.com/jp/events/1017608"
+    ],
+    "viewing_notes": "無料（境内自由）。那智勝浦バス停から路線バスで「那智の滝前」下車。7月14日は平日の場合あり（2026年は火曜）。宿泊要。",
+    "name_en": "Nachi no Hifuri Shinji (Kumano Nachi Fire Festival)",
+    "shrine_en": "Kumano Nachi Taisha Shrine",
+    "prefecture_en": "Wakayama Prefecture",
+    "city_en": "Nachikatsuura Town, Higashimuro District",
+    "date_pattern_en": "Annual, July 14th",
+    "summary_en": "On July 14th at Kumano Nachi Taisha — the Kumano shrine whose resident deity is the Nachi Falls itself — twelve fan-shaped portable shrines (Ōgi-mikoshi) representing the twelve months of the year are carried from the main hall down the stone steps toward the base of the falls, each float accompanying a massive pine torch weighing roughly 50 kilograms and standing 6 meters tall. At the stone steps before the falls, the torches are rotated to represent the circular movement of the seasons, their flame and smoke mixing with the waterfall's mist in a combination of elemental forces whose visual intensity is difficult to overstate. This ceremony is the annual reunion of the falls deity with its main shrine — the god returning to its original form — and the torches' fire and rotation express the purification and renewal of divine energy that the reunion accomplishes. The backdrop of the 133-meter Nachi Falls behind the ceremony gives the entire event a scale that few festivals in Japan can approximate.",
+    "highlights_en": [
+      "Twelve 6-meter pine torches rotated before a 133-meter sacred waterfall — a fire ceremony conducted at the foot of Japan's most powerful divine presence",
+      "The Ōgi-mikoshi fan-shaped portable shrines represent the twelve months returning to the deity's original body: time itself being reunited with its source",
+      "July 14th is frequently a weekday — the ceremony does not accommodate its calendar to visitors, which gives it an uncommercial authenticity"
+    ],
+    "origin_en": "The Hifuri Shinji is the annual restoration of the Nachi Falls deity to its sacred form — the divine energy of the falls, which has been distributed across the twelve monthly shrines during the year, is reconcentrated at the falls on July 14th through the ceremonial torches' fire.",
+    "viewing_notes_en": "Free. Bus from Nachikatsuura Station to \"Nachi-no-taki-mae\" stop. July 14th is often a weekday (Tuesday in 2026); accommodation in Nachikatsuura required."
+  },
+  {
+    "id": "fest-025",
+    "name": "豊浜鯛まつり",
+    "name_kana": "とよはまたいまつり",
+    "shrine": "豊浜海岸（豊浜地区）",
+    "category": "animal",
+    "prefecture": "愛知県",
+    "city": "知多郡南知多町",
+    "lat": 34.707,
+    "lng": 136.9,
+    "date_pattern": "毎年7月最終日曜日前後",
+    "date_2026": "2026-07-26",
+    "date_2026_end": null,
+    "summary": "「天下の奇祭」。高さ10〜18m・重さ1トンを超す竹と木の骨組みに白木綿を巻いて作った巨大な鯛（大小5匹）を若者たちが担いで町内を練り歩き、最後に海に入る。「トコヤー、トコセー」の威勢よい掛け声とともに、数百キロの巨大鯛が波間に没していく光景は圧巻。漁業の町・豊浜の海の恵みへの感謝と豊漁祈願が込められる。前夜の花火大会とセットで行われ、2日間で多くの見物客を集める。",
+    "highlights": [
+      "高さ18mにもなる超巨大な白い鯛が海に入っていく場面",
+      "「トコヤー！」の掛け声と太鼓のリズムが独特",
+      "前夜花火大会との2日間フルパッケージ"
+    ],
+    "origin": "江戸時代初期に始まったとされる漁師の祭り。鯛を神の使いとして海（神域）へ送り返すことで豊漁を祈願する。",
+    "official_url": null,
+    "reference_urls": [
+      "https://summer.walkerplus.com/odekake/detail_e/ar0623e74966/data.html"
+    ],
+    "viewing_notes": "無料。名鉄河和線「河和駅」から海っ子バス「豊浜港・魚ひろば」下車。",
+    "name_en": "Toyohama Tai Festival (Giant Sea Bream Parade)",
+    "shrine_en": "Local shrine, Minami-Chita area",
+    "prefecture_en": "Aichi Prefecture",
+    "city_en": "Minamichita Town, Chita District",
+    "date_pattern_en": "Annual, late July (check locally)",
+    "summary_en": "In the fishing town of Toyohama on the Chita Peninsula, the most spectacular parade object in the local summer festival is not a drum tower, not a flaming torch installation, and not a decorated float — it is a sea bream. Specifically, it is a bamboo-and-wood construction covered in white silk representing a sea bream 10 to 18 meters tall and weighing over one ton, carried through the streets by teams of young men who must coordinate the motion of an enormous sculpted fish through narrow coastal lanes. There are five such fish of varying sizes, and their procession — accompanied by the chant \"Tokoya, Toko-se!\" — culminates in the fish being carried into the sea, their return to the divine ocean completing the ceremony's logic: the fish, which comes from the sea and sustains the community, is returned to the sea as thanks. The image of a 15-meter fabric sea bream moving through a fishing village is one of the most characteristically specific images the Japanese festival calendar produces.",
+    "highlights_en": [
+      "A 10–18 meter cloth sea bream carried by young men through a fishing village and finally into the sea: folk pageantry at its most literally fishy",
+      "The five fish vary in scale; the largest requires 50-plus carriers moving in precise coordination through narrow streets",
+      "The ceremony ends in the ocean — the fish returns to where it came from: a circular devotional logic that is visually magnificent"
+    ],
+    "origin_en": "The festival originated in the early Edo Period as a fishing community's gratitude ceremony — the sea bream, considered the most auspicious fish in Japanese culture, is returned to the divine sea as thanksgiving for the year's catch.",
+    "viewing_notes_en": "Free. Nagoya-tetsudō Kōwa Line \"Kōwa Station,\" then Umi-ko Bus to Toyohama harbor."
+  },
+  {
+    "id": "fest-026",
+    "name": "潮かけ祭り（大島祭）",
+    "name_kana": "しおかけまつり おおしままつり",
+    "shrine": "八雲神社",
+    "category": "weird",
+    "prefecture": "三重県",
+    "city": "志摩市志摩町和具",
+    "lat": 34.282,
+    "lng": 136.804,
+    "date_pattern": "夏至前後に関連行事（6月下旬）、本祭：毎年7月第4金曜日前後 / 2026年本祭は7月24日頃",
+    "date_2026": "2026-06-26",
+    "date_2026_end": "2026-07-24",
+    "summary": "800年の歴史を持つ。海の女神・市杵島姫命が沖合2.5kmの大島の祠へ年に一度里帰りする際、船で海水（潮）を掛け合って清める神事。神輿を乗せた御座船が港を出るとき、沿岸に集まった人々が海水をかけ合い、周囲の船も海水を浴びせる。陸の見物客にも容赦なく海水がかかるが「潮を受けると風邪をひかない」という言い伝えがあり、観客も参加型で楽しめる。夜は花火大会。神輿船・見物人・漁師全員が海水まみれになる。",
+    "highlights": [
+      "神輿船・見物人・漁師全員が海水まみれになる圧倒的なビショビショ祭り",
+      "陸の観客にも容赦ない潮かけ",
+      "800年継続の漁村信仰の生きた姿"
+    ],
+    "origin": "古代から続く海神信仰。女神の年一度の「里帰り」を祝い、海水の浄化力でお送りする神事。",
+    "official_url": null,
+    "reference_urls": [
+      "https://www.kankomie.or.jp/event/5111"
+    ],
+    "viewing_notes": "無料（濡れてもよい服装必須）。近鉄鵜方駅からバス和具行き。",
+    "name_en": "Shiokake Festival (Seawater-Splashing Ceremony)",
+    "shrine_en": "Ōshima Shrine (affiliated with Futami Okitama Shrine)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Shima City",
+    "date_pattern_en": "Annual, late July (check locally)",
+    "summary_en": "The ocean deity Ichikishimahime-no-Mikoto makes her annual return to the offshore island shrine of Ōshima on a day in late July, and the ceremony marking her departure from her land-side shrine involves the vigorous splashing of seawater among all participants and bystanders — a purification act that has the practical consequence of soaking everyone in the vicinity. The mikoshi (portable shrine) bearing the goddess is loaded onto a ceremonial boat; as it leaves the quay, the assembled crowd throws buckets, cups, and scoops of seawater at each other and at the departing shrine, with a thoroughness that ensures no one remains dry. The logic is ancient: seawater purifies, the purification cleanses the entire community for the year ahead, and the most effective administration of seawater is the most complete administration of seawater. Come prepared to be wet, and understand that this is the intended outcome rather than a side effect.",
+    "highlights_en": [
+      "An ancient purification ceremony whose primary mechanism is throwing seawater at everyone present — bring a change of clothes or embrace wetness as the point",
+      "A goddess's annual ocean voyage framed as a community water fight: devotion and exuberance in the same gesture",
+      "800 years of documented history make this one of the oldest surviving seawater purification festivals in the Ise-Shima region"
+    ],
+    "origin_en": "The ceremony commemorates an ancient tradition of sea-deity veneration in which the ocean goddess annually visited her land shrine and returned to the offshore sacred island. Seawater-purification is integral to the maritime shrine tradition of the Ise-Shima coast.",
+    "viewing_notes_en": "Free (soakable clothing required). Kintetsu Ugata Station, then bus toward Wagu."
+  },
+  {
+    "id": "fest-027",
+    "name": "祇園祭 山鉾巡行",
+    "name_kana": "ぎおんまつり やまほこじゅんこう",
+    "shrine": "八坂神社",
+    "category": "other",
+    "prefecture": "京都府",
+    "city": "京都市東山区",
+    "lat": 35.0036,
+    "lng": 135.7783,
+    "date_pattern": "前祭山鉾巡行：7月17日固定、後祭：7月24日固定",
+    "date_2026": "2026-07-17",
+    "date_2026_end": null,
+    "summary": "日本三大祭りのひとつ・ユネスコ無形文化遺産。34基の山鉾が一月に渡り市内を練り歩く。「長刀鉾のお稚児さん」は神体として担がれ、地面に足をつけてはならない（結界）という特殊神事。「ちまき」を授かった者の家に1年間厄が入らないとされる。鉾の上で演奏される「コンチキチン」の祇園囃子、各鉾の見送り（ゴブラン織など海外美術）も見どころ。くじ取らず・後祭の復活など近年の変化も面白い。",
+    "highlights": [
+      "34基の山鉾が1ヶ月間巡り続ける圧倒的なスケール",
+      "「コンチキチン」の祇園囃子の優雅な音色",
+      "各鉾の見送りにゴブラン織など海外美術が使われる文化的奇妙さ"
+    ],
+    "origin": "869年、疫病退散を祈願して御霊会（ごりょうえ）が行われたのが始まり。現在の山鉾巡行の形式は室町時代以降に確立した。",
+    "official_url": "https://www.gion-matsuri.jp/",
+    "reference_urls": [],
+    "viewing_notes": "巡行観覧席は有料（前売り2,800円程度）、沿道は無料。当日周辺は激しい交通規制。",
+    "name_en": "Gion Festival — Yamahoko Junkō (Float Procession)",
+    "shrine_en": "Yasaka Shrine",
+    "prefecture_en": "Kyōto Prefecture",
+    "city_en": "Kyōto City, Higashiyama Ward",
+    "date_pattern_en": "Annual, July 1st–31st (float processions July 17th and 24th)",
+    "summary_en": "The Gion Festival is one of Japan's Three Great Festivals, a UNESCO Intangible Cultural Heritage, and the defining event of Kyōto's summer calendar — a month-long sequence of sub-ceremonies anchored by the Yamahoko Junkō, the procession of 34 elaborately decorated yamahoko (wheeled ceremonial structures) through central Kyōto on July 17th and 24th. The floats are mobile museums of applied decorative art: the best tapestries adorning them were imported from Belgium and China in the 16th and 17th centuries and survive in better condition than contemporary equivalents in their countries of origin. The largest hoko stand 25 meters tall and weigh 12 tons; their cornering maneuver — the Tsujimawashi, executed by teams placing cut bamboo under the wheels — is itself a spectacle requiring years of training. The ceremony's origin is a 9th-century plague-prevention ritual, and the float parade has never entirely shed that function: the Naginata-boko float's young Chigo attendant, who must not touch the ground from the moment of his sacred designation through the parade's completion, remains the ceremony's charged theological center.",
+    "highlights_en": [
+      "34 yamahoko, the largest standing 25 meters and weighing 12 tons, carrying Belgian and Chinese tapestries from the 16th century through Kyōto's historic streets",
+      "The Tsujimawashi corner turn — 12 tons of ceremonial float guided around a 90-degree turn using bamboo skids — is an engineering ritual worth watching for itself",
+      "The Chigo attendant who cannot touch the ground from his sacred designation through parade completion: a child as living divine vessel, still operational in the 21st century"
+    ],
+    "origin_en": "The Gion Festival originated in 869 CE as the Goryō-e, a plague-appeasement ceremony in which 66 naginata (halberds) — one for each province of Japan — were erected in the Shinsen-en garden. The current float procession form developed through the Muromachi Period.",
+    "viewing_notes_en": "Grandstand seating tickets (approx. ¥2,800) sell out fast; roadside viewing is free. Extreme traffic restrictions apply on procession days. Arrive early."
+  },
+  {
+    "id": "fest-028",
+    "name": "京都 五山送り火",
+    "name_kana": "ごさんのおくりび",
+    "shrine": "東山如意ヶ嶽・松ヶ崎西山東山他5山",
+    "category": "fire",
+    "prefecture": "京都府",
+    "city": "京都市",
+    "lat": 35.0279,
+    "lng": 135.7962,
+    "date_pattern": "毎年8月16日固定",
+    "date_2026": "2026-08-16",
+    "date_2026_end": null,
+    "summary": "お盆に戻ってきた先祖の霊（お精霊）をあの世へ送り返す京都の夏の最大行事。東山如意ヶ嶽の「大文字（大）」を皮切りに、20:00から5分おきに「妙・法」「船形」「左大文字」「鳥居形」の順に各山に点火される。各々の炎は約30分間燃え続ける。全5山が一晩に見える鑑賞スポット探しも祭りの楽しみのひとつ。2026年は日曜開催で観客が特に多くなる見込み。雨天原則決行。鴨川の川面に映る炎の反射も見どころ。",
+    "highlights": [
+      "闇夜に浮かぶ「大」の字の炎が京都の街から見える非日常感",
+      "「あの世へ霊を送る」という死生観が今も生きている現役の儀式",
+      "5つの文字・形が各山に次々と灯るタイムライン鑑賞の楽しさ"
+    ],
+    "origin": "室町時代以降に確立したとされるが、起源は諸説ある。禅の修行と民間のお盆信仰が結びついて現在の形になったとされる。",
+    "official_url": "https://kyototravel.info/gozannookuribi",
+    "reference_urls": [
+      "https://www.expo2025.fun/events/gozan-okuribi-2026/"
+    ],
+    "viewing_notes": "観覧無料。特定の山に焦点を当てた鑑賞スポットで早めに場所取り。大混雑のため公共交通機関必須。",
+    "name_en": "Kyōto Gozan Okuribi (Five Mountain Send-Off Fires)",
+    "shrine_en": "(Municipal ceremony — no single shrine affiliation)",
+    "prefecture_en": "Kyōto Prefecture",
+    "city_en": "Kyōto City",
+    "date_pattern_en": "Annual, August 16th",
+    "summary_en": "On the evening of August 16th, five mountains surrounding Kyōto are simultaneously lit with enormous bonfires in characters and shapes visible from the city below: the character for \"great\" (大) on Daimonji-yama, the characters \"Myō\" and \"Hō\" on two separate peaks, a boat shape, a second \"大\" on a mountain to the west, and a torii gate. These are the Gozan Okuribi — the Five Mountain Send-Off Fires — the annual signal that the spirits of ancestors who returned to the living world during the Obon festival are being directed back to the realm of the dead. The fires begin at 8:00 PM with the eastern Daimonji, then proceed at five-minute intervals through the remaining mountains, taking the better part of an hour to complete. The ceremony is ancient in origin, requires months of preparation, and involves sending hundreds of monks and volunteers up five separate mountains with torches before nightfall. Viewed from a rooftop bar or a hillside observation point with all five mountains in frame, the ceremony operates at an entirely different scale from ordinary fireworks.",
+    "highlights_en": [
+      "Five mountains simultaneously carrying giant fire-characters visible from across the city: the largest coordinated sacred signal fire in Japan",
+      "The Obon ancestors, welcomed on August 13th, are sent home on August 16th — the emotional register of these fires combines gratitude, grief, and relief in a specifically Japanese configuration",
+      "The 8-minute gap between each mountain's lighting creates a 40-minute ceremonial sequence in which the sky progressively fills with sacred characters"
+    ],
+    "origin_en": "The Gozan Okuribi's origin is debated: traditions ascribe it variously to the monk Kūkai, the monk Musō Soseki, or a simpler popular evolution from Obon observance. The five-mountain format has been in place since at least the Edo Period.",
+    "viewing_notes_en": "Observation is free; premium positions require early arrival. No single spot shows all five mountains equally — choosing one or two and committing to that position is advised. Public transport only during the event."
+  },
+  {
+    "id": "fest-029",
+    "name": "桑名石取祭（日本一やかましい祭）",
+    "name_kana": "くわないしどりまつり",
+    "shrine": "桑名宗社（春日神社）",
+    "category": "weird",
+    "prefecture": "三重県",
+    "city": "桑名市",
+    "lat": 35.0706,
+    "lng": 136.6893,
+    "date_pattern": "毎年8月第1土日",
+    "date_2026": "2026-08-01",
+    "date_2026_end": "2026-08-02",
+    "summary": "ユネスコ無形文化遺産（「山・鉾・屋台行事」の一部）。「日本一やかましい祭り」を自称する三重最大の夏祭り。約40台の豪華装飾を施した祭車（山車）が鉦（かね）と太鼓を叩き鳴らしながら市内を練り歩く。試楽初日の午前0時「叩き出し」から一斉に各家・各組の太鼓が打ち鳴らされ、街全体が轟音に包まれる。本楽の18:30からの「花車渡祭」は40台が桑名宗社前に集結しクライマックス。耳栓持参を推奨するほどの轟音。",
+    "highlights": [
+      "深夜0時の「叩き出し」：街全体が一斉に太鼓を叩き始める瞬間",
+      "40台の祭車が出す鉦と太鼓の音で、文字通り耳が痛くなる",
+      "江戸時代からの町人文化の粋が結集した豪華祭車のデザイン"
+    ],
+    "origin": "江戸時代初期、桑名城下の夏祓いとして始まった。川で清浄な石を拾い（石取り）、それを神社に奉納する「禊祓い」が祭礼化したもの。",
+    "official_url": "https://kuwana-ishidori.com",
+    "reference_urls": [
+      "https://news.ponycanyon.co.jp/2025/11/115984"
+    ],
+    "viewing_notes": "無料。JR/近鉄桑名駅から徒歩約20分。亀山市から約30分で最も近い代表奇祭のひとつ。",
+    "name_en": "Kuwana Ishidori Festival (Japan's Loudest Festival)",
+    "shrine_en": "Haiden Shrine (Kuwana)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Kuwana City",
+    "date_pattern_en": "Annual, Saturday and Sunday before August 15th",
+    "summary_en": "The Kuwana Ishidori Festival has earned the self-awarded title \"Japan's Loudest Festival,\" and the award is not ironic. Approximately 40 elaborately decorated festival carts (saikuruma) carrying teams of musicians playing kane (gongs) and taiko drums at maximum continuous volume move through the streets of Kuwana in a procession whose combined sound output, during the Saturday night Shigaku (rehearsal) and the Sunday Honbiki (main procession), has been measured at levels requiring ear protection. The festival is a UNESCO Intangible Cultural Heritage; the kane-and-drum combination was specifically designed, historically, to be the loudest possible sound as an offering to the deity — the theory being that the divine receives a greater offering from a greater noise. The result is that approaching the festival from a distance involves a gradual but relentless increase in sound pressure that crosses a threshold around 300 meters from the nearest cart where \"loud\" ceases to be an adequate description.",
+    "highlights_en": [
+      "40 festival carts simultaneously playing gongs and drums at maximum volume: a sonic offering so intense it requires ear protection to approach safely",
+      "\"Japan's Loudest Festival\" is a UNESCO Intangible Cultural Heritage — official confirmation that extreme volume can be a cultural treasure",
+      "30 minutes from Kameyama: the most accessible of Mie's UNESCO festival traditions"
+    ],
+    "origin_en": "The Ishidori Festival began in the early Edo Period as a midsummer purification ceremony (Harae) in which clean stones were gathered from rivers and offered to the shrine. The musical procession evolved as the ceremony's central feature through the 17th and 18th centuries.",
+    "viewing_notes_en": "Free. JR/Kintetsu Kuwana Station, then approximately 20-minute walk to the festival route. Ear protection recommended for close-proximity observation."
+  },
+  {
+    "id": "fest-030",
+    "name": "刈谷万燈祭（秋葉社の祭礼）",
+    "name_kana": "かりやまんとうさい",
+    "shrine": "秋葉社（刈谷市内各所）",
+    "category": "fire",
+    "prefecture": "愛知県",
+    "city": "刈谷市",
+    "lat": 34.989,
+    "lng": 137.0009,
+    "date_pattern": "毎年8月第4土曜日",
+    "date_2026": "2026-08-22",
+    "date_2026_end": null,
+    "summary": "愛知の奇祭として知られる独特の火祭り。「万燈」と呼ばれる高さ数メートルの竹製提灯の塔（内部に多数のロウソク）を、若者たちが頭の上に乗せてバランスを取りながら踊り歩く。一見すると曲芸のような祭りで、万燈のデザインも年ごとに工夫を凝らした芸術的なものになる。20代〜30代の若者グループが各組に分かれ、音楽に合わせて万燈踊りを競い合う。愛知県指定無形民俗文化財。転倒したら大火事という緊張の綱渡り神事。",
+    "highlights": [
+      "頭の上に火の塔を乗せてバランスを取りながら踊る曲芸的な美しさ",
+      "各グループの万燈デザイン競争のコレクション要素",
+      "転倒したら大火事という緊張の綱渡り神事"
+    ],
+    "origin": "江戸時代、火伏せの神・秋葉権現への感謝と火難除けを祈願して始まったとされる。「万の灯りで火の神に感謝する」という逆説的な信仰。",
+    "official_url": null,
+    "reference_urls": [
+      "https://aichinow.pref.aichi.jp/features/detail/2&language=2/"
+    ],
+    "viewing_notes": "無料。JR東海道線「刈谷駅」から徒歩圏内。",
+    "name_en": "Kariya Mandō Festival (Lantern Tower Balance Dance)",
+    "shrine_en": "Akiba-sha Shrine (within Kariya-jō Castle precinct)",
+    "prefecture_en": "Aichi Prefecture",
+    "city_en": "Kariya City",
+    "date_pattern_en": "Annual, last Saturday of July",
+    "summary_en": "At the Akiba-sha Shrine in Kariya, young men perform what appears to be an act of balance circus but is classified as a religious ceremony: carrying bamboo-frame lantern towers 3 to 4 meters tall, fitted with burning candles, balanced on their foreheads, chins, or hands, while dancing to festival music through the shrine grounds. The Mandō (ten-thousand lantern) towers are understood as fire offerings to the fire deity Akiba Gongen — the paradox of offering fire to the god of fire protection is typical of Japanese religious logic, which tends toward concentration rather than avoidance of powerful forces. The balance dancers train their bodies for the specific physical demands of the mandō, and the combination of flame, movement, darkness, and the specific skill required to keep burning candles aloft while dancing creates an entertainment that has no equivalent in the Japanese festival calendar.",
+    "highlights_en": [
+      "Men dancing with 3-meter burning lantern towers balanced on their foreheads: the art form sits exactly at the intersection of devotion and acrobatics",
+      "Offering fire to the god of fire-prevention — a Japanese theological logic that doubles down on potency rather than avoiding it",
+      "One of the most visually distinctive of the Tōkai region's summer fire festivals"
+    ],
+    "origin_en": "The ceremony began in the Edo Period as a thanksgiving offering to Akiba Gongen — the fire-deity venerated particularly by townspeople fearful of urban conflagration. Offering ten-thousand lights to the fire god was understood to satisfy the deity's appetite and prevent uncontrolled burning.",
+    "viewing_notes_en": "Free. JR Tōkaidō Line \"Kariya Station\" within walking distance."
+  },
+  {
+    "id": "fest-031",
+    "name": "近江中山の芋競べ祭り",
+    "name_kana": "おうみなかやまのいもくらべまつり",
+    "shrine": "十二柱神社",
+    "category": "weird",
+    "prefecture": "滋賀県",
+    "city": "蒲生郡日野町",
+    "lat": 35.0042,
+    "lng": 136.2854,
+    "date_pattern": "毎年9月第2日曜日",
+    "date_2026": "2026-09-13",
+    "date_2026_end": null,
+    "summary": "「芋の大きさを競い、豊作を占う」という愛嬌ある奇祭。地域の各組が丹精込めて育てた里芋を持ち寄り、その大きさ・形・重さを競い合う。最も立派な芋を奉納した組が豊作・繁栄を授かると信じられる。単純かつ牧歌的な競い方がユーモラスで、現代のコンテスト文化の原型ともいえる。滋賀県内の農村文化の素朴さを体現する祭りとして、民俗学者の関心も集める。芋鍋のふるまいもあり、地域の収穫祭としての楽しさがある。",
+    "highlights": [
+      "「芋の大きさで豊凶を占う」というシンプルすぎる競争",
+      "地元農家が本気で芋を育てて臨む真剣勝負の笑える構図",
+      "農村の祭りの素朴さと地域コミュニティの温かさ"
+    ],
+    "origin": "古代農耕神事の名残り。里芋は縄文・弥生時代から日本の主食であり、その豊かさを神に報告し来年の豊作を占う予祝行事に由来する。",
+    "official_url": null,
+    "reference_urls": [
+      "https://omatsurijapan.com/blog/kisai_allseason/"
+    ],
+    "viewing_notes": "日程要確認（小規模神事）。近江鉄道「日野駅」から要タクシー。",
+    "name_en": "Ōmi Nakayama Imo-Kurabe Festival (Taro Competition Ceremony)",
+    "shrine_en": "Okitama Shrine",
+    "prefecture_en": "Shiga Prefecture",
+    "city_en": "Hino Town, Gamo District",
+    "date_pattern_en": "Annual, mid-October (check locally)",
+    "summary_en": "In the agricultural heartland of Shiga Prefecture, the autumn harvest ceremony at Okitama Shrine involves participants bringing their finest taro root (satoimo) to be judged against the roots brought by their neighbors — and the outcome of that judgment is understood as a prediction of the community's prosperity for the coming year. The Imo-Kurabe (\"taro competition\") is one of Japan's most endearing bizarre festivals precisely because its mechanism is so transparent: the community's collective agricultural effort is concentrated into its most successful example, that example is presented to the deity, and the deity's evident pleasure (represented by the comparative superiority of the best taro) is taken as a favorable omen. There is no fire, no drumming, no masked procession — just very serious people assessing root vegetables against divine criteria. The specificity and straightforwardness of this arrangement is, in its own way, more interesting than many more spectacular ceremonies.",
+    "highlights_en": [
+      "Bringing your best taro root to a shrine to compete against neighbors' taro roots — agricultural devotion in its most direct possible form",
+      "The winner's taro predicts the community's prosperity: divination through vegetable competition",
+      "A small, local, entirely sincere ceremony whose lack of spectacle is precisely what makes it worth traveling to see"
+    ],
+    "origin_en": "The ceremony preserves ancient agricultural thanksgiving practices in which the season's finest produce was presented to the tutelary deity as evidence of the community's harvest and as a petition for continued bounty. Taro root, as a pre-rice staple in Japanese agricultural history, carries particular ceremonial weight.",
+    "viewing_notes_en": "Schedule requires local verification; a small ceremony. Kintetsu \"Hino Station\" with taxi required."
+  },
+  {
+    "id": "fest-032",
+    "name": "大阪 セルフ祭（七宮詣り）",
+    "name_kana": "おおさかせるふまつり",
+    "shrine": "大阪市内各所（難波・天王寺エリア）",
+    "category": "weird",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "lat": 34.665,
+    "lng": 135.502,
+    "date_pattern": "毎年9月頃（詳細は主催者発表）",
+    "date_2026": null,
+    "date_2026_end": null,
+    "summary": "「セルフ祭」は近年の大阪発の現代型奇祭で、参加者が思い思いのコスプレ・扮装をして市内の七つの神社を歩いて巡る、自由参加型の奇祭イベント。「何のために巡るのか？自分自身のため！」という「セルフ」の名の通り、商売繁盛でも豊作でもなく「自分の幸福と解放」を祈る現代人の祭り。仮装の自由度が高く、アニメキャラ・ゾンビ・神様・サラリーマンなど何でもあり。街中を奇妙な集団が移動する様子は通行人に強烈なインパクトを与える。",
+    "highlights": [
+      "思い思いのコスプレ・仮装で街を練り歩くカオスな光景",
+      "「祈る対象が自分自身」という現代人の自己肯定的な発想",
+      "参加のハードルが低く、誰でも参加できる開放性"
+    ],
+    "origin": "2010年代に大阪の若者文化から生まれた。「伝統的な祭りに倣いつつ、現代人の感覚で作り直した」コンセプト。",
+    "official_url": null,
+    "reference_urls": [
+      "https://omatsurijapan.com/blog/kisai-47/"
+    ],
+    "viewing_notes": "詳細日程は主催者SNSで要確認。参加無料。",
+    "name_en": "Ōsaka Self Festival (Seven Shrine Circuit)",
+    "shrine_en": "Seven shrines in central Ōsaka",
+    "prefecture_en": "Ōsaka Prefecture",
+    "city_en": "Ōsaka City",
+    "date_pattern_en": "Annual (date varies; check organizer's SNS)",
+    "summary_en": "The \"Self Festival\" (Serufu Matsuri) is Ōsaka's contribution to the genre of contemporary participatory bizarre festival — a self-organized, cosplay-encouraged, freely improvised circuit of seven central-Ōsaka shrines that began in the 2010s among young urban residents who wanted the experience of a matsuri without the obligation of belonging to the neighborhood groups that organize traditional festivals. Participants arrive in costume (the more theatrical the better), visit the seven designated shrines in sequence, receive stamps at each, and disperse. The theological content is voluntary; the social content is the point. The festival's name — \"Self\" — reflects its founding principle: you are doing this for yourself, in the most Ōsaka-appropriate possible combination of individual energy and communal movement.",
+    "highlights_en": [
+      "A self-organized cosplay shrine circuit born from young Ōsakans who wanted matsuri participation without the traditional gatekeeping — a 21st-century bizarre festival origin story",
+      "The seven-shrine format provides structure; everything else is negotiable: costume, company, pace, theological sincerity",
+      "Ōsaka's specific combination of irreverence and genuine enthusiasm for participation makes this work in ways it probably wouldn't anywhere else"
+    ],
+    "origin_en": "The Self Festival emerged organically from Ōsaka's youth culture in the 2010s, drawing on the \"stamping rally\" tradition of shrine visits combined with the city's strong cosplay and subculture communities. The organizers describe it as \"traditional festival reimagined by and for modern people.\"",
+    "viewing_notes_en": "Free participation. Dates and details announced via organizer's social media. No specific station requirement — the route is distributed across central Ōsaka."
+  },
+  {
+    "id": "fest-033",
+    "name": "采女祭（うねめまつり）",
+    "name_kana": "うねめまつり",
+    "shrine": "采女神社・猿沢池",
+    "category": "other",
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "lat": 34.6841,
+    "lng": 135.8313,
+    "date_pattern": "毎年9月〜10月（中秋の名月 旧暦8月15日）/ 2026年は10月2日（金）頃",
+    "date_2026": null,
+    "date_2026_end": null,
+    "summary": "天皇の寵愛を受けながら後宮で身を投じた采女（うねめ）の霊を慰める雅やかな祭り。采女神社（猿沢池ほとり）から花扇奉納行列（17:00〜）が出発し、猿沢池に管絃船（雅楽を演奏する船）を浮かべて諸芸を奉納する。池の水面に灯籠が浮かぶ幻想的な夜の光景は「奈良で最も美しい秋の祭り」と称される。中秋の名月を背景にした管絃船の儀は、日本の月見風情の原型。祭りのテーマが「恋に破れた女性の霊慰め」という儚さも心に響く。",
+    "highlights": [
+      "中秋の名月と猿沢池の水面に映る灯籠の幻想的な美しさ",
+      "管絃船から奏でられる雅楽の音色が夜風に乗る",
+      "恋に破れて入水した女性の霊を慰めるという物語の切なさ"
+    ],
+    "origin": "奈良時代、帝の寵愛が薄れたことを嘆いた采女が猿沢池に身を投じたとされる伝説に由来。その霊を慰めるため、池に管絃船を浮かべる習わしが始まった（8世紀頃）。",
+    "official_url": null,
+    "reference_urls": [
+      "https://nara.blue/2025-10gatu-ibento-matome/"
+    ],
+    "viewing_notes": "無料。中秋の名月の日（旧暦8月15日）に開催。2026年の具体的な日付は旧暦換算で10月2日頃。",
+    "name_en": "Uneme Festival (Court Lady Spirit Ceremony)",
+    "shrine_en": "Uneme Shrine (Sarusawa Pond, Nara)",
+    "prefecture_en": "Nara Prefecture",
+    "city_en": "Nara City",
+    "date_pattern_en": "Annual, night of the Mid-Autumn Full Moon (approx. late September–early October)",
+    "summary_en": "On the night of the mid-autumn full moon — the most beautiful moon of the Japanese year — a procession of women in Heian Period court dress leaves the Uneme Shrine at the edge of Sarusawa Pond in Nara and moves to an ornate boat moored on the water, which carries musicians performing gagaku (ancient court music) as it drifts across the moonlit pond. The ceremony commemorates an uneme — a court serving woman — who is said to have drowned herself in Sarusawa Pond after the Emperor's affections withdrew from her: a story of imperial abandonment and feminine grief that has been commemorated by this ceremony since the 8th century. The moon's reflection in the pond, the sound of gagaku across the water, and the procession of historical court dress create an atmosphere of concentrated historical pathos that operates in a register most festivals cannot reach.",
+    "highlights_en": [
+      "A boat carrying gagaku musicians drifting across a moon-reflecting pond in the night: a ceremonial aesthetic that has not been updated since the Heian Period and does not need to be",
+      "The ceremony has commemorated a court lady's drowning suicide for over 1,200 years — grief encoded in ritual form",
+      "The mid-autumn full moon as the ceremony's specific temporal trigger: the entire ceremony is designed around the moon's reflection on the pond"
+    ],
+    "origin_en": "The ceremony dates to the late 8th century CE and is associated with the tradition that an uneme (court serving woman) drowned in Sarusawa Pond after being abandoned by the Emperor. The ritual boat and gagaku music were established as perpetual memorial for the displaced court woman.",
+    "viewing_notes_en": "Free. The night of the lunar August 15th (approximately early–mid October in the solar calendar; 2026 date approximately October 2nd). Nara City center, near Kōfukuji Temple."
+  },
+  {
+    "id": "fest-034",
+    "name": "鞍馬の火祭（由岐神社 神幸祭）",
+    "name_kana": "くらまのひまつり",
+    "shrine": "由岐神社・鞍馬街道",
+    "category": "fire",
+    "prefecture": "京都府",
+    "city": "京都市左京区",
+    "lat": 35.1142,
+    "lng": 135.7668,
+    "date_pattern": "毎年10月22日固定",
+    "date_2026": "2026-10-22",
+    "date_2026_end": null,
+    "summary": "京都三大奇祭・京都三大火祭のひとつ。940年・天慶の乱の年から続く1,000年以上の歴史を持つ火祭り。「サイレヤ、サイリョウ」の勇ましい掛け声とともに、鞍馬の里人が巨大な松明を担いで夜の鞍馬街道を練り歩く。子供・青年・大人の松明の大きさが異なり、最大の松明は数百キロに達する。里全体が炎に包まれた後、午後11時頃に神輿が社殿から出発する「神輿渡御」がクライマックス。人口わずか数百人の山里が一夜だけ何千人もの観客で溢れる。",
+    "highlights": [
+      "集落全体が炎の光に包まれる唯一無二の光景",
+      "「サイレヤ、サイリョウ」の合唱が山中に響き渡る鳥肌感",
+      "叡山電鉄の鞍馬駅から神社まで、道中すべてが炎の回廊"
+    ],
+    "origin": "天慶3年（940年）、御所に祀られていた由岐明神を鞍馬に遷宮した際、村人が松明を持ちだして歓迎した故事に由来。時代祭と同日開催。",
+    "official_url": "http://www.yukijinjya.jp/",
+    "reference_urls": [
+      "https://kyototravel.info/kuramanohimatsuri"
+    ],
+    "viewing_notes": "無料。午後3時より一般車両通行規制。叡電「鞍馬駅」利用必須。叡電が増便されるが、祭り後の帰りは激混み。",
+    "name_en": "Kurama Fire Festival (Yuki Shrine Shinko-sai)",
+    "shrine_en": "Yuki Shrine",
+    "prefecture_en": "Kyōto Prefecture",
+    "city_en": "Kyōto City, Sakyō Ward (Kurama)",
+    "date_pattern_en": "Annual, October 22nd",
+    "summary_en": "On the night of October 22nd, the mountain village of Kurama north of Kyōto becomes the setting for one of Kyōto's Three Great Bizarre Festivals: a fire procession in which the entire community participates, carrying torches from sunset through midnight in a progression that moves from children's small fires to the great pine torches of adult men, and finally to the deity's procession through the illuminated dark. The shouted invocation \"Saireya, Sairyō!\" has echoed through Kurama's narrow mountain street since 940 CE — the year the ceremony was established to welcome the deity Yuki Myōjin's relocation from the Imperial Palace to this mountain village. The celebration of that arrival has been staged every year since, making it one of Kyōto's oldest annual events. The festival takes place on the same date as the Jidai Matsuri procession in central Kyōto, requiring visitors to choose; those who choose Kurama consistently report that the choice was correct.",
+    "highlights_en": [
+      "\"Saireya, Sairyō!\" — a war cry that has been shouted in this mountain village on October 22nd for over 1,000 years, without modification",
+      "The progression from children's torches to the great pine torches of adult men to the deity's procession maps the entire community's participation across a single night",
+      "Kurama's narrow mountain street lit by hundreds of torches is an image the 21st century has not been able to improve upon"
+    ],
+    "origin_en": "In 940 CE (Tengyō 3), during a period of civil war, the deity Yuki Myōjin was transferred from the Imperial Palace to Kurama as a protective measure. The villagers greeted the deity's arrival with torches; the greeting has been re-enacted every October 22nd since.",
+    "viewing_notes_en": "Free. Traffic restrictions from 3 PM; Eizan Electric Railway \"Kurama Station\" is the only practical access. The return journey after the ceremony is extremely crowded."
+  },
+  {
+    "id": "fest-035",
+    "name": "灘のけんか祭り（松原八幡神社秋季例大祭）",
+    "name_kana": "なだのけんかまつり",
+    "shrine": "松原八幡神社",
+    "category": "weird",
+    "prefecture": "兵庫県",
+    "city": "姫路市",
+    "lat": 34.8102,
+    "lng": 134.6916,
+    "date_pattern": "毎年10月14〜15日固定",
+    "date_2026": "2026-10-14",
+    "date_2026_end": "2026-10-15",
+    "summary": "日本三大喧嘩祭りのひとつ。松原八幡神社の秋祭りで、3基の神輿を激しくぶつけ合い、最終的には神輿をボロボロにしてしまう日本でも稀な祭り。「担ぎ手は体が傷ついても神輿に傷をつけるな」という逆説的なルールの下、ふんどし姿の男たちが体を張って神輿を支える。同時に7台の絢爛豪華な布団屋台（飾り山車）が練り合わせる様も見もの。神輿のぶつかり合いの音と迫力は日本最高レベル。",
+    "highlights": [
+      "3基の神輿が激しくぶつかり合い、見る見るうちに傷ついていく",
+      "「神輿を守るため体を挟む」男たちの本気の肉弾戦",
+      "絢爛な布団屋台7台の「練り合わせ」の迫力"
+    ],
+    "origin": "江戸時代初期から続く秋祭り。神輿をぶつけ合うことで、人々の厄や穢れを神輿が吸い取るという信仰に基づく。",
+    "official_url": "https://www.nadamatsuri.jp",
+    "reference_urls": [],
+    "viewing_notes": "無料。JR山陽線「白浜の宮駅」から徒歩5分。",
+    "name_en": "Nada Kenka Matsuri (Fighting Festival)",
+    "shrine_en": "Matsubara Hachiman Shrine",
+    "prefecture_en": "Hyōgo Prefecture",
+    "city_en": "Himeji City",
+    "date_pattern_en": "Annual, October 14th–15th",
+    "summary_en": "The Nada Kenka Matsuri is one of Japan's Three Great Fighting Festivals, and the description is accurate: three portable shrines (mikoshi) are carried by competing neighborhood teams who then deliberately crash the shrines against each other with sufficient force to break them. The operating rule — \"you may damage your body, but you must not damage the shrine\" — creates a form of competitive devotion that channels human aggression into the service of purification: the damage the shrines absorb represents the community's accumulated bad fortune, physically beaten out of them. The carriers wear happi coats, traditional headbands, and an expression of concentrated ferocity; the crashes between mikoshi send splinters flying and occasionally send carriers to the ground. By the ceremony's end, the shrines are visibly damaged. This is not an accident but the entire point.",
+    "highlights_en": [
+      "Three portable shrines deliberately crashed against each other until they break: the logic of purification through structural sacrifice",
+      "\"Damage your body, not the shrine\" — a rule that produces a devotional aggression with no equivalent in any other festival tradition",
+      "One of Japan's Three Great Fighting Festivals, and the one where the shrines themselves bear the community's misfortune most literally"
+    ],
+    "origin_en": "The festival dates to the early Edo Period. The theological basis is the belief that violent contact between the mikoshi transfers the impurities and bad fortune of the carriers and the community into the shrine's structure, which is then ritually cleaned and repaired — absorbing and neutralizing the accumulated negative energy.",
+    "viewing_notes_en": "Free. JR San-yō Line \"Shirahama-no-Miya Station,\" 5-minute walk."
+  },
+  {
+    "id": "fest-036",
+    "name": "丹生祭（笑い祭）",
+    "name_kana": "にうまつり わらいまつり",
+    "shrine": "丹生神社",
+    "category": "weird",
+    "prefecture": "和歌山県",
+    "city": "日高郡日高川町",
+    "lat": 33.9258,
+    "lng": 135.2936,
+    "date_pattern": "毎年10月「スポーツの日」直前の日曜日",
+    "date_2026": "2026-10-11",
+    "date_2026_end": null,
+    "summary": "和歌山県指定無形民俗文化財。日本最強の「笑い強制」祭り。顔中白塗りに派手な赤黄水色の衣装、頬に「笑」の字・顎に鳥居を描いた「鈴振り」（先達）が、「エエ楽じゃ、世は楽じゃ笑え笑えワッハッハー」と鈴を振りながら練り歩く。枡を掲げた12人の「笑い男」がこれに続き、参拝者全員を「ワッハッハ！」と笑わせながら神輿を神社へ導く。「笑うことが最大の厄除け」という信仰で、笑わない人を笑わせることが神事の目的。",
+    "highlights": [
+      "「笑え笑え！」と強要してくる鈴振りのド派手すぎるビジュアル",
+      "笑うことが神事という前代未聞の祭りコンセプト",
+      "見ているだけで笑ってしまう（笑わされてしまう）仕組みの巧妙さ"
+    ],
+    "origin": "祭神・丹生津姫命が出雲大社への神集まりに遅刻するというドジを踏み、落ち込んでいたところ、村人たちが「笑え笑え」と慰めたことに由来するとされる。",
+    "official_url": "https://www.wakayama-kanko.or.jp/events/detail_3893.html",
+    "reference_urls": [
+      "https://waraiplus.com/colum/warai_sinji.html"
+    ],
+    "viewing_notes": "無料。JR紀勢本線「和佐駅」下車、タクシー約10分。",
+    "name_en": "Nibu Festival (Laughing Festival)",
+    "shrine_en": "Nibu Tsuhime Shrine",
+    "prefecture_en": "Wakayama Prefecture",
+    "city_en": "Katsuragi Town, Ito District",
+    "date_pattern_en": "Annual, November 3rd",
+    "summary_en": "At the Nibu Tsuhime Shrine in the mountains of Wakayama Prefecture, a herald painted entirely white — face, neck, hands — in a garish costume of red, yellow, and blue, with the character for \"laugh\" written on one cheek and a torii gate drawn on the chin, processes through the village ringing a bell and shouting \"E, tanoshi-ya! Yo wa raku-ja, Warae, warae, Wahhahhā!\" — roughly: \"Rejoice! Life is easy! Laugh, laugh, Hahaha!\" — demanding that everyone he encounters respond in kind. The Nibu Matsuri (also called the \"Warai Matsuri,\" the Laughing Festival) is a Wakayama Prefecture Intangible Cultural Property and one of Japan's most direct surviving examples of obligatory ritual laughter — laughter that is not a response to humor but a ceremonial act, the collective exorcism of sorrow and stagnation through the physical mechanism of the laughing body.",
+    "highlights_en": [
+      "A herald painted white with \"laugh\" written on his cheek demands that every person he encounters laugh out loud — obligatory ceremonial laughter as a folk purification technology",
+      "The festival's mythology traces to a deity who arrived late to the divine assembly and was cheered up by her community's laughter: communal care encoded as annual ceremony",
+      "Wakayama's mountainous isolation has preserved ceremonies like this in forms that more accessible areas have lost — this is living folk religion at the margin"
+    ],
+    "origin_en": "The ceremony commemorates the legend that the shrine's deity, Nibu Tsuhime, arrived late to the divine assembly at Izumo (the annual gathering of all Japan's deities) because she had made a mistake — and that the villagers consoled her grief with laughter. The annual ceremony re-enacts that consolation.",
+    "viewing_notes_en": "Free. JR Kisei Main Line \"Wasa Station,\" then approximately 10 minutes by taxi."
+  },
+  {
+    "id": "fest-037",
+    "name": "飛騨高山 秋祭り（八幡祭）",
+    "name_kana": "ひだたかやまあきまつり はちまんさい",
+    "shrine": "櫻山八幡宮",
+    "category": "other",
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "lat": 36.1574,
+    "lng": 137.2536,
+    "date_pattern": "毎年10月9〜10日固定",
+    "date_2026": "2026-10-09",
+    "date_2026_end": "2026-10-10",
+    "summary": "春の山王祭と対をなす秋の高山祭。春とは別の屋台9台が登場し、からくり奉納・御巡幸が行われる。秋祭りのほうが夜祭りの美しさで特に知られ、紅葉に彩られた高山の古い町並みを提灯屋台が進む光景は格別。ユネスコ無形文化遺産登録。からくり人形の精巧な動きと、江戸時代そのままの装束で行われる時代行列が見どころ。宿泊施設は数ヶ月前から予約必須の人気ぶり。",
+    "highlights": [
+      "紅葉の古い町並みを提灯屋台が進む格別な美しさ",
+      "春祭りとは別の屋台9台が見られるコレクション要素",
+      "からくり奉納の精巧な人形演技"
+    ],
+    "origin": "江戸時代中期に形成された八幡宮の秋祭り。春の山王祭と合わせて「高山祭」として世界的に知られる。",
+    "official_url": "https://www.kankou-gifu.jp/event/detail_8488.html",
+    "reference_urls": [],
+    "viewing_notes": "無料（有料席あり）。JR高山駅から徒歩圏内。",
+    "name_en": "Hida Takayama Autumn Festival (Hachiman Matsuri)",
+    "shrine_en": "Sakurayama Hachiman Shrine",
+    "prefecture_en": "Gifu Prefecture",
+    "city_en": "Takayama City",
+    "date_pattern_en": "Annual, October 9th–10th",
+    "summary_en": "The autumn counterpart to the spring Sannō Matsuri, the Hachiman Matsuri on October 9th–10th deploys a different set of nine hikiyama floats through Takayama's preserved Edo townscape — the same architectural tradition, the same mechanical puppet theaters, the same technical mastery, but with autumn foliage replacing spring blossoms as the backdrop and a night procession that many visitors rate as the more beautiful of the two events. The festival floats are lit by lanterns (100 per float) and pulled through streets whose merchant-district architecture has survived essentially intact since the Edo Period; the combination of historical street, historical float, and historical puppet theater produces an experience of concentrated temporal density that modern Japan provides almost nowhere else. The Karakuri automata of the autumn festival include some different and notably complex performances from the spring festival; comparing them is an excuse for visiting Takayama twice in the same year.",
+    "highlights_en": [
+      "Nine hikiyama floats lit by 100 lanterns each, moving through Edo-Period streets in the dark: the night procession's beauty exceeds what any description can convey",
+      "The autumn foliage backdrop transforms the already spectacular spring-festival visual into something with a different, more melancholy register",
+      "Comparing the spring and autumn Karakuri puppet performances is a legitimate reason to visit Takayama in both April and October"
+    ],
+    "origin_en": "The Hachiman Matsuri developed in the mid-Edo Period as the autumn festival of Sakurayama Hachiman Shrine. It uses a separate set of floats from the spring festival, reflecting the economic competition between Takayama's two shrine districts.",
+    "viewing_notes_en": "Free (premium seating available). JR Takayama Station from Nagoya (2 hours). Accommodation must be booked months in advance, especially for the nights of October 9th–10th."
+  },
+  {
+    "id": "fest-038",
+    "name": "広隆寺 牛祭り（太秦牛祭）",
+    "name_kana": "こうりゅうじ うしまつり",
+    "shrine": "広隆寺・大酒神社",
+    "category": "animal",
+    "prefecture": "京都府",
+    "city": "京都市右京区",
+    "lat": 35.0152,
+    "lng": 135.7049,
+    "date_pattern": "10月12日頃（不定期開催・要確認）",
+    "date_2026": null,
+    "date_2026_end": null,
+    "summary": "京都三大奇祭のひとつだが、現在は不定期開催（休止中の年あり）。神面をつけた摩多羅神（まだらしん）が牛に乗り、4人の鬼神を従えて夜の広隆寺境内を3周し、祭文を読み上げる。読誦中に観客が野次を飛ばすことが「恒例」であり、妨害されながら祭文を読み進めるという世界でも稀な「野次を奨励する神事」。祭文読了後に面を奪おうと観衆が殺到するクライマックスも独特。",
+    "highlights": [
+      "牛に乗った神様に公衆が野次を飛ばすことが正式に認められている",
+      "読誦が終わると神様の面を奪いに観衆が突進する",
+      "深夜の広隆寺という舞台設定の怪しさと神秘性"
+    ],
+    "origin": "秦河勝（はたのかわかつ）が創建した広隆寺の守護神・摩多羅神の降臨神事。渡来系氏族・秦氏の信仰に由来するとされる。",
+    "official_url": null,
+    "reference_urls": [
+      "https://www.kyobunka.or.jp/library/events/187.php"
+    ],
+    "viewing_notes": "近年は不定期開催のため事前確認必須。開催の場合、嵐電「太秦広隆寺駅」すぐ。",
+    "name_en": "Kōryūji Ushi Matsuri (Ox Festival at Uzumasa)",
+    "shrine_en": "Kōryūji Temple",
+    "prefecture_en": "Kyōto Prefecture",
+    "city_en": "Kyōto City, Ukyō Ward",
+    "date_pattern_en": "Irregular (currently suspended — verify status before planning)",
+    "summary_en": "The Kōryūji Ushi Matsuri is one of Kyōto's Three Great Bizarre Festivals — and the one that operates on an irregular schedule that has included multi-year suspensions, making it either the rarest or the least reliable of the three depending on your perspective. When it occurs, the ceremony involves a figure wearing the sacred mask of Matarajin — a deity of esoteric Buddhism associated with the Tendai school, whose identity and origin remain genuinely mysterious — riding an ox through the darkened precincts of Kōryūji Temple accompanied by four attendants in demon masks. Three circuits of the precinct, followed by the reading of a sacred sutra, complete the ceremony, during which audience members are encouraged to heckle the proceedings — an instruction that transforms what would otherwise be a solemn ritual into something stranger and more alive. Kōryūji was founded by the Hata clan, immigrant artisans from the Korean Peninsula, whose specific theological inheritance accounts for several unusual features of the temple's ritual tradition.",
+    "highlights_en": [
+      "A masked ox-mounted deity and four demon attendants circuit a darkened temple in a ceremony whose audience is specifically encouraged to heckle — a Tantric ritual that breaks its own fourth wall",
+      "Matarajin's identity and origin are genuinely debated by religious historians: a deity whose cult contains unsolved theological puzzles",
+      "The irregular schedule makes attending a matter of timing and attention — which is consistent with the ceremony's character"
+    ],
+    "origin_en": "The ceremony is associated with the Hata clan, immigrant artisans who founded Kōryūji in the 7th century, and with the cult of Matarajin — a protective deity of Tantric Buddhist esoteric practice whose precise origins are contested between Indian, Chinese, and Korean sources.",
+    "viewing_notes_en": "Currently irregular; confirm status with the temple before traveling. When held: Randen (Kyōto Tram) \"Uzumasa Kōryūji Station,\" immediately adjacent."
+  },
+  {
+    "id": "fest-039",
+    "name": "奥山大権現 虫送り（奥山ほたる祭）",
+    "name_kana": "おくやまだいごんげん むしおくり",
+    "shrine": "奥山大権現（静岡・浜松市）",
+    "category": "other",
+    "prefecture": "静岡県",
+    "city": "浜松市浜名区",
+    "lat": 34.7853,
+    "lng": 137.709,
+    "date_pattern": "毎年10月頃（詳細要確認）",
+    "date_2026": null,
+    "date_2026_end": null,
+    "summary": "静岡県浜松市の奥山地区に伝わる農耕守護の神事。害虫（虫）を神社に「送る」ことで作物の豊作を祈願する伝統的な農耕儀礼。松明や提灯を持った参加者が農地の周りを歩き、害虫を追い払う形式をとる。現在では地域の収穫感謝祭・秋祭りとして継続されており、地元農村コミュニティの結束を示す行事でもある。奥山半僧坊大権現への参拝と組み合わせた形で行われる。",
+    "highlights": [
+      "農作物の害虫を神社に「送る」という古代農耕信仰の形式",
+      "松明・提灯を持った行列が農地を巡る視覚的な美しさ",
+      "奥山半僧坊大権現という山岳信仰の聖地での開催"
+    ],
+    "origin": "稲作文化が根付いた頃から行われてきた農耕儀礼の一形態。虫に宿る精霊を神社に送り込むことで豊作を確保するという古代的な世界観に由来する。",
+    "official_url": null,
+    "reference_urls": [
+      "https://omatsurijapan.com/blog/kisai_allseason/"
+    ],
+    "viewing_notes": "詳細日程は地元へ要確認。",
+    "name_en": "Okuyama Gongen Mushi-okuri (Insect-Sending Ceremony)",
+    "shrine_en": "Okuyama Daigongen",
+    "prefecture_en": "Shizuoka Prefecture",
+    "city_en": "Hamamatsu City, Okuyama area",
+    "date_pattern_en": "Annual (date varies; check locally)",
+    "summary_en": "The Mushi-okuri is an agricultural folk ritual in which the insects that damage rice crops are ceremonially \"sent\" to the local shrine — not killed, not repelled, but honored and removed. Participants carry torches and lanterns around the edges of their rice paddies in a procession that is understood to invite the insects to follow the lights to a new location, sparing the crops without the violence of extermination. The ceremony is a survival of an ancient animistic worldview in which insects inhabit spirits, and spirits can be negotiated with rather than simply destroyed. At Okuyama in Hamamatsu, the ceremony has merged with the area's famous firefly season, giving the Mushi-okuri the additional function of a firefly-appreciation event whose spiritual basis makes it more than a summer nature walk.",
+    "highlights_en": [
+      "Insects are ceremonially invited to follow torches away from the rice paddies — agricultural pest management conducted through spiritual negotiation rather than extermination",
+      "The animistic worldview that considers insects as spirit-bearing beings, addressable through ceremony, is preserved here in living practice",
+      "The firefly season overlay transforms a pest-management ceremony into one of Shizuoka's most atmospherically distinctive summer events"
+    ],
+    "origin_en": "Mushi-okuri ceremonies derive from ancient Japanese animist agricultural practice in which the spirits inhabiting pest insects were understood to be responsive to ceremonial invitation. The practice was widespread across Japan's rice-farming regions; Okuyama preserves one of the more intact surviving forms.",
+    "viewing_notes_en": "Local schedule confirmation required. A small, community-organized ceremony."
+  },
+  {
+    "id": "fest-040",
+    "name": "三重・富田の鯨船祭り（鳥出神社）",
+    "name_kana": "みえとみだのくじらぶねまつり",
+    "shrine": "鳥出神社",
+    "category": "animal",
+    "prefecture": "三重県",
+    "city": "四日市市富田",
+    "lat": 34.9904,
+    "lng": 136.631,
+    "date_pattern": "毎年11月頃（10月下旬〜11月上旬）※詳細は鳥出神社に要確認",
+    "date_2026": null,
+    "date_2026_end": null,
+    "summary": "三重県指定無形民俗文化財。かつて伊勢湾でクジラ漁が行われていた時代の記憶を今に伝える祭り。鯨船と呼ばれる特製の山車（鯨の形）を男たちが担いで町内を練り歩き、鯨を「捕獲」する様子を演じる。鯨漁の実際の所作（銛を打つ・縄で縛る）が劇的に再現され、地元の人々の生業の歴史が生きている。現代では鯨漁は行われていないが、この祭りだけがその記憶を保存している。亀山市から車で約30分のアクセスの良さ。",
+    "highlights": [
+      "巨大な鯨型山車が街を「泳ぐ」不思議な光景",
+      "鯨漁の所作を演じる「劇」としての祭りの面白さ",
+      "消えた産業の記憶が祭礼として保存される文化人類学的価値"
+    ],
+    "origin": "江戸時代、伊勢湾の鯨漁師たちが豊漁感謝と安全祈願のために始めたとされる。",
+    "official_url": null,
+    "reference_urls": [
+      "https://omatsurijapan.com/blog/kisai-47/"
+    ],
+    "viewing_notes": "無料。JR関西本線「富田駅」近郊。亀山市から車で約30分。",
+    "name_en": "Mie Tomida Whale Ship Festival (Toride Shrine)",
+    "shrine_en": "Toride Shrine",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Yokkaichi City",
+    "date_pattern_en": "Annual, mid-October (check locally)",
+    "summary_en": "In the former whaling communities of Ise Bay, the memory of cetacean hunting — an industry that shaped the culture, the diet, and the self-image of Japan's Pacific coast communities for centuries — survives in the Kujira-bune Matsuri (Whale Ship Festival) at Toride Shrine in Tomida. Men carry elaborate festival floats constructed to resemble whales — bamboo frames covered in white fabric, built to scale — through the streets in a performance that reenacts the drama of the whale hunt: the approach, the harpooning, the struggle, the catch. The floats are a designation of Mie Prefecture as an Intangible Cultural Property. In an era when the ethics of whale hunting have become a global point of contention, the Tomida ceremony occupies an unusual position: a preservation of a working-community relationship with a specific marine animal, encoded in festival form for a world in which that relationship has become impossible to continue.",
+    "highlights_en": [
+      "Bamboo-and-fabric whale floats carried through streets reenacting the hunt: an extinct industry's memory preserved in festival performance",
+      "The ceremony connects to centuries of Ise Bay coastal culture in which the whale was both economic necessity and spiritual presence",
+      "30 minutes from Kameyama: one of the region's most culturally specific and least-visited festival traditions"
+    ],
+    "origin_en": "The festival began in the Edo Period among fishing and whaling communities of Ise Bay as a thanksgiving and prayer ceremony. The whale-shaped floats represent gratitude to the whales whose bodies sustained the community and a prayer for the annual return of the pods.",
+    "viewing_notes_en": "Free. JR Kansai Main Line \"Tomida Station\" vicinity. Approximately 30 minutes from Kameyama by car."
+  },
+  {
+    "id": "fest-041",
+    "name": "石上神宮 鎮魂祭",
+    "name_kana": "いそのかみじんぐう ちんこんさい",
+    "shrine": "石上神宮",
+    "category": "other",
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "lat": 34.5967,
+    "lng": 135.8493,
+    "date_pattern": "毎年11月22日固定",
+    "date_2026": "2026-11-22",
+    "date_2026_end": null,
+    "summary": "日本最古の神社のひとつ・石上神宮で行われる「魂振り（たまふり）」の神事。冬至前に魂の活力が衰えるとされるこの時期、神剣（物部氏の守り刀）の前で剣を振ることで人間の霊魂を活性化させる「鎮魂」（たましずめ）の儀式が行われる。非公開・神職のみで行われる部分と、一般参拝が可能な部分が混在。古代大和の最高神事として、日本の「鎮魂」という概念の原型を今に伝える。境内には鶏が自由に歩き回る名物光景も。",
+    "highlights": [
+      "「魂を鎮める」という死生観が色濃い古代神事",
+      "鶏が自由に歩き回る神聖な境内（石上神宮名物）",
+      "万葉集にも登場する最古クラスの神社での神秘体験"
+    ],
+    "origin": "物部氏の武器庫として創建された石上神宮の最古の神事。「布都御魂（ふつのみたま）」という神剣に宿る霊力を活性化させる儀式として古代から続く。",
+    "official_url": "https://www.isonokami.jp/",
+    "reference_urls": [],
+    "viewing_notes": "一般参拝無料（神事の一部は非公開）。JR桜井線「天理駅」から奈良交通バスまたはタクシー。",
+    "name_en": "Isonokami Shrine Chinkon-sai (Soul-Vivification Ceremony)",
+    "shrine_en": "Isonokami Jingū",
+    "prefecture_en": "Nara Prefecture",
+    "city_en": "Tenri City",
+    "date_pattern_en": "Annual, November (date varies; check shrine)",
+    "summary_en": "Isonokami Jingū is one of Japan's oldest shrines — built before the current Nara city and possibly before the concept of an imperial capital existed — and it holds, in its inner sanctuary, a divine sword (Futsunomitama-no-Tsurugi) understood to be one of the most powerful sacred objects in the Japanese cosmological tradition. The Chinkon-sai (\"soul vivification ceremony\") is performed here around the time of the winter solstice, when the souls of living people are understood to wane alongside the diminishing sunlight. Shaking a sacred sword near an altar — the ancient gesture of tamafuri (soul-shaking) — is the mechanism by which the soul's energy is re-intensified, restoring vitality for the coming year. Witnessing a ceremony at Isonokami, with roosters still walking freely through the shrine precinct in a tradition that dates to the Nara Period, produces a sense of temporal displacement that few other functioning sacred sites can match.",
+    "highlights_en": [
+      "The ritual mechanism is literally sword-shaking to re-energize the human soul before winter — an ancient therapeutic cosmology conducted with a National Treasure blade",
+      "Roosters roam free through the shrine precincts as they have for 1,300 years: the most tangible evidence of the Nara Period you can encounter in modern Japan",
+      "One of Japan's oldest shrines performing one of its oldest ceremonies at the winter solstice — temporal compression of rare intensity"
+    ],
+    "origin_en": "The Chinkon-sai connects to the Mononobe clan's tradition as guardians of the imperial weapons treasury. The ceremony's tamafuri (soul-shaking) ritual is the oldest documented form of Japanese soul-maintenance practice, predating Buddhism and connected to the pre-Buddhist understanding of the soul as a vibrating living energy.",
+    "viewing_notes_en": "General access to the shrine is free; some ceremonial events are internal. JR Sakurai Line \"Tenri Station,\" then bus or taxi."
+  },
+  {
+    "id": "fest-042",
+    "name": "長浜のつや物祭",
+    "name_kana": "ながはまのつやものまつり",
+    "shrine": "長浜八幡宮",
+    "category": "other",
+    "prefecture": "滋賀県",
+    "city": "長浜市",
+    "lat": 35.3788,
+    "lng": 136.2731,
+    "date_pattern": "毎年11月中旬頃（要確認）",
+    "date_2026": null,
+    "date_2026_end": null,
+    "summary": "長浜市に伝わる古い秋の祭礼。「つや物」とは艶やかな装飾品・衣装のことを指し、豊かな秋の収穫に感謝し、来年の繁栄を祈る神事。豊臣秀吉ゆかりの長浜城下の歴史的文脈と合わせて、地域の伝統行事として長く守り継がれてきた。長浜曳山まつり（春）とは対をなす形で秋の長浜の文化を代表する祭礼のひとつ。地域密着の素朴な神事だが、北近江の歴史的景観の中で行われる点が魅力。",
+    "highlights": [
+      "長浜城下の歴史的文脈と合わさった秋の感謝祭",
+      "春の曳山祭と対をなす長浜の年中行事",
+      "北近江の歴史的景観の中で行われる地域密着の神事"
+    ],
+    "origin": "豊臣秀吉の長浜城主時代から継続されてきた長浜八幡宮の秋祭り。収穫感謝と来年の繁栄を祈る農耕神事に由来。",
+    "official_url": "https://nagahama-hikiyama.or.jp/",
+    "reference_urls": [],
+    "viewing_notes": "詳細日程は長浜八幡宮へ要確認。JR長浜駅から徒歩10分。",
+    "name_en": "Nagahama Tsuyamono Festival (Autumn Splendor Ceremony)",
+    "shrine_en": "Nagahama Hachimangu Shrine",
+    "prefecture_en": "Shiga Prefecture",
+    "city_en": "Nagahama City",
+    "date_pattern_en": "Annual, mid-October (date varies; check shrine)",
+    "summary_en": "In the castle-town of Nagahama, whose Hikiyama Festival in April is one of Japan's most celebrated UNESCO heritage events, the autumn calendar includes a harvest-thanksgiving ceremony centered on the display of \"tsuyamono\" — glossy, lustrous, beautiful objects — as offerings to the shrine's deity. The term tsuyamono (艶物) carries connotations of both physical luster and erotic attractiveness; the ceremony's original understanding of beauty as a form of divine currency — offering the most visually compelling things available as appreciation for the year's harvest — reflects a theological aestheticism that is characteristic of the Nagahama area's Toyotomi Hideyoshi connection. The ceremony operates in a quieter register than the Hikiyama Festival but rewards visitors who seek the autumnal, non-spectacular version of Nagahama's cultural depth.",
+    "highlights_en": [
+      "\"Tsuyamono\" — lustrous, beautiful objects — offered to a deity as the aesthetic equivalent of harvest thanks: theology as appreciation for beauty",
+      "Nagahama in October combines the Hachiman Matsuri atmosphere with fall foliage in a setting whose Edo-Period merchant-town character is better preserved than almost anywhere in Shiga",
+      "A quieter, more contemplative festival experience than the famous April events — Nagahama in autumn for those who have already done it in spring"
+    ],
+    "origin_en": "The autumn ceremony at Nagahama Hachiman Shrine traces to the Toyotomi Hideyoshi era of the 16th century, when Nagahama was a prosperous castle town and its merchants developed a tradition of offering their most luxurious goods to the shrine as harvest gifts.",
+    "viewing_notes_en": "Check schedule with Nagahama Hachimangu Shrine. JR Nagahama Station, 10-minute walk."
+  },
+  {
+    "id": "fest-043",
+    "name": "豊橋市 どんき祭",
+    "name_kana": "とよかわし どんきまつり",
+    "shrine": "長松寺",
+    "category": "animal",
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "lat": 34.8257,
+    "lng": 137.3757,
+    "date_pattern": "毎年12月第3日曜日",
+    "date_2026": "2026-12-20",
+    "date_2026_end": null,
+    "summary": "白狐・赤天狗・青天狗が子供たちを追いかけ回す奇祭。3体の神格的存在が境内を縦横に走り回り、出会った子供たちに触れると「厄払い」になるとされる。子供たちにとっては恐怖そのものだが、その恐怖体験が成長を促すとされる「通過儀礼」的な祭り。大人も手伝って子供を「わざと」狐・天狗の前に送り込む光景が笑えて怖い。12月の澄んだ空気の中、寺の境内を縦横に走り回る神獣たちのビジュアルは独特。",
+    "highlights": [
+      "狐・天狗に追いかけられて泣き叫ぶ子供たちの本気の恐怖",
+      "「子供を怖がらせることが御利益」という逆説的な愛",
+      "大人たちがニヤニヤしながら子供を前に押し出す光景"
+    ],
+    "origin": "長松寺の鎮守神（稲荷神・荼枳尼天）の縁日に行われる民俗行事。冬の厄除けとして狐・天狗が悪霊を祓うという信仰に由来する。",
+    "official_url": null,
+    "reference_urls": [
+      "https://kusanomido.com/life/kankou/92561/"
+    ],
+    "viewing_notes": "無料。名鉄名古屋本線「国府（こう）駅」から徒歩圏内。",
+    "name_en": "Toyohashi Donki Festival (Fox, Tengu, and Child-Chasing Rite)",
+    "shrine_en": "Chōshōji Temple (Inari deity)",
+    "prefecture_en": "Aichi Prefecture",
+    "city_en": "Toyohashi City",
+    "date_pattern_en": "Annual, early December (check locally)",
+    "summary_en": "In the temple grounds of Chōshōji in Toyohashi, three supernatural entities — a white fox, a red Tengu, and a blue Tengu — emerge to chase children through the precincts. Contact with these figures (running away is permitted, even recommended) transfers purification to the child and expels the misfortune of the year. The spectacle — small children being pursued by a white-faced fox figure and two dramatically costumed Tengu demons through a small temple compound — operates at a register that is simultaneously frightening and joyful, and the children who receive the touching experience what the ceremony has always promised: that fear, properly framed and ritually contained, is a form of growth. The Donki Matsuri is classified as a local folk ceremony of the Nagoya region and remains genuinely little-known outside Toyohashi.",
+    "highlights_en": [
+      "Children being chased through temple grounds by a white fox and two Tengu demons: ritual fear as purification delivery system",
+      "The theological logic — contact with the supernatural as the mechanism of annual cleansing — has remained unchanged since the ceremony's Edo Period origins",
+      "One of the Tōkai region's most genuinely obscure folk ceremonies: the lack of tourist infrastructure is part of the attraction"
+    ],
+    "origin_en": "The ceremony derives from the Inari fox and Tengu cult associated with the temple's guardian deities. Winter exorcism through supernatural encounter is a traditional Japanese therapeutic practice in which controlled fear clears the body of accumulated spiritual debris.",
+    "viewing_notes_en": "Free. Nagoya-tetsudō Main Line \"Kokufu Station\" vicinity."
+  },
+  {
+    "id": "fest-044",
+    "name": "春日若宮おん祭",
+    "name_kana": "かすがわかみやおんまつり",
+    "shrine": "春日大社・若宮",
+    "category": "other",
+    "prefecture": "奈良県",
+    "city": "奈良市",
+    "lat": 34.6814,
+    "lng": 135.849,
+    "date_pattern": "中心神事：12月15〜18日",
+    "date_2026": "2026-12-15",
+    "date_2026_end": "2026-12-18",
+    "summary": "890年（1136年に始まり以来）一度も途絶えたことがない日本最長連続開催の祭礼。大和の国最大の例祭。12月17日正午から始まる「お渡り式（時代行列）」は平安から江戸時代の装束をまとった行列が奈良市街を練り歩く圧巻の光景。深夜0時には「遷幸の儀」（神様が御旅所に遷座する際に明かりを一切消す闇夜の神事）、御旅所では14:30から深夜まで雅楽・神楽・田楽・猿楽・舞楽など日本古来の芸能が全ジャンル奉納される「生きた国宝の祭典」。",
+    "highlights": [
+      "890年間一度も休まなかった（戦争中・疫病中でも続けた）という執念",
+      "深夜0時の「遷幸の儀」：全ての明かりが消える完全な闇の神秘体験",
+      "神楽・田楽・猿楽・雅楽・能・狂言が一夜で全て見られる"
+    ],
+    "origin": "保延2年（1136年）、関白藤原忠通が五穀豊穣・国民安寧を祈願して若宮神の御祭りを始めたことに由来。以来890年、ひとつの祭りとして連続して行われてきた。",
+    "official_url": "https://www.kasugataisha.or.jp/",
+    "reference_urls": [
+      "https://naratrip.com/onmaturi"
+    ],
+    "viewing_notes": "お渡り式・お旅所祭は無料。12月17日午後は奈良市内が非常に混雑。深夜の遷幸の儀は暗闇の中で行われるため懐中電灯等持参。",
+    "name_en": "Kasuga Wakamiya On-matsuri (The Unbroken Festival)",
+    "shrine_en": "Kasuga Taisha (Wakamiya Shrine subsidiary)",
+    "prefecture_en": "Nara Prefecture",
+    "city_en": "Nara City",
+    "date_pattern_en": "Annual, December 17th (main procession); ceremonies extend December 15th–18th",
+    "summary_en": "The Kasuga Wakamiya On-matsuri has been performed every year since 1136 CE — 890-plus consecutive years — which qualifies it as one of the longest continuously held festival events in human history. The ceremony's theological purpose is to comfort the Wakamiya deity (a child-deity of Kasuga Taisha, Japan's great Fujiwara clan shrine) through performances of the arts — ancient court music, Noh theater, Kagura dance, Sarugaku comedy — that the deity is understood to enjoy. The procession on December 17th deploys hundreds of participants in period costumes from the Heian through Edo eras in a sequence that constitutes a full historical panorama of Japanese court and warrior dress. The ceremony's climax, the Otabisho rite conducted at the temporary shrine in the Shiba area from 2:00 PM, is the deity's own performance review of the day's offerings. A third ceremony — the Ochakai (tea ceremony) — and the midnight Senko-no-Gi (ceremonial lighting) round out an event whose full duration spans four days.",
+    "highlights_en": [
+      "890-plus consecutive years without missing a single annual performance: the most durably uninterrupted festival in Japan and one of the longest in the world",
+      "A deity comforted by court music, Noh, and comedy: the theological premise that arts are the highest form of divine offering",
+      "The midnight Senko-no-Gi torch-lighting ceremony, conducted in total darkness at the temporary shrine, is the most atmospherically charged moment in Nara's entire festival calendar"
+    ],
+    "origin_en": "The On-matsuri was established in 1136 CE by the Imperial Regent Fujiwara Tadamichi to pray for the relief of famine and plague. It has been performed every year since — through civil wars, epidemics, and natural disasters — as a formal obligation of the Kasuga institution to the Wakamiya deity.",
+    "viewing_notes_en": "The Otabisho procession and Noh performances are free to observe. December 17th afternoon in Nara is very crowded. The midnight Senko ceremony requires attendance in darkness; bring a flashlight."
+  },
+  {
+    "id": "fest-045",
+    "name": "鈴鹿の御頭神事（三重・椿大神社）",
+    "name_kana": "すずかのおんとうしんじ",
+    "shrine": "椿大神社（つばきおおかみやしろ）",
+    "category": "other",
+    "prefecture": "三重県",
+    "city": "鈴鹿市",
+    "lat": 34.8729,
+    "lng": 136.4786,
+    "date_pattern": "毎年12月頃（詳細要確認）",
+    "date_2026": null,
+    "date_2026_end": null,
+    "summary": "三重県鈴鹿市の椿大神社で行われる年末の神事。猿田彦大神の全国総本社として、年の締めくくりに神職が古式ゆかしい装束で神への報告と感謝を捧げる厳粛な祭礼。「御頭」とは年間の祭礼をとりしきる筆頭当番のことで、この神事をもって一年の祭礼が完結する。境内の大杉・杉並木に囲まれた凛とした空気の中で行われる儀式は、年末の三重の清冽な寒さと相まって独特の神聖感を醸し出す。亀山市から車で約30分の身近な聖地。",
+    "highlights": [
+      "猿田彦大神の全国総本社での年締め神事",
+      "古式の装束で行われる厳粛な儀式の重みある空間",
+      "亀山市から車30分という近さで本格的な神事体験が可能"
+    ],
+    "origin": "猿田彦大神の年間祭礼の締めくくりとして古くから行われてきた神事。伊勢神宮との関係が深い椿大神社の格式ある年末儀礼。",
+    "official_url": "https://tsubaki.or.jp/",
+    "reference_urls": [],
+    "viewing_notes": "詳細日程は椿大神社へ要確認。参拝自由（無料）。亀山ICから車で約30分。",
+    "name_en": "Suzuka Mito Shinji (Year-End Ceremony at Tsubaki Grand Shrine)",
+    "shrine_en": "Tsubaki Grand Shrine",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Suzuka City",
+    "date_pattern_en": "Annual, late December (check shrine for exact date)",
+    "summary_en": "At the national head shrine of Sarutahiko-no-Ōkami in Suzuka, the year's final major ceremony is an austere, formalized reporting to the deity of the year's events — a divine debriefing in which the chief priest, in ancient court dress, presents an account of the year's ceremonies, offerings, and the general state of the nation to the shrine's deity, who is understood to receive this information before the year closes. The ceremony's character reflects Tsubaki Shrine's role as a path-opening shrine (michi-biraki): it is not a celebration but a formal close, a completion of the annual ritual cycle in the presence of the deity who guides transitions and crossroads. For visitors familiar with Tsubaki's spring and summer ceremonies, this year-end ceremony provides a contemplative counterpoint that reveals the shrine's ceremonial depth.",
+    "highlights_en": [
+      "A formal year-end report to a deity — the divine accounting of the annual cycle, presented in ancient court dress",
+      "Tsubaki Shrine's role as a crossroads and path-opening deity gives the year-end ceremony a specifically transitional character",
+      "30 minutes from Kameyama: Tsubaki's full ceremonial calendar is accessible as a local annual circuit"
+    ],
+    "origin_en": "The Mito Shinji connects to the ancient practice of nenkan-houkoku (annual divine report) — the tradition in which shrine priests formally communicate the year's events to the resident deity before the year closes. At Tsubaki, the ceremony's format reflects the shrine's proximity to the Ise Jingū ceremonial tradition.",
+    "viewing_notes_en": "Exact date requires confirmation with Tsubaki Grand Shrine. Accessible from Kameyama IC by car in approximately 30 minutes."
+  },
+  {
+    "id": "fest-046",
+    "name": "石上神宮 摂社での元旦祭・産声祭",
+    "name_kana": "いそのかみじんぐう もとたんさい こわいさい",
+    "shrine": "石上神宮",
+    "category": "other",
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "lat": 34.5967,
+    "lng": 135.8493,
+    "date_pattern": "毎年1月1日",
+    "date_2026": "2026-01-01",
+    "date_2026_end": null,
+    "summary": "日本最古の神社のひとつ・石上神宮での元旦神事。布都御魂剣（ふつのみたまのつるぎ）を御神体とする石上神宮では、元旦に特別な「産声（こわい）祭」が行われ、新しい年の命の声を神に捧げる。鶏が自由に歩き回る境内は新年の夜明けに幻想的な雰囲気を呈し、古代大和の信仰がそのまま現代に残る霊場体験ができる。万葉集・記紀にも登場する日本最古クラスの神社での年明け体験は格別。",
+    "highlights": [
+      "布都御魂剣を御神体とする最古神社での年明け神事",
+      "鶏が歩き回る境内での夜明け参拝という非日常体験",
+      "古代大和の信仰が現代に残る時間旅行感"
+    ],
+    "origin": "物部氏の総氏神として古代から行われてきた新年神事。物部氏が所持した神剣・布都御魂剣の霊力を新年に再活性化する意義を持つ。",
+    "official_url": "https://www.isonokami.jp/",
+    "reference_urls": [],
+    "viewing_notes": "参拝自由（無料）。元旦早朝は非常に混雑。JR桜井線「天理駅」からバス・タクシー。",
+    "name_en": "Isonokami Shrine New Year Ceremony (Birth Cry Festival)",
+    "shrine_en": "Isonokami Jingū",
+    "prefecture_en": "Nara Prefecture",
+    "city_en": "Tenri City",
+    "date_pattern_en": "Annual, January 1st",
+    "summary_en": "Japan's oldest shrine — Isonokami Jingū, whose founding predates the Imperial capital at Nara — greets the New Year with a ceremony unique in the Japanese ceremonial calendar: the Ubugoe-sai (Birth Cry Festival), in which the sounds of new life are presented to the shrine's divine sword as an offering of vitality for the coming year. The free-roaming roosters that have occupied the shrine precincts since the Nara Period are the ceremony's living participants: their crowing at dawn constitutes the original \"birth cry\" (ubugoe) offered to the ancient sword deity to inaugurate the year. The resulting New Year atmosphere at Isonokami — ancient shrine, dawn darkness, free-ranging birds, a sword whose power the ceremony is invoking — has no equivalent in the Yamato region.",
+    "highlights_en": [
+      "A sacred sword receives the cries of newborn life as its New Year offering — a theological specificity that rewards time spent understanding it",
+      "Roosters roaming the shrine grounds as they have for 1,300 years, crowing at dawn as the ceremony's primary participants",
+      "Japan's oldest shrine on New Year's dawn: the most temporally compressed moment in the Yamato region's annual ceremonial calendar"
+    ],
+    "origin_en": "The ceremony connects to the Mononobe clan's ancient tradition of offering the first sounds of the new year to their guardian sword deity. The roosters' connection to the Isonokami tradition relates to the ancient Japanese identification of the rooster's dawn cry with the sun's revival — the cry that ends darkness.",
+    "viewing_notes_en": "Free. Extremely crowded on January 1st morning. JR Sakurai Line \"Tenri Station,\" then bus or taxi. Arrive before dawn for the full ceremonial atmosphere."
+  },
+  {
+    "id": "fest-047",
+    "name": "多度大社 初詣・元旦馬駆け（新年神事）",
+    "name_kana": "たどたいしゃ はつもうで もとたんうまかけ",
+    "shrine": "多度大社",
+    "category": "animal",
+    "prefecture": "三重県",
+    "city": "桑名市多度町",
+    "lat": 35.0702,
+    "lng": 136.617,
+    "date_pattern": "毎年1月1日〜3日（元旦馬駆けは1月初旬）",
+    "date_2026": "2026-01-01",
+    "date_2026_end": "2026-01-03",
+    "summary": "三重県最大の初詣スポットでもある多度大社の新年神事。元旦から数日間、神馬（しんめ）が境内を走り抜ける「元旦馬駆け」が行われ、馬の走りでその年の吉凶を占う伝統的な神事。多度大神が白馬に乗って天上から降臨したという伝承を持つ同社では、馬は神の使いとして特別な意味を持つ。5月の上げ馬神事と対をなす冬の馬神事として地元に根付いている。亀山市から車で約40分の近さで三重の代表的な新年行事。",
+    "highlights": [
+      "神馬が境内を走り抜ける元旦馬駆けでその年の吉凶を占う",
+      "5月の上げ馬神事と対をなす冬の馬神事",
+      "亀山市から車で約40分という近さで行ける三重の代表初詣"
+    ],
+    "origin": "多度大神が白馬に乗って降臨したという伝承に基づく新年神事。上げ馬神事の起源と同じく奈良時代から続くとされる。",
+    "official_url": "https://senkyo-news.jp/tado-matsuri/",
+    "reference_urls": [],
+    "viewing_notes": "無料。初詣期間中は非常に混雑。近鉄養老線「多度駅」から徒歩20分。駐車場あり（正月は混雑）。",
+    "name_en": "Tado Taisha New Year Horse Race (New Year Shinto Rite)",
+    "shrine_en": "Tado Taisha Shrine",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Kuwana City",
+    "date_pattern_en": "Annual, January 1st–3rd",
+    "summary_en": "Tado Taisha — Mie Prefecture's largest New Year destination, drawing hundreds of thousands of visitors over the first three days of January — pairs its popular first-visit (hatsumōde) with the Gantan Uma Kake: a New Year horse race in which sacred horses (shinme) gallop through the shrine grounds as a divination of the coming year's prospects. The ritual connects directly to the shrine's founding mythology, in which the great deity Tado-no-Kami descended from the heavens on a white horse — so each year's race is a re-enactment of arrival, an annual re-commissioning of divine presence. The race is a calmer and more solemn counterpart to the shrine's famous May Agemba rite (the horse-climbing ceremony), offering a quieter but no less meaningful encounter with Tado's defining equine symbolism.",
+    "highlights_en": [
+      "Sacred horses galloping through the shrine grounds as a New Year divination — the divine arrival re-enacted annually",
+      "The largest New Year pilgrimage destination in Mie Prefecture: the atmosphere of hundreds of thousands sharing a sacred space",
+      "A counterpart to the famous May Agemba ceremony: the same equine symbolism in its quietest, most solemn register"
+    ],
+    "origin_en": "The New Year horse rite connects to Tado's founding legend of a deity descending on a white horse. Annual horse ceremonies at Tado are believed to date to the Nara Period, when the shrine was established as a major cultic center of the Yamato state.",
+    "viewing_notes_en": "Free. Extremely crowded January 1st–3rd. Kintetsu Yōrō Line 'Tado Station,' then 20-minute walk. Parking available but congested during the New Year period."
+  }
+]

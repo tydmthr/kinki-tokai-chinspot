@@ -1,0 +1,586 @@
+{
+  "spot-001": {
+    "name": "田縣神社",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Tagata_jinja_haiden_2020-12_ac_%281%29.jpg",
+    "credit": "Wikipedia / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-002": {
+    "name": "大縣神社",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/20/%C5%8Cagata-jinja_Haiden.jpg",
+    "credit": "Wikipedia / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-003": {
+    "name": "五色園",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Goshikien3.JPG",
+    "credit": "Wikipedia / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-004": {
+    "name": "桃太郎神社",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/28/Momotaro_shrine%2C_Inuyama_2006_-_%E6%A1%83%E5%A4%AA%E9%83%8E%E7%A5%9E%E7%A4%BE_%28%E7%8A%AC%E5%B1%B1%E5%B8%82%2903.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-005": {
+    "name": "養老天命反転地",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/8/87/Takidani_Yoro_Park_2008-9-24.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-006": {
+    "name": "関ケ原ウォーランド",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sekigahara_war_land1.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-007": {
+    "name": "珍品センター（珍品城）",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "spot-008": {
+    "name": "熱海秘宝館",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Atami_Hihoukan%2C_Atami%2C_Shizuoka%2C_Japan.JPG",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-009": {
+    "name": "怪しい少年少女博物館",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "spot-010": {
+    "name": "奥摩耶遊園地跡",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/3/3a/MAYASANHOTEL.JPG",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-011": {
+    "name": "太陽の塔（内部）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/3/36/131116_Expo_Commemoration_Park_Suita_Osaka_pref_Japan01s3.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-012": {
+    "name": "難波八阪神社",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/5/50/Namba-yasaka-jinja_haiden1.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-013": {
+    "name": "生駒山上遊園地",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Ikoma_Hikoutou01.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-014": {
+    "name": "旧奈良監獄（ならまちごぜんと）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/b/ba/130316_Nara_Juvenile_Prison_Nara_Japan01s3.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-015": {
+    "name": "信楽巨大狸群",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/241109_Tanikangama_Shigaraki_Koka_Shiga_pref_Japan14s3.jpg/1280px-241109_Tanikangama_Shigaraki_Koka_Shiga_pref_Japan14s3.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-016": {
+    "name": "花の窟神社",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Michinoeki_Kumano-Hananoiwaya_04.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-017": {
+    "name": "二見興玉神社・夫婦岩",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Hiroshige%2C_Futamigaura_in_Ise_Province%2C_1858.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-018": {
+    "name": "旧女鬼トンネル",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/e2/%E7%86%8A%E9%87%8E%E5%8F%A4%E9%81%93%E4%BC%8A%E5%8B%A2%E8%B7%AF%E5%A5%B3%E9%AC%BC%E5%B3%A0_04.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-019": {
+    "name": "旧長野トンネル周辺",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/d/d2/%E6%97%A7%E9%95%B7%E9%87%8E%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB%E6%B4%A5.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-020": {
+    "name": "湯の山温泉廃墟群（杉屋旅館等）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/8/80/Yunoyama_onsen_%2C_%E6%B9%AF%E3%81%AE%E5%B1%B1%E6%B8%A9%E6%B3%89_-_panoramio.jpg",
+    "credit": "Wikimedia Commons / panoramio contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-021": {
+    "name": "化野念仏寺",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/1/12/Adashino_nenbutsuji01s3200.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-022": {
+    "name": "首塚大明神",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Kubizuka_Daimyoujin_Annual_festival_April_15%2C_2019_IMG_20190415_095838.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-023": {
+    "name": "鳥辺野（京都の古代葬送地）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/a4/%E9%B3%A5%E8%BE%BA%E9%87%8E%E5%A6%99%E8%A6%8B%E5%A0%82_-_panoramio.jpg",
+    "credit": "Wikimedia Commons / panoramio contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-024": {
+    "name": "犬鳴山トンネル",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/f/f0/%E7%8A%AC%E9%B3%B4%E5%B1%B1%E6%B8%93%E8%B0%B7_2013.11.23_-_panoramio.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-025": {
+    "name": "鵺塚",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/6/67/Kuniyoshi_Taiba_%28The_End%29.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-026": {
+    "name": "白高大神廃神社",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/2c/%E3%80%8C%E7%99%BD%E9%AB%98%E5%A4%A7%E6%98%8E%E7%A5%9E%E3%80%8D%E3%81%A8%E3%80%8C%E5%A4%A9%E6%B4%A5%E5%BD%A6%E5%A4%A7%E7%A5%9E%E3%80%8D_%E4%BA%94%E6%A2%9D%E5%B8%82%E5%8C%97%E5%B1%B1%E7%94%BA_2013.4.18_-_panoramio.jpg",
+    "credit": "Wikimedia Commons / panoramio contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-027": {
+    "name": "旧摩耶観光ホテル（マヤカン）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/3/3a/MAYASANHOTEL.JPG",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-028": {
+    "name": "友ヶ島旧日本軍要塞砲台跡",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/1/18/%E5%8F%8B%E3%81%8C%E5%B3%B6%E3%83%BB%E7%B4%80%E6%B7%A1%E6%B5%B7%E5%B3%A1PA071003.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-029": {
+    "name": "貴船神社（丑の刻参り発祥地）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Kibune_Shinto_Shrine001.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-030": {
+    "name": "伏見稲荷大社（奥の院）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/6/64/Fushimiinari-taisha%2C_gehaiden-1.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-031": {
+    "name": "頭塔（奈良のピラミッド）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Zuto_2022.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-032": {
+    "name": "酒船石遺跡・亀形石造物",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Asuka_Sakafune-ishi.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-033": {
+    "name": "益田岩船",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/1/16/Masuda-no-Iwafune-2-2.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-034": {
+    "name": "竹田城跡（天空の城）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/26/%E7%AB%B9%E7%94%B0%E5%9F%8E.JPG",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-035": {
+    "name": "高野山奥の院",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/1/17/Danjogaran_Koyasan12n3200.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-036": {
+    "name": "玉置神社",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/5/54/Tamaki_Jinja%2C_Totsukawa004.JPG",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-037": {
+    "name": "天河弁財天社",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/3/35/Tenkawa-dai-Benzaiten-sha_01.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-038": {
+    "name": "花の窟神社（橋杭岩・那智の滝セット）橋杭岩",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/3/36/180429_Hashiguiiwa_Kushimoto_Wakayama_pref_Japan02bs.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-039": {
+    "name": "那智の滝",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Kumano_Kodo_World_heritage_Nachi-no-taki_%E7%86%8A%E9%87%8E%E5%8F%A4%E9%81%93_%E9%82%A3%E6%99%BA%E5%A4%A7%E6%BB%9D10.JPG",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-040": {
+    "name": "椿大神社（奥の宮・かなえの滝）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/7/74/Tsubaki-shrine.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-041": {
+    "name": "丸山千枚田",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/e6/2011_07_13%E4%B8%B8%E5%B1%B1%E5%8D%83%E6%9E%9A%E7%94%B0%E5%85%A8%E6%99%AF.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-042": {
+    "name": "鬼ヶ城",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/0/01/Oniga-jo01.JPG",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-043": {
+    "name": "獅子岩",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Shishiiwa_Onigajo_Shichirimihama.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-044": {
+    "name": "多賀大社",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Taga-taisha%2C_shaden-1.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-045": {
+    "name": "養老の滝と酔っ払い伝説",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Yoro-waterfall.JPG",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-046": {
+    "name": "白川郷（ひぐらしの村）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Shirakawa-go_%282017-07-22%29.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-047": {
+    "name": "伊豆極楽苑",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "spot-048": {
+    "name": "竜宮窟",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Shimoda_Ryugu-Seeh%C3%B6hle_am_Abend_02.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-049": {
+    "name": "飛び出し坊やの発祥地",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tobidashi-Boys_in_Shiga.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "spot-050": {
+    "name": "岐阜レトロミュージアム",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/3/39/Gifu_Retro_Museum_20221009_03.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA",
+    "alt_photos": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/17/Gifu_Retro_Museum_20221009_05.jpg"
+    ]
+  },
+  "fest-001": {
+    "name": "法界寺 裸踊り（修正会）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Hokaiji05s1920.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-002": {
+    "name": "四天王寺 どやどや（修正会結願法要）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/8/82/Shitennoji06s3200.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-003": {
+    "name": "西宮神社 開門神事 福男選び",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/9/99/Nishinomiya-jinja02st3200.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-004": {
+    "name": "国府宮はだか祭（儺追神事）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/6/66/Kounomiya-hadakamaturi.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-005": {
+    "name": "飛鳥坐神社 おんだ祭（田遊び）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/0/08/Asukaniimasu-jinja04n3900.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-006": {
+    "name": "神倉神社 お燈祭り（御燈祭り）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/4/44/Kamikura-jinja%2C_shaden.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-007": {
+    "name": "尾鷲ヤーヤ祭り",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Owase_Shrine_%28Jinja%29_-_panoramio.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-008": {
+    "name": "豊橋鬼祭り（安久美神戸神明社例祭）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/6/6c/%E6%84%9B%E7%9F%A5%E7%9C%8C%E8%B1%8A%E6%A9%8B%E5%B8%82_20250211_1711-3.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-009": {
+    "name": "砂かけ祭り",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/0/0b/HIROSE_TAISHA_TAIHO.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA ※廣瀬大社（奈良）の砂かけ祭り関連",
+    "alt_photos": []
+  },
+  "fest-010": {
+    "name": "田縣神社 豊年祭",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Tagata_jinja_haiden_2020-12_ac_%281%29.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-011": {
+    "name": "大縣神社 豊年祭（おおがた祭）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/20/%C5%8Cagata-jinja_Haiden.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-012": {
+    "name": "東大寺 修二会（お水取り・お松明）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/3/33/Todaiji_Syunie_Nara_JPN_001.JPG",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-013": {
+    "name": "嵯峨お松明式（清凉寺）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Seiryoji_temple_%288278704083%29.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-014": {
+    "name": "淡嶋神社 雛流し",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/5/58/Awashima-jinja%2C_haiden.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-015": {
+    "name": "大瀬まつり（内浦漁港祭）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Hikitechikaranomikoto_Jinja.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-016": {
+    "name": "やすらい祭（玄武神社）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/d/da/Imamiya.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-017": {
+    "name": "手力の火祭り（手力雄神社）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/0/09/Chikuma_Shrine_20210413_04.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-018": {
+    "name": "長浜曳山まつり（子ども歌舞伎）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/5/56/Children_kabuki_theater_in_Nagahama_%28lady_Shizuka%2C_10_y.o.%29%3B_2013.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-019": {
+    "name": "古川祭 起し太鼓",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Furukawa-yatai.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-020": {
+    "name": "春の高山祭（山王祭）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/6/67/Kagura_Tai_Float.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-021": {
+    "name": "多度大社 上げ馬神事（多度祭）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Tado_Taisha01.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-022": {
+    "name": "伊雑宮 御田植祭（磯部の御神田）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Izawa-no-miya_07.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-023": {
+    "name": "鍋冠祭（なべかぶりまつり）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/e3/%E4%B9%85%E9%9A%85%E5%AE%88%E6%99%AF%E3%80%8A%E9%8D%8B%E5%86%A0%E7%A5%AD%E5%9B%B3%E6%8A%BC%E7%B5%B5%E8%B2%BC%E5%B1%8F%E9%A2%A8%E3%80%8B17%E4%B8%96%E7%B4%80%E3%80%81%E6%B1%9F%E6%88%B8%E6%99%82%E4%BB%A3.jpg",
+    "credit": "Wikimedia Commons / 久隅守景（江戸時代の絵師）/ パブリックドメイン",
+    "alt_photos": []
+  },
+  "fest-024": {
+    "name": "熊野那智大社 那智の扇祭り（那智の火祭）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Shrine_Kumano_nachi01.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-025": {
+    "name": "豊浜鯛まつり",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Taimatsuri1.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-026": {
+    "name": "潮かけ祭り（大島祭）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Wagu_Yakumo_Shrine.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-027": {
+    "name": "祇園祭 山鉾巡行",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Gion_Matsuri_2017-5.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-028": {
+    "name": "京都 五山送り火",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Gozanokuribi_Daimonji3.JPG",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-029": {
+    "name": "桑名石取祭（日本一やかましい祭）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/3/36/IshidoriMatsuri.JPG",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-030": {
+    "name": "刈谷万燈祭（秋葉社の祭礼）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Kariya_Mando_Matsuri_2022_ac_%282%29.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-031": {
+    "name": "近江中山の芋競べ祭り",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/e6/%E6%97%A5%E9%87%8E%E7%A5%AD_%E7%B6%BF%E5%90%91%E7%A5%9E%E7%A4%BE%E5%A2%83%E5%86%85%E6%9B%B3%E5%B1%B1%E3%81%AE%E4%B8%A6%E3%81%B31.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA ※日野町綿向神社の日野祭",
+    "alt_photos": []
+  },
+  "fest-032": {
+    "name": "大阪 セルフ祭（七宮詣り）",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "fest-033": {
+    "name": "采女祭（うねめまつり）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/0/02/Uneme_Jinja_in_Nara.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-034": {
+    "name": "鞍馬の火祭（由岐神社 神幸祭）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Fire_festival_of_KURAMA_Kyoto%2C_Japan.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-035": {
+    "name": "灘のけんか祭り（松原八幡神社秋季例大祭）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/8/84/Nada_no_Kenka_matsuri_%2C_himeji01.JPG",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-036": {
+    "name": "丹生祭（笑い祭）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Niutsuhime-jinja_roumon-3.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-037": {
+    "name": "飛騨高山 秋祭り（八幡祭）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/6/67/Kagura_Tai_Float.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-038": {
+    "name": "広隆寺 牛祭り（太秦牛祭）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Kouryuji_Taishiden.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-039": {
+    "name": "奥山大権現 虫送り（奥山ほたる祭）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/0/06/Hokoji-hondo.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-040": {
+    "name": "三重・富田の鯨船祭り（鳥出神社）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Kujirabune01.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-041": {
+    "name": "石上神宮 鎮魂祭",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Isonokami_Jingu_Haiden1.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-042": {
+    "name": "長浜のつや物祭",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/c9/180922_Nagahama_Castle_Nagahama_Shiga_pref_Japan01.JPG",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-043": {
+    "name": "豊橋市 どんき祭",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "fest-044": {
+    "name": "春日若宮おん祭",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Onmatsuri7.jpeg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-045": {
+    "name": "鈴鹿の御頭神事（三重・椿大神社）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/7/74/Tsubaki-shrine.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-046": {
+    "name": "石上神宮 摂社での元旦祭・産声祭",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Isonokami_Jingu_Haiden1.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  },
+  "fest-047": {
+    "name": "多度大社 初詣・元旦馬駆け（新年神事）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tado-taisha%2C_hongu_and_betsugu.jpg",
+    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "alt_photos": []
+  }
+}

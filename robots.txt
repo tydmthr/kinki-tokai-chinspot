@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /qa_*.png
+
+Sitemap: https://bizarrejapan.com/sitemap.xml
