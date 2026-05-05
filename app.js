@@ -558,6 +558,7 @@ function openSpotDetail(s) {
       <ul class="m-highlights">${highlights.map(h => `<li>${h}</li>`).join('')}</ul>
     </div>` : ''}
     ${buildAccessBlock(s.access)}
+    ${buildVisitDiaryButton(s.id) ? `<div class="m-section v-diary-section">${buildVisitDiaryButton(s.id)}</div>` : ''}
     ${buildDeepdiveBlock(s)}
     ${buildRelatedSpotsBlock(s)}
     <div class="m-section">
@@ -572,6 +573,7 @@ function openSpotDetail(s) {
   openModal(html);
   bindVisitButtons();
   bindRelatedClicks();
+  bindVisitDiaryButton();
   // URL更新
   const u = new URL(location.href);
   u.searchParams.set('spot', s.id);
@@ -622,6 +624,7 @@ function openFestivalDetail(f) {
       <p class="m-summary">${viewing}</p>
     </div>` : ''}
     ${buildAccessBlock(f.access)}
+    ${buildVisitDiaryButton(f.id) ? `<div class="m-section v-diary-section">${buildVisitDiaryButton(f.id)}</div>` : ''}
     ${buildDeepdiveBlock(f)}
     ${buildRelatedSpotsBlock(f)}
     <div class="m-section">
@@ -637,6 +640,7 @@ function openFestivalDetail(f) {
   openModal(html);
   bindVisitButtons();
   bindRelatedClicks();
+  bindVisitDiaryButton();
   const u = new URL(location.href);
   u.searchParams.set('festival', f.id);
   history.replaceState(null, '', u);
@@ -1001,8 +1005,109 @@ window.refreshAll = function() {
   applyMapFilter();
 };
 
+// ============ 訪問記（オーナーの体験談） ============
+let VISITS_INDEX = {};  // id -> visit obj
+
+async function loadVisitsIndex() {
+  try {
+    const r = await fetch('visits/index.json', { cache: 'no-cache' });
+    if (!r.ok) return;
+    const data = await r.json();
+    (data.visits || []).forEach(v => { VISITS_INDEX[v.id] = v; });
+  } catch (e) { console.warn('No visits index:', e); }
+}
+
+// Markdown以下の値だけサポート（見出し、段落、強調、リスト、リンク、画像）
+function renderMarkdown(md) {
+  if (!md) return '';
+  let html = md
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+
+  // 画像 ![alt](src) → <img>
+  html = html.replace(/!\[([^\]]*)\]\(([^)\s]+)(?:\s+"[^"]*")?\)/g,
+    (_m, alt, src) => {
+      const fullSrc = src.startsWith('http') ? src : 'visits/' + src;
+      return `<figure class="v-fig"><img src="${fullSrc}" alt="${alt}" loading="lazy"/>${alt ? `<figcaption>${alt}</figcaption>` : ''}</figure>`;
+    });
+
+  // リンク [text](url)
+  html = html.replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g,
+    '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>');
+
+  // 見出し
+  html = html.replace(/^### (.+)$/gm, '<h3 class="v-h3">$1</h3>');
+  html = html.replace(/^## (.+)$/gm, '<h2 class="v-h2">$1</h2>');
+  html = html.replace(/^# (.+)$/gm, '<h1 class="v-h1">$1</h1>');
+
+  // リスト
+  html = html.replace(/(?:^- .+(?:\n|$))+/gm, m => {
+    const items = m.trim().split('\n').map(l => `<li>${l.replace(/^- /, '')}</li>`).join('');
+    return `<ul class="v-ul">${items}</ul>`;
+  });
+
+  // 強調 **text**
+  html = html.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+
+  // 段落（1行だけの行はそのまま、連続行はそのまま、空行で区切る）
+  const blocks = html.split(/\n\n+/);
+  html = blocks.map(b => {
+    const trimmed = b.trim();
+    if (!trimmed) return '';
+    if (trimmed.startsWith('<h') || trimmed.startsWith('<ul') || trimmed.startsWith('<figure')) {
+      return trimmed;
+    }
+    return `<p>${trimmed.replace(/\n/g, '<br>')}</p>`;
+  }).join('\n');
+
+  return html;
+}
+
+function buildVisitDiaryButton(itemId) {
+  const v = VISITS_INDEX[itemId];
+  if (!v) return '';
+  return `
+    <button class="v-diary-btn" data-visit-id="${itemId}">
+      <i class="ph-fill ph-notepad"></i>
+      <span>訪問記を読む</span>
+      ${v.visited_date ? `<small>${v.visited_date}</small>` : ''}
+    </button>`;
+}
+
+function openVisitDiary(itemId) {
+  const v = VISITS_INDEX[itemId];
+  if (!v) return;
+  const stars = v.rating ? '★'.repeat(parseInt(v.rating)) + '☆'.repeat(5 - parseInt(v.rating)) : '';
+  const meta = [];
+  if (v.visited_date) meta.push(`<span><i class="ph ph-calendar"></i> ${v.visited_date}</span>`);
+  if (v.weather) meta.push(`<span><i class="ph ph-sun"></i> ${v.weather}</span>`);
+  if (v.companions) meta.push(`<span><i class="ph ph-users"></i> ${v.companions}</span>`);
+  if (v.duration) meta.push(`<span><i class="ph ph-clock"></i> ${v.duration}</span>`);
+  if (stars) meta.push(`<span class="v-stars">${stars}</span>`);
+
+  const html = `
+    <div class="v-diary">
+      <div class="v-badge"><i class="ph-fill ph-notepad"></i> 訪問記・オーナーの体験談</div>
+      <div class="v-meta">${meta.join('')}</div>
+      <div class="v-body">${renderMarkdown(v.body)}</div>
+    </div>`;
+  openModal(html);
+}
+
+function bindVisitDiaryButton() {
+  const btn = modalContent.querySelector('.v-diary-btn');
+  if (!btn) return;
+  btn.addEventListener('click', () => {
+    const id = btn.dataset.visitId;
+    closeModal();
+    setTimeout(() => openVisitDiary(id), 200);
+  });
+}
+
 // ============ INIT ============
-window.addEventListener('DOMContentLoaded', () => {
+window.addEventListener('DOMContentLoaded', async () => {
+  await loadVisitsIndex();
   applyI18n();
   updateCounts();
   initMap();
