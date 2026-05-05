@@ -380,6 +380,152 @@ function getYouTubeQuery(item) {
   return `https://www.youtube.com/results?search_query=${encodeURIComponent(q)}`;
 }
 
+// Markdown links [text](url) → HTML <a> 、改行を <br> に変換
+function renderMdLinks(text) {
+  if (!text) return '';
+  const escaped = String(text)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+  // Convert [text](url) to <a>
+  const linked = escaped.replace(
+    /\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g,
+    '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>'
+  );
+  return linked.replace(/\n/g, '<br>');
+}
+
+function buildDeepdiveBlock(item) {
+  const d = item.deepdive;
+  if (!d) return '';
+  const sections = [];
+
+  // 歴史・伝承
+  if (d.history_jp) {
+    sections.push(`
+      <details class="m-deep" open>
+        <summary class="m-deep-h"><i class="ph ph-scroll"></i> 歴史・伝承</summary>
+        <div class="m-deep-body">${renderMdLinks(d.history_jp)}</div>
+      </details>`);
+  }
+  if (d.cultural_context_jp) {
+    sections.push(`
+      <details class="m-deep">
+        <summary class="m-deep-h"><i class="ph ph-globe-hemisphere-east"></i> 文化的位置づけ</summary>
+        <div class="m-deep-body">${renderMdLinks(d.cultural_context_jp)}</div>
+      </details>`);
+  }
+  if (d.local_perspective_jp) {
+    sections.push(`
+      <details class="m-deep">
+        <summary class="m-deep-h"><i class="ph ph-users-three"></i> 地元の視点</summary>
+        <div class="m-deep-body">${renderMdLinks(d.local_perspective_jp)}</div>
+      </details>`);
+  }
+  if (d.related_works) {
+    sections.push(`
+      <details class="m-deep">
+        <summary class="m-deep-h"><i class="ph ph-books"></i> 関連作品・人物</summary>
+        <div class="m-deep-body">${renderMdLinks(d.related_works)}</div>
+      </details>`);
+  }
+  if (d.trivia) {
+    sections.push(`
+      <details class="m-deep">
+        <summary class="m-deep-h"><i class="ph ph-lightbulb"></i> 豆知識</summary>
+        <div class="m-deep-body">${renderMdLinks(d.trivia)}</div>
+      </details>`);
+  }
+  if (d.best_visit_time || d.photo_tips || d.warnings_extra) {
+    const tips = [];
+    if (d.best_visit_time) tips.push(`<p><strong>ベスト訪問時期：</strong>${renderMdLinks(d.best_visit_time)}</p>`);
+    if (d.photo_tips) tips.push(`<p><strong>写真スポット：</strong>${renderMdLinks(d.photo_tips)}</p>`);
+    if (d.warnings_extra) tips.push(`<p><strong>注意事項：</strong>${renderMdLinks(d.warnings_extra)}</p>`);
+    sections.push(`
+      <details class="m-deep">
+        <summary class="m-deep-h"><i class="ph ph-camera"></i> 訪問・撮影のヒント</summary>
+        <div class="m-deep-body">${tips.join('')}</div>
+      </details>`);
+  }
+  if (d.external_reviews) {
+    sections.push(`
+      <details class="m-deep" open>
+        <summary class="m-deep-h"><i class="ph ph-newspaper-clipping"></i> 他の人の訪問記</summary>
+        <div class="m-deep-body m-reviews">${renderMdLinks(d.external_reviews)}</div>
+      </details>`);
+  }
+  if (d.sources) {
+    sections.push(`
+      <details class="m-deep">
+        <summary class="m-deep-h"><i class="ph ph-quotes"></i> 参考出典</summary>
+        <div class="m-deep-body m-sources">${renderMdLinks(d.sources)}</div>
+      </details>`);
+  }
+  if (sections.length === 0) return '';
+  return `
+    <div class="m-section m-deepdive">
+      <h3 class="m-h"><i class="ph ph-binoculars"></i> 深掘り情報</h3>
+      ${sections.join('')}
+    </div>`;
+}
+
+// 関連スポット推薦：同じ連携ルート または 同都道府県・近距離
+function buildRelatedSpotsBlock(item) {
+  const isFest = !!item.shrine;
+  const all = [...SPOTS, ...FESTIVALS];
+  // 距離計算（km）
+  const dist = (a, b) => {
+    const R = 6371, toRad = x => x * Math.PI / 180;
+    const dLat = toRad(b.lat - a.lat);
+    const dLng = toRad(b.lng - a.lng);
+    const A = Math.sin(dLat/2)**2 + Math.cos(toRad(a.lat))*Math.cos(toRad(b.lat))*Math.sin(dLng/2)**2;
+    return 2 * R * Math.asin(Math.sqrt(A));
+  };
+  const candidates = all
+    .filter(x => x.id !== item.id)
+    .map(x => ({ item: x, d: dist(item, x) }))
+    .filter(x => x.d <= 30) // 半径30km
+    .sort((a, b) => a.d - b.d)
+    .slice(0, 5);
+  if (candidates.length === 0) return '';
+  const cards = candidates.map(({ item: x, d }) => {
+    const label = x.shrine ? '奇祭' : catLabel(x.category);
+    const name = pick(x, 'name', 'name_en');
+    const photo = x.photo_url ? `<div class="rel-thumb" style="background-image:url('${x.photo_url}')"></div>` : `<div class="rel-thumb rel-thumb-empty">${x.shrine ? '奇' : '珍'}</div>`;
+    return `
+      <a class="rel-card" data-rel-id="${x.id}" data-rel-type="${x.shrine ? 'fest' : 'spot'}">
+        ${photo}
+        <div class="rel-body">
+          <span class="rel-cat">${label} ・ ${d.toFixed(1)}km</span>
+          <strong class="rel-name">${name}</strong>
+          <span class="rel-loc">${x.prefecture||''}${x.city||''}</span>
+        </div>
+      </a>`;
+  }).join('');
+  return `
+    <div class="m-section">
+      <h3 class="m-h"><i class="ph ph-map-trifold"></i> この近くの珍スポット・奇祭</h3>
+      <div class="m-related">${cards}</div>
+    </div>`;
+}
+
+function bindRelatedClicks() {
+  modalContent.querySelectorAll('.rel-card').forEach(c => {
+    c.addEventListener('click', () => {
+      const id = c.dataset.relId;
+      const type = c.dataset.relType;
+      const list = type === 'fest' ? FESTIVALS : SPOTS;
+      const item = list.find(x => x.id === id);
+      if (!item) return;
+      closeModal();
+      setTimeout(() => {
+        if (type === 'fest') openFestivalDetail(item);
+        else openSpotDetail(item);
+      }, 200);
+    });
+  });
+}
+
 function openSpotDetail(s) {
   const isHorror = s.category === 'horror';
   const name = pick(s, 'name', 'name_en');
@@ -412,6 +558,8 @@ function openSpotDetail(s) {
       <ul class="m-highlights">${highlights.map(h => `<li>${h}</li>`).join('')}</ul>
     </div>` : ''}
     ${buildAccessBlock(s.access)}
+    ${buildDeepdiveBlock(s)}
+    ${buildRelatedSpotsBlock(s)}
     <div class="m-section">
       <h3 class="m-h">${t('m.links')}</h3>
       <div class="m-links">
@@ -423,6 +571,7 @@ function openSpotDetail(s) {
   `;
   openModal(html);
   bindVisitButtons();
+  bindRelatedClicks();
   // URL更新
   const u = new URL(location.href);
   u.searchParams.set('spot', s.id);
@@ -473,6 +622,8 @@ function openFestivalDetail(f) {
       <p class="m-summary">${viewing}</p>
     </div>` : ''}
     ${buildAccessBlock(f.access)}
+    ${buildDeepdiveBlock(f)}
+    ${buildRelatedSpotsBlock(f)}
     <div class="m-section">
       <h3 class="m-h">${t('m.links')}</h3>
       <div class="m-links">
@@ -485,6 +636,7 @@ function openFestivalDetail(f) {
   `;
   openModal(html);
   bindVisitButtons();
+  bindRelatedClicks();
   const u = new URL(location.href);
   u.searchParams.set('festival', f.id);
   history.replaceState(null, '', u);
