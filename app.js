@@ -831,18 +831,11 @@ function handleUrlParams() {
 }
 
 // ============ Submit Form Link ============
-const submitFormUrl = 'https://docs.google.com/forms/d/e/PLACEHOLDER/viewform'; // 後で本物のFormsに置き換え
+// GitHub Issues template-based submission (no auth wall, multilingual, version-controlled)
+const submitFormUrl = 'https://github.com/tydmthr/kinki-tokai-chinspot/issues/new?labels=spot-submission&template=spot-submission.md&title=%5B%E6%96%B0%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%5D+';
 const submitBtn = document.getElementById('submitForm');
 if (submitBtn) {
   submitBtn.href = submitFormUrl;
-  submitBtn.addEventListener('click', e => {
-    if (submitFormUrl.includes('PLACEHOLDER')) {
-      e.preventDefault();
-      const subject = encodeURIComponent('[Bizarre Japan] 情報提供 / Submission');
-      const body = encodeURIComponent('発見した珍スポット・奇祭の情報を以下にお書きください：\n\n名称：\n所在地：\n概要：\n参考URL：\n\n---\nWhat strange spot or festival did you find?\n\nName:\nLocation:\nDescription:\nReference URL:\n');
-      location.href = `mailto:bizarrejapan@example.com?subject=${subject}&body=${body}`;
-    }
-  });
 }
 
 // ============ Refresh hook for language toggle ============
