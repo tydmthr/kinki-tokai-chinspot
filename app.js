@@ -1105,6 +1105,35 @@ function bindVisitDiaryButton() {
   });
 }
 
+// ============ INSTAGRAM FEED (footer) ============
+async function loadIgFeed() {
+  const section = document.getElementById('igFeed');
+  const grid = document.getElementById('igFeedGrid');
+  if (!section || !grid) return;
+  try {
+    const res = await fetch('data/instagram-feed.json', { cache: 'no-store' });
+    if (!res.ok) return;
+    const feed = await res.json();
+    const posts = (feed && Array.isArray(feed.posts)) ? feed.posts : [];
+    if (!posts.length) return;
+    grid.innerHTML = posts.slice(0, 6).map(p => {
+      const cap = (p.caption || '').replace(/\s+/g, ' ').slice(0, 80);
+      const isVid = p.media_type === 'VIDEO';
+      const img = p.image || '';
+      return `
+        <a class="ig-feed-item" href="${p.permalink}" target="_blank" rel="noopener" aria-label="Instagram post">
+          <img loading="lazy" src="${img}" alt="" onerror="this.style.opacity=0.2">
+          ${isVid ? '<span class="ig-feed-video-badge"><i class="ph-fill ph-play-circle"></i></span>' : ''}
+          ${cap ? `<span class="ig-feed-caption">${cap}</span>` : ''}
+        </a>`;
+    }).join('');
+    section.hidden = false;
+  } catch (e) {
+    // 無音で失敗（feed未生成のときは表示しないだけ）
+    console.warn('IG feed load skipped:', e.message);
+  }
+}
+
 // ============ INIT ============
 window.addEventListener('DOMContentLoaded', async () => {
   await loadVisitsIndex();
@@ -1117,4 +1146,5 @@ window.addEventListener('DOMContentLoaded', async () => {
   buildRoutes();
   refreshThisMonth();
   handleUrlParams();
+  loadIgFeed();
 });

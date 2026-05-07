@@ -34,6 +34,8 @@ const I18N = {
     'footer.shareBody': 'あなたの知る奇異な場所、参加した奇祭の体験談を募集しています。',
     'footer.submit': '情報を寄せる',
     'footer.collabs': '関連サイト',
+    'footer.igTitle': '最新のフィールドノート',
+    'footer.igSub': '現地から届く未収録スポットの記録',
     'footer.copy': '異界巡礼 / Bizarre Japan © 2026<br><span class="caution">※ 私有地への侵入・心霊スポット夜間立入は厳に慎まれたし。Some sites are private property — please respect access restrictions.</span><br>画像出典：Wikimedia Commons ほか各クレジット表記参照',
     // Modal
     'm.cat.bkyu': 'B級・カオス', 'm.cat.folk': '土俗・奇祭',
@@ -90,6 +92,8 @@ const I18N = {
     'footer.shareBody': 'Know a strange place we missed? Witnessed an unforgettable festival? Share your discovery.',
     'footer.submit': 'Submit a discovery',
     'footer.collabs': 'Related sites',
+    'footer.igTitle': 'Latest field notes',
+    'footer.igSub': 'Unfiltered records from the field',
     'footer.copy': 'Bizarre Japan / 異界巡礼 © 2026<br><span class="caution">Some sites are private property — please respect access restrictions. Do not trespass.</span><br>Image credits: Wikimedia Commons and individual sources noted per item',
     'm.cat.bkyu': 'B-Grade Chaos', 'm.cat.folk': 'Folk & Ritual',
     'm.cat.horror': 'Haunted & Ruined', 'm.cat.mystery': 'Sacred & Strange',
