@@ -3189,5 +3189,95 @@
     "last_verified": "2026-05-09",
     "editorial_status": "candidate",
     "visit_priority": 4
+  },
+  {
+    "id": "spot-081",
+    "name": "関・観音山公園の石仏群",
+    "name_kana": "せき・かんのんやまこうえんのせきぶつぐん",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "亀山市",
+    "address": "三重県亀山市関町新所 観音山公園",
+    "lat": 34.859052,
+    "lng": 136.383156,
+    "status": "candidate",
+    "fee": "無料目安",
+    "hours": "屋外見学自由目安",
+    "official_url": "http://kameyama-kanko.com/blog/%E9%96%A2%E3%83%BB%E8%A6%B3%E9%9F%B3%E5%B1%B1%E5%85%AC%E5%9C%92%E3%81%AE%E7%9F%B3%E4%BB%8F%E7%BE%A4%E3%81%AE%E6%8B%9D%E8%A6%B3%E3%82%81%E3%81%90%E3%82%8A%E3%80%82/",
+    "reference_urls": [
+      "https://www.navitime.co.jp/poi?spot=02037-0028237"
+    ],
+    "summary": "江戸時代末期の石工彫刻師による33体の観音石仏が観音山公園内に点在する。散策道と見晴台が整備され、伊勢平野・伊勢湾を望む。",
+    "highlights": [
+      "民俗信仰・観音信仰",
+      "33体の観音石仏が散策道沿いに点在",
+      "関宿背後の山岳信仰と展望が組み合わさる"
+    ],
+    "from_kameyama": "車で約15分（国道1号→関宿方面）",
+    "deepdive": {
+      "history_jp": "関・観音山公園の石仏群は、三重県亀山市関町新所の観音山公園内に点在する33体の観音石仏で、江戸時代末期の石工彫刻師による作とされる。観音山公園には散策道と見晴台が整備され、関宿背後の山岳信仰・観音信仰の場として知られる。詳細な沿革は亀山市公式・現地説明で追加確認する。",
+      "cultural_context_jp": "宿場町・関宿の表通りだけでは見えない、背後の山岳信仰・観音信仰の側面を示す。33体の観音は西国三十三所観音霊場を模した「写し霊場」的性格と理解でき、近世の民間信仰と地域社会のあり方を読み解く資料になる。",
+      "local_perspective_jp": "三重batch（亀山）の追加候補として登録。亀山市観光協会の情報を一次資料として扱い、現地訪問前のため、駐車場・季節条件・撮影可否は公開前に再確認する。 メモ: 関宿の表観光と組み合わせ、背後の山道・石仏群へ誘導する文脈で書く。",
+      "related_works": [],
+      "external_reviews": "",
+      "best_visit_time": "通年・春秋の晴天日午前。雨天後・夕刻は避ける",
+      "photo_tips": "自前写真または使用許諾を確認した写真のみ使用する。散策道沿いの石仏と展望を組み合わせる構図は、足元と私有地境界に配慮する。",
+      "trivia": "",
+      "warnings_extra": "山道・石段あり。雨天後・夕刻は避ける。足元注意。私有地・畑地に立ち入らない。",
+      "sources": "- http://kameyama-kanko.com/blog/%E9%96%A2%E3%83%BB%E8%A6%B3%E9%9F%B3%E5%B1%B1%E5%85%AC%E5%9C%92%E3%81%AE%E7%9F%B3%E4%BB%8F%E7%BE%A4%E3%81%AE%E6%8B%9D%E8%A6%B3%E3%82%81%E3%81%90%E3%82%8A%E3%80%82/\n- https://www.navitime.co.jp/poi?spot=02037-0028237"
+    },
+    "region": "東海",
+    "category_label": "民俗信仰・観音信仰",
+    "source_quality": "public",
+    "safety_level": "open",
+    "safety_note": "山道・石段あり。雨天後・夕刻は避ける。足元注意。私有地・畑地に立ち入らない。",
+    "last_verified": "2026-05-09",
+    "editorial_status": "candidate",
+    "visit_priority": 5
+  },
+  {
+    "id": "spot-082",
+    "name": "加太鉄道遺産群",
+    "name_kana": "かぶとてつどういさんぐん",
+    "category": "mystery",
+    "prefecture": "三重県",
+    "city": "亀山市",
+    "address": "三重県亀山市加太市場・加太中在家・加太北在家周辺（代表地点：加太駅）",
+    "lat": 34.842517,
+    "lng": 136.340271,
+    "status": "candidate",
+    "fee": "無料目安",
+    "hours": "屋外・鉄道沿線（公道からの見学）",
+    "official_url": "https://www.city.kameyama.mie.jp/docs/2016112500015/file_contents/1-22P.pdf",
+    "reference_urls": [
+      "https://kabutomachi.jimdofree.com/%E5%8A%A0%E5%A4%AA%E3%82%92%E6%A5%BD%E3%81%97%E3%82%80/%E9%89%84%E9%81%93%E9%81%BA%E7%94%A3%E7%BE%A4/"
+    ],
+    "summary": "関西鉄道時代の隧道・橋梁・水路・築堤が加太地区に密集する現役鉄道遺産群。加太駅は1896年開設、現駅舎は1922年。",
+    "highlights": [
+      "産業遺産・明治の鉄道土木",
+      "煉瓦隧道・石積橋脚・水マンボ・大築堤",
+      "現役鉄道沿線で見学できる関西鉄道時代の遺構"
+    ],
+    "from_kameyama": "車で約25分（国道1号→加太方面）",
+    "deepdive": {
+      "history_jp": "加太鉄道遺産群は、三重県亀山市加太地区（市場・中在家・北在家）に密集する関西鉄道時代の鉄道土木遺産で、隧道・橋梁・水路・築堤などが現役のJR関西本線沿線に残る。加太駅は1896年（明治29年）に開設され、現駅舎は1922年（大正11年）に建てられたとされる。関〜柘植間は山・川・道を越える難工事で、煉瓦隧道、石積橋脚、水マンボ、大築堤などが残り、鉄道敷設犠牲者を弔う石仏群もあると地元資料に伝わる。",
+      "cultural_context_jp": "明治の私鉄・関西鉄道による鈴鹿越え区間の土木遺産が、現役鉄道とともに残る稀有な事例。煉瓦・石積・水路といった近代土木の素材と意匠を、生活道・農地・鉄道沿線で同時に観察できる点で、産業遺産・近代史・地域社会史の資料価値が高い。",
+      "local_perspective_jp": "三重batch（亀山）の追加候補として登録。亀山市公式PDF・加太町の地域団体資料を一次資料として扱う。代表地点を「加太駅」に置きつつ、個別遺構は今後分割収録を検討する。 メモ: 線路敷・橋梁・トンネル内には絶対に立ち入らない、撮影は公道・安全地帯から、を本文でも明記する。",
+      "related_works": [],
+      "external_reviews": "",
+      "best_visit_time": "通年。落ち葉・残雪・夏草で見え方が変わるため、晩秋〜初春の見通しがよい時期が観察しやすい",
+      "photo_tips": "自前写真または使用許諾を確認した写真のみ使用する。煉瓦隧道・石積橋脚は公道・歩道・公的展望地点から撮影し、線路敷・橋上・トンネル内には絶対に踏み込まない。",
+      "trivia": "",
+      "warnings_extra": "線路敷・橋梁・トンネル内へ絶対に立ち入らない。撮影は公道・安全地帯から行う。私有地・農地への立入もしない。",
+      "sources": "- https://www.city.kameyama.mie.jp/docs/2016112500015/file_contents/1-22P.pdf\n- https://kabutomachi.jimdofree.com/%E5%8A%A0%E5%A4%AA%E3%82%92%E6%A5%BD%E3%81%97%E3%82%80/%E9%89%84%E9%81%93%E9%81%BA%E7%94%A3%E7%BE%A4/"
+    },
+    "region": "東海",
+    "category_label": "産業遺産・鉄道土木",
+    "source_quality": "public",
+    "safety_level": "open",
+    "safety_note": "線路敷・橋梁・トンネル内へ絶対に立ち入らない。撮影は公道・安全地帯から行う。私有地・農地への立入もしない。",
+    "last_verified": "2026-05-09",
+    "editorial_status": "candidate",
+    "visit_priority": 4
   }
 ]
