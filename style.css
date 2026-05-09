@@ -343,6 +343,11 @@ body {
 }
 
 /* MapLibre marker styling */
+/* wrapper: MapLibreが position transform をここに設定。CSSで transform を上書きしないこと。 */
+.spot-marker-wrap {
+  width: 28px; height: 28px;
+  cursor: pointer;
+}
 .spot-marker {
   width: 28px; height: 28px;
   border-radius: 50%;

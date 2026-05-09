@@ -114,9 +114,14 @@ function addAllMarkers() {
   allMarkers = [];
 
   SPOTS.forEach(s => {
+    // wrapper: MapLibreが position transform をここに設定する。CSSで transform を上書きしないこと
     const el = document.createElement('div');
-    el.className = `spot-marker cat-${s.category}`;
-    el.textContent = CAT_GLYPHS[s.category];
+    el.className = 'spot-marker-wrap';
+    // inner: 見た目・ホバー拡大・菱形回転はこちらで受ける
+    const inner = document.createElement('div');
+    inner.className = `spot-marker cat-${s.category}`;
+    inner.textContent = CAT_GLYPHS[s.category];
+    el.appendChild(inner);
     el.title = s.name;
     el.addEventListener('click', e => {
       e.stopPropagation();
@@ -125,14 +130,17 @@ function addAllMarkers() {
     const m = new maplibregl.Marker({ element: el })
       .setLngLat([s.lng, s.lat])
       .addTo(map);
-    allMarkers.push({ type: 'spot', data: s, marker: m, el });
+    allMarkers.push({ type: 'spot', data: s, marker: m, el, inner });
   });
 
   FESTIVALS.forEach(f => {
     const el = document.createElement('div');
-    el.className = `spot-marker is-fest cat-mystery`;
-    const inner = document.createElement('span');
-    inner.textContent = '祭';
+    el.className = 'spot-marker-wrap';
+    const inner = document.createElement('div');
+    inner.className = 'spot-marker is-fest cat-mystery';
+    const label = document.createElement('span');
+    label.textContent = '祭';
+    inner.appendChild(label);
     el.appendChild(inner);
     el.title = f.name;
     el.addEventListener('click', e => {
@@ -142,23 +150,25 @@ function addAllMarkers() {
     const m = new maplibregl.Marker({ element: el })
       .setLngLat([f.lng, f.lat])
       .addTo(map);
-    allMarkers.push({ type: 'fest', data: f, marker: m, el });
+    allMarkers.push({ type: 'fest', data: f, marker: m, el, inner });
   });
 }
 
 function applyMapFilter() {
   const q = searchQuery.trim().toLowerCase();
   let visibleCount = 0;
-  allMarkers.forEach(({ type, data, el }) => {
+  allMarkers.forEach(({ type, data, el, inner }) => {
     let show = true;
     if (type === 'spot' && !showSpots) show = false;
     if (type === 'fest' && !showFests) show = false;
     if (show && type === 'spot' && !activeCats.has('all') && !activeCats.has(data.category)) show = false;
     if (show && !activeRegions.has('all') && !activeRegions.has(data.prefecture)) show = false;
     if (show && showVisitedOnly && !visitedSet.has(data.id)) show = false;
-    // 訪問済みマーク
-    el.classList.toggle('visited', visitedSet.has(data.id));
-    el.classList.toggle('wishlisted', wishlistSet.has(data.id));
+    // 訪問済みマーク（wrapperではなくinnerに付与：CSSは .spot-marker.visited に効くため）
+    if (inner) {
+      inner.classList.toggle('visited', visitedSet.has(data.id));
+      inner.classList.toggle('wishlisted', wishlistSet.has(data.id));
+    }
     if (show && q) {
       const hay = `${data.name} ${data.name_kana||''} ${data.name_en||''} ${data.prefecture||''} ${data.city||''} ${data.shrine||''} ${data.summary||''} ${data.summary_en||''}`.toLowerCase();
       if (!hay.includes(q)) show = false;
