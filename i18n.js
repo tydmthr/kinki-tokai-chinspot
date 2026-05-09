@@ -2,11 +2,11 @@
 const I18N = {
   ja: {
     'brand.name': '異界巡礼',
-    'brand.sub': '近畿・東海 珍スポット＆奇祭百景',
+    'brand.sub': '日本全国 珍スポット＆奇祭百景',
     'tab.hero': '序', 'tab.map': '地図', 'tab.calendar': '祭暦', 'tab.list': '名鑑', 'tab.routes': '巡路',
-    'hero.eyebrow': '近 畿 ・ 東 海 ／ 異 界 案 内',
+    'hero.eyebrow': '日 本 全 国 ／ 異 界 案 内',
     'hero.line1': '忘れられぬ', 'hero.line2': '記憶のための、', 'hero.line3': 'もう一つの日本。',
-    'hero.lede': '表通りの観光案内には載らない。<br>しかし確かに其処にある——個人が一生をかけて作り上げたコンクリートの楽園。<br>千年続く土俗の祭礼。語り継がれた廃墟と祠。<br><strong>近畿・東海の珍スポット50件と奇祭47件を、地図と暦で巡る。</strong>',
+    'hero.lede': '表通りの観光案内には載らない。<br>しかし確かに其処にある——個人が一生をかけて作り上げたコンクリートの楽園。<br>千年続く土俗の祭礼。語り継がれた廃墟と祠。<br><strong>日本全国の珍スポット{spots}件と奇祭{fests}件を、地図と暦で巡る。</strong>',
     'hero.stat1': '珍スポット', 'hero.stat2': '奇祭・暦', 'hero.stat3': '府県',
     'hero.cta1': '地図で巡る', 'hero.cta2': '祭暦を開く',
     'tm.title': '今月の異界 — おすすめ',
@@ -24,12 +24,12 @@ const I18N = {
     'cal.title': '奇祭暦 — 一年で日本が一番ヤバい日々', 'cal.sub': '2026年5月 〜 2027年4月',
     'cal.naked': '裸', 'cal.fire': '火', 'cal.weird': '奇習', 'cal.sex': '性',
     'cal.animal': '動物', 'cal.other': '他',
-    'list.title': '百景名鑑', 'list.spots': '珍スポット 50', 'list.fests': '奇祭 47',
+    'list.title': '百景名鑑', 'list.spots': '珍スポット {spots}', 'list.fests': '奇祭 {fests}',
     'list.searchph': '検索（名前・地域・カテゴリ）',
     'routes.title': '巡礼コース — 半日・一日で巡る異界',
     'routes.sub': 'テーマ別に厳選した巡礼ルート。地図で開けば順路が描かれる。',
     'footer.about': 'このサイトについて',
-    'footer.aboutBody': '異界巡礼は、近畿・東海地方の珍スポット50件と奇祭47件を厳選収録した個人運営のガイドです。',
+    'footer.aboutBody': '異界巡礼は、日本全国の珍スポット{spots}件と奇祭{fests}件を厳選収録した個人運営のガイドです。',
     'footer.share': '情報提供・寄稿',
     'footer.shareBody': 'あなたの知る奇異な場所、参加した奇祭の体験談を募集しています。',
     'footer.submit': '情報を寄せる',
@@ -60,11 +60,11 @@ const I18N = {
   },
   en: {
     'brand.name': 'Bizarre Japan',
-    'brand.sub': 'Strange Spots & Wild Festivals · Kinki & Tokai',
+    'brand.sub': 'Strange Spots & Wild Festivals · Across Japan',
     'tab.hero': 'Home', 'tab.map': 'Map', 'tab.calendar': 'Calendar', 'tab.list': 'Index', 'tab.routes': 'Routes',
-    'hero.eyebrow': 'K I N K I  ·  T O K A I  /  P A R A L L E L  J A P A N',
+    'hero.eyebrow': 'A C R O S S  J A P A N  /  P A R A L L E L  J A P A N',
     'hero.line1': 'Memories that haunt,', 'hero.line2': 'rituals that defy reason —', 'hero.line3': 'the other Japan.',
-    'hero.lede': 'You won\'t find these in a tourist brochure.<br>But they exist — concrete paradises built by lifelong obsessives.<br>Folk rituals carrying a thousand years of fire and flesh.<br><strong>50 strange spots and 47 wild festivals across Kinki and Tokai, mapped and dated.</strong>',
+    'hero.lede': 'You won\'t find these in a tourist brochure.<br>But they exist — concrete paradises built by lifelong obsessives.<br>Folk rituals carrying a thousand years of fire and flesh.<br><strong>{spots} strange spots and {fests} wild festivals across Japan, mapped and dated.</strong>',
     'hero.stat1': 'Strange Spots', 'hero.stat2': 'Wild Festivals', 'hero.stat3': 'Prefectures',
     'hero.cta1': 'Open Map', 'hero.cta2': 'Festival Calendar',
     'tm.title': 'This Month\'s Anomalies',
@@ -82,12 +82,12 @@ const I18N = {
     'cal.title': 'Festival Calendar — Japan\'s Wildest Days', 'cal.sub': 'May 2026 – April 2027',
     'cal.naked': 'Naked', 'cal.fire': 'Fire', 'cal.weird': 'Weird', 'cal.sex': 'Fertility',
     'cal.animal': 'Animal', 'cal.other': 'Other',
-    'list.title': 'Index of Wonders', 'list.spots': 'Spots — 50', 'list.fests': 'Festivals — 47',
+    'list.title': 'Index of Wonders', 'list.spots': 'Spots — {spots}', 'list.fests': 'Festivals — {fests}',
     'list.searchph': 'Search (name, region, category)',
     'routes.title': 'Pilgrim Routes — Half-Day & Full-Day Tours',
     'routes.sub': 'Hand-picked themed routes. Open in the map to see the path drawn.',
     'footer.about': 'About this site',
-    'footer.aboutBody': 'Bizarre Japan is an independent travel guide curating 50 strange spots and 47 wild festivals across Kinki and Tokai, Japan.',
+    'footer.aboutBody': 'Bizarre Japan is an independent travel guide curating {spots} strange spots and {fests} wild festivals across Japan.',
     'footer.share': 'Submit · Contribute',
     'footer.shareBody': 'Know a strange place we missed? Witnessed an unforgettable festival? Share your discovery.',
     'footer.submit': 'Submit a discovery',
@@ -127,7 +127,25 @@ let CURRENT_LANG = (() => {
   return (navigator.language || 'ja').toLowerCase().startsWith('ja') ? 'ja' : 'en';
 })();
 
-function t(key) { return I18N[CURRENT_LANG][key] || I18N.ja[key] || key; }
+function getCounts() {
+  const spots = (typeof SPOTS !== 'undefined' && Array.isArray(SPOTS)) ? SPOTS.length : 0;
+  const fests = (typeof FESTIVALS !== 'undefined' && Array.isArray(FESTIVALS)) ? FESTIVALS.length : 0;
+  const prefSet = new Set();
+  if (typeof SPOTS !== 'undefined' && Array.isArray(SPOTS)) SPOTS.forEach(s => { if (s.prefecture) prefSet.add(s.prefecture); });
+  if (typeof FESTIVALS !== 'undefined' && Array.isArray(FESTIVALS)) FESTIVALS.forEach(f => { if (f.prefecture) prefSet.add(f.prefecture); });
+  return { spots, fests, prefs: prefSet.size };
+}
+
+function interpolateCounts(str) {
+  if (typeof str !== 'string') return str;
+  const c = getCounts();
+  return str.replace(/\{spots\}/g, c.spots).replace(/\{fests\}/g, c.fests).replace(/\{prefs\}/g, c.prefs);
+}
+
+function t(key) {
+  const raw = I18N[CURRENT_LANG][key] || I18N.ja[key] || key;
+  return interpolateCounts(raw);
+}
 
 function applyI18n() {
   document.documentElement.lang = CURRENT_LANG === 'en' ? 'en' : 'ja';
@@ -147,10 +165,18 @@ function applyI18n() {
   // ラベル切替
   const langLabel = document.getElementById('langLabel');
   if (langLabel) langLabel.textContent = CURRENT_LANG === 'ja' ? 'EN' : 'JA';
+  // 動的カウントを反映
+  const counts = getCounts();
+  const sEl = document.getElementById('statSpots');
+  const fEl = document.getElementById('statFests');
+  const pEl = document.getElementById('statPrefs');
+  if (sEl) sEl.textContent = counts.spots;
+  if (fEl) fEl.textContent = counts.fests;
+  if (pEl) pEl.textContent = counts.prefs;
   // タイトル切替
   document.title = CURRENT_LANG === 'en'
-    ? 'Bizarre Japan — 50 Strange Spots & 47 Wild Festivals of Kinki & Tokai'
-    : '異界巡礼 — 近畿・東海 珍スポット50＆奇祭47百景 | Bizarre Japan';
+    ? `Bizarre Japan — ${counts.spots} Strange Spots & ${counts.fests} Wild Festivals Across Japan`
+    : `異界巡礼 — 日本全国 珍スポット${counts.spots}＆奇祭${counts.fests}百景 | Bizarre Japan`;
 }
 
 function setLang(lang) {
