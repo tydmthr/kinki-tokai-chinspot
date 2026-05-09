@@ -247,12 +247,14 @@
       "小さな漁師町が毎年この期間だけ熱狂する地域密着感"
     ],
     "origin": "戦国時代の武士の名乗り「やあ（矢合戦の合図）」に由来するという説が有力。江戸時代以降、漁業の町・尾鷲で守り継がれてきた。",
-    "official_url": null,
+    "official_url": "http://owasejinja.net/owj/owj.html?pid=yahya",
     "reference_urls": [
       "https://iko-yo.net/events/544716",
-      "https://rurubu.jp/andmore/spot/20001021"
+      "https://rurubu.jp/andmore/spot/20001021",
+      "https://owasekankou.com/event/ya-ya_matsuri/",
+      "http://www.city.owase.lg.jp/0000013039.html"
     ],
-    "viewing_notes": "観覧無料。JR尾鷲駅から徒歩10分。亀山市から約1時間半（高速利用）、1泊推奨。",
+    "viewing_notes": "観覧無料。JR尾鷲駅から徒歩10分。亀山市から約1時間半（高速利用）、1泊推奨。2026年は2月1〜5日固定（尾鷲神社公式の毎年固定日程）。",
     "deepdive": {
       "history_jp": "尾鷲ヤーヤ祭りは、尾鷲神社の例大祭の通称で、尾鷲市の公式案内では、かつて大宝天王と称した尾鷲神社が尾鷲七郷の総氏神として祀られ、2月1日から5日（元は正月1日から8日）に祭礼が行われてきたとされる。祭り名は、戦国時代の武士が合戦で名乗りを上げる「ヤーヤー我こそは…」に由来する説が一般的である。神社側は、由緒祭で「遡ること350～360年前」に現在の祭りの形が確立したと説明しており、Wikipediaでも起源は諸説あるが、鎌倉時代に始まり江戸時代に現在形になったと整理されている。つまり、古い祭祀基盤の上に、近世以降の町衆的な練りや行列が重なって成立した祭礼とみられる。([尾鷲市](http://www.city.owase.lg.jp/0000013039.html), [尾鷲神社](http://owasejinja.net/owj/owj.html?pid=yahya), [尾鷲神社 - Wikipedia](https://ja.wikipedia.org/wiki/%E5%B0%BE%E9%B7%B2%E7%A5%9E%E7%A4%BE))",
       "cultural_context_jp": "共同飲食、弓射、獅子行事、当屋交替を核にした祭礼で、神霊を町の当屋に迎えて共同体の秩序を再確認する行事と位置づけられる。尾鷲市は、華美と喧噪を伴いながらも当人の斎戒を重んじる点を特質と説明しており、海と山の産業が交わる港町で、豊漁・豊作と地域結束を祈る機能が強い。白装束の男衆が激しくもみ合う姿は、日常の境界を一時的に反転させる民俗儀礼としても読める。([尾鷲市](http://www.city.owase.lg.jp/0000013039.html), [尾鷲観光物産協会](https://owasekankou.com/event/ya-ya_matsuri/))",
@@ -262,7 +264,7 @@
       "best_visit_time": "2月1日深夜の扉開き、2〜4日夜の練り、5日午後の大名行列と大弓の儀が見どころ。",
       "photo_tips": "狭い路地の練りは、矢来の外側から全体を入れる広角が有効。5日の大名行列は昼の順光、神社境内は夕方以降の篝火で表情が出る。進行を妨げる場所への立ち入りは避ける。",
       "trivia": "- 旧暦の正月行事を新暦2月に移したため、冬の尾鷲が一年で最も熱くなる。\n- 祷務町は旧尾鷲町の20町から毎年3町が担うと案内されている。\n- 2月5日の大弓の儀やお獅子の出御は、祭りのクライマックスを締める神事。",
-      "warnings_extra": "練りは非常に激しいため、進行線や矢来の内側に入らないこと。神事中のフラッシュ撮影や人物への無断接写は控え、地元の指示に従う。参拝時は一般の神社作法を守り、飲酒・大声での妨げを避ける。",
+      "warnings_extra": "練りは非常に激しいため、進行線や矢来の内側に入らないこと。神事中のフラッシュ撮影や人物への無断接写は控え、地元の指示に従う。参拝時は一般の神社作法を守り、飲酒・大声での妨げを避ける。深夜帯の行事が多く、2月の尾鷲は冷え込むため防寒・滑りにくい靴を準備。港岸壁での海中禊（垢離取り）周辺は転落注意で、進行動線の指示に従うこと。",
       "sources": "[尾鷲市公式「尾鷲ヤーヤ祭【おわせやーやまつり】」](http://www.city.owase.lg.jp/0000013039.html), [尾鷲神社公式「天下の奇祭 ヤーヤ祭り」](http://owasejinja.net/owj/owj.html?pid=yahya), [尾鷲観光物産協会「【1日～5日】尾鷲ヤーヤ祭り」](https://owasekankou.com/event/ya-ya_matsuri/), [尾鷲神社 - Wikipedia](https://ja.wikipedia.org/wiki/%E5%B0%BE%E9%B7%B2%E7%A5%9E%E7%A4%BE), [東紀州観光手帖「尾鷲市『ヤーヤ祭り』」](https://kumanokodo-iseji.jp/feature/ya-ya_matsuri/)"
     }
   },
@@ -819,11 +821,13 @@
       "日本三大御田植祭の一つとして国が認める格式"
     ],
     "origin": "伊勢神宮の食を担う田として、奈良時代以前から続くとされる。「神のための田に神的エネルギー（男性の力）を注ぎ込む」という古代農耕信仰の表れ。",
-    "official_url": "https://senkyo-news.jp/otaue-matsuri/",
+    "official_url": "https://www.iseshima-kanko.jp/event/2238",
     "reference_urls": [
-      "https://www.walkerplus.com/event/ar0624e548596/"
+      "https://www.walkerplus.com/event/ar0624e548596/",
+      "https://www.kanko-shima.com/event/14709/",
+      "https://senkyo-news.jp/otaue-matsuri/"
     ],
-    "viewing_notes": "無料。近鉄「上之郷駅」から徒歩5分。6月24日は平日の場合あり（2026年は水曜）。有休取得推奨。",
+    "viewing_notes": "無料。近鉄「上之郷駅」から徒歩5分。6月24日は平日の場合あり（2026年は水曜）。有休取得推奨。会場：〒517-0208 三重県志摩市磯部町上之郷374・伊雑宮御料田。専用駐車場は限られるため公共交通（近鉄上之郷駅）推奨。",
     "deepdive": {
       "history_jp": "伊雑宮御田植祭（磯部の御神田）は、伊勢神宮内宮別宮・伊雑宮の御料田で6月24日に行われる御田植祭で、文化庁日本遺産の解説では平安時代末期〜鎌倉時代初頭に起源がさかのぼるとみられる。根拠として、踊込歌の歌詞、1280年の古文書、そして『倭姫命世記』に関わる伝承が挙げられる。1871年に御料田が官有となって一度廃絶したが、翌年以後も有志が虫除祈念の名目で私田を借りて続け、1891年の『御田植旧復義願』提出を経て正式に再興された。以後、磯部9郷が輪番で奉仕し、日本三大御田植祭の一つとして継承されている。[文化庁・日本遺産ポータルサイト](https://japan-heritage.bunka.go.jp/ja/culturalproperties/result/4287/)、[志摩市](https://www.city.shima.mie.jp/kakuka/seisakusuishin/kouhoukoutyouka/shimashiyakushonitsuite/1470804624370.html)、[Wikipedia日本語版](https://ja.wikipedia.org/wiki/%E7%A3%AF%E9%83%A8%E3%81%AE%E5%BE%A1%E7%A5%9E%E7%94%B0) 。",
       "cultural_context_jp": "豊作祈願の田植え儀礼であると同時に、海に生きる志摩の人々が航海安全・豊漁も祈る海村的な祭礼でもある。裸男による竹取りは、田の神の力を奪い取る荒々しい所作として民俗学的に重要で、優雅な早乙女の所作との対照が祭の象徴性を強める。伊雑宮が内宮別宮であることから、地域の農耕・漁撈・皇大神宮信仰が重なって成立した行事として理解できる。[文化庁・日本遺産ポータルサイト](https://japan-heritage.bunka.go.jp/ja/culturalproperties/result/4287/)、[志摩市](https://www.city.shima.mie.jp/kakuka/seisakusuishin/kouhoukoutyouka/shimashiyakushonitsuite/1470804624370.html) 。",
@@ -833,7 +837,7 @@
       "best_visit_time": "祭礼当日の6月24日、竹取神事の前後（11時台）と踊込みの15時前後。",
       "photo_tips": "田植えの整列美は正面や斜め前から、竹取りは田の外縁から望遠で安全に撮ると迫力が出る。泥の飛散が激しいため至近距離は避ける。立入制限や奉仕者の進路を妨げる場所は撮影しない。",
       "trivia": "- 6月24日は「ゴサイ」と呼ばれ、海女は漁に出ない習わしが伝わる。\n- 竹取りの忌竹は、取った者に豊作・幸福をもたらすとされる。\n- 磯部9郷が7年に一度の持ち回りで祭りを支える。",
-      "warnings_extra": "神事中は参進・植え付け・竹取りの動線をふさがないこと。裸男や早乙女への接写は控えめにし、私有地・斎場の立入禁止表示を厳守する。参拝は静かに、地元の奉仕者に敬意を払う。",
+      "warnings_extra": "神事中は参進・植え付け・竹取りの動線をふさがないこと。裸男や早乙女への接写は控えめにし、私有地・斎場の立入禁止表示を厳守する。参拝は静かに、地元の奉仕者に敬意を払う。神宮別宮への礼節（飲食・私語・割り込み厳禁）を守り、御料田の畦の踏み荒らしや違法駐車は不可。",
       "sources": "[文化庁・日本遺産ポータルサイト](https://japan-heritage.bunka.go.jp/ja/culturalproperties/result/4287/), [志摩市公式](https://www.city.shima.mie.jp/kakuka/seisakusuishin/kouhoukoutyouka/shimashiyakushonitsuite/1470804624370.html), [志摩市 2025年実施報告](https://www.city.shima.mie.jp/kakuka/seisakusuishin/hisyo/shichoshitsu/shicho_no_ugoki/2025_1/2025_6/7430.html), [Wikipedia日本語版](https://ja.wikipedia.org/wiki/%E7%A3%AF%E9%83%A8%E3%81%AE%E5%BE%A1%E7%A5%9E%E7%94%B0)"
     }
   },
@@ -973,9 +977,11 @@
     "origin": "古代から続く海神信仰。女神の年一度の「里帰り」を祝い、海水の浄化力でお送りする神事。",
     "official_url": null,
     "reference_urls": [
-      "https://www.kankomie.or.jp/event/5111"
+      "https://www.kankomie.or.jp/event/5111",
+      "https://www.kanko-shima.com/event/15303/",
+      "https://www.iseshima-kanko.jp/event/1020"
     ],
-    "viewing_notes": "無料（濡れてもよい服装必須）。近鉄鵜方駅からバス和具行き。",
+    "viewing_notes": "無料（濡れてもよい服装必須）。近鉄鵜方駅からバス和具行き。会場は和具漁港周辺。2026年の正式日程は公式告知で要確認（現行公開情報は2025年実績：本祭 2025-07-25、宵宮 2025-07-24）。",
     "deepdive": {
       "history_jp": "潮かけ祭り（大島祭）は、志摩市和具に伝わる海の祭礼で、旧暦6月1日に行われる。文化庁の日本遺産ポータルによれば「鎌倉時代初期から続くとの伝承」があり、地元では1221年開始と語る例もある。祭りでは、海の女神・市杵島姫命（市岐島姫命）が和具の八雲神社から沖合約2.5kmの大島の祠へ年に一度里帰りするとされ、当日の朝に獲れたアワビ、サザエ、カツオなどを供えて海上安全と大漁を祈願する。参拝後は万度船が帰路につき、船同士・人同士が海水を掛け合う禊が始まるため、この名で呼ばれる。[文化庁 日本遺産ポータル](https://japan-heritage.bunka.go.jp/ja/culturalproperties/result/4279/), [志摩市](https://www.city.shima.mie.jp/kakuka/seisakusuishin/hisyo/shichoshitsu/shicho_no_ugoki/2023/2023_7/6292.html), [日本の祭りネットワーク](https://www.nippon-matsuri.net/report/siokake/)",
       "cultural_context_jp": "海とともに生きる志摩の漁業・海女文化では、海は恵みであると同時に危険な領域でもある。そのため、神の里帰りを祝う航海儀礼と、海水で身を清める禊が一体化したと考えられる。無礼講で潮を掛け合う形式は、共同体の結束確認と海上安全祈願を同時に果たす装置であり、祭りが現在まで続くのは地域の海業と信仰を結びつける年中行事だからである。[日本遺産ポータル](https://japan-heritage.bunka.go.jp/ja/culturalproperties/result/4279/), [CBC MAGAZINE](https://hicbc.com/magazine/article/?id=chant-omatsuri-column-23080201)",
@@ -985,7 +991,7 @@
       "best_visit_time": "旧暦6月1日直近の本祭、例年7月中旬〜下旬の午前中〜夜。潮かけは昼前、花火は20:45前後が狙い目。",
       "photo_tips": "和具漁港の岸壁や対岸から、出航するまんど船と潮を掛け合う船団を広角で。逆光を避け、午前は港内側、夕方は花火を港越しに。海水が飛ぶため機材防水は必須。",
       "trivia": "- 祭り名の通り、見物客にも海水が飛ぶ“参加型”で、撮る側も濡れる前提の祭り。\n- 市杵島姫命の里帰り神事と、港での水掛け合戦が一連の流れになっている。\n- 旧暦開催のため、毎年日付が変わるのが特徴。",
-      "warnings_extra": "神事中の接近や進路妨害は避け、潮を掛ける側・受ける側の区別を守る。濡れて困る機材は防水対策を。神輿船や関係者の動線には入らず、地元の案内に従うこと。",
+      "warnings_extra": "神事中の接近や進路妨害は避け、潮を掛ける側・受ける側の区別を守る。濡れて困る機材は防水対策を。神輿船や関係者の動線には入らず、地元の案内に従うこと。濡れる前提（防水ケース必携）、岸壁の滑り・転落リスクに注意。船航路・曳航ロープへの立入は禁止。盛夏の熱中症対策（水分・塩分・日除け）と、塩分対応の着替えを用意。",
       "sources": "[文化庁 日本遺産ポータルサイト](https://japan-heritage.bunka.go.jp/ja/culturalproperties/result/4279/), [志摩市公式](https://www.city.shima.mie.jp/kakuka/seisakusuishin/hisyo/shichoshitsu/shicho_no_ugoki/2023/2023_7/6292.html), [志摩市観光協会](https://www.iseshima-kanko.jp/event/1020), [CBC MAGAZINE](https://hicbc.com/magazine/article/?id=chant-omatsuri-column-23080201), [日本の祭りネットワーク](https://www.nippon-matsuri.net/report/siokake/)"
     }
   },
@@ -1085,9 +1091,11 @@
     "origin": "江戸時代初期、桑名城下の夏祓いとして始まった。川で清浄な石を拾い（石取り）、それを神社に奉納する「禊祓い」が祭礼化したもの。",
     "official_url": "https://kuwana-ishidori.com",
     "reference_urls": [
-      "https://news.ponycanyon.co.jp/2025/11/115984"
+      "https://news.ponycanyon.co.jp/2025/11/115984",
+      "https://www.city.kuwana.lg.jp/kanko/event/summer/summer004.html",
+      "https://online.bunka.go.jp/heritages/detail/293760"
     ],
-    "viewing_notes": "無料。JR/近鉄桑名駅から徒歩約20分。亀山市から約30分で最も近い代表奇祭のひとつ。",
+    "viewing_notes": "無料。JR/近鉄桑名駅から徒歩約20分。亀山市から約30分で最も近い代表奇祭のひとつ。8月第1土日固定の慣例から2026年は8月1〜2日と推定されるが、正式日程は公式告知で要確認。",
     "deepdive": {
       "history_jp": "桑名石取祭は、桑名宗社（春日神社）の祭礼として旧城下町の氏子町内に受け継がれてきた行事で、起源は江戸時代初期、少なくとも17世紀前半にさかのぼるとされる。桑名市の公式案内では「400年続く桑名を代表する祭り」とされ、試楽の午前0時に宮司の神楽太鼓を合図として鉦と太鼓が一斉に打ち出される。文化遺産オンラインでは、本来は夏の禊ぎ祓いとして清らかな石を採って祭地を浄める行為が祭礼化したものと説明され、春日神社の比与利（ひより）祭の一神事から発展したという地域伝承も紹介される。なお第五代藩主松平定綱が創始したとする伝承も地元側で語られているが、公式には「江戸時代初期に始まった」とする説明が中心である。[桑名市](https://www.city.kuwana.lg.jp/kanko/tokushu/history.html), [文化遺産オンライン](https://online.bunka.go.jp/heritages/detail/293760), [桑名市](https://www.city.kuwana.lg.jp/kanko/event/summer/summer004.html)",
       "cultural_context_jp": "石取祭は、夏の穢れを祓う禊祓いと、城下町の町内組織が総出で参加する共同祭礼の性格を併せ持つ。旧城下町の総鎮守に対し、氏子が祭車を出して鳴り物を響かせる構造は、地域共同体の結束を可視化する民俗行事として理解できる。単なる観光イベントではなく、町内の年中行事の頂点として、世代継承と地域アイデンティティの再確認の場になっている。[文化遺産オンライン](https://online.bunka.go.jp/heritages/detail/293760), [桑名市](https://www.city.kuwana.lg.jp/kanko/tokushu/history.html)",
@@ -1097,7 +1105,7 @@
       "best_visit_time": "本楽の前夜の試楽、特に午前0時の叩き出し前後と本楽18:30以降が最高潮。",
       "photo_tips": "春日神社前と旧東海道沿いで、提灯と祭車が並ぶ奥行きを入れて撮ると迫力が出る。夜は光量が少ないので流し撮りより固定で。境内の規制線内や進路妨害位置での撮影は避ける。",
       "trivia": "- 祭車は最大40台規模で、単一の神社の一神事としては異例の多さとされる。\n- 試楽日の午前0時、宮司の神楽太鼓を合図に一斉に鳴り出すのが名物。\n- ユネスコ登録は単独ではなく、「山・鉾・屋台行事」の一部としての登録。",
-      "warnings_extra": "深夜・早朝の行事では大声やフラッシュを控え、進路をふさがないことが大切。神社境内では参拝者優先で、祭車の動線や係員の指示に従う。地元の町内行事でもあるため、見物客は「見せてもらう」姿勢で礼節を守る。",
+      "warnings_extra": "深夜・早朝の行事では大声やフラッシュを控え、進路をふさがないことが大切。神社境内では参拝者優先で、祭車の動線や係員の指示に従う。地元の町内行事でもあるため、見物客は「見せてもらう」姿勢で礼節を守る。耳栓必携・聴覚保護（乳幼児は特に注意）。本楽日は交通規制があり公共交通必須。深夜の住宅街では静粛に、撮影は顔写真・SNS掲載に配慮する。",
       "sources": "[桑名市観光案内「イシドリマツリ石取祭」](https://www.city.kuwana.lg.jp/kanko/event/summer/summer004.html), [文化遺産オンライン「桑名石取祭の祭車行事」](https://online.bunka.go.jp/heritages/detail/293760), [桑名市観光サイト「桑名の歴史をたずねて」](https://www.city.kuwana.lg.jp/kanko/tokushu/history.html), [石取祭 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%8F%96%E7%A5%AD)"
     }
   },
