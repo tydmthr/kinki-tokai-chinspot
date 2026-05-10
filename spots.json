@@ -1830,96 +1830,6 @@
   },
   {
     "id": "spot-051",
-    "name": "博物館 網走監獄",
-    "name_kana": "はくぶつかん あばしりかんごく",
-    "category": "bkyu",
-    "prefecture": "北海道",
-    "city": "網走市",
-    "address": "北海道網走市字呼人1-1",
-    "lat": 43.996766,
-    "lng": 144.229598,
-    "status": "candidate",
-    "fee": "要確認",
-    "hours": "要確認",
-    "official_url": "https://kangoku.jp",
-    "reference_urls": [
-      "https://visit-abashiri.jp/zh-CHT/culture/bffe60c6e31340962c891ed6b119cfde5922bd2b.html"
-    ],
-    "summary": "明治期以降の網走刑務所建築を移築・保存公開する野外歴史博物館。",
-    "highlights": [
-      "実際の監獄建築を移築保存した野外博物館",
-      "北海道開拓と刑務所史を一度に学べる",
-      "赤レンガ・木造舎房など撮影対象が多い"
-    ],
-    "from_kameyama": "飛行機＋レンタカー約6時間30分（中部→女満別） / 車＋フェリー約27時間",
-    "deepdive": {
-      "history_jp": "博物館 網走監獄は、明治期以降の網走刑務所建築を移築・保存公開する野外歴史博物館。 詳細な沿革は公式・公的資料で追加確認する。",
-      "cultural_context_jp": "博物館・資料館として、地域の信仰・産業・自然地形・展示文化の文脈から整理する。怪奇・心霊的な煽りではなく、確認可能な資料に基づいて記述する。",
-      "local_perspective_jp": "全国版の初回候補として追加。現地訪問前のため、駐車場・混雑・季節条件・撮影可否は公開前に再確認する。",
-      "related_works": [],
-      "external_reviews": "",
-      "best_visit_time": "要確認",
-      "photo_tips": "自前写真または使用許諾を確認した写真のみ使用する。",
-      "trivia": "",
-      "warnings_extra": "屋外展示が多いため積雪期・荒天時は足元注意。",
-      "sources": "- https://kangoku.jp\n- https://visit-abashiri.jp/zh-CHT/culture/bffe60c6e31340962c891ed6b119cfde5922bd2b.html"
-    },
-    "region": "北海道",
-    "category_label": "博物館・資料館",
-    "source_quality": "official",
-    "safety_level": "open",
-    "safety_note": "屋外展示が多いため積雪期・荒天時は足元注意。",
-    "last_verified": "2026-05-08",
-    "editorial_status": "candidate",
-    "visit_priority": 4
-  },
-  {
-    "id": "spot-052",
-    "name": "なまはげ館",
-    "name_kana": "なまはげかん",
-    "category": "folk",
-    "prefecture": "秋田県",
-    "city": "男鹿市",
-    "address": "秋田県男鹿市北浦真山字水喰沢",
-    "lat": 39.929167,
-    "lng": 139.766583,
-    "status": "candidate",
-    "fee": "要確認",
-    "hours": "8:30-17:00目安・要確認",
-    "official_url": "https://namahage.co.jp/namahagekan/",
-    "reference_urls": [
-      "https://www.namahage-oga.akita.jp/namahagekan.html"
-    ],
-    "summary": "男鹿のナマハゲ文化を展示する民俗資料館。",
-    "highlights": [
-      "男鹿のナマハゲ文化を体系的に見られる",
-      "多様な面と衣装の展示が圧巻",
-      "民俗信仰カテゴリの全国候補として強い"
-    ],
-    "from_kameyama": "車で約10時間30分（東名阪→北陸道→日本海東北道）",
-    "deepdive": {
-      "history_jp": "なまはげ館は、男鹿のナマハゲ文化を展示する民俗資料館。 詳細な沿革は公式・公的資料で追加確認する。",
-      "cultural_context_jp": "民俗信仰として、地域の信仰・産業・自然地形・展示文化の文脈から整理する。怪奇・心霊的な煽りではなく、確認可能な資料に基づいて記述する。",
-      "local_perspective_jp": "全国版の初回候補として追加。現地訪問前のため、駐車場・混雑・季節条件・撮影可否は公開前に再確認する。",
-      "related_works": [],
-      "external_reviews": "",
-      "best_visit_time": "要確認",
-      "photo_tips": "自前写真または使用許諾を確認した写真のみ使用する。",
-      "trivia": "",
-      "warnings_extra": "通常の博物館見学。混雑期は要確認。",
-      "sources": "- https://namahage.co.jp/namahagekan/\n- https://www.namahage-oga.akita.jp/namahagekan.html"
-    },
-    "region": "東北",
-    "category_label": "民俗信仰",
-    "source_quality": "official",
-    "safety_level": "open",
-    "safety_note": "通常の博物館見学。混雑期は要確認。",
-    "last_verified": "2026-05-08",
-    "editorial_status": "candidate",
-    "visit_priority": 5
-  },
-  {
-    "id": "spot-053",
     "name": "空気神社",
     "name_kana": "くうきじんじゃ",
     "category": "folk",
@@ -1964,50 +1874,7 @@
     "visit_priority": 4
   },
   {
-    "id": "spot-054",
-    "name": "大谷資料館",
-    "name_kana": "おおやしりょうかん",
-    "category": "bkyu",
-    "prefecture": "栃木県",
-    "city": "宇都宮市",
-    "address": "栃木県宇都宮市大谷町909",
-    "lat": 36.599963,
-    "lng": 139.824751,
-    "status": "candidate",
-    "fee": "要確認",
-    "hours": "要確認",
-    "official_url": "https://oya-official.jp/bunka/",
-    "reference_urls": [],
-    "summary": "大谷石の地下採掘場跡を見学できる資料館。",
-    "highlights": [
-      "大谷石採掘跡の巨大地下空間を見学できる",
-      "土木・産業遺産として説明価値が高い",
-      "夏でも低温の非日常的な地下景観"
-    ],
-    "from_kameyama": "車で約6時間（東名阪→新東名→圏央道→東北道）",
-    "deepdive": {
-      "history_jp": "大谷資料館は、大谷石の地下採掘場跡を見学できる資料館。 詳細な沿革は公式・公的資料で追加確認する。",
-      "cultural_context_jp": "産業遺産として、地域の信仰・産業・自然地形・展示文化の文脈から整理する。怪奇・心霊的な煽りではなく、確認可能な資料に基づいて記述する。",
-      "local_perspective_jp": "全国版の初回候補として追加。現地訪問前のため、駐車場・混雑・季節条件・撮影可否は公開前に再確認する。",
-      "related_works": [],
-      "external_reviews": "",
-      "best_visit_time": "要確認",
-      "photo_tips": "自前写真または使用許諾を確認した写真のみ使用する。",
-      "trivia": "",
-      "warnings_extra": "地下空間は低温。足元・階段に注意。",
-      "sources": "- https://oya-official.jp/bunka/"
-    },
-    "region": "関東",
-    "category_label": "産業遺産",
-    "source_quality": "official",
-    "safety_level": "open",
-    "safety_note": "地下空間は低温。足元・階段に注意。",
-    "last_verified": "2026-05-08",
-    "editorial_status": "candidate",
-    "visit_priority": 5
-  },
-  {
-    "id": "spot-055",
+    "id": "spot-052",
     "name": "牛久大仏",
     "name_kana": "うしくだいぶつ",
     "category": "bkyu",
@@ -2052,7 +1919,7 @@
     "visit_priority": 5
   },
   {
-    "id": "spot-056",
+    "id": "spot-053",
     "name": "目黒寄生虫館",
     "name_kana": "めぐろきせいちゅうかん",
     "category": "bkyu",
@@ -2097,52 +1964,7 @@
     "visit_priority": 5
   },
   {
-    "id": "spot-057",
-    "name": "清津峡渓谷トンネル",
-    "name_kana": "きよつきょうけいこくとんねる",
-    "category": "mystery",
-    "prefecture": "新潟県",
-    "city": "十日町市",
-    "address": "新潟県十日町市小出癸2119-2",
-    "lat": 36.972725,
-    "lng": 138.749846,
-    "status": "candidate",
-    "fee": "要確認",
-    "hours": "8:30-17:00目安・季節変動",
-    "official_url": "https://nakasato-kiyotsu.com",
-    "reference_urls": [
-      "https://www.tokamachishikankou.jp/spot/kiyotsukyo/"
-    ],
-    "summary": "柱状節理の渓谷美をトンネル内から鑑賞できる景勝地。",
-    "highlights": [
-      "柱状節理の渓谷を安全なトンネル内から鑑賞",
-      "自然景観とアート的展望空間が共存",
-      "写真訴求力が高い全国版向けスポット"
-    ],
-    "from_kameyama": "車で約6時間30分（東名阪→中央道→上信越道→関越道）",
-    "deepdive": {
-      "history_jp": "清津峡渓谷トンネルは、柱状節理の渓谷美をトンネル内から鑑賞できる景勝地。 詳細な沿革は公式・公的資料で追加確認する。",
-      "cultural_context_jp": "自然奇景として、地域の信仰・産業・自然地形・展示文化の文脈から整理する。怪奇・心霊的な煽りではなく、確認可能な資料に基づいて記述する。",
-      "local_perspective_jp": "全国版の初回候補として追加。現地訪問前のため、駐車場・混雑・季節条件・撮影可否は公開前に再確認する。",
-      "related_works": [],
-      "external_reviews": "",
-      "best_visit_time": "要確認",
-      "photo_tips": "自前写真または使用許諾を確認した写真のみ使用する。",
-      "trivia": "",
-      "warnings_extra": "繁忙期予約・冬季営業時間・渓谷部立入に注意。",
-      "sources": "- https://nakasato-kiyotsu.com\n- https://www.tokamachishikankou.jp/spot/kiyotsukyo/"
-    },
-    "region": "甲信越",
-    "category_label": "自然奇景",
-    "source_quality": "official",
-    "safety_level": "open",
-    "safety_note": "繁忙期予約・冬季営業時間・渓谷部立入に注意。",
-    "last_verified": "2026-05-08",
-    "editorial_status": "candidate",
-    "visit_priority": 5
-  },
-  {
-    "id": "spot-058",
+    "id": "spot-054",
     "name": "ハニベ巌窟院",
     "name_kana": "はにべがんくついん",
     "category": "bkyu",
@@ -2187,7 +2009,7 @@
     "visit_priority": 4
   },
   {
-    "id": "spot-059",
+    "id": "spot-055",
     "name": "まんだら遊苑",
     "name_kana": "まんだらゆうえん",
     "category": "bkyu",
@@ -2232,52 +2054,7 @@
     "visit_priority": 5
   },
   {
-    "id": "spot-060",
-    "name": "未来心の丘",
-    "name_kana": "みらいしんのおか",
-    "category": "bkyu",
-    "prefecture": "広島県",
-    "city": "尾道市",
-    "address": "広島県尾道市瀬戸田町瀬戸田553-2",
-    "lat": 34.303736,
-    "lng": 133.090217,
-    "status": "candidate",
-    "fee": "要確認",
-    "hours": "要確認",
-    "official_url": "https://www.kousanji.or.jp/hill_of_hope.html",
-    "reference_urls": [
-      "https://www.kousanji.or.jp"
-    ],
-    "summary": "耕三寺博物館内にある白い大理石の環境彫刻庭園。",
-    "highlights": [
-      "白い大理石の環境彫刻庭園",
-      "瀬戸内の景観と非日常的造形が強い",
-      "写真・SNS導線にも向く全国候補"
-    ],
-    "from_kameyama": "車で約4時間30分（新名神→山陽道）",
-    "deepdive": {
-      "history_jp": "未来心の丘は、耕三寺博物館内にある白い大理石の環境彫刻庭園。 詳細な沿革は公式・公的資料で追加確認する。",
-      "cultural_context_jp": "B級スポットとして、地域の信仰・産業・自然地形・展示文化の文脈から整理する。怪奇・心霊的な煽りではなく、確認可能な資料に基づいて記述する。",
-      "local_perspective_jp": "全国版の初回候補として追加。現地訪問前のため、駐車場・混雑・季節条件・撮影可否は公開前に再確認する。",
-      "related_works": [],
-      "external_reviews": "",
-      "best_visit_time": "要確認",
-      "photo_tips": "自前写真または使用許諾を確認した写真のみ使用する。",
-      "trivia": "",
-      "warnings_extra": "夏季の照り返し、入館時間に注意。",
-      "sources": "- https://www.kousanji.or.jp/hill_of_hope.html\n- https://www.kousanji.or.jp"
-    },
-    "region": "中国",
-    "category_label": "B級スポット",
-    "source_quality": "official",
-    "safety_level": "open",
-    "safety_note": "夏季の照り返し、入館時間に注意。",
-    "last_verified": "2026-05-08",
-    "editorial_status": "candidate",
-    "visit_priority": 5
-  },
-  {
-    "id": "spot-061",
+    "id": "spot-056",
     "name": "大観音寺・ルーブル彫刻美術館",
     "name_kana": "だいかんのんじ・るーぶるちょうこくびじゅつかん",
     "category": "bkyu",
@@ -2323,54 +2100,7 @@
     "visit_priority": 5
   },
   {
-    "id": "spot-062",
-    "name": "末広橋梁",
-    "name_kana": "すえひろきょうりょう",
-    "category": "bkyu",
-    "prefecture": "三重県",
-    "city": "四日市市",
-    "address": "三重県四日市市末広町・千歳町",
-    "lat": 34.954556,
-    "lng": 136.633222,
-    "status": "candidate",
-    "fee": "無料",
-    "hours": "見学自由、稼働・列車通過時刻は要確認",
-    "official_url": "https://www.city.yokkaichi.lg.jp/www/contents/1001000002697/index.html",
-    "reference_urls": [
-      "https://www.kankomie.or.jp/spot/4326",
-      "https://kanko-yokkaichi.com/tourism/to-140/",
-      "https://kunishitei.bunka.go.jp/heritage/detail/102/00004110"
-    ],
-    "summary": "四日市港の千歳運河に架かる、現役最古級の跳開式鉄道可動橋。国重要文化財。",
-    "highlights": [
-      "産業遺産・可動橋",
-      "四日市港の千歳運河に架かる",
-      "三重県内の訪問記候補として面白い"
-    ],
-    "from_kameyama": "車で約40分（東名阪→四日市港方面）",
-    "deepdive": {
-      "history_jp": "末広橋梁は、四日市港の千歳運河に架かる、現役最古級の跳開式鉄道可動橋。国重要文化財。 詳細な沿革は公式・公的資料で追加確認する。",
-      "cultural_context_jp": "B級スポット・産業遺産・過剰造形として、運営主体や来歴を地域文化の文脈で整理する。",
-      "local_perspective_jp": "三重batch1の初回候補として追加。現地訪問前のため、駐車場・混雑・季節条件・撮影可否は公開前に再確認する。 メモ: 産業遺産枠の優先候補。カテゴリは現行enum上 bkyu、category_labelで産業遺産を保持。",
-      "related_works": [],
-      "external_reviews": "",
-      "best_visit_time": "要確認",
-      "photo_tips": "自前写真または使用許諾を確認した写真のみ使用する。",
-      "trivia": "",
-      "warnings_extra": "現役鉄道・港湾施設のため線路内・作業区域へ立ち入らない。撮影は公道・安全な場所から。",
-      "sources": "- https://www.city.yokkaichi.lg.jp/www/contents/1001000002697/index.html\n- https://www.kankomie.or.jp/spot/4326\n- https://kanko-yokkaichi.com/tourism/to-140/\n- https://kunishitei.bunka.go.jp/heritage/detail/102/00004110"
-    },
-    "region": "東海",
-    "category_label": "産業遺産・可動橋",
-    "source_quality": "public",
-    "safety_level": "open",
-    "safety_note": "現役鉄道・港湾施設のため線路内・作業区域へ立ち入らない。撮影は公道・安全な場所から。",
-    "last_verified": "2026-05-09",
-    "editorial_status": "candidate",
-    "visit_priority": 5
-  },
-  {
-    "id": "spot-063",
+    "id": "spot-057",
     "name": "神島 監的哨跡",
     "name_kana": "かみしま かんてきしょうあと",
     "category": "mystery",
@@ -2417,7 +2147,7 @@
     "visit_priority": 5
   },
   {
-    "id": "spot-064",
+    "id": "spot-058",
     "name": "丹生水銀鉱跡",
     "name_kana": "にゅうすいぎんこうあと",
     "category": "mystery",
@@ -2463,7 +2193,7 @@
     "visit_priority": 5
   },
   {
-    "id": "spot-065",
+    "id": "spot-059",
     "name": "頭之宮四方神社",
     "name_kana": "こうべのみやよもうじんじゃ",
     "category": "folk",
@@ -2509,7 +2239,7 @@
     "visit_priority": 5
   },
   {
-    "id": "spot-066",
+    "id": "spot-060",
     "name": "おうむ岩",
     "name_kana": "おうむいわ",
     "category": "mystery",
@@ -2554,7 +2284,7 @@
     "visit_priority": 4
   },
   {
-    "id": "spot-067",
+    "id": "spot-061",
     "name": "白瀧大明神",
     "name_kana": "しらたきだいみょうじん",
     "category": "folk",
@@ -2599,99 +2329,7 @@
     "visit_priority": 4
   },
   {
-    "id": "spot-068",
-    "name": "能褒野王塚古墳",
-    "name_kana": "のぼのおうつかこふん",
-    "category": "mystery",
-    "prefecture": "三重県",
-    "city": "亀山市",
-    "address": "三重県亀山市田村町",
-    "lat": 34.884544,
-    "lng": 136.481969,
-    "status": "candidate",
-    "fee": "無料目安",
-    "hours": "見学自由目安",
-    "official_url": "https://kameyamarekihaku.jp/content/21theme/zone02/shousai2.html",
-    "reference_urls": [
-      "https://www.kankomie.or.jp/spot/1862",
-      "https://ja.wikipedia.org/wiki/%E8%83%BD%E8%A4%92%E9%87%8E%E7%8E%8B%E5%A1%9A%E5%8F%A4%E5%A2%B3"
-    ],
-    "summary": "ヤマトタケルの墓に比定される、亀山市田村町の北勢最大級前方後円墳。",
-    "highlights": [
-      "古墳・ヤマトタケル伝承",
-      "ヤマトタケルの墓に比定される",
-      "三重県内の訪問記候補として面白い"
-    ],
-    "from_kameyama": "車で約20分（亀山市街→田村町方面）",
-    "deepdive": {
-      "history_jp": "能褒野王塚古墳は、ヤマトタケルの墓に比定される、亀山市田村町の北勢最大級前方後円墳。 詳細な沿革は公式・公的資料で追加確認する。",
-      "cultural_context_jp": "古墳・遺構・自然奇景として、考古学・地理・歴史資料の範囲で整理する。超常表現は使わない。",
-      "local_perspective_jp": "三重batch1の初回候補として追加。現地訪問前のため、駐車場・混雑・季節条件・撮影可否は公開前に再確認する。 メモ: 地元性が非常に高い。伝承・治定・考古学的事実を分けて書く。",
-      "related_works": [],
-      "external_reviews": "",
-      "best_visit_time": "要確認",
-      "photo_tips": "自前写真または使用許諾を確認した写真のみ使用する。",
-      "trivia": "",
-      "warnings_extra": "陵墓として管理される範囲に配慮。立入可能範囲、撮影マナー、周辺駐車場所を確認。",
-      "sources": "- https://kameyamarekihaku.jp/content/21theme/zone02/shousai2.html\n- https://www.kankomie.or.jp/spot/1862\n- https://ja.wikipedia.org/wiki/%E8%83%BD%E8%A4%92%E9%87%8E%E7%8E%8B%E5%A1%9A%E5%8F%A4%E5%A2%B3"
-    },
-    "region": "東海",
-    "category_label": "古墳・ヤマトタケル伝承",
-    "source_quality": "public",
-    "safety_level": "open",
-    "safety_note": "陵墓として管理される範囲に配慮。立入可能範囲、撮影マナー、周辺駐車場所を確認。",
-    "last_verified": "2026-05-09",
-    "editorial_status": "candidate",
-    "visit_priority": 5
-  },
-  {
-    "id": "spot-069",
-    "name": "宝塚古墳公園・船形埴輪",
-    "name_kana": "たからづかこふんこうえん・ふながたはにわ",
-    "category": "mystery",
-    "prefecture": "三重県",
-    "city": "松阪市",
-    "address": "三重県松阪市宝塚町・光町",
-    "lat": 34.549756,
-    "lng": 136.515286,
-    "status": "candidate",
-    "fee": "無料目安",
-    "hours": "公園見学自由目安",
-    "official_url": "https://www.city.matsusaka.mie.jp/site/bunkazai-center/takarazuka-kohun-kouen.html",
-    "reference_urls": [
-      "https://www.matsusaka-kanko.com/information/information/takarazukakofun/",
-      "https://ja.wikipedia.org/wiki/%E5%AE%9D%E5%A1%9A%E5%8F%A4%E5%A2%B3_(%E6%9D%BE%E9%98%AA%E5%B8%82)"
-    ],
-    "summary": "日本最大級の船形埴輪を含む埴輪群を復元展示する、松阪市の古墳公園。",
-    "highlights": [
-      "古墳・古代造形",
-      "日本最大級の船形埴輪を含む埴輪群を復元展示する",
-      "三重県内の訪問記候補として面白い"
-    ],
-    "from_kameyama": "車で約45分（伊勢道→松阪IC方面）",
-    "deepdive": {
-      "history_jp": "宝塚古墳公園・船形埴輪は、日本最大級の船形埴輪を含む埴輪群を復元展示する、松阪市の古墳公園。 詳細な沿革は公式・公的資料で追加確認する。",
-      "cultural_context_jp": "古墳・遺構・自然奇景として、考古学・地理・歴史資料の範囲で整理する。超常表現は使わない。",
-      "local_perspective_jp": "三重batch1の初回候補として追加。現地訪問前のため、駐車場・混雑・季節条件・撮影可否は公開前に再確認する。 メモ: はにわ館とセットにすると背景説明が厚くなる。",
-      "related_works": [],
-      "external_reviews": "",
-      "best_visit_time": "要確認",
-      "photo_tips": "自前写真または使用許諾を確認した写真のみ使用する。",
-      "trivia": "",
-      "warnings_extra": "柵内立入不可。古墳上や復元展示の保護に配慮。夏季の暑さ、雨天後の足元注意。",
-      "sources": "- https://www.city.matsusaka.mie.jp/site/bunkazai-center/takarazuka-kohun-kouen.html\n- https://www.matsusaka-kanko.com/information/information/takarazukakofun/\n- https://ja.wikipedia.org/wiki/%E5%AE%9D%E5%A1%9A%E5%8F%A4%E5%A2%B3_(%E6%9D%BE%E9%98%AA%E5%B8%82)"
-    },
-    "region": "東海",
-    "category_label": "古墳・古代造形",
-    "source_quality": "public",
-    "safety_level": "open",
-    "safety_note": "柵内立入不可。古墳上や復元展示の保護に配慮。夏季の暑さ、雨天後の足元注意。",
-    "last_verified": "2026-05-09",
-    "editorial_status": "candidate",
-    "visit_priority": 4
-  },
-  {
-    "id": "spot-070",
+    "id": "spot-062",
     "name": "磨洞温泉 涼風荘 洞窟座敷",
     "name_kana": "まどうおんせん りょうふうそう どうくつざしき",
     "category": "bkyu",
@@ -2737,236 +2375,7 @@
     "visit_priority": 4
   },
   {
-    "id": "spot-071",
-    "name": "斎宮跡・斎宮歴史博物館",
-    "name_kana": "さいくうあと・さいくうれきしはくぶつかん",
-    "category": "mystery",
-    "prefecture": "三重県",
-    "city": "明和町",
-    "address": "三重県多気郡明和町竹川503",
-    "lat": 34.542778,
-    "lng": 136.609444,
-    "status": "candidate",
-    "fee": "博物館観覧料は要確認",
-    "hours": "9:30-17:00目安、入館16:30まで、月曜休館目安",
-    "official_url": "https://www.bunka.pref.mie.lg.jp/saiku/",
-    "reference_urls": [
-      "https://www.itukinomiya.com",
-      "https://ja.wikipedia.org/wiki/%E6%96%8E%E5%AE%AE%E6%AD%B4%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8"
-    ],
-    "summary": "伊勢神宮に仕えた斎王の御所・斎宮をめぐる国史跡と県立博物館。",
-    "highlights": [
-      "斎王・古代国家・史跡博物館",
-      "伊勢神宮に仕えた斎王の御所・斎宮をめぐる国史跡と県立博物館",
-      "三重県内の訪問記候補として面白い"
-    ],
-    "from_kameyama": "車で約50分（伊勢道→玉城IC方面）",
-    "deepdive": {
-      "history_jp": "斎宮跡・斎宮歴史博物館は、伊勢神宮に仕えた斎王の御所・斎宮をめぐる国史跡と県立博物館。 斎宮は、天皇に代わって伊勢神宮に仕えた斎王の宮処として知られる。古代国家、女性皇族、伊勢信仰、都から離れた祭祀空間が重なり、三重県の「歴史の異界」枠として扱いやすい。",
-      "cultural_context_jp": "三重県の歴史・産業・民俗・近代化の文脈で位置づけ、運営主体や来歴を地域文化の文脈で整理する。",
-      "local_perspective_jp": "三重batch2の追加候補として登録。現地訪問前のため、駐車場・混雑・季節条件・撮影可否は公開前に再確認する。 メモ: 王道寄りだが背景が濃い。史跡全体か博物館中心か掲載範囲を決める。",
-      "related_works": [],
-      "external_reviews": "",
-      "best_visit_time": "要確認",
-      "photo_tips": "自前写真または使用許諾を確認した写真のみ使用する。現地撮影マナー・居住者・周辺住民への配慮を厳守。",
-      "trivia": "",
-      "warnings_extra": "史跡公園と博物館として通常見学可。開館日・展示観覧料・屋外史跡の範囲を確認。",
-      "sources": "- https://www.bunka.pref.mie.lg.jp/saiku/\n- https://www.itukinomiya.com\n- https://ja.wikipedia.org/wiki/%E6%96%8E%E5%AE%AE%E6%AD%B4%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8"
-    },
-    "region": "東海",
-    "category_label": "斎王・古代国家・史跡博物館",
-    "source_quality": "public",
-    "safety_level": "open",
-    "safety_note": "史跡公園と博物館として通常見学可。開館日・展示観覧料・屋外史跡の範囲を確認。",
-    "last_verified": "2026-05-09",
-    "editorial_status": "candidate",
-    "visit_priority": 4
-  },
-  {
-    "id": "spot-072",
-    "name": "御城番屋敷",
-    "name_kana": "ごじょうばんやしき",
-    "category": "mystery",
-    "prefecture": "三重県",
-    "city": "松阪市",
-    "address": "三重県松阪市殿町1385",
-    "lat": 34.574417,
-    "lng": 136.527194,
-    "status": "candidate",
-    "fee": "無料目安",
-    "hours": "10:00-16:00目安、月曜休館目安",
-    "official_url": "https://www.city.matsusaka.mie.jp/site/kanko/gojyobanyashiki.html",
-    "reference_urls": [
-      "https://www.matsusaka-kanko.com/information/information/gojyouban/",
-      "https://ja.wikipedia.org/wiki/%E5%BE%A1%E5%9F%8E%E7%95%AA%E5%B1%8B%E6%95%B7"
-    ],
-    "summary": "江戸末期の武家長屋に今も子孫が暮らし、一部が公開される松阪城下の重要文化財。",
-    "highlights": [
-      "武家長屋・現役居住・重要文化財",
-      "江戸末期の武家長屋に今も子孫が暮らし、一部が公開される松阪城下の重要文化財",
-      "三重県内の訪問記候補として面白い"
-    ],
-    "from_kameyama": "車で約45分（伊勢道→松阪IC方面）",
-    "deepdive": {
-      "history_jp": "御城番屋敷は、江戸末期の武家長屋に今も子孫が暮らし、一部が公開される松阪城下の重要文化財。 松坂城を警護した松坂御城番の組屋敷で、東棟10戸・西棟9戸が残る。現存する江戸時代の武家長屋として規模が大きく、居住空間と文化財公開が重なる点が面白い。",
-      "cultural_context_jp": "三重県の歴史・産業・民俗・近代化の文脈で位置づけ、運営主体や来歴を地域文化の文脈で整理する。",
-      "local_perspective_jp": "三重batch2の追加候補として登録。現地訪問前のため、駐車場・混雑・季節条件・撮影可否は公開前に再確認する。 メモ: 居住者配慮を本文に明記。松坂城跡とセット導線。",
-      "related_works": [],
-      "external_reviews": "",
-      "best_visit_time": "要確認",
-      "photo_tips": "自前写真または使用許諾を確認した写真のみ使用する。現地撮影マナー・居住者・周辺住民への配慮を厳守。",
-      "trivia": "",
-      "warnings_extra": "現在も居住者がいるため、公開戸以外への立入・撮影に配慮。静かに見学する。",
-      "sources": "- https://www.city.matsusaka.mie.jp/site/kanko/gojyobanyashiki.html\n- https://www.matsusaka-kanko.com/information/information/gojyouban/\n- https://ja.wikipedia.org/wiki/%E5%BE%A1%E5%9F%8E%E7%95%AA%E5%B1%8B%E6%95%B7"
-    },
-    "region": "東海",
-    "category_label": "武家長屋・現役居住・重要文化財",
-    "source_quality": "public",
-    "safety_level": "open",
-    "safety_note": "現在も居住者がいるため、公開戸以外への立入・撮影に配慮。静かに見学する。",
-    "last_verified": "2026-05-09",
-    "editorial_status": "candidate",
-    "visit_priority": 4
-  },
-  {
-    "id": "spot-073",
-    "name": "六華苑",
-    "name_kana": "ろっかえん",
-    "category": "mystery",
-    "prefecture": "三重県",
-    "city": "桑名市",
-    "address": "三重県桑名市大字桑名663-5",
-    "lat": 35.070944,
-    "lng": 136.692444,
-    "status": "candidate",
-    "fee": "入苑料要確認",
-    "hours": "9:00-17:00目安、入苑16:00まで、月曜休苑目安",
-    "official_url": "https://www.rokkaen.com",
-    "reference_urls": [
-      "https://ja.wikipedia.org/wiki/%E5%85%AD%E8%8F%AF%E8%8B%91"
-    ],
-    "summary": "ジョサイア・コンドル設計の洋館と和館・庭園が接続する桑名の近代邸宅。",
-    "highlights": [
-      "近代建築・和洋折衷・名勝",
-      "ジョサイア・コンドル設計の洋館と和館・庭園が接続する桑名の近代邸宅",
-      "三重県内の訪問記候補として面白い"
-    ],
-    "from_kameyama": "車で約45分（東名阪→桑名方面）",
-    "deepdive": {
-      "history_jp": "六華苑は、ジョサイア・コンドル設計の洋館と和館・庭園が接続する桑名の近代邸宅。 二代諸戸清六の邸宅として1913年に完成。鹿鳴館で知られるジョサイア・コンドル設計の洋館と和館、池泉回遊式庭園が組み合わさり、和洋折衷の非日常感が強い。",
-      "cultural_context_jp": "三重県の歴史・産業・民俗・近代化の文脈で位置づけ、運営主体や来歴を地域文化の文脈で整理する。",
-      "local_perspective_jp": "三重batch2の追加候補として登録。現地訪問前のため、駐車場・混雑・季節条件・撮影可否は公開前に再確認する。 メモ: Bizarre度は中程度。近代化の異物感として書くと合う。",
-      "related_works": [],
-      "external_reviews": "",
-      "best_visit_time": "要確認",
-      "photo_tips": "自前写真または使用許諾を確認した写真のみ使用する。現地撮影マナー・居住者・周辺住民への配慮を厳守。",
-      "trivia": "",
-      "warnings_extra": "文化財施設として通常見学可。館内撮影、婚礼・イベント利用時の公開範囲を確認。",
-      "sources": "- https://www.rokkaen.com\n- https://ja.wikipedia.org/wiki/%E5%85%AD%E8%8F%AF%E8%8B%91"
-    },
-    "region": "東海",
-    "category_label": "近代建築・和洋折衷・名勝",
-    "source_quality": "official",
-    "safety_level": "open",
-    "safety_note": "文化財施設として通常見学可。館内撮影、婚礼・イベント利用時の公開範囲を確認。",
-    "last_verified": "2026-05-09",
-    "editorial_status": "candidate",
-    "visit_priority": 4
-  },
-  {
-    "id": "spot-074",
-    "name": "四日市公害と環境未来館",
-    "name_kana": "よっかいちこうがいとかんきょうみらいかん",
-    "category": "mystery",
-    "prefecture": "三重県",
-    "city": "四日市市",
-    "address": "三重県四日市市安島1-3-16",
-    "lat": 34.9669,
-    "lng": 136.6178,
-    "status": "candidate",
-    "fee": "無料目安",
-    "hours": "9:30-17:00目安、月曜休館目安",
-    "official_url": "https://www.city.yokkaichi.mie.jp/yokkaichikougai-kankyoumiraikan/",
-    "reference_urls": [
-      "https://ja.wikipedia.org/wiki/%E5%9B%9B%E6%97%A5%E5%B8%82%E5%85%AC%E5%AE%B3%E3%81%A8%E7%92%B0%E5%A2%83%E6%9C%AA%E6%9D%A5%E9%A4%A8"
-    ],
-    "summary": "四日市公害の歴史を伝え、環境学習へつなぐ市立ミュージアム。",
-    "highlights": [
-      "公害史・負の産業遺産・環境学習",
-      "四日市公害の歴史を伝え、環境学習へつなぐ市立ミュージアム",
-      "三重県内の訪問記候補として面白い"
-    ],
-    "from_kameyama": "車で約45分（東名阪→近鉄四日市方面）",
-    "deepdive": {
-      "history_jp": "四日市公害と環境未来館は、四日市公害の歴史を伝え、環境学習へつなぐ市立ミュージアム。 四日市コンビナートの発展と公害被害、環境改善の歴史を扱う施設。珍スポット的に消費せず、産業都市の光と影、地域の記憶を背景にした「負の産業遺産」枠として慎重に扱う。",
-      "cultural_context_jp": "三重県の歴史・産業・民俗・近代化の文脈で位置づけ、運営主体や来歴を地域文化の文脈で整理する。",
-      "local_perspective_jp": "三重batch2の追加候補として登録。現地訪問前のため、駐車場・混雑・季節条件・撮影可否は公開前に再確認する。 メモ: コンビナート夜景と対にすると深みが出る。トーン要注意。",
-      "related_works": [],
-      "external_reviews": "",
-      "best_visit_time": "要確認",
-      "photo_tips": "自前写真または使用許諾を確認した写真のみ使用する。現地撮影マナー・居住者・周辺住民への配慮を厳守。",
-      "trivia": "",
-      "warnings_extra": "通常の公共施設。被害史への配慮を最優先し、茶化し・煽り表現は避ける。企画展・休館日を確認。",
-      "sources": "- https://www.city.yokkaichi.mie.jp/yokkaichikougai-kankyoumiraikan/\n- https://ja.wikipedia.org/wiki/%E5%9B%9B%E6%97%A5%E5%B8%82%E5%85%AC%E5%AE%B3%E3%81%A8%E7%92%B0%E5%A2%83%E6%9C%AA%E6%9D%A5%E9%A4%A8"
-    },
-    "region": "東海",
-    "category_label": "公害史・負の産業遺産・環境学習",
-    "source_quality": "public",
-    "safety_level": "open",
-    "safety_note": "通常の公共施設。被害史への配慮を最優先し、茶化し・煽り表現は避ける。企画展・休館日を確認。",
-    "last_verified": "2026-05-09",
-    "editorial_status": "candidate",
-    "visit_priority": 4
-  },
-  {
-    "id": "spot-075",
-    "name": "菅島灯台",
-    "name_kana": "すがしまとうだい",
-    "category": "mystery",
-    "prefecture": "三重県",
-    "city": "鳥羽市",
-    "address": "三重県鳥羽市菅島町",
-    "lat": 34.5,
-    "lng": 136.908611,
-    "status": "candidate",
-    "fee": "外観見学無料目安、船賃別",
-    "hours": "外観見学自由目安、船便時刻要確認",
-    "official_url": "https://www.kaiho.mlit.go.jp/04kanku/toba/a/A-5-sugashima.html",
-    "reference_urls": [
-      "https://www.bunka.go.jp/kindai/todai/008/index.html",
-      "https://romance-toudai.uminohi.jp/toudai/sugashima.html",
-      "https://ja.wikipedia.org/wiki/%E8%8F%85%E5%B3%B6%E7%81%AF%E5%8F%B0"
-    ],
-    "summary": "英国人技師ブラントン設計、日本初の円形レンガ造りとされる現存最古級の灯台。",
-    "highlights": [
-      "近代灯台・離島・重要文化財",
-      "英国人技師ブラントン設計、日本初の円形レンガ造りとされる現存最古級の灯台",
-      "三重県内の訪問記候補として面白い"
-    ],
-    "from_kameyama": "車＋市営定期船＋徒歩で約2時間（亀山→鳥羽→菅島）",
-    "deepdive": {
-      "history_jp": "菅島灯台は、英国人技師ブラントン設計、日本初の円形レンガ造りとされる現存最古級の灯台。 菅島付近は古くから海の難所で、江戸期のかがり火を経て明治期に洋式灯台が建設された。R.H.ブラントン設計、明治6年点灯の近代灯台で、離島・海運・近代化の背景が強い。",
-      "cultural_context_jp": "三重県の歴史・産業・民俗・近代化の文脈で位置づけ、運営主体や来歴を地域文化の文脈で整理する。",
-      "local_perspective_jp": "三重batch2の追加候補として登録。現地訪問前のため、駐車場・混雑・季節条件・撮影可否は公開前に再確認する。 メモ: 神島監的哨跡と離島遺構セットにできる。",
-      "related_works": [],
-      "external_reviews": "",
-      "best_visit_time": "要確認",
-      "photo_tips": "自前写真または使用許諾を確認した写真のみ使用する。現地撮影マナー・居住者・周辺住民への配慮を厳守。",
-      "trivia": "",
-      "warnings_extra": "鳥羽市営定期船で菅島へ渡り、港から徒歩約20分。船便、荒天、島内坂道、灯台内部公開の有無を確認。",
-      "sources": "- https://www.kaiho.mlit.go.jp/04kanku/toba/a/A-5-sugashima.html\n- https://www.bunka.go.jp/kindai/todai/008/index.html\n- https://romance-toudai.uminohi.jp/toudai/sugashima.html\n- https://ja.wikipedia.org/wiki/%E8%8F%85%E5%B3%B6%E7%81%AF%E5%8F%B0"
-    },
-    "region": "東海",
-    "category_label": "近代灯台・離島・重要文化財",
-    "source_quality": "public",
-    "safety_level": "caution",
-    "safety_note": "鳥羽市営定期船で菅島へ渡り、港から徒歩約20分。船便、荒天、島内坂道、灯台内部公開の有無を確認。",
-    "last_verified": "2026-05-09",
-    "editorial_status": "candidate",
-    "visit_priority": 4
-  },
-  {
-    "id": "spot-076",
+    "id": "spot-063",
     "name": "松阪飯南 稲わらモニュメント",
     "name_kana": "まつさかいいなん いなわらもにゅめんと",
     "category": "bkyu",
@@ -3011,7 +2420,7 @@
     "visit_priority": 4
   },
   {
-    "id": "spot-077",
+    "id": "spot-064",
     "name": "石山観音公園",
     "name_kana": "いしやまかんのんこうえん",
     "category": "folk",
@@ -3056,142 +2465,7 @@
     "visit_priority": 4
   },
   {
-    "id": "spot-078",
-    "name": "大王埼灯台",
-    "name_kana": "だいおうさきとうだい",
-    "category": "mystery",
-    "prefecture": "三重県",
-    "city": "志摩市",
-    "address": "三重県志摩市大王町波切54-1",
-    "lat": 34.276154,
-    "lng": 136.899529,
-    "status": "candidate",
-    "fee": "参観寄付金等は公式確認",
-    "hours": "公式・燈光会案内に従う",
-    "official_url": "https://japan-heritage.bunka.go.jp/ja/culturalproperties/result/4291/",
-    "reference_urls": [
-      "https://www.bunka.go.jp/kindai/todai/033/index.html"
-    ],
-    "summary": "1927年設置の登録有形文化財。志摩半島東南端の断崖上に立つ「登れる灯台」で、熊野灘の難所を見守る近代航路標識。",
-    "highlights": [
-      "近代灯台・登録有形文化財・登れる灯台",
-      "熊野灘の難所と暗岩を見下ろす断崖上の立地",
-      "菅島灯台と対になる三重の海の近代化遺産"
-    ],
-    "from_kameyama": "車で約120分（伊勢道→第二伊勢道路→国道167号）",
-    "deepdive": {
-      "history_jp": "大王埼灯台は、暗岩の多い熊野灘の海の難所に応えて昭和2年（1927年）に点灯した近代の航路標識で、鉄筋コンクリート造の円筒形灯塔と扇形付属舎を持つ。登録有形文化財に登載され、参観可能な灯台として知られる。",
-      "cultural_context_jp": "明治期のブラントン設計の菅島灯台と並んで、三重県の海の近代化を語る素材になる。海女文化や熊野灘の景観と組み合わせた記事化が可能。",
-      "local_perspective_jp": "三重batch3の追加候補として登録。志摩市・燈光会の運営情報を確認しつつ、海女・熊野灘文脈と組み合わせる。 メモ: 菅島灯台と対の近代化遺産セットにできる。",
-      "related_works": [],
-      "external_reviews": "",
-      "best_visit_time": "通年・晴天日。強風・荒天時は避ける",
-      "photo_tips": "自前写真または使用許諾を確認した写真のみ使用する。断崖と灯塔のスケール、付属舎の意匠を組み合わせた構図が候補。",
-      "trivia": "",
-      "warnings_extra": "強風・荒天時注意。参観可否・時間・寄付金は公式・燈光会で訪問前に確認。崖際は転落注意。",
-      "sources": "- https://japan-heritage.bunka.go.jp/ja/culturalproperties/result/4291/\n- https://www.bunka.go.jp/kindai/todai/033/index.html"
-    },
-    "region": "東海",
-    "category_label": "近代灯台・登録有形文化財",
-    "source_quality": "public",
-    "safety_level": "caution",
-    "safety_note": "強風・荒天時注意。参観可否・時間・寄付金は公式・燈光会で訪問前に確認。崖際は転落注意。",
-    "last_verified": "2026-05-09",
-    "editorial_status": "candidate",
-    "visit_priority": 4
-  },
-  {
-    "id": "spot-079",
-    "name": "熊野市紀和鉱山資料館",
-    "name_kana": "くまのしきわこうざんしりょうかん",
-    "category": "mystery",
-    "prefecture": "三重県",
-    "city": "熊野市",
-    "address": "三重県熊野市紀和町板屋110-1",
-    "lat": 33.876427,
-    "lng": 135.913859,
-    "status": "candidate",
-    "fee": "大人300円目安",
-    "hours": "9:00-17:00・月曜休目安",
-    "official_url": "https://www.bunka.pref.mie.lg.jp/Miebunka/detail?cls=mica_col07&pkey=0000000157",
-    "reference_urls": [
-      "https://kiwa.is-mine.net"
-    ],
-    "summary": "紀州鉱山の歴史を実物・模型・鉱石展示で紹介する資料館。板屋の大選鉱場跡向かいに位置し、近世から昭和期まで続いた鉱山の地域史を扱う。",
-    "highlights": [
-      "鉱山資料館・産業遺産・地下資源文化",
-      "大蛍石、鉱山器具、社内新聞など一次資料が豊富",
-      "丹生水銀鉱跡と組み合わせた三重の鉱山文化線"
-    ],
-    "from_kameyama": "車で約150分（伊勢道→紀勢道→熊野尾鷲道路）",
-    "deepdive": {
-      "history_jp": "熊野市紀和鉱山資料館は、紀州鉱山（紀和鉱山）の歴史を伝える施設で、近世から昭和期までの採掘・選鉱・地域生活を実物資料と模型で紹介している。板屋の大選鉱場跡の向かいに位置し、三重県文化財DBにも記載される。",
-      "cultural_context_jp": "三重県南部の地下資源文化を語る貴重な施設で、丹生水銀鉱跡（spot-064）と組み合わせると、伊勢・志摩・北勢とは別系統の鉱山産業史線を構成できる。",
-      "local_perspective_jp": "三重batch3の追加候補として登録。熊野市公式・三重県文化財DBの情報を一次資料として扱う。 メモ: 丹生水銀鉱跡とあわせて鉱山・地下資源テーマで束ねる。",
-      "related_works": [],
-      "external_reviews": "",
-      "best_visit_time": "通年。休館日と料金を訪問前に再確認",
-      "photo_tips": "自前写真または使用許諾を確認した写真のみ使用する。展示室の撮影可否は現地確認のうえ表示に従う。",
-      "trivia": "",
-      "warnings_extra": "山間部の長距離移動。休館日確認。周辺坑道等への無断立入不可。",
-      "sources": "- https://www.bunka.pref.mie.lg.jp/Miebunka/detail?cls=mica_col07&pkey=0000000157\n- https://kiwa.is-mine.net"
-    },
-    "region": "東海",
-    "category_label": "鉱山資料館・産業遺産",
-    "source_quality": "public",
-    "safety_level": "open",
-    "safety_note": "山間部の長距離移動。休館日確認。周辺坑道等への無断立入不可。",
-    "last_verified": "2026-05-09",
-    "editorial_status": "candidate",
-    "visit_priority": 4
-  },
-  {
-    "id": "spot-080",
-    "name": "津市香良洲歴史資料館",
-    "name_kana": "つしからすれきししりょうかん",
-    "category": "mystery",
-    "prefecture": "三重県",
-    "city": "津市",
-    "address": "三重県津市香良洲町6320",
-    "lat": 34.646063,
-    "lng": 136.543652,
-    "status": "candidate",
-    "fee": "無料目安",
-    "hours": "9:00-17:00・月曜休目安",
-    "official_url": "https://www.info.city.tsu.mie.jp/shisetsu/bunkashisetsu/1002220.html",
-    "reference_urls": [
-      "https://www.bunka.pref.mie.lg.jp/Miebunka/detail?cls=mica_col07&pkey=0000000067"
-    ],
-    "summary": "旧三重海軍航空隊や戦時下の暮らしを伝える「戦争と平和の資料館」。若桜会館を前身とし、東海地方でも数少ない戦争と平和をテーマにした地域資料館。",
-    "highlights": [
-      "戦争遺跡・戦争と平和をテーマにした地域資料館",
-      "旧三重海軍航空隊関係者による若桜会館を前身",
-      "心霊・廃墟ではなく一次資料に基づく戦争遺跡文脈"
-    ],
-    "from_kameyama": "車で約45分（伊勢道→久居IC方面）",
-    "deepdive": {
-      "history_jp": "津市香良洲歴史資料館は、香良洲町に置かれた旧三重海軍航空隊の関係者を中心に建設された若桜会館を前身とし、現在は津市の文化施設として運営される。旧海軍航空隊・戦時下の地域生活・戦災に関する資料を所蔵・展示している。",
-      "cultural_context_jp": "東海地方で「戦争と平和」をテーマに据えた数少ない地域資料館の一つで、軍事遺構・戦争記憶を心霊化・廃墟化せず、一次資料に基づく文脈で扱える施設。",
-      "local_perspective_jp": "三重batch3の追加候補として登録。津市公式・三重県文化財DBの情報を一次資料として扱い、サイトの誠実さを高める枠として位置づける。 メモ: 展示への敬意を最優先。",
-      "related_works": [],
-      "external_reviews": "",
-      "best_visit_time": "通年。休館日と料金を訪問前に再確認",
-      "photo_tips": "展示内容への敬意を優先。撮影可否は現地表示と職員指示に従う。許諾なき展示物の接写・SNS掲載は避ける。",
-      "trivia": "",
-      "warnings_extra": "展示内容への敬意を最優先する。撮影・引用ルールを遵守。関係者・遺族への配慮。",
-      "sources": "- https://www.info.city.tsu.mie.jp/shisetsu/bunkashisetsu/1002220.html\n- https://www.bunka.pref.mie.lg.jp/Miebunka/detail?cls=mica_col07&pkey=0000000067"
-    },
-    "region": "東海",
-    "category_label": "戦争遺跡・地域資料館",
-    "source_quality": "public",
-    "safety_level": "open",
-    "safety_note": "展示内容への敬意を最優先する。撮影・引用ルールを遵守。関係者・遺族への配慮。",
-    "last_verified": "2026-05-09",
-    "editorial_status": "candidate",
-    "visit_priority": 4
-  },
-  {
-    "id": "spot-081",
+    "id": "spot-065",
     "name": "関・観音山公園の石仏群",
     "name_kana": "せき・かんのんやまこうえんのせきぶつぐん",
     "category": "folk",
@@ -3236,52 +2510,7 @@
     "visit_priority": 5
   },
   {
-    "id": "spot-082",
-    "name": "加太鉄道遺産群",
-    "name_kana": "かぶとてつどういさんぐん",
-    "category": "mystery",
-    "prefecture": "三重県",
-    "city": "亀山市",
-    "address": "三重県亀山市加太市場・加太中在家・加太北在家周辺（代表地点：加太駅）",
-    "lat": 34.842517,
-    "lng": 136.340271,
-    "status": "candidate",
-    "fee": "無料目安",
-    "hours": "屋外・鉄道沿線（公道からの見学）",
-    "official_url": "https://www.city.kameyama.mie.jp/docs/2016112500015/file_contents/1-22P.pdf",
-    "reference_urls": [
-      "https://kabutomachi.jimdofree.com/%E5%8A%A0%E5%A4%AA%E3%82%92%E6%A5%BD%E3%81%97%E3%82%80/%E9%89%84%E9%81%93%E9%81%BA%E7%94%A3%E7%BE%A4/"
-    ],
-    "summary": "関西鉄道時代の隧道・橋梁・水路・築堤が加太地区に密集する現役鉄道遺産群。加太駅は1896年開設、現駅舎は1922年。",
-    "highlights": [
-      "産業遺産・明治の鉄道土木",
-      "煉瓦隧道・石積橋脚・水マンボ・大築堤",
-      "現役鉄道沿線で見学できる関西鉄道時代の遺構"
-    ],
-    "from_kameyama": "車で約25分（国道1号→加太方面）",
-    "deepdive": {
-      "history_jp": "加太鉄道遺産群は、三重県亀山市加太地区（市場・中在家・北在家）に密集する関西鉄道時代の鉄道土木遺産で、隧道・橋梁・水路・築堤などが現役のJR関西本線沿線に残る。加太駅は1896年（明治29年）に開設され、現駅舎は1922年（大正11年）に建てられたとされる。関〜柘植間は山・川・道を越える難工事で、煉瓦隧道、石積橋脚、水マンボ、大築堤などが残り、鉄道敷設犠牲者を弔う石仏群もあると地元資料に伝わる。",
-      "cultural_context_jp": "明治の私鉄・関西鉄道による鈴鹿越え区間の土木遺産が、現役鉄道とともに残る稀有な事例。煉瓦・石積・水路といった近代土木の素材と意匠を、生活道・農地・鉄道沿線で同時に観察できる点で、産業遺産・近代史・地域社会史の資料価値が高い。",
-      "local_perspective_jp": "三重batch（亀山）の追加候補として登録。亀山市公式PDF・加太町の地域団体資料を一次資料として扱う。代表地点を「加太駅」に置きつつ、個別遺構は今後分割収録を検討する。 メモ: 線路敷・橋梁・トンネル内には絶対に立ち入らない、撮影は公道・安全地帯から、を本文でも明記する。",
-      "related_works": [],
-      "external_reviews": "",
-      "best_visit_time": "通年。落ち葉・残雪・夏草で見え方が変わるため、晩秋〜初春の見通しがよい時期が観察しやすい",
-      "photo_tips": "自前写真または使用許諾を確認した写真のみ使用する。煉瓦隧道・石積橋脚は公道・歩道・公的展望地点から撮影し、線路敷・橋上・トンネル内には絶対に踏み込まない。",
-      "trivia": "",
-      "warnings_extra": "線路敷・橋梁・トンネル内へ絶対に立ち入らない。撮影は公道・安全地帯から行う。私有地・農地への立入もしない。",
-      "sources": "- https://www.city.kameyama.mie.jp/docs/2016112500015/file_contents/1-22P.pdf\n- https://kabutomachi.jimdofree.com/%E5%8A%A0%E5%A4%AA%E3%82%92%E6%A5%BD%E3%81%97%E3%82%80/%E9%89%84%E9%81%93%E9%81%BA%E7%94%A3%E7%BE%A4/"
-    },
-    "region": "東海",
-    "category_label": "産業遺産・鉄道土木",
-    "source_quality": "public",
-    "safety_level": "open",
-    "safety_note": "線路敷・橋梁・トンネル内へ絶対に立ち入らない。撮影は公道・安全地帯から行う。私有地・農地への立入もしない。",
-    "last_verified": "2026-05-09",
-    "editorial_status": "candidate",
-    "visit_priority": 4
-  },
-  {
-    "id": "spot-083",
+    "id": "spot-066",
     "name": "東の追分・西の追分",
     "name_kana": "ひがしのおいわけ・にしのおいわけ",
     "category": "folk",
@@ -3326,7 +2555,7 @@
     "visit_priority": 4
   },
   {
-    "id": "spot-084",
+    "id": "spot-067",
     "name": "岩屋観音と清滝",
     "name_kana": "いわやかんのんときよたき",
     "category": "folk",
@@ -3371,52 +2600,7 @@
     "visit_priority": 4
   },
   {
-    "id": "spot-085",
-    "name": "鈴鹿馬子唄会館・正調鈴鹿馬子唄",
-    "name_kana": "すずかまごうたかいかん・せいちょうすずかまごうた",
-    "category": "folk",
-    "prefecture": "三重県",
-    "city": "亀山市",
-    "address": "三重県亀山市関町坂下636",
-    "lat": 34.8525,
-    "lng": 136.3408,
-    "status": "candidate",
-    "fee": "無料目安・公式要確認",
-    "hours": "9:00-16:30目安・月曜休目安（公式要確認）",
-    "official_url": "https://www.city.kameyama.mie.jp/docs/2014112312034/",
-    "reference_urls": [
-      "http://kameyama-kanko.com/blog/%e9%88%b4%e9%b9%bf%e9%a6%ac%e5%ad%90%e5%94%84%e4%bc%9a%e9%a4%a8/"
-    ],
-    "summary": "旧東海道・坂下宿に近い鈴鹿馬子唄会館は、東海道の難所・鈴鹿峠を越える馬子（馬方）たちが唄った民謡『鈴鹿馬子唄』の保存・伝承拠点。展示と関連資料を通じて街道交通と民謡の関係を学べる。",
-    "highlights": [
-      "東海道難所・鈴鹿峠を越える馬子の民謡『鈴鹿馬子唄』",
-      "正調鈴鹿馬子唄の保存・伝承拠点",
-      "坂下宿・鈴鹿峠と街道交通の文脈で理解できる"
-    ],
-    "from_kameyama": "車で約25分（国道1号→関宿→坂下方面）",
-    "deepdive": {
-      "history_jp": "鈴鹿馬子唄会館は、三重県亀山市関町坂下に位置する民謡『鈴鹿馬子唄』の保存・伝承施設。鈴鹿馬子唄は東海道の難所・鈴鹿峠を越える馬子（馬方）が唄ったとされる民謡で、亀山市公式・亀山市観光協会の解説によれば、坂下宿に近い同会館で正調鈴鹿馬子唄の保存活動が行われている。詳細な開館経緯・運営主体は公式資料で追加確認する。",
-      "cultural_context_jp": "東海道五十三次の難所・鈴鹿峠と、その峠越えを担った馬子たちの労働歌が結びつく事例。民謡という音の文化財を、街道宿場（坂下宿）の地理的文脈と一体で保存することで、近世街道交通と民俗芸能の関係を立体的に理解できる。関宿（spot-082 加太鉄道遺産群）や関宿祇園夏まつり（fest-051）と組み合わせると、亀山＝東海道の総合プログラムとして編集できる。",
-      "local_perspective_jp": "三重batch2（亀山）の追加候補として登録。亀山市公式・亀山市観光協会の情報を一次資料として扱い、開館日・料金・撮影可否は公開前に公式で再確認する。 メモ: 民謡の音源・歌詞引用には著作権・伝承権者の確認が必要。本文では概要に留める。",
-      "related_works": [],
-      "external_reviews": "",
-      "best_visit_time": "通年。開館日・休館日を訪問前に公式で再確認",
-      "photo_tips": "自前写真または使用許諾を確認した写真のみ使用する。展示物の撮影可否は現地表示と職員指示に従う。民謡の音源・映像の二次利用は伝承権者・施設に確認。",
-      "trivia": "",
-      "warnings_extra": "展示・伝承活動への敬意を最優先。撮影・引用ルールを遵守。民謡の歌詞・音源の無断利用は避ける。",
-      "sources": "- https://www.city.kameyama.mie.jp/docs/2014112312034/\n- http://kameyama-kanko.com/blog/%e9%88%b4%e9%b9%bf%e9%a6%ac%e5%ad%90%e5%94%84%e4%bc%9a%e9%a4%a8/"
-    },
-    "region": "東海",
-    "category_label": "東海道民謡・伝承施設",
-    "source_quality": "public",
-    "safety_level": "open",
-    "safety_note": "展示・伝承活動への敬意を最優先。撮影・引用ルールを遵守。民謡の歌詞・音源の無断利用は避ける。",
-    "last_verified": "2026-05-09",
-    "editorial_status": "candidate",
-    "visit_priority": 4
-  },
-  {
-    "id": "spot-086",
+    "id": "spot-068",
     "name": "御座の石仏（潮仏）",
     "name_kana": "ござのせきぶつ・しおぼとけ",
     "category": "mystery",
@@ -3461,7 +2645,7 @@
     "visit_priority": 4
   },
   {
-    "id": "spot-087",
+    "id": "spot-069",
     "name": "朝熊岳金剛證寺 奥之院",
     "name_kana": "あさまだけこんごうしょうじ おくのいん",
     "category": "mystery",
@@ -3506,7 +2690,7 @@
     "visit_priority": 4
   },
   {
-    "id": "spot-088",
+    "id": "spot-070",
     "name": "鼻かけえびす",
     "name_kana": "はなかけえびす",
     "category": "mystery",
@@ -3551,7 +2735,7 @@
     "visit_priority": 4
   },
   {
-    "id": "spot-089",
+    "id": "spot-071",
     "name": "聚楽園大仏",
     "name_kana": "しゅうらくえんだいぶつ",
     "category": "bkyu",
@@ -3596,7 +2780,7 @@
     }
   },
   {
-    "id": "spot-090",
+    "id": "spot-072",
     "name": "竹島ファンタジー館",
     "name_kana": "たけしまふぁんたじーかん",
     "category": "bkyu",
@@ -3641,52 +2825,7 @@
     }
   },
   {
-    "id": "spot-091",
-    "name": "名古屋港跳上橋",
-    "name_kana": "なごやこうはねあげばし",
-    "category": "mystery",
-    "prefecture": "愛知県",
-    "city": "名古屋市港区",
-    "address": "愛知県名古屋市港区入船一丁目付近（堀川河口・稲荷橋から望む）",
-    "lat": 35.0879,
-    "lng": 136.8838,
-    "status": "現存（跳開状態で保存）",
-    "fee": "無料（外観見学のみ）",
-    "hours": "屋外自由（橋は跳開状態で固定保存）",
-    "official_url": "https://www.city.nagoya.jp/minato/miryoku/1023519/1036758/1023535.html",
-    "reference_urls": [
-      "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E6%B8%AF%E8%B7%B3%E4%B8%8A%E6%A9%8B"
-    ],
-    "summary": "1927年（昭和2年）に名古屋港臨港鉄道用の可動橋として架設された鉄道用跳開橋。アメリカ・シカゴ型のシンプル・トラニオン式バスキュール橋で、戦前期の港湾鉄道インフラを今に伝える土木遺産。鉄道路線廃止後は跳ね上げた状態のまま固定保存され、国の登録有形文化財・近代化産業遺産。一般立入は不可で、堀川対岸の稲荷橋などから跳開姿のシルエットを望む。近代土木遺産として愛好家に知られる隠れた名所。",
-    "highlights": [
-      "1927年竣工・戦前期の鉄道用バスキュール橋",
-      "跳ね上がったまま固定保存された希少な可動橋",
-      "国の登録有形文化財・近代化産業遺産"
-    ],
-    "from_kameyama": "車で約70分（東名阪→伊勢湾岸道）",
-    "region": "東海",
-    "category_label": "産業遺産・近代土木遺産",
-    "source_quality": "public",
-    "safety_level": "open",
-    "safety_note": "橋本体への一般立入は不可。対岸・周辺道路から外観のみ見学。港湾・運河沿いのため通行・転落・大型車両に注意。撮影は通行の妨げにならない位置で。",
-    "last_verified": "2026-05-10",
-    "editorial_status": "candidate",
-    "visit_priority": 3,
-    "deepdive": {
-      "history_jp": "名古屋港跳上橋は1927年（昭和2年）、名古屋港の臨港貨物鉄道のために架設された鉄道用可動橋。シンプル・トラニオン式バスキュール橋（カウンターウェイトを支点側に持ち、桁を一端で跳ね上げる方式）で、アメリカ・シカゴで普及した形式を取り入れている。臨港鉄道の旅客・貨物輸送終焉後、橋は跳開状態で固定保存され、国の登録有形文化財および経済産業省の近代化産業遺産に指定された。[名古屋市港区公式](https://www.city.nagoya.jp/minato/miryoku/1023519/1036758/1023535.html)、[Wikipedia日本語版](https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E6%B8%AF%E8%B7%B3%E4%B8%8A%E6%A9%8B)",
-      "cultural_context_jp": "名古屋港跳上橋は、戦前期の日本における港湾鉄道インフラと欧米先進技術導入の交点を示す土木遺産で、近代化産業遺産・登録有形文化財として保存対象になっている。戦前期の可動橋は全国でも現存例が限られ、跳開状態で保存される事例は希少。隅田川の勝鬨橋（東京）、淀川の長柄可動橋などと並ぶ近代可動橋史の重要例。",
-      "local_perspective_jp": "名古屋市港区は、名古屋港跳上橋を区内の歴史遺産・観光資源として案内している。一般立入は不可だが、周辺の堀川・稲荷橋からの遠景は写真愛好家・近代土木ファンの定番スポットになっている。[名古屋市港区公式](https://www.city.nagoya.jp/minato/miryoku/1023519/1036758/1023535.html)",
-      "related_works": "- 名古屋市港区公式 名古屋港跳上橋紹介ページ\n- 経済産業省 近代化産業遺産群\n- 文化庁 登録有形文化財データベース",
-      "external_reviews": "",
-      "best_visit_time": "晴天の午前・夕景時。逆光と順光で表情が変わり、夕景はシルエット撮影に向く。",
-      "photo_tips": "稲荷橋（堀川対岸）からの俯瞰／側面構図が定番。望遠レンズで橋脚・トラニオン部のディテールを切り取ると土木遺産らしさが出る。歩道・通行者の妨げにならない位置で撮影。",
-      "trivia": "- シンプル・トラニオン式バスキュール橋はシカゴ・トラニオン橋と同系統。\n- 国の登録有形文化財・経済産業省近代化産業遺産。\n- 鉄道路線廃止後、跳開状態で固定して保存された。",
-      "warnings_extra": "橋本体への立入は禁止。周辺は港湾・運河沿いで大型車・自転車通行が多い。柵・水際から十分な距離を取り、夜間・悪天候時の単独訪問は避ける。",
-      "sources": "- https://www.city.nagoya.jp/minato/miryoku/1023519/1036758/1023535.html\n- https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E6%B8%AF%E8%B7%B3%E4%B8%8A%E6%A9%8B"
-    }
-  },
-  {
-    "id": "spot-092",
+    "id": "spot-073",
     "name": "名古屋大仏（桃巌寺）",
     "name_kana": "なごやだいぶつ（とうがんじ）",
     "category": "bkyu",
@@ -3731,7 +2870,7 @@
     }
   },
   {
-    "id": "spot-093",
+    "id": "spot-074",
     "name": "一畑山薬師寺 涅槃像",
     "name_kana": "いちはたさんやくしじ ねはんぞう",
     "category": "bkyu",
@@ -3776,7 +2915,7 @@
     }
   },
   {
-    "id": "spot-094",
+    "id": "spot-075",
     "name": "刈宿の大仏（常福寺）",
     "name_kana": "かりやどのだいぶつ（じょうふくじ）",
     "category": "bkyu",
@@ -3821,7 +2960,7 @@
     }
   },
   {
-    "id": "spot-095",
+    "id": "spot-076",
     "name": "招き猫ミュージアム",
     "name_kana": "まねきねこみゅーじあむ",
     "category": "bkyu",
@@ -3866,7 +3005,7 @@
     }
   },
   {
-    "id": "spot-096",
+    "id": "spot-077",
     "name": "布袋の大仏",
     "name_kana": "ほていのだいぶつ",
     "category": "bkyu",
@@ -3912,7 +3051,7 @@
     }
   },
   {
-    "id": "spot-097",
+    "id": "spot-078",
     "name": "岐阜大仏（正法寺）",
     "name_kana": "ぎふだいぶつ（しょうほうじ）",
     "category": "bkyu",
@@ -3959,7 +3098,7 @@
     }
   },
   {
-    "id": "spot-098",
+    "id": "spot-079",
     "name": "関善光寺 卍戒壇巡り（宗休寺）",
     "name_kana": "せきぜんこうじ まんじかいだんめぐり（そうきゅうじ）",
     "category": "folk",
@@ -4006,7 +3145,7 @@
     }
   },
   {
-    "id": "spot-099",
+    "id": "spot-080",
     "name": "金山巨石群・岩屋岩蔭遺跡",
     "name_kana": "かなやまきょせきぐん・いわやいわかげいせき",
     "category": "mystery",
@@ -4053,7 +3192,7 @@
     }
   },
   {
-    "id": "spot-100",
+    "id": "spot-081",
     "name": "鬼岩公園",
     "name_kana": "おにいわこうえん",
     "category": "mystery",
@@ -4100,7 +3239,7 @@
     }
   },
   {
-    "id": "spot-101",
+    "id": "spot-082",
     "name": "飛騨大鍾乳洞",
     "name_kana": "ひだだいしょうにゅうどう",
     "category": "mystery",
