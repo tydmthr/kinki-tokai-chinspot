@@ -1246,28 +1246,30 @@
   },
   {
     "id": "spot-038",
-    "name": "花の窟神社（橋杭岩・那智の滝セット）橋杭岩",
+    "name": "橋杭岩",
     "name_kana": "はしぐいいわ",
-    "category": "folk",
+    "category": "mystery",
     "prefecture": "和歌山県",
     "city": "東牟婁郡串本町",
-    "address": "和歌山県東牟婁郡串本町鬮野川",
+    "address": "〒649-3503 和歌山県東牟婁郡串本町鬮野川",
     "lat": 33.476,
     "lng": 135.7817,
     "status": "現存",
-    "fee": "無料",
-    "hours": "24時間",
-    "official_url": null,
+    "fee": "無料・自由見学",
+    "hours": "24時間（夜間照明・売店等は時間制限あり、要公式確認）",
+    "official_url": "https://www.town.kushimoto.wakayama.jp/kanko/kushimoto/hashikui-iwa.html",
     "reference_urls": [
-      "https://www.town.kushimoto.wakayama.jp/kanko/kushimoto/hashikui-iwa.html"
+      "https://www.wakayama-kanko.or.jp/spot/detail.html?data_id=125",
+      "https://nankishirahama.jp/spot/detail.php?log=1463102810",
+      "https://ja.wikipedia.org/wiki/%E6%A9%8B%E6%9D%AD%E5%B2%A9"
     ],
-    "summary": "海から850mにわたり大小40余りの岩柱がそそり立つ奇岩群。「弘法大師と天邪鬼が一夜で橋を架ける賭けをした残骸」という伝説が残る。国の名勝・天然記念物で、早朝の日の出時には岩と光のコントラストが「この世のものではない」光景を生む。干潮時は岩の根元まで歩いて渡れ、「自分が伝説の中にいる」感覚を体験できる。本州最南端・潮岬から車で10分。",
+    "summary": "本州最南端・潮岬の付け根、串本町と紀伊大島の間の海に約850mにわたって40余りの大小の岩柱が一直線に並ぶ奇岩群。国の名勝・天然記念物に指定され、「弘法大師と天邪鬼が一夜で橋を架ける賭けをし、夜明けに敗れた天邪鬼が橋杭だけを残して逃げた」という伝承が地名の由来として知られる。地質学的にはマグマの貫入によって形成された石英斑岩の岩脈が、周囲の泥岩侵食で取り残されたものとされる。早朝の日の出時、岩柱がシルエットになる景観は熊野・南紀を代表する絶景で、干潮時は岩の根元まで歩いて近づける。",
     "highlights": [
-      "海面から突き出す40本以上の岩柱が整列する異様な自然",
-      "「弘法大師と天邪鬼の賭け」という圧倒的な伝説のロマン",
-      "早朝の橋杭岩と日の出のコントラストはSNS最強格の絶景"
+      "海面から立ち並ぶ40本以上の岩柱が一直線に並ぶ国指定名勝・天然記念物",
+      "弘法大師と天邪鬼の伝承を持つ「橋杭」の地名由来",
+      "早朝の日の出シルエットと干潮時の岩礁歩きが楽しめる南紀の代表景"
     ],
-    "from_kameyama": "車で約2時間30分（紀勢道経由）前泊推奨",
+    "from_kameyama": "車で約2時間30分（紀勢自動車道→国道42号）。前泊推奨。",
     "name_en": "Hashigui-iwa (Bridge Pillar Rocks)",
     "prefecture_en": "Wakayama Prefecture",
     "city_en": "Kushimoto Town, Higashimuro District",
@@ -1676,6 +1678,1795 @@
       "Shōwa-era hot-food vending machines — ramen, toast, canned goods — still operational and still selling: the most edible form of time travel available",
       "200-plus vintage arcade and game machines in active operation: a working museum of an entertainment technology that no longer exists outside places like this",
       "The converted school building amplifies the temporal dislocation — the architecture of childhood combined with the entertainment technology of a specific childhood era"
+    ]
+  },
+  {
+    "id": "spot-051",
+    "name": "空気神社",
+    "name_kana": "くうきじんじゃ",
+    "category": "folk",
+    "prefecture": "山形県",
+    "city": "朝日町",
+    "address": "山形県西村山郡朝日町白倉745-1",
+    "lat": 38.309167,
+    "lng": 140.053333,
+    "status": "candidate",
+    "fee": "無料",
+    "hours": "見学自由・要確認",
+    "official_url": "https://www.town.asahi.yamagata.jp/portal/soshikinogoannai/kyoikubunkaka/shogaigakushugakari/4_1/2403.html",
+    "reference_urls": [
+      "https://asahimachi-kanko.jp/detail/?no=9466"
+    ],
+    "summary": "空気を御神体とする、朝日町のユニークな神社。",
+    "highlights": [
+      "空気を御神体とする現代的な神社",
+      "鏡面ステンレスの拝殿が周囲の自然を映す",
+      "環境・信仰・造形が重なる珍しい事例"
+    ],
+    "from_kameyama": "車で約8時間30分（東名阪→中央道→東北中央道）",
+    "name_en": "Air Shrine (Kūki Jinja)",
+    "prefecture_en": "Yamagata Prefecture",
+    "city_en": "Asahi Town",
+    "summary_en": "On a wooded mountainside in Asahi Town, a small Shinto shrine quietly enshrines a deity unlike any other in Japan: the air itself. There is no carved figure, no sacred mirror, no relic at the center of worship — only the invisible substance everyone is already breathing. To make the absent god somehow visible, the shrine's main hall is built as a polished, mirror-finish stainless steel cube set flush with a hillside clearing, its surfaces reflecting the surrounding cedars, the sky, and the visitor's own face back at them. The result is a shrine that disappears into its forest while making the air around it conspicuously present. Conceived in 1990 as a meditation on the environment and the unseen, the Air Shrine sits at the intersection of contemporary art, Shinto tradition, and the older Japanese intuition that the most important things are usually the ones you cannot see. Festival rites here include silent moments of simply breathing in unison — perhaps the most minimal sacred ritual in the country.",
+    "highlights_en": [
+      "A modern Shinto shrine whose object of worship is, literally, the air — no statue, no mirror, only what surrounds you",
+      "The mirror-finish stainless steel main hall reflects the surrounding forest, so the architecture half-vanishes into the trees",
+      "A rare contemporary fusion of environmental thought, traditional Shinto, and minimalist sculpture, hidden in the Yamagata mountains"
+    ]
+  },
+  {
+    "id": "spot-052",
+    "name": "牛久大仏",
+    "name_kana": "うしくだいぶつ",
+    "category": "bkyu",
+    "prefecture": "茨城県",
+    "city": "牛久市",
+    "address": "茨城県牛久市久野町2083",
+    "lat": 35.982645,
+    "lng": 140.220248,
+    "status": "candidate",
+    "fee": "要確認",
+    "hours": "要確認",
+    "official_url": "https://daibutu.net",
+    "reference_urls": [
+      "https://www.city.ushiku.lg.jp/sp/page/page001249.html"
+    ],
+    "summary": "高さ120mの巨大仏として知られる牛久市の大仏。",
+    "highlights": [
+      "高さ120m級の巨大仏として圧倒的な存在感",
+      "胎内拝観や展望など施設性も高い",
+      "宗教施設と巨大建造物の両面で紹介できる"
+    ],
+    "from_kameyama": "車で約6時間（東名阪→新東名→圏央道）",
+    "name_en": "Ushiku Daibutsu (Great Buddha of Ushiku)",
+    "prefecture_en": "Ibaraki Prefecture",
+    "city_en": "Ushiku City",
+    "summary_en": "Rising 120 meters above the Ibaraki plains — three times the height of the Statue of Liberty without her pedestal — the Ushiku Daibutsu is the tallest bronze statue in Japan and one of the tallest standing statues in the world. Completed in 1993 by the Jōdo Shinshū Higashi Honganji sect, it depicts Amida Buddha with one hand raised in the gesture of reassurance, his serene face looking out over the flat farmland for kilometers in every direction. The scale is genuinely difficult to absorb from photographs: the Buddha's eyes alone are a meter wide, and a 5.3-meter Statue of Liberty would fit neatly into the palm of his hand. Visitors can enter the body through the lotus pedestal and ride an elevator 85 meters up to a viewing chamber inside the Buddha's chest, where small windows look out over the Kantō plain. The interior is staged as a quiet pilgrimage — incense, votive halls, thousands of small golden Buddha figures — making the experience equal parts religious site, civil engineering marvel, and roadside wonder. On clear days, the Tokyo Skytree is visible from the chest cavity.",
+    "highlights_en": [
+      "A 120-meter standing bronze Buddha — one of the tallest statues on Earth, looming above farmland visible from kilometers away",
+      "Ride an elevator into the Buddha's chest cavity for a viewing chamber 85 meters above the ground, with Tokyo Skytree visible on clear days",
+      "Inside the body: ten thousand small golden Buddhas, votive halls, and a quiet pilgrimage atmosphere that the colossal exterior never prepares you for"
+    ]
+  },
+  {
+    "id": "spot-053",
+    "name": "目黒寄生虫館",
+    "name_kana": "めぐろきせいちゅうかん",
+    "category": "bkyu",
+    "prefecture": "東京都",
+    "city": "目黒区",
+    "address": "東京都目黒区下目黒4-1-1",
+    "lat": 35.6317,
+    "lng": 139.7067,
+    "status": "candidate",
+    "fee": "無料・寄付歓迎",
+    "hours": "10:00-17:00 月火休目安",
+    "official_url": "https://www.kiseichu.org",
+    "reference_urls": [
+      "https://www.kiseichu.org/e-top"
+    ],
+    "summary": "寄生虫を専門に扱う研究博物館。",
+    "highlights": [
+      "寄生虫専門という明確な独自性",
+      "学術性が高く都市部で訪問しやすい",
+      "珍奇さと教育性のバランスが良い"
+    ],
+    "from_kameyama": "新幹線＋電車約3時間30分（亀山→名古屋→東京） / 車で約5時間",
+    "name_en": "Meguro Parasitological Museum",
+    "prefecture_en": "Tōkyō Metropolis",
+    "city_en": "Meguro Ward, Tōkyō",
+    "summary_en": "Tucked into a quiet Meguro side street, the only museum in the world dedicated entirely to parasites occupies two compact floors of dense, unsensational science. Founded in 1953 by parasitologist Satoru Kamegai out of frustration that postwar Japan was rapidly forgetting the public-health crises that parasitic infections had only recently caused, the museum displays roughly 300 specimens drawn from a collection of around 60,000 — flukes, tapeworms, nematodes, and their hosts, all carefully labeled in Japanese and English. The centerpiece is an 8.8-meter tapeworm extracted from a single human patient, suspended in its full length beside a ribbon of equivalent length that visitors can hold to grasp the scale. The tone is rigorously educational, not lurid: parasitology is presented as a real and necessary branch of zoology and medicine, and the gift shop's parasite-themed keychains and T-shirts have the quietly subversive humor of a place that treats its difficult subject with complete seriousness. Admission is free. It has been a Tokyo cult destination for decades — and an unexpectedly popular first-date spot.",
+    "highlights_en": [
+      "The world's only museum devoted entirely to parasites — roughly 300 specimens in two floors of dense, unsensational science",
+      "The 8.8-meter human tapeworm, displayed in full length beside a ribbon of equal length so you can grasp the scale",
+      "Free admission, a famously eccentric gift shop, and a long-standing reputation as one of Tokyo's strangest first-date destinations"
+    ]
+  },
+  {
+    "id": "spot-054",
+    "name": "ハニベ巌窟院",
+    "name_kana": "はにべがんくついん",
+    "category": "bkyu",
+    "prefecture": "石川県",
+    "city": "小松市",
+    "address": "石川県小松市立明寺町イ1",
+    "lat": 36.402087,
+    "lng": 136.526287,
+    "status": "candidate",
+    "fee": "要確認",
+    "hours": "要確認",
+    "official_url": "http://www.hanibe.com",
+    "reference_urls": [
+      "http://www.hanibe.com/gankutsuin.html"
+    ],
+    "summary": "巨大な仏頭と洞窟内彫刻群で知られる私設的な宗教・造形スポット。",
+    "highlights": [
+      "巨大仏頭と洞窟内彫刻群が印象的",
+      "地獄めぐり的展示を造形文化として扱える",
+      "北陸のB級・民俗信仰候補として有力"
+    ],
+    "from_kameyama": "車で約2時間30分（東名阪→名神→北陸道）",
+    "name_en": "Hanibe Gankutsuin (Hanibe Grotto Temple)",
+    "prefecture_en": "Ishikawa Prefecture",
+    "city_en": "Komatsu City",
+    "summary_en": "In the hills outside Komatsu, a 15-meter Buddha head rises from the ground at the entrance to a long, low cavern carved into the hillside, its face the first warning sign that you have arrived somewhere unusual. Hanibe Gankutsuin is the life's work of a single sculptor, Tōjō Dōbutsu (and continued by his son), who from the late 1950s onward populated this cave with several hundred plaster and concrete figures depicting Buddhist cosmology with unusual literalness. Inside, dim lighting illuminates scenes of the eight hells — sinners boiled, flayed, impaled, and devoured by demons — rendered in the same uncanny, hand-shaped style across hundreds of meters of corridor. There are also peaceful tableaux of paradise, bodhisattvas, and folk-religion figures, but it is the hell scenes that visitors remember, partly because they are presented without irony as genuine moral instruction. The complex stays cool year-round and the lighting is deliberately atmospheric; what could be a horror experience instead lands closer to outsider art on a vast scale, the obsessive vision of one artist who decided a cave full of demons was the most useful thing he could leave behind.",
+    "highlights_en": [
+      "A 15-meter Buddha head greets visitors at the entrance — the first sign that the cave behind it is unlike any other temple in Japan",
+      "Hundreds of meters of cavern populated by plaster sinners and demons enacting the Eight Hells of Buddhist cosmology with unsettling literalness",
+      "The lifelong work of one sculptor — outsider art and folk Buddhism at a scale that mainstream museums rarely allow"
+    ]
+  },
+  {
+    "id": "spot-055",
+    "name": "まんだら遊苑",
+    "name_kana": "まんだらゆうえん",
+    "category": "bkyu",
+    "prefecture": "富山県",
+    "city": "立山町",
+    "address": "富山県中新川郡立山町芦峅寺93-1",
+    "lat": 36.580917,
+    "lng": 137.401516,
+    "status": "candidate",
+    "fee": "要確認",
+    "hours": "9:30-17:00目安・冬期休苑",
+    "official_url": "https://tatehaku.jp/facility/yukai/mandarayuen/",
+    "reference_urls": [
+      "https://tatehaku.jp"
+    ],
+    "summary": "立山信仰の世界観を体感型展示で表現する富山県立山博物館の施設。",
+    "highlights": [
+      "立山信仰の世界観を体験展示で表現",
+      "地獄・極楽の空間構成が明確",
+      "民俗宗教を学術的に扱いやすい公開施設"
+    ],
+    "from_kameyama": "車で約4時間（東名阪→名神→北陸道）",
+    "name_en": "Mandara Yūen (Mandala Garden)",
+    "prefecture_en": "Toyama Prefecture",
+    "city_en": "Tateyama Town",
+    "summary_en": "On the lower slopes of Mount Tate, one of Japan's three sacred peaks, the prefectural Tateyama Museum maintains an experiential outdoor exhibit called Mandara Yūen — a walk-through reconstruction of the cosmology that Tateyama pilgrims once experienced as a literal map of the afterlife. Visitors progress through three contiguous zones: the Hell Garden, with its sulfurous imagery and bleak red-rock pathways evoking the molten ravines that medieval pilgrims really believed lay inside the mountain; the Path of Reincarnation, a transitional forest dotted with sculptures of the six realms; and the Pure Land, an airy white pavilion meant to evoke Amida's western paradise. The piece functions as both a contemporary art installation and a serious historical reconstruction: until the Meiji period, ordinary people came to Tateyama specifically because the mountain was understood to contain hell within its geology, and the journey across these landscapes was a rehearsal for one's own death. Mandara Yūen makes that vanished worldview walkable again, in a setting where the actual sacred mountain looms quietly in the background.",
+    "highlights_en": [
+      "A walk-through reconstruction of medieval Tateyama Buddhist cosmology: Hell Garden, Path of Reincarnation, and Pure Land traversed on foot",
+      "A serious museum-curated exhibit that doubles as contemporary land art, with the actual sacred mountain visible in the distance",
+      "A rare chance to physically experience the folk-Buddhist worldview that once drew tens of thousands of ordinary pilgrims to this peak"
+    ]
+  },
+  {
+    "id": "spot-056",
+    "name": "大観音寺・ルーブル彫刻美術館",
+    "name_kana": "だいかんのんじ・るーぶるちょうこくびじゅつかん",
+    "category": "bkyu",
+    "prefecture": "三重県",
+    "city": "津市",
+    "address": "三重県津市白山町佐田1957",
+    "lat": 34.676531,
+    "lng": 136.3493,
+    "status": "candidate",
+    "fee": "大人1,000円、子供500円目安",
+    "hours": "9:00-17:00、年中無休目安",
+    "official_url": "https://www.daikannon.or.jp",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/spot/4781",
+      "https://www.louvre-m.com"
+    ],
+    "summary": "33m級の純金張大観音と、ルーブル彫刻の復刻展示が同居する津市白山町の過剰造形スポット。",
+    "highlights": [
+      "過剰造形・巨大仏・私設美術館",
+      "33m級の純金張大観音と",
+      "三重県内の訪問記候補として面白い"
+    ],
+    "from_kameyama": "車で約45分（名阪国道→国道165号）",
+    "name_en": "Dai-Kannon-ji & Louvre Sculpture Museum",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Tsu City",
+    "summary_en": "On a hillside in Hakusan-chō, Tsu City, a 33-meter solid-gold-leafed standing Kannon rises out of a tea-farming valley, attended on the same grounds by a private museum claiming to hold the world's most complete set of full-scale replicas of sculptures from the Louvre in Paris. The combination is the work of a single private foundation, and the resulting site is one of Japan's most concentrated examples of what local guides politely call 'excess construction' (kajō zōkei): a colossal Buddhist deity flanked by replicas of the Venus de Milo, the Winged Victory of Samothrace, and Michelangelo's Slaves, all presented in earnest as a unified spiritual-aesthetic offering. The Kannon herself is open for entry; the museum next door is its own peculiar pilgrimage, the world's great Western statues lined up under fluorescent lighting in galleries that recall a cultural-center wing more than a Parisian museum. The visit is best approached not as art history but as a meditation on the wild, generous, occasionally baffling impulse of a single patron to assemble everything they love in one place and open the doors to anyone who turns up.",
+    "highlights_en": [
+      "A 33-meter gold-leafed standing Kannon rising from a tea valley — visible from kilometers away on the approach",
+      "An adjoining private museum stocked with full-scale replicas of Louvre sculptures, presented as a unified spiritual-aesthetic statement",
+      "One of Japan's purest examples of single-patron 'excess construction' — a maximalist Buddhist-and-Western fever dream open to the public"
+    ]
+  },
+  {
+    "id": "spot-057",
+    "name": "神島 監的哨跡",
+    "name_kana": "かみしま かんてきしょうあと",
+    "category": "mystery",
+    "prefecture": "三重県",
+    "city": "鳥羽市",
+    "address": "三重県鳥羽市神島町",
+    "lat": 34.546349,
+    "lng": 136.985923,
+    "status": "candidate",
+    "fee": "見学自由目安",
+    "hours": "見学自由目安、船便時刻要確認",
+    "official_url": "https://www.iseshima-kanko.jp/spot/1573",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/spot/9058",
+      "https://japan-heritage.bunka.go.jp/ja/culturalproperties/result/4274/",
+      "https://www.mlit.go.jp/tagengo-db/R1-02411.html"
+    ],
+    "summary": "神島に残る旧陸軍の観測施設跡。離島の海景と戦争遺構が重なる。",
+    "highlights": [
+      "戦争遺構・離島",
+      "神島に残る旧陸軍の観測施設跡",
+      "三重県内の訪問記候補として面白い"
+    ],
+    "from_kameyama": "車＋市営定期船＋徒歩で約2時間30分（亀山→鳥羽→神島）",
+    "name_en": "Kamijima Island Observation Post Ruins",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Toba City",
+    "summary_en": "Kamijima is a small island in Ise Bay, two thousand inhabitants, no cars, reached by a thirty-minute ferry from Toba and known mainly as the setting for Yukio Mishima's novel The Sound of Waves. Tucked into the cliffs on the island's southeastern side is a relic of a much darker era: a concrete observation post built by the Imperial Japanese Army to monitor the bay during the Second World War, abandoned in 1945 and slowly being reclaimed by salt-spray and vines ever since. Reaching it requires a fifty-minute walk along the island's narrow coastal trail, through pine forests and past tiny shrines, until the rectangular concrete structure appears suddenly at the edge of the sea. From its slit windows the view is breathtaking — open ocean, distant ships, the Atsumi Peninsula on the horizon — and the contrast between that beauty and the weapon-spotting purpose for which the building was constructed is the entire experience. The structure is unfenced and on public land, but the island offers no facilities; this is an observational visit, not a destination.",
+    "highlights_en": [
+      "A reinforced-concrete WWII observation post slowly disappearing into the cliffs of a small Ise Bay island",
+      "A 50-minute coastal walk through Kamijima's pine forests delivers you to the ruin with views that contradict its original purpose",
+      "The same island that Mishima used for The Sound of Waves — folk literature and military archaeology layered on a tiny rock in the sea"
+    ]
+  },
+  {
+    "id": "spot-058",
+    "name": "丹生水銀鉱跡",
+    "name_kana": "にゅうすいぎんこうあと",
+    "category": "mystery",
+    "prefecture": "三重県",
+    "city": "多気町",
+    "address": "三重県多気郡多気町丹生",
+    "lat": 34.469437,
+    "lng": 136.492231,
+    "status": "candidate",
+    "fee": "要確認",
+    "hours": "要確認",
+    "official_url": "https://www.kankomie.or.jp/spot/8493",
+    "reference_urls": [
+      "https://www.bunka.pref.mie.lg.jp/rekishi/kenshi/asp/hakken/detail189.html",
+      "https://ja.wikipedia.org/wiki/%E4%B8%B9%E7%94%9F%E9%89%B1%E5%B1%B1"
+    ],
+    "summary": "古代から水銀を産した丹生の鉱山跡。奈良大仏の鍍金とも接続できる背景がある。",
+    "highlights": [
+      "古代鉱山・産業遺産",
+      "古代から水銀を産した丹生の鉱山跡",
+      "三重県内の訪問記候補として面白い"
+    ],
+    "from_kameyama": "車で約50分（伊勢道→勢和多気IC方面）",
+    "name_en": "Niu Mercury Mine Ruins",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Taki Town",
+    "summary_en": "Long before Japan had words like 'industrial heritage,' the village of Niu was already old: ancient sources describe mercury cinnabar being mined here from the Yayoi and Kofun periods onward, and the bright red ore from these hills was used to gild the Great Buddha of Nara in the 8th century. The mine continued, on and off, into the 1970s, leaving a scattered landscape of adits, slag heaps, and weather-worn machinery distributed across the forested slopes of southern Mie. Most of the workings are sealed or unsafe to enter, but the surface features — collapsing wooden head-frames, narrow rail beds, stone-walled retaining terraces — can be observed from the village's mountain road, where a few interpretive signs explain the site's relationship to the gilding of the Nara Daibutsu and to centuries of Shingon Buddhist alchemical practice that depended on cinnabar. For visitors interested in the deep, unbroken industrial threads that connect ancient temple-building to modern industry, the Niu mercury workings are one of the most evocative sites in central Japan, precisely because so little of them has been packaged for tourism.",
+    "highlights_en": [
+      "Mercury cinnabar from these hills was used to gild the Great Buddha of Nara in the 8th century — a direct material link between Mie and ancient capital architecture",
+      "Surface ruins of adits, head-frames, and rail beds scattered across forested slopes, observable from the village road",
+      "One of the most evocative industrial-archaeological landscapes in central Japan, almost entirely unpackaged for tourism"
+    ]
+  },
+  {
+    "id": "spot-059",
+    "name": "頭之宮四方神社",
+    "name_kana": "こうべのみやよもうじんじゃ",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "大紀町",
+    "address": "三重県度会郡大紀町大内山3314-2",
+    "lat": 34.284139,
+    "lng": 136.359472,
+    "status": "candidate",
+    "fee": "参拝無料目安",
+    "hours": "9:00-17:00目安",
+    "official_url": "https://koubenomiya.or.jp",
+    "reference_urls": [
+      "https://www.iseshima-kanko.jp/spot/1271",
+      "https://taiki-okuise.jp/see/koubenomiya/"
+    ],
+    "summary": "「頭の神様おかしらさん」として知られる、頭に関わる願意を集める神社。",
+    "highlights": [
+      "民俗信仰・頭の神様",
+      "「頭の神様おかしらさん」として知られる",
+      "三重県内の訪問記候補として面白い"
+    ],
+    "from_kameyama": "車で約1時間20分（伊勢道→紀勢道→大内山IC）",
+    "name_en": "Kōbe-no-Miya Yomo Shrine (Shrine of the Head)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Taiki Town",
+    "summary_en": "Known locally and affectionately as Okashira-san — 'Mr. Head' — Kōbe-no-Miya Yomo Shrine is one of the few shrines in Japan whose spiritual jurisdiction is, specifically, the human head. The deity enshrined here is said to grant blessings for everything that occurs above the neck: scholarship, mental clarity, recovery from headaches and brain illness, the lifting of curses, hair restoration, exam success, and — increasingly in the social-media era — protection for athletes whose sports involve the head. The shrine's grounds are quiet and forested, in a remote corner of southern Mie's Taiki Town, and the votive plaques (ema) are dense with extremely specific prayers from students, surgeons, headache sufferers, and the occasional balding pilgrim. The shrine's foundation legend involves the head of a Heian-period nobleman that, according to local tradition, was washed up by a flooded river and enshrined here. The official literature describes Kōbe-no-Miya as 'the only shrine of its kind in Japan,' a claim that has been repeated for so long it functions as a piece of folk truth in its own right.",
+    "highlights_en": [
+      "The only shrine in Japan whose deity specifically governs the human head — from scholarship to headaches to hair restoration",
+      "Votive plaques densely inscribed with prayers from students, surgeons, athletes, and pilgrims with very specific cranial concerns",
+      "A quiet forested compound in remote southern Mie, anchored by a foundation legend about a Heian-era nobleman's severed head"
+    ]
+  },
+  {
+    "id": "spot-060",
+    "name": "おうむ岩",
+    "name_kana": "おうむいわ",
+    "category": "mystery",
+    "prefecture": "三重県",
+    "city": "志摩市",
+    "address": "三重県志摩市磯部町",
+    "lat": 34.388862,
+    "lng": 136.797622,
+    "status": "candidate",
+    "fee": "無料目安",
+    "hours": "見学自由目安",
+    "official_url": "https://www.iseshima-kanko.jp/spot/1206",
+    "reference_urls": [
+      "https://www.kanko-shima.com/purpose/2199/"
+    ],
+    "summary": "語り場の声が約50m離れた聞き場に届く、反響現象で知られる巨岩。",
+    "highlights": [
+      "奇岩・反響岩",
+      "語り場の声が約50m離れた聞き場に届く",
+      "三重県内の訪問記候補として面白い"
+    ],
+    "from_kameyama": "車で約1時間30分（伊勢道→伊勢道路）",
+    "name_en": "Oumu-iwa (Parrot Rock)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Shima City",
+    "summary_en": "On the southern coast of the Shima Peninsula, two boulders face each other across roughly fifty meters of forested slope, and between them an acoustic curiosity has been quietly demonstrating itself for centuries. At one rock (the 'speaking spot'), an ordinary speaking voice — neither raised nor projected — is precisely transmitted across the gap to the other rock (the 'listening spot'), where it can be heard with full clarity, including soft consonants and changes in tone. The effect is the product of the boulders' specific shapes, their angle to each other, and the natural amphitheater of the slope between them, and once you have walked from one rock to the other to test the phenomenon yourself, it remains difficult to believe even after repeated trials. Local folklore treats the site with the respect ordinarily reserved for shrines: prayers, secrets, and confessions have been spoken into Oumu-iwa for generations, the listening rock acting as something between an oracle and a sacred ear. Approach the path carefully — the woods are unimproved and slippery after rain — but the experiment itself takes only a few minutes and lodges permanently in memory.",
+    "highlights_en": [
+      "An ordinary speaking voice is transmitted across roughly 50 meters of forest from one boulder to another with full clarity — a natural acoustic phenomenon you can test yourself",
+      "Two boulders forming a natural amphitheater on the southern Shima coast — the only equipment required is your own voice",
+      "Treated locally with the respect of a shrine: prayers and secrets have been spoken into Parrot Rock for generations"
+    ]
+  },
+  {
+    "id": "spot-061",
+    "name": "白瀧大明神",
+    "name_kana": "しらたきだいみょうじん",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "鳥羽市",
+    "address": "三重県鳥羽市船津町635-3",
+    "lat": 34.456434,
+    "lng": 136.837101,
+    "status": "candidate",
+    "fee": "参拝無料、体験料金は要確認",
+    "hours": "要確認",
+    "official_url": "https://shiratakisan.jp",
+    "reference_urls": [
+      "https://shiratakisan.jp/top/access/"
+    ],
+    "summary": "伊勢志摩で滝行・禊体験を打ち出す、山と滝を中心にした自然崇拝の場。",
+    "highlights": [
+      "自然崇拝・滝行・禊",
+      "伊勢志摩で滝行・禊体験を打ち出す",
+      "三重県内の訪問記候補として面白い"
+    ],
+    "from_kameyama": "車で約1時間20分（伊勢道→鳥羽方面）",
+    "name_en": "Shirataki Daimyōjin (White Falls Great Deity)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Toba City",
+    "summary_en": "Up a winding mountain road in Toba, past the last houses and the last asphalt, a small Shinto site centered on a clear waterfall offers one of the more accessible introductions to taki-gyō — waterfall ascetic practice — that exists in mainland Japan. Shirataki Daimyōjin venerates the falls themselves as kami, in the older Japanese tradition in which natural features (rocks, trees, water) are not symbols of the sacred but the sacred itself. With prior arrangement, visitors may participate in misogi purification under the cold mountain water, a brief but serious ritual in which one wades waist-deep into the basin, intones a purification prayer, and stands under the falling water long enough to lose track of breath. The practice is not packaged as adventure tourism; the priests treat it as religious practice and expect the same from participants. For those not undertaking the rite, the site itself — pure mountain water, mossy boulders, simple wooden torii — is one of the more unaffected sacred spaces in the Ise-Shima region, and a reminder of what most Japanese shrines were before they were buildings.",
+    "highlights_en": [
+      "A still-active center for taki-gyō waterfall ascetic practice — visitors can arrange to undertake the cold-water purification ritual with the resident priest",
+      "Pure animist Shinto: the waterfall itself is the kami, not a symbol of one",
+      "An unaffected mountain shrine in the Ise-Shima sacred landscape, with no buildings, no crowds, and very cold water"
+    ]
+  },
+  {
+    "id": "spot-062",
+    "name": "磨洞温泉 涼風荘 洞窟座敷",
+    "name_kana": "まどうおんせん りょうふうそう どうくつざしき",
+    "category": "bkyu",
+    "prefecture": "三重県",
+    "city": "津市",
+    "address": "三重県津市半田2860-1",
+    "lat": 34.712638,
+    "lng": 136.509422,
+    "status": "candidate",
+    "fee": "宿泊・日帰りプランによる",
+    "hours": "受付10:00-19:00、日帰り食事時間は要確認",
+    "official_url": "https://www.ryoufu.com",
+    "reference_urls": [
+      "https://www.ryoufu.com/cave",
+      "https://www.ryoufu.com/lodging"
+    ],
+    "summary": "津市半田の温泉宿にある洞窟座敷。宿泊・宴会・食事空間として地下感が強い。",
+    "highlights": [
+      "洞窟座敷・温泉宿",
+      "津市半田の温泉宿にある洞窟座敷",
+      "三重県内の訪問記候補として面白い"
+    ],
+    "from_kameyama": "車で約35分（伊勢道→津方面）",
+    "name_en": "Madō Onsen Ryōfū-sō Cave Tatami Rooms",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Tsu City",
+    "summary_en": "On a quiet road in Handa, Tsu City, an ordinary-looking hot spring inn called Ryōfū-sō hides one of the more idiosyncratic dining and lodging experiences in central Japan: tatami-floored banquet rooms set inside an actual cave. The cavity is a former quarry, dug into the local stone over decades and later converted by the inn into private rooms where guests can eat traditional kaiseki dinners — or in some packages, sleep on futons — surrounded by raw rock walls and the natural temperature regulation of underground space (around 16°C year-round). The cave rooms can be reserved for groups or, in lower-demand periods, by individual diners; the inn's hot spring is conventional but warm and clean. The atmosphere is not theatrical — there are no special-effect lights or hokey signage — just rock, lanterns, tatami, and the strange luxurious quiet of eating dinner inside a hillside. Reservations are essential, and photography inside should be confirmed with the staff. For those who treat unusual hospitality as its own attraction, Ryōfū-sō is one of Mie's quietest pieces of regional eccentricity.",
+    "highlights_en": [
+      "Tatami banquet rooms set inside a former quarry — diners eat kaiseki dinners surrounded by raw rock walls and natural 16°C cooling",
+      "An onsen ryokan that doubles as one of central Japan's strangest dining spaces, with no theatrical staging and no hokey signage",
+      "Reservations essential; the cave rooms work as both a dinner venue and an overnight option for those who like to sleep underground"
+    ]
+  },
+  {
+    "id": "spot-063",
+    "name": "松阪飯南 稲わらモニュメント",
+    "name_kana": "まつさかいいなん いなわらもにゅめんと",
+    "category": "bkyu",
+    "prefecture": "三重県",
+    "city": "松阪市",
+    "address": "三重県松阪市飯南町下仁柿 樋山口バス停付近",
+    "lat": 34.445,
+    "lng": 136.329,
+    "status": "hold",
+    "fee": "無料目安",
+    "hours": "展示期間中見学自由目安",
+    "official_url": "https://www.kankomie.or.jp/topic/802",
+    "reference_urls": [
+      "https://www.matsusaka-kanko.com/blog/2025/11/12/%E9%A3%AF%E5%8D%97%E7%94%BA%E4%B8%8B%E4%BB%81%E6%9F%BF%E3%80%80%E7%A8%B2%E3%82%8F%E3%82%89%E3%81%AE%E5%B7%A8%E5%A4%A7%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%81%8C%E5%AE%8C%E6%88%90%E3%81%97%E3%81%BE-3/"
+    ],
+    "summary": "松阪市飯南町に毎年現れる、地域活性化のための巨大稲わらモニュメント。",
+    "highlights": [
+      "巨大わら造形・季節限定モニュメント",
+      "松阪市飯南町に毎年現れる、地域活性化のための巨大稲わらモニュメント",
+      "三重県内の訪問記候補として面白い"
+    ],
+    "from_kameyama": "車で約1時間（伊勢道→国道166号方面）",
+    "name_en": "Matsusaka Iinan Giant Straw Monuments",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Matsusaka City",
+    "summary_en": "Every autumn in the Iinan district of Matsusaka, a local committee constructs a single enormous figure entirely out of rice straw — six meters tall, up to eleven meters wide, built around a wooden frame by volunteers in the weeks after the rice harvest. The subject changes each year: past installations have included a wild boar, an owl, a soaring dragon, a beckoning cat, and even a giant Amabie (the long-haired sea-creature folk-icon that became a pandemic-era mascot of disease protection); the 2024 figure was a phoenix. The monuments stand for a limited period — typically autumn through early winter — and then are dismantled and returned to the fields as compost, in keeping with the original logic of straw as agricultural byproduct. The committee that builds them, the Nigaki Revitalization Creative Executive Committee, treats the project as community development rather than tourism, and visitors are asked to approach with appropriate respect for what is, at its root, a local farming festival made visible at extraordinary scale.",
+    "highlights_en": [
+      "A six-meter, eleven-meter-wide figure built entirely from rice straw — the subject changes every year",
+      "A community-art tradition tied to the actual rice harvest, with monuments composted back into the fields when the display ends",
+      "Past subjects have included a wild boar, a dragon, the pandemic-era Amabie, and a phoenix — check before visiting, since the figure changes annually"
+    ]
+  },
+  {
+    "id": "spot-064",
+    "name": "石山観音公園",
+    "name_kana": "いしやまかんのんこうえん",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "津市",
+    "address": "三重県津市芸濃町楠原字石山2308",
+    "lat": 34.830987,
+    "lng": 136.392803,
+    "status": "candidate",
+    "fee": "無料目安",
+    "hours": "屋外・常時見学可目安",
+    "official_url": "https://www.info.city.tsu.mie.jp/shisei/keikaku_matizukuri_torikumi/1005750/1005777/1005832/1005848.html",
+    "reference_urls": [
+      "https://www.navitime.co.jp/poi?spot=02022-1352297"
+    ],
+    "summary": "岩山に刻まれた磨崖仏・石仏群を巡る里山の信仰公園。鎌倉中期に遡るとされる大型石仏や県指定文化財3体を含み、西国三十三観音をなぞる巡礼路が残る。",
+    "highlights": [
+      "磨崖仏・石仏群・西国三十三観音",
+      "岩山と石仏が一体化した内陸型の信仰景観",
+      "三重県内陸の民俗信仰スポット候補"
+    ],
+    "from_kameyama": "車で約30分（名阪国道→県道10号方面）",
+    "name_en": "Ishiyama Kannon Park (Cliff-Carved Buddhas)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Tsu City",
+    "summary_en": "In the inland hills of Geinō-chō, west of Tsu City, an entire rocky hillside has been carved with Buddhist figures since the Kamakura period (13th century), creating one of the largest open-air clusters of cliff-relief Buddhas (magaibutsu) in central Japan. The site, now arranged as a public park, contains over thirty stone Buddhas — some carved directly into the living rock, others standing as separate sculptures along the walking paths — including three that are designated Important Cultural Properties of Mie Prefecture. The carvings form a miniature version of the Saigoku Thirty-Three Kannon pilgrimage, allowing local devotees to complete the spiritual equivalent of the famous Kansai circuit without leaving the village. The atmosphere is quieter and more meditative than at the famous coastal sacred sites of Mie; rather than ocean cliffs and ritual drama, the offering here is a long, slow walk among centuries-old stone faces emerging from a forested hillside, with insects and birdcalls as the only soundtrack.",
+    "highlights_en": [
+      "Over thirty cliff-relief Buddhas carved into the hillside from the Kamakura period onward — three are Prefectural Cultural Properties",
+      "A miniature Saigoku Thirty-Three Kannon pilgrimage compressed into a single inland park: a complete circuit done in a few hours",
+      "Quiet inland alternative to the famous coastal sacred sites of Mie — meditative walking among stone faces in a wooded valley"
+    ]
+  },
+  {
+    "id": "spot-065",
+    "name": "関・観音山公園の石仏群",
+    "name_kana": "せき・かんのんやまこうえんのせきぶつぐん",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "亀山市",
+    "address": "三重県亀山市関町新所 観音山公園",
+    "lat": 34.859052,
+    "lng": 136.383156,
+    "status": "candidate",
+    "fee": "無料目安",
+    "hours": "屋外見学自由目安",
+    "official_url": "http://kameyama-kanko.com/blog/%E9%96%A2%E3%83%BB%E8%A6%B3%E9%9F%B3%E5%B1%B1%E5%85%AC%E5%9C%92%E3%81%AE%E7%9F%B3%E4%BB%8F%E7%BE%A4%E3%81%AE%E6%8B%9D%E8%A6%B3%E3%82%81%E3%81%90%E3%82%8A%E3%80%82/",
+    "reference_urls": [
+      "https://www.navitime.co.jp/poi?spot=02037-0028237"
+    ],
+    "summary": "江戸時代末期の石工彫刻師による33体の観音石仏が観音山公園内に点在する。散策道と見晴台が整備され、伊勢平野・伊勢湾を望む。",
+    "highlights": [
+      "民俗信仰・観音信仰",
+      "33体の観音石仏が散策道沿いに点在",
+      "関宿背後の山岳信仰と展望が組み合わさる"
+    ],
+    "from_kameyama": "車で約15分（国道1号→関宿方面）",
+    "name_en": "Seki Kannon-yama Park Stone Buddha Group",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Kameyama City",
+    "summary_en": "Behind the preserved Edo-period post town of Seki — one of the best-conserved old-road districts on the historic Tōkaidō highway — a forested hillside park hides thirty-three small stone Kannon figures, carved in the late Edo period and arranged along a meandering walking path that climbs to a viewpoint overlooking the Ise Plain. Like the cliff Buddhas at Ishiyama, these thirty-three figures form a 'copy pilgrimage' (utsushi-reijō) of the famous Saigoku circuit, allowing villagers and travelers staying overnight in Seki to complete a symbolic version of the Kansai pilgrimage in an hour's walk. Most visitors to Seki never leave the main highway street and so miss this hillside entirely. Those who climb up are rewarded with a quieter dimension of the post town's culture — the mountain religion and Kannon devotion that ran underneath the commercial bustle of the road — and with a sweeping view east across the plain toward Ise Bay.",
+    "highlights_en": [
+      "Thirty-three late-Edo stone Kannon figures scattered along a forested hillside path behind the famous Seki post town",
+      "A 'copy pilgrimage' allowing travelers to symbolically complete the Saigoku Thirty-Three Kannon route during a single overnight stay",
+      "Most Seki visitors never leave the highway street — the climb reveals the quieter religious dimension of the old post town"
+    ]
+  },
+  {
+    "id": "spot-066",
+    "name": "東の追分・西の追分",
+    "name_kana": "ひがしのおいわけ・にしのおいわけ",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "亀山市",
+    "address": "三重県亀山市関町（東の追分：木崎／西の追分：新所）",
+    "lat": 34.853611,
+    "lng": 136.398056,
+    "status": "candidate",
+    "fee": "無料・屋外見学自由",
+    "hours": "屋外見学自由",
+    "official_url": "http://kameyama-kanko.com/blog/%e9%96%a2%e5%ae%bf%e3%83%bb%e6%9d%b1%e3%81%ae%e8%bf%bd%e5%88%86%e3%81%a8%e8%a5%bf%e3%81%ae%e8%bf%bd%e5%88%86/",
+    "reference_urls": [
+      "https://www.city.kameyama.mie.jp/docs/2014112312034/"
+    ],
+    "summary": "旧東海道・関宿の東西両端に位置する追分。東の追分は伊勢別街道の分岐点で伊勢神宮一の鳥居が立ち、西の追分は大和街道の分岐点。宿場の境界と街道の結節点を同時に体感できる。",
+    "highlights": [
+      "東の追分は伊勢別街道との分岐・伊勢神宮一の鳥居",
+      "西の追分は大和街道との分岐・常夜燈と道標",
+      "旧東海道・関宿の東西境界を歩いて確認できる"
+    ],
+    "from_kameyama": "車で約15分（国道1号→関宿方面）",
+    "name_en": "Higashi-no-Oiwake and Nishi-no-Oiwake (East and West Forks of Seki)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Kameyama City",
+    "summary_en": "Seki was the forty-seventh post station on the Tōkaidō, the old highway connecting Edo and Kyoto, and at each end of its preserved Edo-period main street stands a 'fork' (oiwake) — the precise spot where the Tōkaidō branched off toward other routes, marked since at least the 17th century by stone lanterns, road markers, and (in the eastern case) a great wooden torii gate pointing toward Ise Grand Shrine. The Eastern Fork sends pilgrims south down the Ise Branch Road toward Ise Jingū, and its torii — replaced every twenty years to coincide with the Grand Shrine's ritual rebuilding — visibly marks the start of that sacred southern journey. The Western Fork sends travelers west along the Yamato Road into the Nara basin. Walking from one fork to the other through the preserved town is the most economical way to grasp how Japanese post stations actually worked: not as static villages but as junctions, with their identity defined as much by the roads leaving them as by the buildings inside.",
+    "highlights_en": [
+      "The Eastern Fork carries the great wooden torii of Ise Grand Shrine, rebuilt every twenty years with the Shrine's ritual cycle",
+      "The Western Fork marks the branch onto the Yamato Road toward Nara, with original Edo-period stone lanterns and road markers",
+      "Walking from fork to fork reveals how a post town worked: a junction defined by the roads that left it, not just by the buildings inside"
+    ]
+  },
+  {
+    "id": "spot-067",
+    "name": "岩屋観音と清滝",
+    "name_kana": "いわやかんのんときよたき",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "亀山市",
+    "address": "三重県亀山市安坂山町 石水渓周辺",
+    "lat": 34.8675,
+    "lng": 136.3325,
+    "status": "candidate",
+    "fee": "無料・屋外見学自由",
+    "hours": "屋外見学自由（夏季・降雨後は注意）",
+    "official_url": "http://kameyama-kanko.com/blog/%e5%b2%a9%e5%b1%8b%e8%a6%b3%e9%9f%b3%e3%81%a8%e6%b8%85%e6%bb%9d/",
+    "reference_urls": [
+      "https://www.city.kameyama.mie.jp/docs/2014112312034/"
+    ],
+    "summary": "鈴鹿山系・石水渓の上流に位置する岩窟観音と清滝。岩窟内に観音像が安置され、近くに細い滝（清滝）が落ちる。山岳信仰と自然信仰が一体になった亀山の隠れた巡礼地。",
+    "highlights": [
+      "岩窟内に安置された観音像と山岳信仰",
+      "細く落ちる清滝と岩盤の景観",
+      "石水渓の沢沿い遊歩道と組み合わせた巡礼路"
+    ],
+    "from_kameyama": "車で約25分（国道25号→石水渓方面）",
+    "name_en": "Iwaya Kannon and Kiyotaki Falls",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Kameyama City",
+    "summary_en": "Deep in the upper reaches of the Sekisuikei ravine, in the Suzuka Mountains west of Kameyama, a small stone Kannon statue is enshrined inside a natural rock grotto, and a thin, slender waterfall called Kiyotaki ('Pure Falls') drops down the cliff face beside it. The combination of cave shrine and waterfall is a textbook example of Japanese mountain religion — water and stone elevated to the status of divinity, a Buddhist Kannon installed inside the natural form rather than in a built structure — and the site has functioned as a pilgrimage stop for at least several centuries. The walk in follows a streamside trail through ravine forest, with rope-and-chain sections in the steeper parts; the destination is intimate rather than grand, the kind of place where a single visitor and a single Buddha sit together for a few minutes in the sound of falling water. Avoid in heavy rain or in summer flood conditions, when the ravine becomes genuinely dangerous; in dry seasons, it is one of the most contemplative inland religious sites in the prefecture.",
+    "highlights_en": [
+      "A small Kannon statue enshrined inside a natural rock grotto, beside a thin falling cascade — a textbook fusion of mountain religion and Buddhism",
+      "Streamside ravine walk through the Suzuka Mountains, with rope sections; intimate rather than monumental",
+      "The kind of inland pilgrimage spot where a single visitor and a single Buddha can sit alone with the sound of falling water"
+    ]
+  },
+  {
+    "id": "spot-068",
+    "name": "御座の石仏（潮仏）",
+    "name_kana": "ござのせきぶつ・しおぼとけ",
+    "category": "mystery",
+    "prefecture": "三重県",
+    "city": "志摩市",
+    "address": "三重県志摩市志摩町御座（御座白浜近郊）",
+    "lat": 34.2858,
+    "lng": 136.7475,
+    "status": "candidate",
+    "fee": "無料・屋外見学自由",
+    "hours": "屋外見学自由（潮位により拝観可否が変わる）",
+    "official_url": "https://www.kanko-shima.com/spot/1023/",
+    "reference_urls": [
+      "https://www.city.shima.mie.jp/"
+    ],
+    "summary": "志摩半島先端・御座地区の波打ち際にある石仏。満潮時に海中に沈み、干潮時に姿を現すことから「潮仏」と呼ばれ、女性の腰から下の病に霊験があると伝わる地元信仰の対象。",
+    "highlights": [
+      "満潮時は海中に沈み干潮時に姿を現す『潮仏』",
+      "女性の腰から下の病に霊験があると伝わる",
+      "志摩半島先端・御座白浜近郊の海辺信仰"
+    ],
+    "from_kameyama": "車で約2時間30分（伊勢道→第二伊勢道路→国道260号→御座方面）",
+    "name_en": "Goza Stone Buddha (Shio-botoke, the Tidal Buddha)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Shima City",
+    "summary_en": "At the tip of the Shima Peninsula, on the beach at Goza, a small stone Buddha sits at the water's edge — and twice a day, at high tide, vanishes beneath the sea. At low tide, the figure re-emerges, salt-stained and slightly weathered, and the local women of Goza walk down to make offerings, particularly for ailments of the lower body and reproductive health, for which the Shio-botoke ('Tidal Buddha') is said to grant specific blessings. The phenomenon — a sacred image that performs its own daily drowning and resurrection — has made the Goza Buddha one of the most quietly powerful folk-religion sites in coastal Japan. The site is not signposted as a tourist attraction; it sits inside the living space of an active fishing village, surrounded by the homes of ama divers and small boats drawn up on the sand. Visitors should check the tide tables before arriving (the Buddha is visible only at low tide) and behave as guests in a small community whose relationship to this figure is centuries old and ongoing.",
+    "highlights_en": [
+      "A stone Buddha that disappears beneath the sea at every high tide and reappears at every low tide — natural ritual performed twice daily",
+      "Venerated specifically by local women for healing of the lower body, in an active ama-diver community at the tip of the Shima Peninsula",
+      "Check tide tables before visiting — the Buddha is visible only at low water — and behave as a guest in a living village"
+    ]
+  },
+  {
+    "id": "spot-069",
+    "name": "朝熊岳金剛證寺 奥之院",
+    "name_kana": "あさまだけこんごうしょうじ おくのいん",
+    "category": "mystery",
+    "prefecture": "三重県",
+    "city": "伊勢市",
+    "address": "三重県伊勢市朝熊町548（金剛證寺境内・奥之院は本堂より参道で約20-30分）",
+    "lat": 34.4622,
+    "lng": 136.7858,
+    "status": "candidate",
+    "fee": "無料目安・本堂拝観料は別途・公式要確認",
+    "hours": "日中の参拝目安・公式要確認",
+    "official_url": "https://kongoshoji.jp/",
+    "reference_urls": [
+      "https://www.iseshima-kanko.jp/spot/13/"
+    ],
+    "summary": "伊勢神宮の鬼門を護る朝熊岳・金剛證寺の奥之院は、卒塔婆供養の参道で知られる。境内から続く参道沿いに大型卒塔婆が林立する特異な光景は、伊勢志摩地域の死者供養文化を今に伝える。",
+    "highlights": [
+      "伊勢神宮鬼門・朝熊岳金剛證寺の奥之院参道",
+      "大型卒塔婆が林立する死者供養の参道景観",
+      "伊勢志摩地域の死者供養・岳参り文化を体感できる"
+    ],
+    "from_kameyama": "車で約75分（伊勢道→伊勢西IC→伊勢志摩スカイライン）",
+    "name_en": "Kongōshō-ji Okunoin (Stupa-Lined Inner Sanctuary of Asama Peak)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Ise City",
+    "summary_en": "Kongōshō-ji sits atop Mount Asama, the peak that guards the northeast — the unlucky 'demon gate' direction — of Ise Grand Shrine, and a centuries-old proverb still circulates in Ise: 'A pilgrimage to Ise that doesn't include Asama is only half a pilgrimage.' Beyond the temple's main hall, a forested path climbs further to the okunoin, the inner sanctuary, and it is on this path that visitors encounter one of the most unusual sacred landscapes in Japan: a corridor lined with tens of thousands of towering wooden stupas (sotoba), each erected by a bereaved family in memory of a deceased relative. The Ise-Shima region has a unique funeral custom (take-mairi) in which families ascend Mount Asama in the weeks after a death and plant a large stupa here, often three or more meters tall, leaving the dead in the care of the mountain. The cumulative effect — a forest of inscribed wooden posts, weathering at different rates, packed densely along the path — is one of the most moving expressions of Japanese mortuary practice still visibly active in the 21st century. Treat with reverence; this is a living funerary site, not a sightseeing curiosity.",
+    "highlights_en": [
+      "A forested path lined with tens of thousands of towering wooden stupas, each placed by a bereaved family in the local take-mairi mourning ritual",
+      "The temple guards the northeast 'demon gate' of Ise Grand Shrine, and a centuries-old proverb still calls it the necessary other half of an Ise pilgrimage",
+      "A living funerary landscape unlike anywhere else in Japan — approach with reverence, not as a photo destination"
+    ]
+  },
+  {
+    "id": "spot-070",
+    "name": "鼻かけえびす",
+    "name_kana": "はなかけえびす",
+    "category": "mystery",
+    "prefecture": "三重県",
+    "city": "鳥羽市",
+    "address": "三重県鳥羽市相差町（相差海女文化資料館近郊）",
+    "lat": 34.4675,
+    "lng": 136.8889,
+    "status": "candidate",
+    "fee": "無料・屋外見学自由",
+    "hours": "屋外見学自由",
+    "official_url": "https://osatsu.org/",
+    "reference_urls": [
+      "https://www.toba.gr.jp/"
+    ],
+    "summary": "鳥羽市相差の海女町に祀られるえびす石像。鼻が欠けた姿から『鼻かけえびす』と呼ばれ、海女・漁師の海上安全と豊漁を願う相差独特の海辺信仰として知られる。",
+    "highlights": [
+      "鼻が欠けたえびす石像・相差独特の海辺信仰",
+      "海女・漁師の海上安全と豊漁を願う対象",
+      "相差海女文化資料館・石神さんと併せて巡れる"
+    ],
+    "from_kameyama": "車で約100分（伊勢道→鳥羽IC→国道167号・パールロード）",
+    "name_en": "Hanakake Ebisu (Nose-Chipped Ebisu)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Toba City",
+    "summary_en": "In the ama-diver village of Ōsatsu, on the Toba coast, a small stone statue of Ebisu — the laughing fisherman-god of fortune and the sea — sits at the edge of the harbor with most of its nose missing. The damage, possibly the result of centuries of sea-salt erosion or an old accident no one can confirm, has been incorporated into the deity's identity rather than repaired: the locals call the figure Hanakake Ebisu, 'Nose-Chipped Ebisu,' and credit him with watching over the safety of the divers and the bounty of the catch. Ōsatsu is one of the densest concentrations of practicing ama divers in Japan, and the local circuit also includes Shinmei Shrine ('Ishigami-san'), famous for granting one wish per visiting woman, and the Ama Cultural Museum. Hanakake Ebisu's small altar is set into a daily-life space rather than a tourist precinct; visitors should arrive on foot, take their photographs without disrupting the harbor's working rhythm, and remember that this is a god embedded in a village rather than a village arranged around a god.",
+    "highlights_en": [
+      "A stone Ebisu with most of his nose worn away — the damage absorbed into the deity's identity rather than repaired",
+      "Tucked into the harbor of Ōsatsu, one of Japan's densest concentrations of practicing ama divers",
+      "Part of a local circuit with Ishigami-san (which grants one wish per visiting woman) and the Ama Cultural Museum"
+    ]
+  },
+  {
+    "id": "spot-071",
+    "name": "聚楽園大仏",
+    "name_kana": "しゅうらくえんだいぶつ",
+    "category": "bkyu",
+    "prefecture": "愛知県",
+    "city": "東海市",
+    "address": "愛知県東海市荒尾町西廻間2-1（聚楽園公園・しあわせ村）",
+    "lat": 35.0303,
+    "lng": 136.8997,
+    "status": "現存",
+    "fee": "無料（公園内・外観見学自由）",
+    "hours": "公園自由（24時間屋外見学可能・公式要確認）",
+    "official_url": "https://www.city.tokai.aichi.jp/shisei/1003593/1003640/1003656.html",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E8%81%9A%E6%A5%BD%E5%9C%92%E5%A4%A7%E4%BB%8F"
+    ],
+    "summary": "1927年（昭和2年）5月21日、昭和天皇のご成婚を記念して開眼された鉄筋コンクリート造の大仏。名古屋の実業家・山田才吉が私財を投じて建立し、像高約18.79mは奈良・鎌倉の大仏を上回る規模。聚楽園公園（しあわせ村）の小高い丘に鎮座し、東海市のシンボルとして親しまれる戦前コンクリート大仏の代表例。表情は穏やかで、近代日本の私財奉納による巨大宗教建造物として民俗・産業史的にも貴重。",
+    "highlights": [
+      "1927年開眼・像高18.79mの戦前コンクリート大仏",
+      "名古屋実業家・山田才吉が昭和天皇ご成婚を記念して建立",
+      "東海市のシンボルとして公園内に静かに鎮座"
+    ],
+    "from_kameyama": "車で約70分（東名阪→伊勢湾岸道方面）",
+    "name_en": "Jurakuen Daibutsu (Shōwa-era Concrete Buddha)",
+    "prefecture_en": "Aichi Prefecture",
+    "city_en": "Tōkai City",
+    "summary_en": "On a small hill in Tōkai City stands a quietly remarkable Buddha: 18.79 meters tall, made of reinforced concrete, completed in 1927 to commemorate the wedding of the future Shōwa Emperor — a private gift to the public from a Nagoya businessman who paid for it out of his own pocket. At nearly nineteen meters, the Jurakuen Daibutsu was, on the day it was unveiled, taller than both the Great Buddha of Nara and the Great Buddha of Kamakura, a fact its donor seems to have enjoyed considerably. Unlike most prewar Buddhas, this one was a private rather than ecclesiastical commission, built in a then-new material (reinforced concrete) by an entrepreneur who had already constructed a resort hotel and amusement grounds on the same property. The hotel is long gone, but the Buddha remains, presiding over what is now a public park with health and welfare facilities clustered around the base of his hill. He is not promoted as a major attraction, which adds to the effect: the largest prewar concrete Buddha in Japan, sitting calmly above a community swimming pool, weathered and pale and quietly enormous.",
+    "highlights_en": [
+      "An 18.79-meter reinforced-concrete Buddha completed in 1927 — at the time, taller than both the Nara and Kamakura giants",
+      "A private gift from Nagoya businessman Yamada Saikichi to commemorate the future Shōwa Emperor's wedding",
+      "The Buddha presides over what is now a public park and welfare complex — weathered, pale, and unpromoted as a major tourist site"
+    ]
+  },
+  {
+    "id": "spot-072",
+    "name": "竹島ファンタジー館",
+    "name_kana": "たけしまふぁんたじーかん",
+    "category": "bkyu",
+    "prefecture": "愛知県",
+    "city": "蒲郡市",
+    "address": "愛知県蒲郡市竹島町28-14",
+    "lat": 34.8128,
+    "lng": 137.2236,
+    "status": "現存",
+    "fee": "有料・公式要確認",
+    "hours": "公式要確認",
+    "official_url": "http://www.fantasykan.jp",
+    "reference_urls": [
+      "https://aichinow.pref.aichi.jp/spots/detail/2760/"
+    ],
+    "summary": "蒲郡・竹島の対岸に建つ「世界に1つの貝の博物館」。世界中から集めたという約5,500万個（館側公称）の貝殻と鉱物・化石を用いて館内を装飾し、LED照明で彩られた洞窟風通路や巨大オブジェが続く異空間。家族経営の私設博物館らしい手作り感と物量で、昭和テイストの観光施設文化を残す愛知の代表的B級スポット。雨天時の蒲郡観光の定番でもある。",
+    "highlights": [
+      "約5,500万個の貝殻で装飾された洞窟風館内",
+      "鉱物・化石・貝の私設博物館らしい物量と手作り感",
+      "竹島・八百富神社観光と組み合わせやすい立地"
+    ],
+    "from_kameyama": "車で約110分（東名阪→伊勢湾岸道→東名）",
+    "name_en": "Takeshima Fantasy Hall",
+    "prefecture_en": "Aichi Prefecture",
+    "city_en": "Gamagōri City",
+    "summary_en": "Across the causeway from the sacred island of Takeshima in Gamagōri stands what its owners call 'the only seashell museum in the world,' though that undersells what is actually inside. A family-run private museum opened in the postwar tourism boom, the Fantasy Hall claims to have used approximately 55 million seashells, plus assorted minerals and fossils, to decorate its interior — walls, ceilings, columns, archways, all encrusted with cemented shells, gemstones, and grotto stalactites under colored LED lighting. The result is a long, low cavern of corridors and chambers that recalls a Las Vegas mineral palace built by a single obsessive family with infinite patience and modest budget. Coral grottoes, mermaid tableaux, jewel-encrusted shrines, and the occasional fluorescent rock all follow one after another, with no curatorial restraint of any kind. It functions today as a wet-weather alternative on the Gamagōri tourist circuit and as a vivid surviving specimen of the kind of private 'theme hall' (tēma-kan) that Japan produced in great numbers in the 1960s and 70s and has been quietly losing ever since.",
+    "highlights_en": [
+      "Interior walls reportedly decorated with 55 million seashells, plus minerals and fossils — a maximalist private museum operated by a single family",
+      "Coral grottoes, mermaid tableaux, jewel-encrusted shrines and fluorescent rocks, all under colored LED lighting with no curatorial restraint",
+      "One of the best-surviving specimens of the 1960s-70s 'theme hall' (tēma-kan) tourism culture that Japan is quietly losing"
+    ]
+  },
+  {
+    "id": "spot-073",
+    "name": "名古屋大仏（桃巌寺）",
+    "name_kana": "なごやだいぶつ（とうがんじ）",
+    "category": "bkyu",
+    "prefecture": "愛知県",
+    "city": "名古屋市千種区",
+    "address": "愛知県名古屋市千種区四谷通2-16付近（桃巌寺）",
+    "lat": 35.1582,
+    "lng": 136.9714,
+    "status": "現存",
+    "fee": "境内自由（公式要確認）",
+    "hours": "公式要確認",
+    "official_url": "https://aichinow.pref.aichi.jp/features/detail/4/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E6%A1%83%E5%B7%8C%E5%AF%BA"
+    ],
+    "summary": "名古屋市千種区の桃巌寺境内に鎮座する高さ約10m級の鮮やかな緑色の大仏。1987年に完成した近代造立の青銅露仏で、織田信長の父・織田信秀の菩提寺として知られる桃巌寺が建立した。完成当初は青銅色だったが2006年に緑色へ塗り替えられた経緯を持ち、現在は金色の螺髪と緑色の身体という強烈な色彩コントラストで知られる。日本最大級の木魚や眠り弁天など寺宝が混在する点でも近代B級スポット文化の象徴。",
+    "highlights": [
+      "緑色の身体に金色の螺髪という強烈な色彩",
+      "1987年完成・2006年塗り替えの近代青銅大仏",
+      "桃巌寺は織田信秀の菩提寺で、巨大木魚・眠り弁天など寺宝も混在"
+    ],
+    "from_kameyama": "車で約70分（東名阪→名二環）",
+    "name_en": "Nagoya Daibutsu (Tōgan-ji's Green Buddha)",
+    "prefecture_en": "Aichi Prefecture",
+    "city_en": "Chikusa Ward, Nagoya",
+    "summary_en": "In a quiet residential temple district in eastern Nagoya, a 10-meter bronze Buddha sits cross-legged in the precincts of Tōgan-ji — and the statue is, unmistakably, bright green. Completed in 1987 in conventional bronze, the Buddha was repainted in 2006 in a vivid leaf-green hue, with the curls of his hair regilded in glittering gold, producing a color combination that no traditional Japanese Buddha had ever attempted. The result has been controversial ever since (some visitors love it; some are appalled), but Tōgan-ji is unbothered: the temple's main historical claim is as the family memorial temple of Oda Nobuhide, father of the warlord Oda Nobunaga, and the green Buddha is only one of several attractions in a precinct that also includes a Sleeping Benten figure, one of Japan's largest wooden temple drums, and various other heterodox treasures. The Nagoya Daibutsu has become, in spite of itself, a beloved local oddity and a frequent subject of social-media photographs — proof that color, applied generously to a sacred image, can guarantee a level of attention that gilt and tradition cannot.",
+    "highlights_en": [
+      "A 10-meter bronze Buddha repainted bright green in 2006, with the curls of his hair re-gilded in gold — a color combination unique among major Japanese Buddhas",
+      "Tōgan-ji is the family memorial temple of Oda Nobuhide, father of Oda Nobunaga — historical pedigree behind the modern absurdity",
+      "Other temple oddities: a Sleeping Benten figure, one of Japan's largest wooden temple drums, and an unusually high concentration of heterodox treasures"
+    ]
+  },
+  {
+    "id": "spot-074",
+    "name": "一畑山薬師寺 涅槃像",
+    "name_kana": "いちはたさんやくしじ ねはんぞう",
+    "category": "bkyu",
+    "prefecture": "愛知県",
+    "city": "岡崎市",
+    "address": "愛知県岡崎市藤川町王子ヶ入12-44付近（一畑山薬師寺）",
+    "lat": 34.9456,
+    "lng": 137.2247,
+    "status": "現存",
+    "fee": "拝観条件は公式要確認",
+    "hours": "公式要確認",
+    "official_url": "https://aichinow.pref.aichi.jp/features/detail/4/",
+    "reference_urls": [
+      "https://ichihatayama.com/"
+    ],
+    "summary": "岡崎市藤川の山中にある一畑山薬師寺の涅槃像（横たわる薬師如来像）。Aichi Nowによれば全長約8.94mで、約3万枚の金箔で覆われた巨大な金色寝姿仏として知られる。本尊と並ぶ寺の象徴で、参道・本堂・展望浴場などとともに「現代の山岳寺院」型観光寺院の景観を形成する。山頂境内からは岡崎市街と三河平野が一望できる。",
+    "highlights": [
+      "全長約8.94mの金色涅槃像（寝姿の薬師如来）",
+      "約3万枚の金箔で覆われた巨大像",
+      "山頂境内・展望からの三河平野ビュー"
+    ],
+    "from_kameyama": "車で約100分（東名阪→伊勢湾岸道→東名・音羽蒲郡IC方面）",
+    "name_en": "Ichihatayama Yakushi-ji Reclining Buddha",
+    "prefecture_en": "Aichi Prefecture",
+    "city_en": "Okazaki City",
+    "summary_en": "Hidden in the mountains east of Okazaki, Ichihatayama Yakushi-ji is a modern mountaintop temple whose centerpiece is a 8.94-meter gilded reclining Buddha — a Yakushi Nyorai (Buddha of healing) lying on his side in the moment of passing into nirvana, his body covered in approximately 30,000 sheets of gold leaf. Reclining Buddhas are rare in Japan, where the iconographic preference has traditionally been seated and standing figures; this one belongs to a small modern subgenre that includes the Nanzōin reclining Buddha in Fukuoka and the white reclining Buddha at Nan-mu-daishi-zō in Wakayama. The temple itself is built in the modern 'destination temple' style — broad parking lots, a panoramic terrace, a public bath linked to the precinct — but the Buddha himself is genuinely arresting, the gold leaf catching shifts in daylight throughout the day. From the temple's hilltop grounds the entire Mikawa plain rolls out below, with Okazaki city and the distant Pacific just visible on clear days.",
+    "highlights_en": [
+      "An 8.94-meter gilded reclining Buddha — Yakushi Nyorai lying on his side in the moment of entering nirvana, covered in about 30,000 sheets of gold leaf",
+      "A rare iconographic form in Japan: most major Japanese Buddhas are seated or standing, not reclining",
+      "Panoramic temple grounds with views across the Mikawa plain — modern 'destination temple' design at full scale"
+    ]
+  },
+  {
+    "id": "spot-075",
+    "name": "刈宿の大仏（常福寺）",
+    "name_kana": "かりやどのだいぶつ（じょうふくじ）",
+    "category": "bkyu",
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "address": "愛知県西尾市刈宿町出口50付近（常福寺）",
+    "lat": 34.7868,
+    "lng": 137.0658,
+    "status": "現存",
+    "fee": "境内自由（公式要確認）",
+    "hours": "境内自由（公式要確認）",
+    "official_url": "https://aichinow.pref.aichi.jp/features/detail/4/",
+    "reference_urls": [
+      "https://www.city.nishio.aichi.jp/"
+    ],
+    "summary": "西尾市刈宿の常福寺境内に鎮座する大仏。Aichi Nowによれば像高は台座を含めて約14m級と紹介される阿弥陀如来坐像で、矢作古川河口・三河湾を望む地に座す。海難・水死者の供養に関わる近世以来の信仰文脈を背景に持ち、素朴な造形と海辺の立地が独特。東海地方近代大仏群（聚楽園・名古屋・一畑山）と並ぶ西三河側の代表的近代大仏。",
+    "highlights": [
+      "像高は台座込みで約14m級と紹介される海辺の大仏",
+      "矢作古川河口・三河湾を望む立地",
+      "海難・水死者の供養に関わる近世以来の信仰文脈"
+    ],
+    "from_kameyama": "車で約110分（東名阪→伊勢湾岸道→国道23号）",
+    "name_en": "Karyuku Daibutsu (Jōfuku-ji's Seaside Buddha)",
+    "prefecture_en": "Aichi Prefecture",
+    "city_en": "Nishio City",
+    "summary_en": "On the shore of Mikawa Bay, where the Yahagi-furu River meets the sea, a 14-meter seated Amida Buddha sits in the grounds of Jōfuku-ji, facing the water. Unlike the inland, industrial-era Buddhas at Jurakuen and Tōgan-ji, the Karyuku Daibutsu belongs to an older, specifically coastal tradition: Buddhas erected at river mouths or harbor entrances to console the souls of those drowned at sea and to bless the safe return of fishing fleets. The figure is plain, almost folkish, and the surrounding scene — small fishing harbor, salt air, gulls — sets it apart from the more polished modern Buddhas of the region. The town of Karyuku itself is a quiet coastal village; the Buddha sits at its edge, watching the bay with the patience of a marker that has been on duty for several human generations and expects to be there for several more. Combine the visit with the nearby Toba fire festival district or the Kira hot spring villages to grasp the spread of folk maritime culture along this stretch of coast.",
+    "highlights_en": [
+      "A 14-meter seated Amida Buddha at the mouth of the Yahagi-furu River, facing Mikawa Bay — built in the older coastal tradition of consoling the drowned",
+      "Quieter and more folkish than the prewar industrial Buddhas of inland Aichi, with fishing harbor, salt air and gulls as setting",
+      "Combine with the nearby Toba fire festival district and the Kira hot spring villages to grasp the maritime folk culture of the Mikawa coast"
+    ]
+  },
+  {
+    "id": "spot-076",
+    "name": "招き猫ミュージアム",
+    "name_kana": "まねきねこみゅーじあむ",
+    "category": "bkyu",
+    "prefecture": "愛知県",
+    "city": "瀬戸市",
+    "address": "愛知県瀬戸市薬師町2",
+    "lat": 35.2247,
+    "lng": 137.0844,
+    "status": "現存",
+    "fee": "有料・公式要確認",
+    "hours": "公式要確認",
+    "official_url": "https://www.luckycat.ne.jp/",
+    "reference_urls": [
+      "https://aichinow.pref.aichi.jp/spots/detail/103/"
+    ],
+    "summary": "瀬戸市薬師町にある国内最大級の招き猫専門私設博物館。江戸期から現代まで、全国各地の招き猫コレクションを常設展示し、瀬戸焼の地らしく陶磁器製招き猫の系譜を網羅する。絵付け体験・ショップを併設し、招き猫という民俗信仰のキャラクター化と現代消費文化への接続を体験できる空間として、瀬戸の窯業文化観光と組み合わせやすい代表的B級ミュージアム。",
+    "highlights": [
+      "江戸〜現代の全国招き猫コレクションを常設展示",
+      "瀬戸焼の地らしく陶磁器招き猫の系譜を網羅",
+      "絵付け体験とショップを併設する民俗信仰系ミュージアム"
+    ],
+    "from_kameyama": "車で約85分（東名阪→名二環→東名）",
+    "name_en": "Lucky Cat Museum (Maneki-neko Museum)",
+    "prefecture_en": "Aichi Prefecture",
+    "city_en": "Seto City",
+    "summary_en": "In Seto, one of Japan's six ancient pottery towns and a major historical producer of maneki-neko (the beckoning cats that summon customers from every Japanese shop window), a private museum holds one of the country's largest collections devoted to the figure. Several thousand cats are on permanent display, organized by region, period, and style — Edo-era folk-art pieces in faded earth pigments, Showa porcelain cats in primary colors, contemporary character-designed cats, and the local Seto-yaki ceramics that have shaped the iconography for centuries. The museum's special attraction is the way it explains how, over roughly 150 years, this folk-religion symbol of mercantile good fortune migrated from the back rooms of small shops to the front shelves of souvenir stalls and finally to the global pop-culture canon. A small workshop area lets visitors paint their own ceramic cat, and the gift shop is, naturally, encyclopedic. Combine the museum with the Seto Pottery Museum and the Kamagaki-no-Komichi pottery alley for a full day in the home town of the lucky cat.",
+    "highlights_en": [
+      "One of Japan's largest collections of maneki-neko, organized by region, period and style — Edo folk art through contemporary character designs",
+      "Set in Seto, a 1,000-year ceramics town that helped shape the maneki-neko iconography in the first place",
+      "Paint-your-own ceramic-cat workshops and an encyclopedic gift shop; combine with the Seto Pottery Museum for a full day"
+    ]
+  },
+  {
+    "id": "spot-077",
+    "name": "布袋の大仏",
+    "name_kana": "ほていのだいぶつ",
+    "category": "bkyu",
+    "prefecture": "愛知県",
+    "city": "江南市",
+    "address": "愛知県江南市木賀町大門132",
+    "lat": 35.3245,
+    "lng": 136.872472,
+    "status": "現存",
+    "fee": "外観見学のみ・拝観条件は要現地確認",
+    "hours": "外観見学（住居一体のため終日近接接近は不可）",
+    "official_url": "https://www.konan-kankou.jp/?page_id=4099",
+    "reference_urls": [
+      "https://aichinow.pref.aichi.jp/features/detail/4/",
+      "https://ja.wikipedia.org/wiki/%E5%B8%83%E8%A2%8B%E3%81%AE%E5%A4%A7%E4%BB%8F"
+    ],
+    "summary": "江南市木賀町に立つ高さ約18mのコンクリート製・薬師如来坐像。地元の鍼灸師・前田秀信氏が私財と自らの夢に基づき1949年に造立を発願し、1954年（昭和29年）に完成させた個人造立大仏としては国内最大級の像で、奈良の大仏より約2m高いとされる。住居と一体化した独特の構造を持ち、近年は近隣踏切の警報機が目元と重なって「サングラス大仏」と呼ばれてSNSで話題になる、戦後B級モニュメント文化を代表する珍像。",
+    "highlights": [
+      "高さ18m・1954年完成の個人造立コンクリート大仏",
+      "鍼灸師・前田秀信氏が夢のお告げで建立した私財大仏",
+      "踏切警報機と目線が重なる「サングラス大仏」現象でSNSバズ"
+    ],
+    "from_kameyama": "車で約90分（東名阪→名二環→名古屋高速方面）",
+    "name_en": "Hotei Daibutsu (the Sunglasses Buddha)",
+    "prefecture_en": "Aichi Prefecture",
+    "city_en": "Kōnan City",
+    "summary_en": "In a quiet residential block in Kōnan City, an 18-meter concrete Buddha sits in the front yard of an ordinary suburban house. The Hotei Daibutsu was built between 1949 and 1954 by Maeda Hidenobu, a local acupuncturist who experienced a dream in which the Buddha appeared to him and asked to be made physical. Maeda spent five years and most of his savings building the figure on his own land, two meters taller than the Great Buddha of Nara, and the statue has now sat sandwiched between a railway level-crossing and an ordinary street ever since — possibly the largest private-individual-commissioned Buddha in Japan. In recent years the figure has gone viral on Japanese social media under a new name: the 'Sunglasses Buddha,' because the warning lights of the adjacent railway crossing, when activated, align almost exactly with the Buddha's eyes and appear to give him a pair of glowing rectangular shades. The phenomenon is best photographed at sundown when a train is due. The Buddha remains a private structure on residential property; observe from the public road only, do not block the crossing, and remember that you are, in effect, photographing a stranger's front garden.",
+    "highlights_en": [
+      "An 18-meter concrete Buddha built between 1949 and 1954 by a single acupuncturist after a dream — two meters taller than the Great Buddha of Nara",
+      "The 'Sunglasses Buddha' phenomenon: the warning lights of an adjacent railway level crossing align with the Buddha's eyes, giving him glowing shades",
+      "Observe strictly from the public road — the figure stands on private residential property and the level crossing is active"
+    ]
+  },
+  {
+    "id": "spot-078",
+    "name": "岐阜大仏（正法寺）",
+    "name_kana": "ぎふだいぶつ（しょうほうじ）",
+    "category": "bkyu",
+    "prefecture": "岐阜県",
+    "city": "岐阜市",
+    "address": "〒500-8018 岐阜県岐阜市大仏町8",
+    "lat": 35.43238,
+    "lng": 136.77194,
+    "status": "現存",
+    "fee": "大人300円・小中高生150円（2026年4月1日改定）",
+    "hours": "9:00〜17:00",
+    "official_url": "https://gifu-daibutsu.com/",
+    "reference_urls": [
+      "https://www.city.gifu.lg.jp/kankoubunka/bunkazai/1023130/1023131.html",
+      "https://ja.wikipedia.org/wiki/%E5%B2%90%E9%98%9C%E5%A4%A7%E4%BB%8F",
+      "https://ja.wikipedia.org/wiki/%E6%AD%A3%E6%B3%95%E5%AF%BA_(%E5%B2%90%E9%98%9C%E5%B8%82%E5%A4%A7%E4%BB%8F%E7%94%BA)"
+    ],
+    "summary": "黄檗宗金鳳山正法寺の本尊である釈迦如来坐像で、像高13.63m。1791年（寛政3年）頃に第11代住職惟中の発願で着工し、相次ぐ地震・飢饉の犠牲者供養と万民の安寧を祈り、1832年（天保3年）4月に開眼。木材で骨格を組み、竹を編んだ籠状の上に粘土を盛り、美濃和紙の経典約4万巻を貼り重ねて漆と金箔で仕上げた「籠（かご）大仏」と呼ばれる構造で、この技法による日本最大の仏像とされる。岐阜県重要文化財（1974年3月6日指定）。日本三大仏の一つに数えられることもある。",
+    "highlights": [
+      "像高13.63m、籠（かご）大仏として日本最大の乾漆造仏像",
+      "美濃和紙の経典約4万巻を内部に貼り重ねた構造",
+      "1832年（天保3年）開眼、岐阜県重要文化財（1974年指定）"
+    ],
+    "from_kameyama": "車で約95分（東名阪→名二環→東海北陸道方面）",
+    "name_en": "Gifu Daibutsu (Shōhō-ji's Bamboo-and-Paper Buddha)",
+    "prefecture_en": "Gifu Prefecture",
+    "city_en": "Gifu City",
+    "summary_en": "Inside an unassuming temple hall in central Gifu, a 13.63-meter seated Shaka Buddha presides as one of the strangest engineering achievements in Japanese Buddhist art — and the largest dry-lacquer-and-paper Buddha in Japan. Construction began in 1791 by the temple's eleventh abbot as a memorial for victims of the great famines and earthquakes that had devastated Gifu in the late 18th century. The frame was built around the trunk of an enormous ginkgo tree; over the trunk, a basket-like cage was woven from bamboo; on the bamboo, clay was applied; over the clay, approximately 40,000 paper copies of Buddhist sutras handwritten on Mino washi were pasted, layer after layer; and the whole was finally finished in lacquer and gold leaf. The technique — called the kago, or 'basket,' construction — has no real parallel anywhere else, and the Buddha himself sits, lightweight and luminous, inside a temple barely wider than his shoulders. Designated a Cultural Property of Gifu Prefecture in 1974, the Gifu Daibutsu is sometimes counted as one of Japan's three great Buddhas, alongside Nara and Kamakura.",
+    "highlights_en": [
+      "Japan's largest dry-lacquer Buddha — a 13.63-meter Shaka built around a giant ginkgo trunk, with a bamboo basket frame and 40,000 layered sutra papers",
+      "Built in the late Edo period as a memorial to victims of famines and earthquakes — the engineering and the grief are entirely intertwined",
+      "Sometimes counted as the third of Japan's 'three great Buddhas' after Nara and Kamakura — a Cultural Property of Gifu Prefecture since 1974"
+    ]
+  },
+  {
+    "id": "spot-079",
+    "name": "関善光寺 卍戒壇巡り（宗休寺）",
+    "name_kana": "せきぜんこうじ まんじかいだんめぐり（そうきゅうじ）",
+    "category": "folk",
+    "prefecture": "岐阜県",
+    "city": "関市",
+    "address": "〒501-2159 岐阜県関市西日吉町35",
+    "lat": 35.48939,
+    "lng": 136.91517,
+    "status": "現存",
+    "fee": "戒壇巡り 大人300円・小人100円",
+    "hours": "9:00〜16:30（戒壇巡り受付は16:00頃まで・公式要確認）",
+    "official_url": "https://www.seki-zenkoji.jp/kaidan/",
+    "reference_urls": [
+      "https://www.seki-zenkoji.jp/keidai/",
+      "https://ja.wikipedia.org/wiki/%E9%96%A2%E5%96%84%E5%85%89%E5%AF%BA",
+      "https://www.kankou-gifu.jp/spot/detail_4963.html"
+    ],
+    "summary": "天台宗安桜山宗休寺、通称「関善光寺」。1753年（宝暦3年）創建。本堂下に日本で唯一とされる卍（まんじ）字型の戒壇巡りがある。全長49mの暗闇は、釈迦入滅から成道までの「中陰49日間」を象った長さといい、左手でロープを伝いつつ漆黒の地下を巡り、暗闇の中で錠前（極楽の鍵）に触れて功徳を得るとされる。胎内巡り・地獄巡り系の体験信仰の中でも、卍字型は本寺のみという稀有な構造で、関市・岐阜県の観光資料でも代表的な民俗信仰スポットとして紹介される。",
+    "highlights": [
+      "日本で唯一とされる卍（まんじ）字型の戒壇巡り",
+      "全長49mの暗闇は釈迦入滅から成道までの中陰49日を象徴",
+      "暗闇の中で錠前に触れて功徳を得る伝統的な体験信仰"
+    ],
+    "from_kameyama": "車で約100分（東名阪→名二環→東海北陸道）",
+    "name_en": "Seki Zenkō-ji Manji Kaidan Meguri (Swastika-Shaped Pitch-Black Pilgrimage)",
+    "prefecture_en": "Gifu Prefecture",
+    "city_en": "Seki City",
+    "summary_en": "Beneath the main hall of Seki Zenkō-ji — a small Tendai temple in the cutlery town of Seki — runs the only known kaidan meguri ('precept-platform pilgrimage') in Japan laid out in the shape of a Buddhist manji (the swastika that is one of the oldest symbols of the dharma). The corridor is 49 meters long — exactly the 49 days of the bardo between death and rebirth in Buddhist cosmology — and the visitor enters by descending into a pitch-black underground passage, holding a rope along the left wall, and feeling forward in total darkness. Somewhere in the dark hangs a metal lock said to be the 'key to paradise'; touching it is the spiritual climax of the rite, and the only way to find it is by patient touch in absolute blackness. The disorientation produced by walking blind through a swastika-shaped corridor at the precise length of the 49-day bardo is, by design, a controlled rehearsal of death and rebirth. Visitors with claustrophobia or heart conditions should not attempt it; everyone else should expect a few minutes of complete sensory deprivation followed by a quietly altered state of mind.",
+    "highlights_en": [
+      "The only kaidan meguri in Japan laid out in a Buddhist manji shape — 49 meters long, matching the 49-day bardo of Buddhist cosmology",
+      "Visitors descend into total darkness and feel forward along a rope until they find the 'key to paradise' — a metal lock hidden in the black",
+      "A controlled rehearsal of death and rebirth; not for those with claustrophobia or heart conditions, but extraordinary for everyone else"
+    ]
+  },
+  {
+    "id": "spot-080",
+    "name": "金山巨石群・岩屋岩蔭遺跡",
+    "name_kana": "かなやまきょせきぐん・いわやいわかげいせき",
+    "category": "mystery",
+    "prefecture": "岐阜県",
+    "city": "下呂市",
+    "address": "岐阜県下呂市金山町岩瀬高平",
+    "lat": 35.75451,
+    "lng": 137.15948,
+    "status": "現存",
+    "fee": "見学無料（ガイドツアーは別途・要予約）",
+    "hours": "終日見学可（夜間・悪天候時は危険）",
+    "official_url": "https://www.city.gero.lg.jp/site/kanko/31441.html",
+    "reference_urls": [
+      "https://www.pref.gifu.lg.jp/page/7359.html",
+      "https://ja.wikipedia.org/wiki/%E5%B2%A9%E5%B1%8B%E5%B2%A9%E8%94%AD%E9%81%BA%E8%B7%A1",
+      "https://www.gero-spa.com/spot/detail_31.html"
+    ],
+    "summary": "岐阜県下呂市金山町岩瀬の山中に分布する巨石群と、その中核をなす「岩屋岩蔭遺跡」。下呂市公式は金山巨石群を「日本のストーンヘンジ」と称し、巨石の隙間から差し込む太陽光の動きと巨石配置から、太陽の年周運動を観測する高度な天文暦と推察される、と紹介する。岩屋岩蔭遺跡では縄文時代早期（約8千年前）の石鏃・縄文土器などが出土し、1969年金山町指定史跡、1973年（昭和48年）岐阜県指定史跡に指定された。岩屋岩蔭の上には岩屋岩神社（妙見神社）が祀られ、平安末期の武将・悪源太義平と狒狒（ひひ）退治の伝説も伝わる。",
+    "highlights": [
+      "「日本のストーンヘンジ」と称される巨石群と縄文の岩蔭遺跡",
+      "霜降・雨水の日に巨石の隙間から太陽光が射し込む天文配置",
+      "1973年 岐阜県指定史跡「岩屋岩蔭遺跡」、縄文早期から江戸期までの遺物"
+    ],
+    "from_kameyama": "車で約160分（東名阪→東海北陸道→国道41号方面）",
+    "name_en": "Kanayama Megaliths / Iwaya Iwakage Site (Japan's Stonehenge)",
+    "prefecture_en": "Gifu Prefecture",
+    "city_en": "Gero City",
+    "summary_en": "In the wooded hills of Gero's Kanayama district, a scatter of enormous granite boulders has been arranged — or, the more cautious researchers say, naturally placed — in a configuration that appears to function as a Stone Age solar calendar. On the days of the autumnal-equinox-adjacent festival of frost (Sōkō, around October 23) and the late-winter festival of melting (Usui, around February 19), sunlight at a specific moment in the afternoon passes through a narrow gap between the megaliths and strikes a precise spot inside a cave-like structure called the Iwaya Iwakage. Below the rocks, excavation has yielded stone arrowheads and pottery from the Jōmon period some 8,000 years ago, alongside artifacts continuing into the Edo era. The site was designated a Prefectural Historic Site in 1973. Above the megaliths sits the small shrine Iwaya Iwa-jinja, which incorporates the Heian-era legend of the warrior Akugenta Yoshihira slaying a hihi monkey-monster here, layering Stone Age archaeology, prehistoric astronomy, medieval folklore, and active local Shinto into a single hillside. Local volunteer guides run interpretive tours and are by far the best way to grasp the site.",
+    "highlights_en": [
+      "A scatter of granite megaliths arranged so that sunlight passes through a precise gap and strikes a specific spot inside a cave on the days of Sōkō and Usui — possibly an 8,000-year-old solar calendar",
+      "Designated a Prefectural Historic Site in 1973; excavation has yielded Jōmon-period artifacts beneath the boulders",
+      "Stone Age archaeology, prehistoric astronomy, medieval folklore and active Shinto layered onto a single Gifu hillside"
+    ]
+  },
+  {
+    "id": "spot-081",
+    "name": "鬼岩公園",
+    "name_kana": "おにいわこうえん",
+    "category": "mystery",
+    "prefecture": "岐阜県",
+    "city": "可児郡御嵩町・瑞浪市",
+    "address": "岐阜県可児郡御嵩町次月／瑞浪市日吉町（可児川沿いの一帯）",
+    "lat": 35.41252,
+    "lng": 137.19913,
+    "status": "現存",
+    "fee": "公園入園無料",
+    "hours": "公園は終日（夜間は安全のため非推奨）",
+    "official_url": "https://mitake-kankou.jp/experience/%E9%AC%BC%E5%B2%A9%E5%85%AC%E5%9C%92/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E9%AC%BC%E5%B2%A9%E5%85%AC%E5%9C%92",
+      "https://www.city.mizunami.lg.jp/kankou_bunka/bunkazai/1001293/1002359.html",
+      "https://xn--w0w51m.com/seeing/category/nature-scenery/p3730/"
+    ],
+    "summary": "岐阜県可児郡御嵩町次月と瑞浪市日吉町の境を流れる可児川一帯に広がる、最大規模の花崗岩露出地帯。風化と侵食で生じた巨岩・奇岩群と渓谷景観で知られ、1934年（昭和9年）1月22日に国指定の名勝および天然記念物「鬼岩」となった。1964年指定の飛騨木曽川国定公園に含まれる。鬼の伝説（関の太郎）が伝わり、毎年2月3日前後の節分に「福鬼まつり」が行われ、追われた鬼が福の神として戻ってくるという物語から「鬼は内、福は内」と唱える珍しい豆まきが行われる。隣接して鬼岩温泉がある。",
+    "highlights": [
+      "国指定名勝・天然記念物「鬼岩」（1934年1月22日指定）",
+      "風化・侵食で生まれた花崗岩の巨岩・奇岩群",
+      "節分の福鬼まつり「鬼は内、福は内」の珍しい豆まき"
+    ],
+    "from_kameyama": "車で約120分（東名阪→名二環→中央道方面）",
+    "name_en": "Oniiwa Park (Demon Rock Park)",
+    "prefecture_en": "Gifu Prefecture",
+    "city_en": "Mitake Town and Mizunami City",
+    "summary_en": "A long stretch of the Kani River in eastern Gifu cuts through one of Japan's largest exposed granite formations — house-sized boulders, fissured cliffs, and sculpted natural arches that have been weathering into ever-stranger shapes for millennia. Designated a National Place of Scenic Beauty and Natural Monument in 1934, Oniiwa ('Demon Rock') Park takes its name from a Heian-period legend: a demon called Seki-no-Tarō was said to live in these boulders, and the local festival held every Setsubun (around February 3) reverses the standard Japanese bean-throwing chant. Where most communities throw beans while shouting 'Demons out, fortune in,' the people of Oniiwa shout 'Demons in, fortune in' — because in their version of the story, the demon, once driven out, returned as a benevolent god and is now welcomed back. The park's walking trails climb among the boulders with rope ladders and chained pitches; a hot spring district adjoins the entrance. The geology, the legend, and the inverted bean-throwing ritual together produce one of the most distinctive folk-religion landscapes in the Tōkai region.",
+    "highlights_en": [
+      "House-sized granite boulders, natural arches and fissured cliffs — one of Japan's largest exposed granite landscapes, scenic-monument designated in 1934",
+      "The local Setsubun ritual reverses the usual chant: 'Demons in, fortune in' — because the demon returned as a god",
+      "Rope-ladder and chain-pitch trails wind among the boulders, with an adjoining hot spring district for after the climb"
+    ]
+  },
+  {
+    "id": "spot-082",
+    "name": "飛騨大鍾乳洞",
+    "name_kana": "ひだだいしょうにゅうどう",
+    "category": "mystery",
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "address": "〒506-2256 岐阜県高山市丹生川町日面1147",
+    "lat": 36.1843,
+    "lng": 137.4248,
+    "status": "現存・有料公開",
+    "fee": "公式サイト掲載の入場料（大人・小人区分あり）",
+    "hours": "公式サイト掲載の営業時間に準ずる",
+    "official_url": "https://www.syonyudo.com",
+    "reference_urls": [
+      "https://www.kankou-gifu.jp/spot/detail_5217/"
+    ],
+    "summary": "標高約900mに位置する日本有数の高地観光鍾乳洞。公式サイトによれば、洞内は第1洞〜第3洞に区分され、それぞれに出口が設けられ、第2出口より先は急勾配・急角度の上り坂となる。所要時間は第1出口まで約10分、第2出口まで約20分、第3出口まで約30分の三コース。青く照らされた地底の水流と鍾乳石、「エイドが見えるスポット」「ムーンワールド」「ヘリクタイト（曲がりくねった鍾乳石）」「日本一の大柱」「幸せの滝」など多数の見どころが連続する。鍾乳洞入口手前には「大橋コレクション館」があり、創設者・大橋外吉が世界各地から収集した鉱物・宝石・美術工芸の私設博物館として独特の展示空間を成す。",
+    "highlights": [
+      "標高900m 日本最高所の観光鍾乳洞 全長約800m・3洞構成",
+      "青い地底水流・ムーンワールド・ヘリクタイト・日本一の大柱・幸せの滝",
+      "大橋コレクション館（鉱物・宝石・美術工芸の私設博物館）併設のB級展示空間"
+    ],
+    "from_kameyama": "車で約210分（東名阪→東海北陸道→中部縦貫道方面）",
+    "name_en": "Hida Great Limestone Cave",
+    "prefecture_en": "Gifu Prefecture",
+    "city_en": "Takayama City",
+    "summary_en": "At roughly 900 meters elevation in the foothills of the Northern Alps, Japan's highest-altitude show cave snakes nearly 800 meters into a mountainside, divided into three sections (each with its own exit) so visitors can choose a 10-, 20- or 30-minute experience. The cave's signature features are the eerie blue-lit subterranean streams, a chamber called Moon World, an unusually dense population of helictites (twisted stalactites that defy gravity by growing sideways), 'Japan's largest column,' and a final cascade called the Falls of Happiness. The cave's discoverer and developer, the late Ōhashi Sotokichi, was also a compulsive private collector of minerals, gems, and decorative art from around the world, and beside the cave entrance he built a private museum to house his finds. The Ōhashi Collection Hall sits awkwardly and wonderfully against the cave proper — geological showpiece next to private cabinet of curiosities — making this one of the more characteristic outsider-natural-history complexes in central Japan. Year-round 10°C, so a jacket is essential even in midsummer.",
+    "highlights_en": [
+      "Japan's highest-altitude show cave at 900 meters, nearly 800 meters long, with three sections and three exits so visitors can choose their depth",
+      "Blue-lit underground streams, Moon World, an unusually dense colony of helictites (sideways-growing stalactites), and the Falls of Happiness",
+      "The adjoining Ōhashi Collection Hall — minerals, gems and decorative art assembled over a lifetime by the cave's discoverer — is a private museum unlike any other"
+    ]
+  },
+  {
+    "id": "spot-083",
+    "name": "仙台大観音",
+    "name_kana": "せんだいだいかんのん",
+    "category": "bkyu",
+    "prefecture": "宮城県",
+    "city": "仙台市泉区",
+    "address": "〒981-3217 宮城県仙台市泉区実沢中山南31-36",
+    "lat": 38.3258,
+    "lng": 140.8389,
+    "status": "現存・有料拝観",
+    "fee": "公式サイト掲載の拝観料に準ずる（大人・小人区分あり）",
+    "hours": "公式サイト掲載の開館時間に準ずる",
+    "official_url": "https://daikannon.com/",
+    "reference_urls": [
+      "https://www.sentabi.jp/spots/16"
+    ],
+    "summary": "公式サイトによれば、仙台市制施行100周年・21世紀の市勢発展を願って1991年に建立された白衣観音（びゃくえかんのん）の巨像で、高さ100m・地下21mというスケール。台座基壇の入口は巨大な龍の口で、参拝者は龍の口から胎内に入る構造。胎内には十二支守り本尊・三十三観音・百八胎内仏などが層をなして安置され、エレベーターと螺旋階段で内部を昇降できる胎内巡り型の巡拝施設になっている。住宅地の丘陵地に突如そびえる100m級の白い巨像は遠方の高速道路・東北本線車窓からも視認可能で、仙台都市圏の異形ランドマークとして、巨像系B級スポットの東日本代表格の一つに位置づけられる。",
+    "highlights": [
+      "高さ100m・地下21m 公式が掲げる100周年記念の超大型白衣観音",
+      "台座入口は龍の口 龍口から胎内に入る独特の参拝動線",
+      "十二支守り本尊・三十三観音・百八胎内仏が層をなす胎内巡り型構造"
+    ],
+    "from_kameyama": "車で約620分（東名阪→新東名→東北道経由）／新幹線＋公共交通で約5時間30分（亀山→名古屋→仙台）",
+    "name_en": "Sendai Daikannon (100-meter White Kannon)",
+    "prefecture_en": "Miyagi Prefecture",
+    "city_en": "Izumi Ward, Sendai",
+    "summary_en": "On a hillside in suburban northern Sendai, a 100-meter white Kannon — the bodhisattva of compassion — rises out of the woods, visible from the Tōhoku Expressway and from JR train windows kilometers away. Completed in 1991 to commemorate the centennial of the city of Sendai, the figure is among the tallest statues in the world, with 21 additional meters of structure descending below ground inside the base. Visitors enter through what is unmistakably a dragon's mouth — the pedestal entrance is shaped as a vast dragon swallowing the pilgrim — and ascend the interior via elevator and spiral staircase, passing through stacked galleries that hold the Twelve Zodiac Guardian Buddhas, the Thirty-Three Forms of Kannon, and the One Hundred and Eight Womb Buddhas in carefully arranged tiers. The cumulative effect is a complete, walk-through Buddhist cosmology compressed inside a 100-meter white statue at the edge of a Japanese suburb — one of the country's purest examples of postwar 'colossal religious landmark' culture, still active as a place of pilgrimage and increasingly photographed as a piece of weird modern architecture.",
+    "highlights_en": [
+      "A 100-meter white Kannon, completed in 1991 for Sendai's centennial — visible for kilometers across the Tōhoku plain",
+      "Enter through the mouth of a giant dragon at the base — visitors are symbolically swallowed before ascending into the body",
+      "Inside: the Twelve Zodiac Guardians, the Thirty-Three Kannon, and the 108 Womb Buddhas arranged on stacked galleries climbed by elevator and spiral staircase"
+    ]
+  },
+  {
+    "id": "spot-084",
+    "name": "UFOふれあい館",
+    "name_kana": "ゆーふぉーふれあいかん",
+    "category": "mystery",
+    "prefecture": "福島県",
+    "city": "福島市",
+    "address": "〒960-1241 福島県福島市飯野町青木字小手神森1-299",
+    "lat": 37.6914,
+    "lng": 140.586,
+    "status": "現存・有料公開（公式営業日に準ずる）",
+    "fee": "公式サイト掲載の入館料に準ずる（大人・小人区分あり）",
+    "hours": "公式サイト掲載の営業時間に準ずる（休館日あり）",
+    "official_url": "https://ufonosato.com/",
+    "reference_urls": [
+      "https://www.city.fukushima.fukushima.jp/shisetsu/kanko/2187.html"
+    ],
+    "summary": "福島市公式によれば、UFO形のミステリースポット「千貫森」の麓に建つ町営の体験型展示施設で、UFO研究家・荒井欣一氏が長年蓄積した目撃資料・調査記録・関連書籍・グッズ約3,000点をベースに、UFOの目撃情報・宇宙人模型・千貫森3Dシアターなどを常設する。実物大の宇宙人模型・UFO風円盤展示・体感アトラクションが並び、年1回の「UFOフェスティバル」では宇宙人コスプレ・パレード・コンテスト・UFO講演・スカイランタンが催される。町ぐるみで「UFOの里」を打ち出す稀有な自治体テーマ展開で、通常の博物館の枠を超え、ミステリー観光のB級的拠点として位置づけられる。",
+    "highlights": [
+      "町営施設なのにテーマは丸ごとUFO・宇宙人 福島市公式が紹介する稀有な公的ミステリー拠点",
+      "実物大宇宙人模型・UFO風円盤・千貫森3Dシアターの体験型展示",
+      "年1回の「UFOフェスティバル」は宇宙人コスプレ・パレード・コンテスト・スカイランタンの町ぐるみ祝祭"
+    ],
+    "from_kameyama": "車で約590分（東名阪→新東名→東北道経由）／新幹線＋在来線・バスで約5時間30分（亀山→名古屋→福島→飯野）",
+    "name_en": "UFO Fureai-kan (UFO Encounter Museum)",
+    "prefecture_en": "Fukushima Prefecture",
+    "city_en": "Iino District, Fukushima City",
+    "summary_en": "At the foot of Mount Senganmori — a strangely conical, near-pyramidal peak that has been a UFO-sighting hot spot since the 1970s — sits one of the only municipally operated UFO museums in Japan. UFO Fureai-kan was opened in 1992 by what was then Iino Town (now part of Fukushima City) as part of a town-wide branding strategy that designated the entire district 'the UFO Village.' The collection is based around roughly 3,000 items donated by the prolific UFO researcher Arai Kin'ichi: sighting reports, photographs, books, magazines, model spacecraft, alien figurines, and decades of correspondence with UFO investigators around the world. Permanent exhibits include life-sized alien mannequins, a small 3D theater dedicated to Senganmori's purported magnetic anomalies, and a hall of interactive 'experience' attractions. Once a year, the town hosts the UFO Festival, with alien-costume parades, contests, lectures, and sky-lantern launches — a rare case of a Japanese municipality going all-in on extraterrestrial speculation as community development. Treat with cheerful skepticism; the museum makes no claims it cannot back up, but the village around it has been earnestly committed to the bit for over thirty years.",
+    "highlights_en": [
+      "A municipally operated UFO museum — extremely rare in Japan — based on roughly 3,000 items collected by researcher Arai Kin'ichi",
+      "Senganmori, the conical mountain behind the museum, has been a documented UFO-sighting hot spot since the 1970s",
+      "The annual UFO Festival brings alien-costume parades, contests, lectures, and sky-lantern launches to a small Tōhoku town"
+    ]
+  },
+  {
+    "id": "spot-085",
+    "name": "B宝館",
+    "name_kana": "びーほうかん",
+    "category": "bkyu",
+    "prefecture": "埼玉県",
+    "city": "所沢市",
+    "address": "〒359-1153 埼玉県所沢市けやき台2-32-5",
+    "lat": 35.7878,
+    "lng": 139.5102,
+    "status": "現存・要事前確認（開館日限定）",
+    "fee": "公式サイト掲載の入館料に準ずる",
+    "hours": "公式サイト掲載の開館日・時間に準ずる（不定期開館・要事前確認）",
+    "official_url": "https://bhoukan.com/",
+    "reference_urls": [
+      "http://www.ab.cyberhome.ne.jp/~morinaga/"
+    ],
+    "summary": "経済アナリスト・森永卓郎が自身の集めた膨大な「B級コレクション」を展示する個人運営の私設博物館。公式タグラインは「ビンボーでおバカだけど、ビューティフルな博物館」。一見ガラクタにしか見えない大量生産時代の日用品・パッケージ・玩具・グリコのおまけ・牛乳キャップ・ペットボトルキャップ・ミニカー・キン肉マン消しゴム・空き缶ラベル等を、徹底的に分類・体系化することで、近代日本の消費史・広告史・流通史を映す独自の「歴史/アート」へ反転させる。2014年（平成26年）開館、住宅地に建つコンクリート三階建ての小さな建物に数十万点規模のコレクションが密集する。通常の公的博物館に対する「私設・B級・自己定義」の極北として、B級スポット文化の中核に位置づけられる。",
+    "highlights": [
+      "公式タグライン「ビンボーでおバカだけど、ビューティフルな博物館」",
+      "大量生産時代の日用品・パッケージ・玩具・おまけを徹底分類した一点突破型コレクション",
+      "森永卓郎が個人運営する稀有な経済アナリスト主宰の私設博物館"
+    ],
+    "from_kameyama": "車で約420分（東名阪→新東名→首都圏中央連絡道経由）／新幹線＋私鉄で約4時間（亀山→名古屋→東京→所沢→新所沢／航空公園）",
+    "name_en": "B-Hōkan (Museum of B-Grade Treasures)",
+    "prefecture_en": "Saitama Prefecture",
+    "city_en": "Tokorozawa City",
+    "summary_en": "B-Hōkan — roughly, 'Museum of B-Grade Treasures' — is the private museum of economist and television commentator Morinaga Takurō, opened in 2014 in a small three-story concrete building in suburban Tokorozawa. The official tagline is 'a poor, foolish, but beautiful museum,' and the contents make good on the promise: hundreds of thousands of items of mass-produced postwar Japanese consumer flotsam, painstakingly categorized and displayed as the social history of a particular country between roughly 1950 and the present. Glico caramel-box prizes are arranged by year. Plastic milk-bottle caps are sorted by region. Kinnikuman gum erasers, empty cigarette packs, vintage matchbox labels, and 1970s soft-drink cans are filed by manufacturer. The argument is the same throughout: that which the consumer society throws away is the actual record of how the consumer society lived, and one obsessive economist with a working knowledge of taxonomy can flip 'trash' into 'archive' simply by classifying it correctly. Open by appointment only; small, residential, and one of the strangest serious arguments for what a museum can be in the country.",
+    "highlights_en": [
+      "Hundreds of thousands of pieces of mass-produced postwar consumer flotsam — Glico prizes, milk-bottle caps, gum erasers, matchbox labels — meticulously classified by year, region and manufacturer",
+      "Personally collected and curated by economist and television commentator Morinaga Takurō; the museum is his thesis about how to read a consumer society",
+      "Appointment-only access in a small residential building — one of the strangest serious arguments for what a museum can be in Japan"
+    ]
+  },
+  {
+    "id": "spot-086",
+    "name": "越前大仏（清大寺）",
+    "name_kana": "えちぜんだいぶつ（せいだいじ）",
+    "category": "bkyu",
+    "prefecture": "福井県",
+    "city": "勝山市",
+    "address": "〒911-0802 福井県勝山市片瀬50-1-1",
+    "lat": 36.0608,
+    "lng": 136.4944,
+    "status": "現存・有料拝観",
+    "fee": "公式サイト掲載の拝観料に準ずる（大人・小人区分あり）",
+    "hours": "公式サイト掲載の開門時間に準ずる",
+    "official_url": "https://www.etizendaibutsu.com/",
+    "reference_urls": [
+      "https://www.g-hakusan.gr.jp/blog/1712/",
+      "https://ja.wikipedia.org/wiki/%E8%B6%8A%E5%89%8D%E5%A4%A7%E4%BB%8F"
+    ],
+    "summary": "福井県勝山市の山あいに突如そびえる、座高約17mの大毘盧遮那仏を本尊とする巨大寺院。地元タクシー会社・相互タクシーの創業者が1987年（昭和62年）に私財を投じて建立した、稀有な「個人発願の巨大伽藍」として知られる。境内には大仏殿のほか高さ75mの五重塔、回廊、九龍壁、池泉回遊式庭園などが配され、大仏殿内部の壁面には数千体規模の小仏（公式・地域案内によれば計1,281体とも伝わる石仏・諸仏が境内・回廊・大仏殿に分布）が整然と並ぶ。建立当時は奈良の大仏を上回る大きさとして話題を集め、現在も観光・宗教施設として営業を継続。中部・北陸の巨像系B級スポットの代表格で、近隣の白山平泉寺・恐竜博物館と合わせた周遊先となっている。",
+    "highlights": [
+      "座高約17m 個人発願（相互タクシー創業者）が建立した巨大大毘盧遮那仏",
+      "高さ75mの五重塔・回廊・九龍壁・池泉回遊式庭園を擁する巨大伽藍",
+      "境内・大仏殿・回廊に分布する1,281体伝の石仏・諸仏群"
+    ],
+    "from_kameyama": "車で約180分（東名阪→名神→北陸道→中部縦貫道方面）",
+    "name_en": "Echizen Daibutsu (Seidai-ji)",
+    "prefecture_en": "Fukui Prefecture",
+    "city_en": "Katsuyama City",
+    "summary_en": "In the mountains of Katsuyama, far enough from anywhere else that the first glimpse of it from the access road is genuinely startling, a 17-meter seated Buddha sits inside a colossal modern temple hall, surrounded by a 75-meter five-story pagoda, a long covered cloister, a stroll garden with ponds, and approximately 1,281 smaller Buddhas distributed across the precinct. The entire complex was built between 1987 and the early 1990s by a single individual — Tada Kiyoshi, the founder of a local taxi company — who funded the project from his own fortune with the explicit ambition of building a temple larger than Nara. He succeeded: the seated Buddha is several meters taller than the great Buddha of Tōdai-ji, and the surrounding pagoda is one of the tallest in Japan. The complex never achieved the visitor numbers it was built for, and there is now something melancholy and grand about wandering its enormous emptiness. With the recent extension of the Hokuriku Shinkansen to Fukui, the temple is being slowly rediscovered as one of the country's most concentrated examples of single-patron sacred architecture.",
+    "highlights_en": [
+      "A 17-meter Buddha and a 75-meter pagoda commissioned and funded entirely by one taxi-company founder in the late 1980s — possibly the most ambitious private-patron temple project in modern Japan",
+      "Approximately 1,281 smaller Buddhas distributed across precinct, cloister, and main hall",
+      "Visit before the crowds — for now, the Hokuriku Shinkansen has reopened access but the complex remains thrillingly underpopulated"
+    ]
+  },
+  {
+    "id": "spot-087",
+    "name": "岩下の新生姜ミュージアム",
+    "name_kana": "いわしたのしんしょうがみゅーじあむ",
+    "category": "bkyu",
+    "prefecture": "栃木県",
+    "city": "栃木市",
+    "address": "〒328-0034 栃木県栃木市本町1-25",
+    "lat": 36.3796,
+    "lng": 139.7332,
+    "status": "現存・無料公開",
+    "fee": "入館無料",
+    "hours": "公式サイト掲載の開館時間に準ずる（火曜定休・祝日の場合は翌平日・要事前確認）",
+    "official_url": "https://shinshoga-museum.com/",
+    "reference_urls": [
+      "https://iwashita.co.jp/news/museum/"
+    ],
+    "summary": "栃木県栃木市本町に立つ、岩下食品が運営する「新生姜」一点突破型の体験型企業ミュージアム。公式サイトによれば、ピンク一色の外観・館内・展示・カフェメニューに至るまで全要素を新生姜の意匠で統一し、新生姜の歴史・製造工程・歴代パッケージ・関連グッズ・新生姜オブジェ・新生姜の神社「ジンジャー神社」・新生姜キャラクター「イワシカちゃん」グリーティング・季節イベント・コラボ展示などを常設・企画展示する。入館無料・全館写真撮影可・若年層〜ファミリー・サブカル層の聖地として全国から来館者を集める、企業ミュージアムの中でも極端にカオスな「テーマ一点突破型」のB級スポット代表例の一つ。",
+    "highlights": [
+      "全館ピンク 新生姜一点突破型のテーマ統一が極端な企業ミュージアム",
+      "新生姜の神社「ジンジャー神社」とキャラクター「イワシカちゃん」の世界観",
+      "入館無料・全館撮影可・カフェメニュー全品新生姜の徹底ぶり"
+    ],
+    "from_kameyama": "車で約470分（東名阪→新東名→首都圏中央連絡道→東北道経由）／新幹線＋在来線で約4時間30分（亀山→名古屋→東京→栃木）",
+    "name_en": "Iwashita Shin-Shōga Museum (Pickled Ginger Theme Museum)",
+    "prefecture_en": "Tochigi Prefecture",
+    "city_en": "Tochigi City",
+    "summary_en": "The Iwashita Shin-Shōga Museum is what happens when a 19th-century pickle company decides to build the world's first museum dedicated entirely to its single most famous product: young pickled ginger. Opened in 2015 by Iwashita Foods in their home town of Tochigi, the museum is, top to bottom, ferociously pink: walls, ceilings, light fixtures, exhibits, cafeteria, mascot character (Iwashika-chan), even the in-house Shintō-style 'Ginger Shrine' where visitors can pray for ginger-related wishes. Permanent exhibits cover the history of ginger, the manufacturing process, vintage packaging from every decade since the 1950s, and a rotating series of crossover events with anime franchises, idol groups, and contemporary artists. The on-site cafe Pink Deli serves food in which essentially every dish includes new ginger as an ingredient — including ginger soft-serve, ginger curry, and ginger soda. Admission is free; photography is encouraged throughout; and the museum has become, against expectation, one of the surprise pilgrimage sites of provincial Japanese subculture tourism.",
+    "highlights_en": [
+      "An entire museum, top to bottom in saturated pink, devoted to a single condiment — Iwashita's famous young pickled ginger",
+      "Includes a Shinto-style 'Ginger Shrine,' the mascot Iwashika-chan, and a cafe (Pink Deli) where every dish contains pickled ginger",
+      "Free admission, photography encouraged everywhere; against expectation, a serious pilgrimage site for provincial Japanese subculture"
+    ]
+  },
+  {
+    "id": "spot-088",
+    "name": "小豆島大観音",
+    "name_kana": "しょうどしまだいかんのん",
+    "category": "bkyu",
+    "prefecture": "香川県",
+    "city": "小豆郡土庄町",
+    "address": "〒761-4101 香川県小豆郡土庄町小馬越乙1",
+    "lat": 34.5066,
+    "lng": 134.2433,
+    "status": "現存・有料拝観",
+    "fee": "大人500円、小学生200円（団体大人15名以上400円、団体小学生150円・公式サイト掲載に準ずる）",
+    "hours": "8:00〜17:00（入山は16:30まで・年中無休／公式サイト掲載に準ずる）",
+    "official_url": "https://www.shiawasekannon.com",
+    "reference_urls": [
+      "https://shodoshima.or.jp/sightseeing/detail.php?id=181"
+    ],
+    "summary": "香川県小豆郡土庄町小馬越の小高い丘に立つ、別名「しあわせ観音」と呼ばれる巨大観音像。小豆島観光協会公式によれば、フランスで開かれた『アークプラス国際作品コンテスト』で第1位を獲得した「世界一美しい観音様」とされる白い観音像で、胎内には1万1千体の胎内仏や本尊、スリランカ国より分骨された釈迦の歯（仏舎利）が祀られている。観音様の胸の辺り、最上階の釈迦殿（展望室）までエレベーターで上ることができ、瀬戸内海や小豆島の風景を一望できる。夜間にはライトアップされた姿が瀬戸内の島影に浮かび上がる、瀬戸内海の巨像系B級スポットの代表例の一つ。",
+    "highlights": [
+      "別名『しあわせ観音』と呼ばれるフランス国際作品コンテスト第1位の白い観音像",
+      "胎内に1万1千体の胎内仏・スリランカ国分骨の釈迦の歯（仏舎利）を祀る",
+      "最上階の釈迦殿（展望室）からの瀬戸内海一望・夜間ライトアップ"
+    ],
+    "from_kameyama": "車＋フェリーで約300分（東名阪→新名神→山陽道→姫路港・神戸港または岡山新岡山港→小豆島）／新幹線＋フェリーで約4時間30分（亀山→名古屋→岡山→新岡山港→土庄港）",
+    "name_en": "Shōdoshima Daikannon (Happiness Kannon)",
+    "prefecture_en": "Kagawa Prefecture",
+    "city_en": "Tonoshō Town, Shōzu District",
+    "summary_en": "On a low hill on the island of Shōdoshima in the Seto Inland Sea, a tall white standing Kannon — locally called the Shiawase Kannon, or 'Happiness Kannon' — rises above olive groves and small farms. The figure won first prize at a French international contest of architectural artworks (the so-called 'Arc Plus' competition), an unusual pedigree for a Japanese roadside Buddha and the reason the island's tourism agency cheerfully promotes the statue as 'the world's most beautiful Kannon.' Inside the statue's hollow body, an elevator carries visitors up through galleries holding 11,000 small votive Buddhas to a viewing chamber located inside the figure's chest, where windows look out across the Inland Sea toward Tonoshō Port and the famous Angel Road sandbar. Relics of the historical Buddha, donated from Sri Lanka, are enshrined in the chest gallery. At night, the figure is illuminated and visible from passing ferries — one of the small constellation of unexpected landmarks that makes Shōdoshima feel, at every turn, like a larger island than its map suggests.",
+    "highlights_en": [
+      "A tall white Kannon on Shōdoshima, winner of the 'Arc Plus' international competition in France — the island's tourism agency calls her 'the world's most beautiful Kannon'",
+      "An elevator inside the figure passes 11,000 votive Buddhas before reaching a viewing chamber in the chest, with Buddha relics donated from Sri Lanka",
+      "Visible at night from passing ferries — one of the small constellation of unexpected landmarks that makes Shōdoshima feel larger than its map suggests"
+    ]
+  },
+  {
+    "id": "spot-089",
+    "name": "湯殿山総本寺 瀧水寺大日坊 即身仏真如海上人",
+    "name_kana": "ゆどのさんそうほんじ りゅうすいじだいにちぼう そくしんぶつしんにょかいしょうにん",
+    "category": "folk",
+    "prefecture": "山形県",
+    "city": "鶴岡市",
+    "address": "〒997-0531 山形県鶴岡市大網字入道11",
+    "lat": 38.573,
+    "lng": 139.904,
+    "status": "現存・拝観可（要拝観料）",
+    "fee": "公式サイト掲載の拝観料に準ずる（大人・小人区分あり・要事前確認）",
+    "hours": "公式サイト掲載の拝観時間に準ずる（冬季は受付時間短縮）",
+    "official_url": "https://www.dainichibou.or.jp/sokushinbutu/",
+    "reference_urls": [
+      "https://www.tsuruokakanko.com/spot/261"
+    ],
+    "summary": "山形県鶴岡市大網（旧朝日村）の湯殿山総本寺・瀧水寺大日坊に祀られる即身仏・真如海上人（しんにょかいしょうにん、1687-1783）を拝観できる出羽三山・湯殿山信仰の中核寺院。大日坊公式・鶴岡市観光連盟の案内によれば、真如海上人は江戸中期に96歳で土中入定（生きながら土中に埋まり、念仏を唱えながら入定）した僧で、現在も即身仏として大日坊本堂に安置され、一般拝観が可能である。木食行（穀絶ち・五穀十穀断ち）・荒行・千日修行を経て肉身を浄化したのち、衆生救済の願をもって入定したとされ、湯殿山信仰の極致を体現する存在として全国の即身仏巡礼の中核に位置づけられる。庄内地方には複数の即身仏が現存し、本寺は最古級の真如海上人を祀る代表寺院である。",
+    "highlights": [
+      "江戸中期に96歳で土中入定した即身仏・真如海上人（1687-1783）を本堂に安置",
+      "出羽三山・湯殿山信仰の中核寺院、湯殿山総本寺・瀧水寺大日坊",
+      "木食行・荒行・千日修行を経た衆生救済の願をもつ即身仏巡礼の代表"
+    ],
+    "from_kameyama": "車で約9時間（東名阪→新名神→名神→北陸道→日本海東北道→山形道経由）／新幹線＋特急いなほ＋バスで約7時間（亀山→名古屋→東京→新潟→鶴岡→大網方面）",
+    "name_en": "Dainichibō (Mummified Saint Shinnyokai-Shōnin)",
+    "prefecture_en": "Yamagata Prefecture",
+    "city_en": "Tsuruoka City",
+    "summary_en": "In the snow country of the Shōnai region, at the foot of the sacred Mount Yudono, the temple of Dainichibō has cared for the same congregation for over a thousand years — and at the center of its main hall sits its most famous member, the mummified body of the monk Shinnyokai-Shōnin, who entered sokushinbutsu ('living Buddhahood') in 1783 at the age of 96. The path that led him to this state is among the most extreme ascetic traditions in world religion: years of mokujikigyō (a diet of bark, roots, nuts, and pine needles, eliminating all grains) progressively dehydrated his body in life; long stretches of solitary meditation hollowed his metabolism; finally, while still alive, he was sealed underground in a stone chamber, breathing through a bamboo tube and chanting sutras until breath stopped. Three years later, his preserved body was disinterred and enshrined as a sokushinbutsu. He has been receiving visitors ever since. The temple treats him not as a curiosity but as a living priest still performing the same intercessory function he intended in 1783, and visitors are asked to behave as worshippers, not spectators. He is one of roughly sixteen sokushinbutsu still extant, the great majority of them in this small region of Yamagata.",
+    "highlights_en": [
+      "The mummified body of Shinnyokai-Shōnin (1687-1783), who entered living Buddhahood through years of bark-and-pine-needle ascetic diet before being sealed underground while still alive",
+      "Dainichibō is one of the central temples of the Yudono-san mountain religion — Shōnai is the heartland of Japan's sokushinbutsu tradition",
+      "Treated as a living priest still performing intercession, not as a curiosity — visit as a worshipper, not a spectator"
+    ]
+  },
+  {
+    "id": "spot-090",
+    "name": "鳥居観音",
+    "name_kana": "とりいかんのん",
+    "category": "bkyu",
+    "prefecture": "埼玉県",
+    "city": "飯能市",
+    "address": "〒357-0214 埼玉県飯能市上名栗3198",
+    "lat": 35.898,
+    "lng": 139.19,
+    "status": "現存・有料拝観",
+    "fee": "公式サイト掲載の拝観料・入山料に準ずる（救世大観音胎内・三蔵塔等の堂塔別料金あり）",
+    "hours": "公式サイト掲載の開門時間に準ずる（救世大観音胎内拝観は4〜11月の土日祝中心・冬季閉館期間あり）",
+    "official_url": "https://www.toriikannon.org/",
+    "reference_urls": [
+      "https://www.toriikannon.org/meisyo/daikannon.html"
+    ],
+    "summary": "埼玉県飯能市上名栗の名栗山中に広がる、創設者・平沼弥太郎氏（1892-1979）が私財と発願で築いた約30万坪の私的霊場。本堂・大鐘楼・三蔵塔・玄奘三蔵塔・救世大観音・平和観音などの堂塔群が山中の参詣道・遊歩道沿いに点在し、頂上付近には高さ約33mの白い救世大観音像が立つ。鳥居観音公式・地域案内によれば、平沼氏は経済・宗教・教育活動を通じて世界平和と仏教興隆を願い、戦後復興期の昭和20〜40年代にかけて山中に堂塔群を建立した。山頂の救世大観音は胎内拝観・展望が可能（4〜11月の土日祝中心）で、奥武蔵の山並みを一望できる。個人発願による山中巨像・私的霊場という、戦後日本の宗教ランドマーク文化の代表事例の一つ。",
+    "highlights": [
+      "創設者・平沼弥太郎氏が私財と発願で築いた約30万坪の山中私的霊場",
+      "頂上付近に立つ高さ約33mの白い救世大観音像と胎内拝観・展望",
+      "本堂・大鐘楼・三蔵塔・玄奘三蔵塔・救世大観音・平和観音が点在する山中堂塔群"
+    ],
+    "from_kameyama": "車で約430分（東名阪→新東名→首都圏中央連絡道→飯能・名栗方面）／新幹線＋私鉄＋バスで約5時間（亀山→名古屋→東京→西武池袋線飯能駅→名栗方面バス）",
+    "name_en": "Torii Kannon Mountain Sanctuary",
+    "prefecture_en": "Saitama Prefecture",
+    "city_en": "Hannō City",
+    "summary_en": "In the Naguri mountains north of Hannō, a single Saitama businessman named Hiranuma Yatarō (1892-1979) spent decades of the postwar reconstruction era building his own private 300,000-tsubo (roughly 100-hectare) Buddhist mountain. The Torii Kannon complex includes a main hall, a great bell tower, a 13-story pagoda dedicated to the relics of the 7th-century Chinese monk Xuanzang (whose travels to India inspired Journey to the West), a 33-meter white Kannon of Salvation on the summit, a Peace Kannon, a Shaka Buddha image, and a network of pilgrimage paths winding among them all. Most of the structures are open during the warmer months (April-November, weekends and holidays); the summit Kannon contains an interior elevator and a viewing platform that overlooks the rolling Oku-Musashi hills. The project is somewhere between religious devotion and personal monument-building on an unimaginable scale — a postwar layman's act of faith expressed in concrete and bronze across a hundred hectares of forest. Visiting on foot, with the right amount of time, is the closest most people will come to entering one person's actual mental landscape.",
+    "highlights_en": [
+      "A 100-hectare private Buddhist mountain sanctuary built across the postwar decades by a single businessman, Hiranuma Yatarō",
+      "Centerpieces include a 33-meter white Kannon on the summit (with interior elevator and viewing platform) and a 13-story pagoda for relics of Xuanzang, the Chinese pilgrim of Journey to the West",
+      "Open weekends and holidays April-November — the closest most visitors will come to walking through one person's actual mental landscape"
+    ]
+  },
+  {
+    "id": "spot-091",
+    "name": "長岳寺 大地獄絵開帳",
+    "name_kana": "ちょうがくじ だいじごくえかいちょう",
+    "category": "folk",
+    "prefecture": "奈良県",
+    "city": "天理市",
+    "address": "〒632-0052 奈良県天理市柳本町508",
+    "lat": 34.556,
+    "lng": 135.843,
+    "status": "現存・有料拝観（大地獄絵は秋季限定公開）",
+    "fee": "公式サイト掲載の拝観料に準ずる（大地獄絵開帳期間中の特別拝観料設定あり・要事前確認）",
+    "hours": "公式サイト掲載の拝観時間に準ずる（大地獄絵開帳は10月23日〜11月30日、絵解き説法は期間中の土日祝13:00頃を中心に開催・要事前確認）",
+    "official_url": "https://www.chogakuji.or.jp/chogakujiN/%E8%A7%A3%E8%AA%AC%EF%BC%9A%E9%95%B7%E5%B2%B3%E5%AF%BA%E3%81%AE%E6%A5%B5%E6%A5%BD%E5%9C%B0%E7%8D%84%E7%B5%B5/",
+    "reference_urls": [
+      "https://inori.nara-kankou.or.jp/inori/hihou/chogakuji/event/twavcn8y4f/"
+    ],
+    "summary": "奈良県天理市柳本町、山の辺の道沿いに佇む高野山真言宗の古刹・長岳寺（弘法大師空海開創と伝わる）が、毎年10月23日〜11月30日の約40日間にわたり特別公開する九幅構成の極楽地獄絵を中心とする秋季の地獄絵開帳行事。長岳寺公式・奈良県観光公式の案内によれば、本絵は江戸時代の作と伝わる九幅一具の大幅で、十王裁判・三途の川・奪衣婆（だつえば）・八大地獄（等活・黒縄・衆合・叫喚・大叫喚・焦熱・大焦熱・無間）・極楽浄土などの六道思想・地獄観・浄土観を絵画化したもの。期間中の土日祝13:00頃を中心に住職による絵解き説法が行われ、参詣者は古寺の伽藍と紅葉の中で、近世以前の日本人が地獄・極楽・因果応報をどう視覚化してきたかを直接体験できる。山の辺の道・大和古寺巡礼の一端として、地獄絵・絵解き文化・六道思想の現代的継承を示す稀有な秋季公開行事。",
+    "highlights": [
+      "毎年10月23日〜11月30日の約40日間特別公開される九幅構成の江戸期作・極楽地獄絵",
+      "十王裁判・三途の川・奪衣婆・八大地獄・極楽浄土を描く六道思想・地獄観の絵画化",
+      "期間中の土日祝13:00頃を中心に住職による絵解き説法を実施・絵解き文化の現代的継承"
+    ],
+    "from_kameyama": "車で約1時間40分（東名阪・名阪国道・西名阪→天理東IC→山の辺の道方面）／JRで約2時間（亀山→加茂→奈良→桜井線柳本駅→徒歩約20分）",
+    "name_en": "Chōgaku-ji Great Hell Scroll Opening",
+    "prefecture_en": "Nara Prefecture",
+    "city_en": "Tenri City",
+    "summary_en": "For about forty days each autumn (October 23 to November 30), the temple of Chōgaku-ji on the Yamanobe-no-Michi — Japan's oldest documented road — unrolls a set of nine large painted scrolls in its main hall. The Daijigokue, or Great Hell Scrolls, date from the Edo period and depict, with extraordinary visual force, the full Buddhist cosmology of postmortem judgment: the Ten Kings of Hell presiding over their tribunals, the old hag Datsue-ba stripping the dead at the Sanzu River, the Eight Great Hells (boiling, knife-edged, crushing, screaming, twice-screaming, scorching, twice-scorching, and the endless avici), and finally the Pure Land of Amida. On weekend afternoons during the opening, the head priest performs etoki — the medieval Japanese practice of 'picture-explaining,' walking visitors through the scrolls as a vivid morality drama. Etoki is a living oral tradition that has nearly died out elsewhere; here it continues in the soft autumn light, with the same scrolls that Edo-period villagers stared at five generations ago. Combine with a walk along the Yamanobe-no-Michi past the imperial tumuli for one of Nara's most concentrated days of folk Buddhism.",
+    "highlights_en": [
+      "Nine Edo-period painted scrolls depicting the Buddhist hells and the Pure Land — unrolled only during the autumn opening, October 23 to November 30",
+      "Live etoki ('picture-explaining') by the head priest on weekend afternoons — a medieval oral tradition still working in 21st-century Nara",
+      "Combine with a walk on the Yamanobe-no-Michi past ancient imperial tumuli for one of Nara's most concentrated days of folk Buddhism"
+    ]
+  },
+  {
+    "id": "spot-092",
+    "name": "湯殿山 注連寺 即身仏鉄門海上人",
+    "name_kana": "ゆどのさん ちゅうれんじ そくしんぶつてつもんかいしょうにん",
+    "category": "folk",
+    "prefecture": "山形県",
+    "city": "鶴岡市",
+    "address": "〒997-0531 山形県鶴岡市大網字中台92-1",
+    "lat": 38.575,
+    "lng": 139.893,
+    "status": "現存・拝観可（不定休・要事前確認、団体は要相談）",
+    "fee": "公式サイト・鶴岡市観光連盟掲載の拝観料に準ずる（要事前確認）",
+    "hours": "公式サイト・鶴岡市観光連盟掲載の拝観時間に準ずる（不定休・冬季は受付時間短縮・要事前確認）",
+    "official_url": "https://www.shimekake.jp/",
+    "reference_urls": [
+      "https://www.tsuruokakanko.com/spot/261"
+    ],
+    "summary": "山形県鶴岡市大網（旧朝日村）、湯殿山の里宮口に位置する真言宗智山派の古刹・注連寺（ちゅうれんじ）に祀られる即身仏・鉄門海上人（てつもんかいしょうにん、1759-1829）を拝観できる出羽三山・湯殿山信仰の中核寺院の一つ。注連寺公式・鶴岡市観光連盟の案内によれば、鉄門海上人は江戸後期の湯殿山の行者で、自らの片眼を奉納し木食行（穀絶ち・五穀十穀断ち）・荒行・千日修行を経て、衆生救済の願をもって土中入定（生きながら土中に埋まり念仏を唱えながら入定）した僧として、現在も即身仏として注連寺本堂に安置され、一般拝観が可能である。本寺は森敦『月山』の舞台としても知られ、雪深い庄内の山あいの古刹に湯殿山信仰の極致と日本近代文学が重なる、出羽三山・庄内即身仏巡礼の代表的な目的地の一つ。",
+    "highlights": [
+      "江戸後期に土中入定した即身仏・鉄門海上人（1759-1829）を本堂に安置",
+      "出羽三山・湯殿山信仰の中核寺院、真言宗智山派の古刹・注連寺",
+      "森敦『月山』の舞台としても知られる雪深い庄内の山あいの古刹"
+    ],
+    "from_kameyama": "車で約9時間（東名阪→新名神→名神→北陸道→日本海東北道→山形道経由）／新幹線＋特急いなほ＋バスで約7時間（亀山→名古屋→東京→新潟→鶴岡→大網方面）",
+    "name_en": "Churen-ji (Mummified Saint Tetsumonkai-Shōnin)",
+    "prefecture_en": "Yamagata Prefecture",
+    "city_en": "Tsuruoka City",
+    "summary_en": "A short walk from Dainichibō, in the same snow-bound valley below sacred Mount Yudono, the temple of Churen-ji holds another sokushinbutsu — a 'living Buddha' — named Tetsumonkai-Shōnin, who entered self-mummification in 1829. His story is unusual even in this unusual tradition: as a young man he is said to have killed two samurai officials in a dispute, and in atonement first cut out one of his own eyes and offered it as a votive sacrifice, then spent the rest of his life in extreme ascetic practice — bark-and-needle diet, thousand-day meditations, ritual sealings — before finally being buried alive in a stone chamber and emerging three years later as a sokushinbutsu. Churen-ji is also famous in modern Japanese literature as the setting of Mori Atsushi's novel Gassan (which won the Akutagawa Prize in 1974), and reading the novel before visiting deepens the experience of approaching this small wooden temple buried under several meters of winter snow. The temple is currently a working center of Shingon Buddhism; treat Tetsumonkai-Shōnin as a present-day teacher, not a museum exhibit.",
+    "highlights_en": [
+      "The mummified body of Tetsumonkai-Shōnin (1759-1829), who cut out his own eye in atonement before completing the long ascetic process toward self-mummification",
+      "Setting of Mori Atsushi's Akutagawa Prize-winning novel Gassan — reading the novel before visiting transforms the experience of the temple",
+      "Active Shingon temple in deep Shōnai snow country; Tetsumonkai-Shōnin is treated as a present-day teacher, not a museum exhibit"
+    ]
+  },
+  {
+    "id": "spot-093",
+    "name": "全興寺 地獄堂",
+    "name_kana": "せんこうじ じごくどう",
+    "category": "folk",
+    "prefecture": "大阪府",
+    "city": "大阪市",
+    "address": "〒547-0044 大阪府大阪市平野区平野本町4-12-21",
+    "lat": 34.622,
+    "lng": 135.551,
+    "status": "現存・参拝自由（地獄堂・六道体験施設は公式案内に準ずる）",
+    "fee": "公式サイト掲載の拝観料に準ずる（境内・地獄堂は基本無料・要事前確認）",
+    "hours": "公式サイト掲載の拝観時間に準ずる（地獄堂の閻魔像・地獄の釜・極楽度地獄度チェックは公開時間内のみ要確認）",
+    "official_url": "https://www.senkouji.net",
+    "reference_urls": [],
+    "summary": "大阪市平野区平野本町、大阪市内最古級の聖徳太子開創伝承を持つ高野山真言宗の古刹・全興寺の境内に併設された、地獄表現と六道思想を体験的に見せる小堂「地獄堂」を中核とする民間信仰・地獄観のテーマ拠点。全興寺公式の案内によれば、地獄堂内には等身大の閻魔大王像・奪衣婆（だつえば）・地獄の鬼などが安置され、参拝者は「地獄の釜の音」を聞く装置、極楽度・地獄度を判定するチェックボックス、六道輪廻を体感する仏間など、近世以来の地獄・極楽観を現代的に翻案した体験装置で六道思想に触れることができる。境内には「ほとけのくに（仏の国）」「駄菓子屋さん博物館」など多彩な小展示も併設され、寺院資料館とは異なる庶民信仰と地獄表現の体験装置として、大阪の隠れたB級スポット・寺院体験施設の代表格として親しまれてきた。",
+    "highlights": [
+      "等身大の閻魔大王像・奪衣婆・地獄の鬼を安置する体験型の地獄堂",
+      "「地獄の釜の音」装置・極楽度地獄度チェック・六道輪廻体感装置を備える",
+      "聖徳太子開創伝承を持つ大阪市内最古級の高野山真言宗古刹・全興寺の境内施設"
+    ],
+    "from_kameyama": "車で約2時間（東名阪→新名神→近畿道→阪神高速・松原線経由）／JR・近鉄・地下鉄で約2時間30分（亀山→名古屋→新大阪→大阪→地下鉄谷町線平野駅徒歩約5分）",
+    "name_en": "Senkō-ji Hell Hall",
+    "prefecture_en": "Ōsaka Prefecture",
+    "city_en": "Hirano Ward, Ōsaka",
+    "summary_en": "In the medieval merchant district of Hirano, in southeastern Ōsaka, one of the city's oldest temples — Senkō-ji, traditionally said to have been founded by Prince Shōtoku in the 7th century — has discreetly turned itself into one of Japan's most playful folk-Buddhist experience halls. Within its small precinct, a building called the Hell Hall (Jigokudō) contains life-sized statues of King Yama (the lord of the dead), the old hag Datsue-ba (who strips the dead of their clothes at the river of judgment), and a chorus of attendant demons. Visitors press buttons to hear 'the sound of the cauldrons of hell,' answer interactive questionnaires that score their personal hell-potential and paradise-potential, and pass through a small meditation room called the Realm of the Six Paths. Other attractions on the same precinct include the Land of Buddhas (Hotoke-no-Kuni) and a vintage candy-store museum. The whole compound is run as a children's-friendly introduction to medieval Buddhist cosmology and folk religion, and it works: the kids enjoy themselves, and the adults leave more thoughtful than they expected.",
+    "highlights_en": [
+      "A Hell Hall with life-sized King Yama, Datsue-ba and chorus of demons, plus push-button sound effects and an interactive 'hell potential' quiz",
+      "Senkō-ji is traditionally founded by Prince Shōtoku in the 7th century — one of the oldest temples in Ōsaka",
+      "Children's-friendly introduction to medieval Buddhist cosmology that quietly succeeds with adults as well"
+    ]
+  },
+  {
+    "id": "spot-094",
+    "name": "照円寺 地獄極楽絵図ご開帳",
+    "name_kana": "しょうえんじ じごくごくらくえずごかいちょう",
+    "category": "folk",
+    "prefecture": "石川県",
+    "city": "金沢市",
+    "address": "〒920-0851 石川県金沢市笠市町1-20",
+    "lat": 36.58,
+    "lng": 136.651,
+    "status": "現存・春秋彼岸期に地獄極楽絵図特別公開",
+    "fee": "公式サイト掲載の拝観料に準ずる（特別公開期間中の拝観料設定あり・要事前確認）",
+    "hours": "公式サイト掲載の拝観時間に準ずる（地獄極楽絵図ご開帳は春・秋の彼岸期間中の特別公開・要事前確認）",
+    "official_url": "https://syouenji.jp",
+    "reference_urls": [
+      "https://www.hot-ishikawa.jp/spot/detail_22503.html"
+    ],
+    "summary": "石川県金沢市笠市町、金沢駅にほど近い浄土真宗本願寺派の寺院・照円寺で、毎年春と秋の彼岸期に行われる「地獄極楽絵図ご開帳」を中心とする寺宝公開行事。照円寺公式・石川県観光公式の案内によれば、本寺には江戸時代より伝わる地獄極楽絵図一具が伝来し、春・秋の彼岸の特別公開期間中に本堂内で参拝者に披露される。絵図には八種の地獄、六道輪廻、十種の極楽浄土などが描かれ、近世以前の日本人が地獄・極楽・因果応報をどう視覚化してきたかを一堂に見ることができる。金沢駅近接の市街地寺院でありながら、王道観光ルート（金沢城・兼六園・東茶屋街・近江町市場）から外れた、六道思想・地獄絵の背景を持つ短期公開型の文化財公開行事として、奈良・長岳寺の大地獄絵開帳などと並ぶ、近世仏教来世観の現代的継承を示す稀有な事例。",
+    "highlights": [
+      "江戸時代より伝わる地獄極楽絵図一具を春秋の彼岸期に本堂で特別公開",
+      "八種の地獄・六道輪廻・十種の極楽浄土を一堂に描く近世仏教来世観の絵画化",
+      "金沢駅近接の都市部寺院での短期公開型寺宝公開行事"
+    ],
+    "from_kameyama": "車で約4時間30分（東名阪→新名神→名神→北陸道→金沢西IC経由）／新幹線で約3時間（亀山→名古屋→米原・敦賀経由・北陸新幹線金沢駅徒歩約10分）",
+    "name_en": "Shōen-ji Hell-and-Paradise Scroll Opening",
+    "prefecture_en": "Ishikawa Prefecture",
+    "city_en": "Kanazawa City",
+    "summary_en": "A ten-minute walk from Kanazawa Station, in a quiet neighborhood mostly missed by tourists, the Jōdo Shinshū temple Shōen-ji holds a set of Edo-period painted scrolls depicting the Eight Great Hells, the Six Paths of rebirth, and ten paradises of the Pure Land. The scrolls are unrolled in the main hall only during the higan equinox weeks of spring and autumn — short windows that coincide with the traditional Buddhist seasons of remembering the dead — and at all other times remain rolled and stored. The visit is best treated as a small pilgrimage rather than a museum stop: the temple is working, the scrolls are being exhibited inside an actual ritual cycle, and the head priest is generally available to walk through the imagery for visitors who arrive with sincere interest. Like the Chōgaku-ji opening in Nara, this is a chance to see what Edo-period villagers actually saw when their parish priest opened the hell paintings on the equinox afternoon: a vivid, terrifying, beautifully composed argument for behaving well in this life.",
+    "highlights_en": [
+      "Edo-period painted scrolls of the Eight Hells, the Six Paths and ten paradises — opened only during the spring and autumn higan equinox weeks",
+      "An active Jōdo Shinshū temple ten minutes from Kanazawa Station, almost entirely off the main tourist circuit",
+      "A small pilgrimage rather than a museum stop — best approached with sincere interest and a willingness to ask the head priest for an explanation"
+    ]
+  },
+  {
+    "id": "spot-095",
+    "name": "お松権現社（猫神さん）",
+    "name_kana": "おまつごんげんしゃ（ねこがみさん）",
+    "category": "folk",
+    "prefecture": "徳島県",
+    "city": "阿南市",
+    "address": "〒779-1240 徳島県阿南市加茂町不け63",
+    "lat": 33.905,
+    "lng": 134.593,
+    "status": "現存・通年参拝可",
+    "fee": "境内自由（公式サイト掲載の祈祷料・授与品料金に準ずる）",
+    "hours": "境内通年自由参拝（社務所対応時間は公式サイト掲載に準ずる）",
+    "official_url": "https://www.nekogami.jp",
+    "reference_urls": [
+      "https://www.nekogami.jp/history.php"
+    ],
+    "summary": "徳島県阿南市加茂町に鎮座する、別名『猫神さん』として信仰される神社。お松権現社公式の由緒によれば、江戸前期の阿波・加茂村で、不当な代官の取り立てに苦しんだ村の女性『お松』が直訴の末に処刑され、その無念を晴らすために飼い猫が怪猫となって代官の家を災いに陥れたとの伝承が伝わる。後に村人がお松を権現として祀り、飼い猫の霊をも合祀したのが当社の縁起とされ、近世以来『猫神さん』として、訴訟・勝負事・願掛けの神として信仰されてきた。社殿の周囲には参拝者が奉納した約一万体ともいわれる招き猫が並び、参道には狛犬ならぬ『狛猫』が鎮座する。怪猫伝承・猫神信仰・大量の招き猫奉納というB級スポット的要素を持つ徳島県の代表的な民俗信仰の場の一つ。",
+    "highlights": [
+      "江戸前期のお松直訴伝承と飼い猫の怪猫伝承を背景とする『猫神さん』",
+      "社殿周囲に奉納された約一万体ともいわれる招き猫群",
+      "狛犬ならぬ『狛猫』が守る猫神信仰の社"
+    ],
+    "from_kameyama": "車で約4時間（東名阪→新名神→神戸淡路鳴門自動車道→徳島道→徳島南部・那賀方面）／新幹線＋特急で約5時間（亀山→新大阪→新神戸→高速バスまたは特急『うずしお』徳島駅→JR牟岐線阿南駅→タクシー）",
+    "name_en": "Omatsu Gongen-sha (the Cat Shrine)",
+    "prefecture_en": "Tokushima Prefecture",
+    "city_en": "Anan City",
+    "summary_en": "In the village of Kamo, in coastal Anan, a small Shinto shrine has, over four centuries, absorbed approximately ten thousand maneki-neko statues offered by petitioners praying for victory in legal disputes, court cases, and contests of every kind. Omatsu Gongen-sha is dedicated to a 17th-century village woman named Omatsu, who, according to local legend, attempted to appeal to higher authorities against a corrupt local magistrate, was instead executed for her trouble, and whose pet cat — moved by her death — transformed into a vengeful spirit-cat (bakeneko) and brought ruin to the magistrate's household. The villagers, recognizing both forces, enshrined Omatsu and the cat together as deities of justice and grievance. Today the shrine is the only one in Japan where koma-neko (guardian cats) replace the usual koma-inu (guardian dogs) at the entrance, and where the steps to the inner shrine are lined floor-to-rafters with cat figurines left by petitioners, many of them lawyers, plaintiffs, and gamblers. The story is sad, the iconography is wild, and the cumulative visual impact is unlike anything else in the country.",
+    "highlights_en": [
+      "Approximately 10,000 maneki-neko statues offered by petitioners seeking victory in lawsuits, contests and gambles",
+      "The only shrine in Japan where koma-neko (guardian cats) replace the standard koma-inu (guardian dogs) at the entrance",
+      "Foundation legend: a 17th-century village woman wrongfully executed by a corrupt magistrate, avenged by her transformed pet cat"
+    ]
+  },
+  {
+    "id": "spot-096",
+    "name": "多賀神社凸凹神堂",
+    "name_kana": "たがじんじゃでこぼこしんどう",
+    "category": "folk",
+    "prefecture": "愛媛県",
+    "city": "宇和島市",
+    "address": "〒798-0040 愛媛県宇和島市藤江1340",
+    "lat": 33.226,
+    "lng": 132.566,
+    "status": "現存・有料拝観（神堂・性文化財資料館は未成年入館不可）",
+    "fee": "公式サイト掲載の拝観料に準ずる（神社境内参拝は自由、凸凹神堂・性文化財資料館は別途有料・要事前確認）",
+    "hours": "公式サイト・愛媛県観光案内掲載の開館時間に準ずる",
+    "official_url": "https://www.uwajima.org/spot/index6.html",
+    "reference_urls": [
+      "https://www.iyokannet.jp/spot/1813"
+    ],
+    "summary": "愛媛県宇和島市藤江に鎮座する多賀神社の境内に併設される性信仰の文化資料館で、別名『凸凹神堂』として知られる。宇和島市観光協会・愛媛県観光物産協会の案内によれば、本社は古来より延命栄寿・治病・子授け・健康の霊験で知られる多賀大神を祀り、参拝者の奉納・寄贈による性に関する民俗資料・美術工芸品を収蔵・展示する『性文化財資料館』を併設している。多賀大神への子授け・夫婦和合・無病息災の信仰を背景に、近世以来の春画・性的造形物・性に関わる民具・郷土玩具などが体系的に収蔵されており、性を子授け・繁栄・健康の象徴として捉える日本の民俗信仰の文脈で位置付けられる施設として知られる。未成年（18歳未満）は神堂・資料館への入館不可。",
+    "highlights": [
+      "多賀大神を祀る延命栄寿・治病・子授け・健康の社",
+      "境内に併設される性文化財資料館『凸凹神堂』",
+      "性を子授け・繁栄・健康の象徴として捉える日本の民俗信仰の収蔵展示"
+    ],
+    "from_kameyama": "車で約6時間（東名阪→新名神→神戸淡路鳴門自動車道→松山道→宇和島道）／新幹線＋特急で約7時間（亀山→新大阪→新神戸→特急『しおかぜ』松山駅→特急『宇和海』宇和島駅→タクシー）",
+    "name_en": "Taga Shrine Dekoboko Shindō (Phallic Folk Museum)",
+    "prefecture_en": "Ehime Prefecture",
+    "city_en": "Uwajima City",
+    "summary_en": "In the coastal city of Uwajima, on Shikoku's western edge, a branch shrine of the great Taga Shrine of Ōmi maintains an adjoining 'Folk Cultural Property Museum' (Dekoboko Shindō, literally 'Hall of the Uneven Gods') devoted to the folk-religious symbolism of sexuality. The collection has been built up over generations by votive donation: Edo-period shunga (erotic woodblock prints) and ukiyo-e, carved wooden and stone phalli and vulvae, fertility folk-art from across Japan, ema votive plaques inscribed with prayers for conception and matrimonial harmony, and curiosities from foreign sex-cultures collected by previous priests. Taga is one of the few major shrines in Japan whose stated purview includes longevity, healing, childbirth, and marital fertility, and the museum exists to make that traditional purview material rather than coy. Entry is restricted to visitors over 18; the curation is matter-of-fact and the framing is anthropological rather than titillating. For visitors interested in the older Japanese view of human reproduction as religious rather than embarrassing, the Dekoboko Shindō is among the most concentrated collections in the country.",
+    "highlights_en": [
+      "An adjoining museum at a major Taga Shrine branch — Edo-period shunga, carved phalli, fertility ema, and an extensive folk-art collection",
+      "Documenting the older Japanese view of human reproduction as a religious matter governed by Taga's longevity-and-fertility deities",
+      "Entry restricted to visitors over 18; framing is anthropological rather than titillating, with detailed Japanese-language labeling"
+    ]
+  },
+  {
+    "id": "spot-097",
+    "name": "韓竈神社",
+    "name_kana": "からかまじんじゃ",
+    "category": "folk",
+    "prefecture": "島根県",
+    "city": "出雲市",
+    "address": "〒691-0011 島根県出雲市唐川町408",
+    "lat": 35.431,
+    "lng": 132.783,
+    "status": "現存・通年参拝可（参道は険しい山道・岩の隙間）",
+    "fee": "無料（境内参拝自由）",
+    "hours": "公式案内に準ずる（日中の明るい時間帯のみの参拝を推奨）",
+    "official_url": "https://www.city.izumo.shimane.jp/www/contents/1610698269433/index.html",
+    "reference_urls": [
+      "https://www.shimane-jinjacho.or.jp/izumo/a8887760bc82186da6b7257897e32284bf08cbd7.html"
+    ],
+    "summary": "島根県出雲市唐川町の山中に鎮座する古社。出雲市・島根県神社庁の案内によれば、出雲国風土記・延喜式神名帳にも見える由緒ある神社で、祭神は素盞嗚命（スサノオノミコト）。素盞嗚命が新羅から船で渡来した際に乗ってきたとされる岩船が境内裏にあるという伝承や、新羅由来の鉄・釜（竈）の文化と結び付くと伝わる古社。参道は約300段の石段と、本殿手前の幅45cmほどの巨大な岩の隙間を抜けて参拝する険しい構造で知られ、舗装されておらず携帯電話の電波もほぼ届かない山中の社として、岩の隙間参道・鉄文化伝承・素盞嗚命信仰を主軸に位置付けられる。",
+    "highlights": [
+      "出雲国風土記・延喜式神名帳に記される素盞嗚命を祀る古社",
+      "本殿手前の幅45cm程度の巨大な岩の隙間を抜けて参拝する険しい参道",
+      "新羅由来の鉄・竈（かま）の文化と結び付くと伝わる山中の古社"
+    ],
+    "from_kameyama": "車で約6時間（東名阪→新名神→中国道→米子道・米子自動車道→山陰道→出雲ICまたは斐川IC経由・山道走行）／新幹線＋特急で約7時間（亀山→新大阪→新幹線『さくら』『みずほ』岡山→特急『やくも』出雲市駅→タクシー・レンタカーで唐川町方面）。最寄り駅から韓竈神社登り口まではタクシー・レンタカーが必須で、登り口から本殿までは徒歩約30〜60分（往復約1〜2時間）の山道。",
+    "name_en": "Karakama Shrine (Korean Hearth Shrine)",
+    "prefecture_en": "Shimane Prefecture",
+    "city_en": "Izumo City",
+    "summary_en": "Up a mountain road in the woods of Karakawa-chō, outside Izumo, a small shrine of striking antiquity is recorded in both the 733 Izumo no Kuni Fudoki and the 927 Engishiki — making it one of the oldest documented shrines in Japan. Karakama Shrine is dedicated to Susanoo-no-Mikoto, the storm god of Japanese myth, who is said to have arrived from the kingdom of Silla on the Korean Peninsula on a stone boat that is identified with a boulder still behind the shrine. The name 'Karakama' means 'Korean cauldron,' a reference to the iron-and-cauldron technology associated with Silla and absorbed into the deep iron-smelting culture of Izumo. To reach the main shrine, pilgrims climb about three hundred uneven stone steps, and then — just before the shrine itself — squeeze through a 45-centimeter gap between two huge boulders, an authentic test of body and intent. No cell signal, no signage, no concessions to the casual visitor; the mountain forest and the gap in the rock are the entire experience.",
+    "highlights_en": [
+      "Documented in the 733 Izumo Fudoki and 927 Engishiki — one of the oldest documented shrines in Japan",
+      "To reach the inner shrine, pilgrims must squeeze through a 45-centimeter gap between two huge boulders",
+      "Dedicated to Susanoo, who according to legend arrived from Silla on a stone boat — a deep link between Izumo iron culture and the Korean Peninsula"
+    ]
+  },
+  {
+    "id": "spot-098",
+    "name": "人穴富士講遺跡",
+    "name_kana": "ひとあなふじこういせき",
+    "category": "folk",
+    "prefecture": "静岡県",
+    "city": "富士宮市",
+    "address": "〒418-0102 静岡県富士宮市人穴206",
+    "lat": 35.361639,
+    "lng": 138.591056,
+    "status": "現存",
+    "fee": "要確認（見学条件は公式確認）",
+    "hours": "洞穴見学は冬季を除き事前予約制。情報センターは土日祝中心（要公式確認）",
+    "official_url": "https://www.mlit.go.jp/tagengo-db/en/R2-00116.html",
+    "reference_urls": [
+      "https://fujinomiya.gr.jp/en/guide/1173/",
+      "https://ja.wikipedia.org/wiki/%E4%BA%BA%E7%A9%B4%E5%AF%8C%E5%A3%AB%E8%AC%9B%E9%81%BA%E8%B7%A1"
+    ],
+    "summary": "富士山麓の洞穴と富士講碑群からなる信仰遺跡。人穴は中世から富士山の神・浅間大菩薩の住まいとされ、冥界へ通じる洞穴として語られてきた。富士講の開祖とされる長谷川角行の修行地とも伝えられ、入口周辺には巡礼者が残した200基以上の石碑が並ぶ。洞窟、冥界伝承、講碑群が一体になった、富士信仰の異界性を感じられる場所。",
+    "highlights": [
+      "冥界往還の伝承を持つ富士山麓の洞穴",
+      "富士講の巡礼者が残した200基以上の石碑群",
+      "長谷川角行の修行地とされる富士信仰の重要地点"
+    ],
+    "from_kameyama": "車で約230分（新名神→伊勢湾岸道→新東名）",
+    "name_en": "Hitoana Fujikō Ruins",
+    "prefecture_en": "Shizuoka Prefecture",
+    "city_en": "Fujinomiya City",
+    "summary_en": "On the western slopes of Mount Fuji, a lava cave called Hitoana ('the Human Hole') has been understood since at least the 13th century as a literal entrance to the realm of the kami of Fuji — the great Sengen Daibosatsu — and as a portal between the world of the living and the world of the dead. In the early 17th century, the cave became the meditation retreat of Hasegawa Kakugyō, the founder of the Fujikō pilgrim associations, who is said to have spent extended periods inside in austere training. From the 18th century onward, as the Fujikō movement spread among Edo townsfolk, ordinary pilgrims began leaving inscribed stone stelae outside the cave entrance to mark their visits, their prayers, and their dead. More than two hundred such stelae remain today, dating from across two centuries of working-class religious practice, set in a small ravine around the cave mouth. The site is administered by Fujinomiya City; access to the cave interior is by reservation through the local museum, and the surface stelae can be visited freely outside winter.",
+    "highlights_en": [
+      "A lava cave understood since the 13th century as an entrance to the realm of Fuji's deity — and as a portal to the world of the dead",
+      "Meditation retreat of Hasegawa Kakugyō, the 17th-century founder of the Fujikō pilgrim associations",
+      "Over 200 inscribed stone stelae left by Fujikō pilgrims across two centuries, clustered in the ravine around the cave mouth"
+    ]
+  },
+  {
+    "id": "spot-099",
+    "name": "東京湾観音",
+    "name_kana": "とうきょうわんかんのん",
+    "category": "bkyu",
+    "prefecture": "千葉県",
+    "city": "富津市",
+    "address": "〒293-0042 千葉県富津市小久保1588",
+    "lat": 35.263417,
+    "lng": 139.862444,
+    "status": "現存",
+    "fee": "大人500円、小人300円（2025年9月改定情報・要公式確認）",
+    "hours": "8:00〜17:00（受付16:00まで）、木曜定休・悪天候休業あり",
+    "official_url": "https://www.t-kannon.jp/",
+    "reference_urls": [
+      "https://maruchiba.jp/spot/detail_10335.html",
+      "https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E6%B9%BE%E8%A6%B3%E9%9F%B3"
+    ],
+    "summary": "富津市の高台に建つ高さ56mの巨大観音像。1960年代の昭和的スケール感を持つ私設霊場で、観音像の胎内には階段が通り、各階の仏像を拝しながら東京湾を望む上部へ登ることができる。巨大像、胎内拝観、海沿いの高台という組み合わせが強く、大観音寺系の巨大宗教造形と並べて見せやすいB級巨大仏スポット。",
+    "highlights": [
+      "東京湾を望む高さ56mの巨大観音像",
+      "胎内階段を登りながら各階の仏像を拝観できる構造",
+      "昭和期の巨大宗教造形としての圧倒的な存在感"
+    ],
+    "from_kameyama": "車で約330分（新名神→伊勢湾岸道→新東名→東京湾アクアライン）",
+    "name_en": "Tōkyō Bay Kannon",
+    "prefecture_en": "Chiba Prefecture",
+    "city_en": "Futtsu City",
+    "summary_en": "On a high bluff overlooking Tōkyō Bay, in Futtsu City on the Bōsō Peninsula, a 56-meter white standing Kannon faces north toward Tōkyō, her right hand raised in benediction over the water. Built in 1961 as a private monument to peace, the Tōkyō Bay Kannon predates the great wave of 100-meter-plus Buddhas that followed in the 1980s and 90s, and has the more modest, slightly battered scale of an earlier postwar era. Inside, a spiral staircase climbs 324 steps through 20 floors of small votive halls and tableaux — Seven Lucky Gods, miniature Buddhas, hand-painted devotional images — before emerging onto a small open-air observation crown at the level of the Kannon's tiara, where visitors look out across Tōkyō Bay toward the skyline of the capital. The experience is unmistakably Shōwa-era — handpainted murals on the staircase walls, mid-century concrete textures, the smell of old incense — and the climb is steep and unair-conditioned, with the result that emerging into the open sea breeze at the top feels like a small physical reward.",
+    "highlights_en": [
+      "A 56-meter white Kannon on a Bōsō Peninsula bluff overlooking Tōkyō Bay — completed in 1961, predating the giant-Buddha boom of later decades",
+      "324-step interior staircase passes through 20 floors of small votive halls before emerging onto an open-air crown at the level of the Kannon's tiara",
+      "Distinctly Shōwa-era atmosphere — handpainted murals, mid-century concrete, the smell of old incense — and a hard-earned view across the bay to the Tōkyō skyline"
+    ]
+  },
+  {
+    "id": "spot-100",
+    "name": "船津胎内樹型",
+    "name_kana": "ふなつたいないじゅけい",
+    "category": "mystery",
+    "prefecture": "山梨県",
+    "city": "南都留郡富士河口湖町",
+    "address": "〒401-0301 山梨県南都留郡富士河口湖町船津6603",
+    "lat": 35.453,
+    "lng": 138.755556,
+    "status": "現存",
+    "fee": "高校生以上200円、小・中学生100円（要公式確認）",
+    "hours": "9:00〜17:00、月曜・年末休館（6〜8月無休、祝日開館・要確認）",
+    "official_url": "https://www.yamanashi-kankou.jp/kankou/spot/p1_4045.html",
+    "reference_urls": [
+      "https://online.bunka.go.jp/heritages/detail/201626",
+      "https://www.mt-fuji.gr.jp/jyunrei/funatu/",
+      "https://ja.wikipedia.org/wiki/%E8%88%B9%E6%B4%A5%E8%83%8E%E5%86%85%E6%A8%B9%E5%9E%8B"
+    ],
+    "summary": "富士山の噴火で生まれた溶岩樹型を、富士講が胎内巡りの霊地として信仰した場所。内部の肋骨状の模様や洞穴の形状が母胎になぞらえられ、登拝前に洞内を巡って身を清める行為が行われた。自然が生んだ洞穴と、再生・浄化・安産の信仰が重なった、富士信仰系の自然奇景。",
+    "highlights": [
+      "溶岩が樹木を包み込んで生まれた天然記念物の洞穴",
+      "富士講の登拝前に行われた胎内巡りの霊地",
+      "自然地形が母胎・再生・安産信仰へ転化した独特の場"
+    ],
+    "from_kameyama": "車で約240分（新名神→伊勢湾岸道→新東名→東富士五湖道路）",
+    "name_en": "Funatsu Tainai Jukei (Womb-Cave Lava Tree Mold)",
+    "prefecture_en": "Yamanashi Prefecture",
+    "city_en": "Fujikawaguchiko Town, Minamitsuru District",
+    "summary_en": "When lava from one of Mount Fuji's eruptions engulfed a living tree, the wood eventually burned away and left behind a long, sinuous cavity in the cooled stone — a tree-shaped tunnel in the lava itself. At Funatsu, this kind of cavity was reinterpreted by Fujikō pilgrims as a 'tainai' (womb), and entering and exiting through the narrow opening became a ritual of symbolic rebirth, performed by pilgrims on the day before climbing Mount Fuji to purify the body and start the ascent anew. The interior walls are striated with rib-like patterns formed where bark once stood; the local pilgrims interpreted these as the literal ribcage of the mother goddess Sengen Daibosatsu, completing the womb metaphor with anatomical specificity. The cave is a designated Natural Monument, administered today by Fujikawaguchiko Town; admission is modest, the cave is electrically lit but very narrow, and the experience of squeezing through the constriction and emerging into open air is one of the most unforgettable small rituals available on the Fuji circuit.",
+    "highlights_en": [
+      "A natural lava tree-mold cave reinterpreted by Fujikō pilgrims as a 'womb' — passing through is a ritual of symbolic rebirth before climbing Fuji",
+      "Rib-like patterns on the interior walls were understood as the literal ribcage of the mother goddess Sengen Daibosatsu",
+      "Designated Natural Monument, electrically lit but very narrow — squeezing through and emerging into open air is the entire ritual"
+    ]
+  },
+  {
+    "id": "spot-101",
+    "name": "霊場恐山",
+    "name_kana": "れいじょうおそれざん",
+    "category": "folk",
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "address": "〒035-0021 青森県むつ市田名部宇曽利山3-2",
+    "lat": 41.327283,
+    "lng": 141.090204,
+    "status": "現存",
+    "fee": "大人700円、小学生300円、幼児無料",
+    "hours": "例年5月1日開山〜10月31日閉山。時期により閉門時刻変更あり（要公式確認）",
+    "official_url": "https://reijyo-osorezan.jp/sanpai/",
+    "reference_urls": [
+      "https://reijyo-osorezan.jp/category/information/",
+      "https://ja.wikipedia.org/wiki/%E6%81%90%E5%B1%B1"
+    ],
+    "summary": "下北半島の火山性地形と死生観が結びついた霊場。境内には三途の川、地獄めぐり、賽の河原、極楽浜など、仏教的な他界観を地形として体験する導線がある。心霊スポットとして煽るのではなく、死者供養、火山景観、民俗信仰が重なる場所として扱いたい。",
+    "highlights": [
+      "火山性の荒涼とした岩場を巡る地獄めぐり",
+      "三途の川、賽の河原、極楽浜が一体化した死生観の景観",
+      "風車や石積みなど、供養の民俗が可視化された霊場"
+    ],
+    "from_kameyama": "新幹線＋レンタカー等で約8時間（亀山→名古屋→東京→八戸→下北方面）／車で約15時間",
+    "name_en": "Mount Osore (Reijō Osorezan, Sacred Mountain of the Dead)",
+    "prefecture_en": "Aomori Prefecture",
+    "city_en": "Mutsu City",
+    "summary_en": "On the Shimokita Peninsula at the northern tip of Honshū, an active volcanic caldera holds one of Japan's three most sacred mountains for the dead. Mount Osore is a yellow-gray landscape of sulfur vents, bubbling hot springs, and bone-white pumice fields, ringed by the milky-blue Lake Usori, and Buddhist tradition has overlaid these features so completely with the geography of the afterlife that the walk through them functions as a kind of dress rehearsal for one's own dying. A small bridge crossing a stream is identified as the Sanzu River, the boundary that the dead must cross. Beyond it, the Eight Great Hells unfold across the actual volcanic terrain: rocks become Datsue-ba and the demons of judgment, sulfur vents become hell-mouths, and the cracked moonscape near the central temple is the Sai-no-Kawara, the dry riverbed where the souls of dead children stack stones in penance — except here the stones really are stacked, in vast quiet drifts, by living parents and grandparents memorializing real losses. Pinwheels turn in the wind beside them. The mountain is open from May to October; treat the entire experience as funerary rather than touristic.",
+    "highlights_en": [
+      "An active volcanic caldera mapped point-for-point onto the Buddhist landscape of the afterlife — Sanzu River, Eight Hells, Sai-no-Kawara, Pure Land beach",
+      "Stones stacked by grieving parents at the Sai-no-Kawara turn the abstract folk Buddhism of dying-children-and-stones into something physically present",
+      "Open May to October only — closed for snow the rest of the year — and is to be treated as a working funerary site, not as a tourism curiosity"
+    ]
+  },
+  {
+    "id": "spot-102",
+    "name": "成田山 久留米分院 明王寺 地獄館",
+    "name_kana": "なりたさん くるめぶんいん みょうおうじ じごくかん",
+    "category": "bkyu",
+    "prefecture": "福岡県",
+    "city": "久留米市",
+    "address": "〒830-0052 福岡県久留米市上津町1386-22",
+    "lat": 33.286,
+    "lng": 130.547,
+    "status": "現存",
+    "fee": "大人500円、中・高校生300円、小学生100円",
+    "hours": "観音様・地獄館拝観 平日9:00〜16:00、土日祝9:00〜17:00（最終受付は閉門30分前）",
+    "official_url": "https://www.kurume-naritasan.or.jp/jigoku/",
+    "reference_urls": [
+      "https://www.kurume-naritasan.or.jp/access/",
+      "https://www.crossroadfukuoka.jp/spot/12724",
+      "https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E5%B1%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%88%86%E9%99%A2"
+    ],
+    "summary": "久留米成田山の境内にある、地獄表現を常設展示する施設。黒縄地獄、大叫喚地獄、焦熱地獄、阿鼻地獄など、仏教的な戒めを視覚的に見せる構成で、巨大な救世慈母大観音像、平和大仏塔極楽殿、孝行洞窟と合わせて巡る。宗教施設内の教化展示でありながら、強い造形性とB級性を併せ持つ。",
+    "highlights": [
+      "黒縄地獄、焦熱地獄、阿鼻地獄などを視覚化した常設展示",
+      "救世慈母大観音像や平和大仏塔と一体で巡れる構成",
+      "仏教的教化とB級スポット性が重なる地獄体験施設"
+    ],
+    "from_kameyama": "車で約480分（新名神→山陽道→九州道）／新幹線＋バスで約5時間30分",
+    "name_en": "Narita-san Kurume Branch Temple Jigokukan (Hell Hall)",
+    "prefecture_en": "Fukuoka Prefecture",
+    "city_en": "Kurume City",
+    "summary_en": "On the outskirts of Kurume, in Fukuoka Prefecture, a regional branch of the famous Narita-san temple complex maintains one of the more theatrically committed hell experiences in Japanese Buddhism. The Jigokukan ('Hell Hall') is a walk-through diorama of the Eight Great Hells of Buddhist cosmology — Black Rope, Crushing, Screaming, Twice-Screaming, Scorching, Twice-Scorching, Reviving, and the endless avici — each rendered as a separate room with life-sized figures of demons inflicting period-appropriate torments on the damned, accompanied by sound effects and selective lighting that genuinely raise the heart rate. The Hell Hall is positioned within a larger pilgrimage circuit that includes a vast Merciful Mother Kannon, a Peace Pagoda containing a Pure Land hall, and a Filial Piety Cave — moving the visitor through fear, mercy, and gratitude in roughly that order. The intent is moral instruction in the medieval Japanese pattern: see the hells in physical detail, then experience the consolation of paradise. Allow an hour for the full circuit and bring children old enough to know that the demons are not real.",
+    "highlights_en": [
+      "A walk-through diorama of the Eight Great Hells with life-sized demons and selective lighting — moral instruction in the medieval Japanese pattern",
+      "Hell is only the first stop: the full circuit moves through a Merciful Mother Kannon, a Peace Pagoda Pure Land hall, and a Filial Piety Cave",
+      "Allow an hour for the complete circuit; the demons are intense, so bring children old enough to know they aren't real"
     ]
   }
 ]
