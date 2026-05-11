@@ -585,20 +585,20 @@
   },
   "spot-051": {
     "name": "空気神社",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/6/66/%E7%A9%BA%E6%B0%97%E7%A5%9E%E7%A4%BE.jpg",
+    "credit": "Wikimedia Commons / Tsubasa111go / CC BY-SA 3.0",
     "alt_photos": []
   },
   "spot-052": {
     "name": "牛久大仏",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/3/39/Ushiku_Daibutsu_Guinness_Book_Provment.jpg",
+    "credit": "Wikimedia Commons / KrasseChecker / Public domain",
     "alt_photos": []
   },
   "spot-053": {
     "name": "目黒寄生虫館",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/8/83/Exhibits_at_Meguro_Parasitological_Museum_10.jpg",
+    "credit": "Wikimedia Commons / Syced / CC0",
     "alt_photos": []
   },
   "spot-054": {
@@ -675,8 +675,8 @@
   },
   "spot-066": {
     "name": "東の追分・西の追分",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Tokaido_Seki_Juku_Kameyama_City_Mie_JPN_002.jpg",
+    "credit": "Wikimedia Commons / ignis / CC BY-SA 3.0",
     "alt_photos": []
   },
   "spot-067": {
@@ -687,14 +687,14 @@
   },
   "spot-068": {
     "name": "御座の石仏（潮仏）",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/29/Shiobotoke.jpg",
+    "credit": "Wikimedia Commons / Miyuki Meinaka / CC BY-SA 3.0",
     "alt_photos": []
   },
   "spot-069": {
     "name": "朝熊岳金剛證寺 奥之院",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kongoshoji-Gokurakumon_01.JPG",
+    "credit": "Wikimedia Commons / N yotarou assumed / CC BY 2.5",
     "alt_photos": []
   },
   "spot-070": {
@@ -705,56 +705,56 @@
   },
   "spot-071": {
     "name": "聚楽園大仏",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Shurakuen_Daibutsu_2024-09_ac_%281%29.jpg",
+    "credit": "Wikimedia Commons / Asturio Cantabrio / CC BY-SA 4.0",
     "alt_photos": []
   },
   "spot-072": {
     "name": "竹島ファンタジー館",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/ae/%E7%AB%B9%E5%B3%B6%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC%E9%A4%A8%E5%A4%96%E8%A6%B3.jpg",
+    "credit": "Wikimedia Commons / Mikkabie / CC BY-SA 4.0",
     "alt_photos": []
   },
   "spot-073": {
     "name": "名古屋大仏（桃巌寺）",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/28/T%C5%8Dgan-ji_%28Chikusa-ku%2C_Nagoya%29_VLux5_hdsr_d01.jpg",
+    "credit": "Wikimedia Commons / Hyppolyte de Saint-Rambert / CC BY 4.0",
     "alt_photos": []
   },
   "spot-074": {
     "name": "一畑山薬師寺 涅槃像",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/5/52/%E4%B8%80%E7%95%91%E5%B1%B1%E8%96%AC%E5%B8%AB%E5%AF%BA_-_panoramio.jpg",
+    "credit": "Wikimedia Commons / 博柳 / CC BY 3.0",
     "alt_photos": []
   },
   "spot-075": {
     "name": "刈宿の大仏（常福寺）",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Kariyado_Daibutsu_back_ac_%283%29.jpg",
+    "credit": "Wikimedia Commons / Asturio Cantabrio / CC BY-SA 4.0",
     "alt_photos": []
   },
   "spot-076": {
     "name": "招き猫ミュージアム",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/5/53/Seto_Maneki-Neko_Museum.jpg",
+    "credit": "Wikimedia Commons / Asturio Cantabrio / CC BY-SA 4.0",
     "alt_photos": []
   },
   "spot-077": {
     "name": "布袋の大仏",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/28/Hotei_Daibutsu_%28Konan_Aichi%29_VLux5_hdsr_06.jpg",
+    "credit": "Wikimedia Commons / Hyppolyte de Saint-Rambert / CC BY 4.0",
     "alt_photos": []
   },
   "spot-078": {
     "name": "岐阜大仏（正法寺）",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/a1/%E5%B2%90%E9%98%9C%E5%A4%A7%E4%BB%8F-%E6%AD%A3%E6%B3%95%E5%AF%BA_%28%E5%B2%90%E9%98%9C%E5%B8%82%29_Gifudaibutsu005.jpg",
+    "credit": "Wikimedia Commons / 杉山宣嗣 / CC BY-SA 4.0",
     "alt_photos": []
   },
   "spot-079": {
     "name": "関善光寺 卍戒壇巡り（宗休寺）",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/4/42/Seki_Zenko-ji_ac_%281%29.jpg",
+    "credit": "Wikimedia Commons / Asturio Cantabrio / CC BY-SA 4.0",
     "alt_photos": []
   },
   "spot-080": {
@@ -765,26 +765,26 @@
   },
   "spot-081": {
     "name": "鬼岩公園",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Oniiwa.jpg",
+    "credit": "Wikimedia Commons / User:Ans / CC BY-SA 3.0",
     "alt_photos": []
   },
   "spot-082": {
     "name": "飛騨大鍾乳洞",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/5/50/%E9%A3%9B%E9%A8%A8%E5%A4%A7%E9%8D%BE%E4%B9%B3%E6%B4%9E_%2848346806541%29.jpg",
+    "credit": "Wikimedia Commons / inunami / CC BY 2.0",
     "alt_photos": []
   },
   "spot-083": {
     "name": "仙台大観音",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/cd/%22Sendai_Daikannon%22_%2817158759727%29.jpg",
+    "credit": "Wikimedia Commons / contri / CC BY-SA 4.0",
     "alt_photos": []
   },
   "spot-084": {
     "name": "UFOふれあい館",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/b/b3/UFO_fureaikan.jpg",
+    "credit": "Wikimedia Commons / Decosu / Public domain",
     "alt_photos": []
   },
   "spot-085": {
@@ -795,20 +795,20 @@
   },
   "spot-086": {
     "name": "越前大仏（清大寺）",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Seidai-ji_20240501_02.jpg",
+    "credit": "Wikimedia Commons / Suikotei / CC BY 4.0",
     "alt_photos": []
   },
   "spot-087": {
     "name": "岩下の新生姜ミュージアム",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/2b/New_Ginger_Museum.jpg",
+    "credit": "Wikimedia Commons / Miyuki Meinaka / CC BY-SA 4.0",
     "alt_photos": []
   },
   "spot-088": {
     "name": "小豆島大観音",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Shodoshima_Daikannon_%286453337505%29.jpg",
+    "credit": "Wikimedia Commons / Maarten Heerlien from Voorschoten, The Netherlands / CC BY 2.0",
     "alt_photos": []
   },
   "spot-089": {
@@ -819,14 +819,14 @@
   },
   "spot-090": {
     "name": "鳥居観音",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/7/72/Hakuunsan_Torii_Kannon_%40_Naguri_%2814070230403%29.jpg",
+    "credit": "Wikimedia Commons / Guilhem Vellut from Annecy, France / CC BY 2.0",
     "alt_photos": []
   },
   "spot-091": {
     "name": "長岳寺 大地獄絵開帳",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/6/60/%E5%A4%A9%E7%90%86%E5%B8%82%E6%9F%B3%E6%9C%AC%E7%94%BA_%E9%95%B7%E5%B2%B3%E5%AF%BA%E4%BA%94%E6%99%BA%E5%A0%82_Gochid%C5%8D%2C_Ch%C5%8Dgakuji_2011.2.06_-_panoramio.jpg",
+    "credit": "Wikimedia Commons / Nankou Oronain (as36… / CC BY-SA 3.0",
     "alt_photos": []
   },
   "spot-092": {
@@ -837,8 +837,8 @@
   },
   "spot-093": {
     "name": "全興寺 地獄堂",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/28/Senko-ji_%28Osaka_Hirano-ku%29_Temple_hdsr_S5_hh16.jpg",
+    "credit": "Wikimedia Commons / Hyppolyte de Saint-Rambert / CC BY 4.0",
     "alt_photos": []
   },
   "spot-094": {
@@ -867,32 +867,32 @@
   },
   "spot-098": {
     "name": "人穴富士講遺跡",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Hitoana_Sengen_Shrine.jpg",
+    "credit": "Wikimedia Commons / Ennui / CC BY-SA 3.0",
     "alt_photos": []
   },
   "spot-099": {
     "name": "東京湾観音",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Tokyo_Wan_Kannon_%40_Sanukimachi_%289520117719%29.jpg",
+    "credit": "Wikimedia Commons / Guilhem Vellut from Annecy, France / CC BY 2.0",
     "alt_photos": []
   },
   "spot-100": {
     "name": "船津胎内樹型",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Closing_of_Funatsu_lava_tree_molds_for_coronavirus.jpg",
+    "credit": "Wikimedia Commons / ジョジョの珍妙な冒険 / CC BY-SA 4.0",
     "alt_photos": []
   },
   "spot-101": {
     "name": "霊場恐山",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/6/62/Sacred_Mount_Osorezan_20200601a_stitching9.jpg",
+    "credit": "Wikimedia Commons / あおもりくま / CC BY-SA 3.0",
     "alt_photos": []
   },
   "spot-102": {
     "name": "成田山 久留米分院 明王寺 地獄館",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/3/37/Kurume_narita_temple.jpg",
+    "credit": "Wikimedia Commons / みんと at Japanese Wikipedia / Public domain",
     "alt_photos": []
   },
   "fest-094": {
