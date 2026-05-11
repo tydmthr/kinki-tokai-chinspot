@@ -894,5 +894,119 @@
     "primary": null,
     "credit": null,
     "alt_photos": []
+  },
+  "fest-094": {
+    "name": "なまはげ柴灯まつり",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Sinzanzinzya_Syaden.JPG",
+    "credit": "Wikimedia Commons / CC BY-SA 4.0",
+    "alt_photos": []
+  },
+  "fest-095": {
+    "name": "横手の雪まつり",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/8/85/Kamakura_at_Yokote-EAST_20150214-2.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 4.0",
+    "alt_photos": []
+  },
+  "fest-096": {
+    "name": "旭岡山神社 梵天奉納祭",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bonden_Dedication_at_Asahiokayama_Shrine_202402b.jpg",
+    "credit": "Wikimedia Commons / CC0",
+    "alt_photos": []
+  },
+  "fest-097": {
+    "name": "黒川能 王祇祭",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Kurokawa_Noh_Festival3_2007-02-01.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 3.0",
+    "alt_photos": []
+  },
+  "fest-098": {
+    "name": "真清田神社 桃花祭",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/22/Aichiken_masumidajinja.png",
+    "credit": "Wikimedia Commons / CC0",
+    "alt_photos": []
+  },
+  "fest-099": {
+    "name": "うわじま牛鬼まつり",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/f/f7/National_Museum_of_Ethnology%2C_Osaka_-_Ushioni_float_-_Uwajima_City%2C_Ehime_Pref._-_Made_in_1978.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 4.0",
+    "alt_photos": []
+  },
+  "fest-100": {
+    "name": "早池峰神社 蘇民祭",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/6/69/Hayachine_Shrine%2C_%E6%97%A9%E6%B1%A0%E5%B3%B0%E7%A5%9E%E7%A4%BE_-_panoramio.jpg",
+    "credit": "Wikimedia Commons / CC BY 3.0",
+    "alt_photos": []
+  },
+  "fest-101": {
+    "name": "黒石蘇民の集い",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Somin_shourai_kamon.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 4.0",
+    "alt_photos": []
+  },
+  "fest-102": {
+    "name": "シマクサラシ",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "fest-103": {
+    "name": "しもきた天狗まつり",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "fest-104": {
+    "name": "總願寺 節分会 鬼追い豆撒き式",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/3/30/Sogan-ji_Kazo_Saitama_01.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 3.0",
+    "alt_photos": []
+  },
+  "fest-105": {
+    "name": "鬼怒川温泉 招福鬼まつり",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Kinu-Tateiwa_%C5%8C-Tsuribashi_bridge.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 3.0",
+    "alt_photos": []
+  },
+  "fest-106": {
+    "name": "厳島神社 管絃祭",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/1/18/20100723_Miyajima_Itsukushima_4815.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 4.0",
+    "alt_photos": []
+  },
+  "fest-107": {
+    "name": "ホーランエンヤ",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Horan-enya_boat.jpg",
+    "credit": "Wikimedia Commons / CC0",
+    "alt_photos": []
+  },
+  "fest-108": {
+    "name": "唐津くんち",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/b/bd/091104_Karatsu_Kunchi.jpg",
+    "credit": "Wikimedia Commons / CC BY 3.0",
+    "alt_photos": []
+  },
+  "fest-109": {
+    "name": "阿蘇神社 火振り神事",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/4/41/Aso_Jinja_02.JPG",
+    "credit": "Wikimedia Commons / CC BY-SA 3.0",
+    "alt_photos": []
+  },
+  "fest-110": {
+    "name": "高千穂神社 棚田神楽",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Yokagura.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 3.0",
+    "alt_photos": []
+  },
+  "fest-111": {
+    "name": "壱岐大大神楽",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/1/14/Iki_jinja%2C_Nagasaki_Haiden.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 3.0",
+    "alt_photos": []
+  },
+  "fest-112": {
+    "name": "彌彦神社 弓始神事",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Daidaikagura_at_Yahiko_jinjya_01.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 4.0",
+    "alt_photos": []
   }
 }
