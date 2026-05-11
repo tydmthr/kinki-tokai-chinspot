@@ -4586,5 +4586,395 @@
     ],
     "origin_en": "According to research by Miyahira Moriaki (Okinawa International University), published in the university's institutional repository, the Shimakusarashi is distributed across the communities of the Ryūkyū Archipelago and observed in the twelfth lunar month, though precise dates and forms vary by community. The rite is known under multiple local names — Shimakusarashi, Shimakusarai, Fushinuyā, Putōki — reflecting regional variation. Its origins predate written documentation: the first textual records date to the early modern period (post-Ryūkyū Kingdom era), but the rite's structural character suggests a much older foundation in Ryūkyūan boundary-protection practice. The Okinawa Peace Memorial Museum and the Kudakajima community documentation project have both addressed aspects of the rite's contemporary survival.",
     "viewing_notes_en": "The Shimakusarashi is a community religious observance, not a public event. Communities vary in their openness to outside observers; many do not welcome or permit external attendance. Any interest in visiting must be communicated in advance to the community's self-governing council or kōminkan (community hall), and permission must be obtained before arrival. Unauthorized observation and photography are inappropriate. Kudakajima is particularly sensitive as a designated sacred island with restricted access zones; consult the island's rules carefully before any visit. Access to outer islands requires inter-island ferry from the main island or Ishigaki Port."
+  },
+  {
+    "id": "fest-103",
+    "name": "しもきた天狗まつり",
+    "name_kana": "しもきたてんぐまつり",
+    "shrine": "下北沢一番街商店街・北澤八幡神社",
+    "category": "weird",
+    "prefecture": "東京都",
+    "city": "世田谷区",
+    "lat": 35.661389,
+    "lng": 139.667222,
+    "date_pattern": "毎年2月節分前後の週末",
+    "date_2026": "2026-01-30",
+    "date_2026_end": "2026-02-01",
+    "summary": "東京都世田谷区の下北沢一番街商店街と北澤八幡神社を中心に毎年節分時期に催される福祭。",
+    "highlights": [
+      "巨大な烏天狗山車の練り歩き",
+      "福男・福女による豆撒き",
+      "若者の街と古層民俗の交差"
+    ],
+    "origin": "森巌寺の天狗道了尊信仰を背景に商店街主導で構築された現代節分祭礼。",
+    "official_url": "https://setagaya339.net/seta/s100k/011_020/014_setagaya.htm",
+    "reference_urls": [
+      "https://setagaya339.net/seta/s100k/011_020/014_setagaya.htm"
+    ],
+    "viewing_notes": "下北沢駅徒歩1分。商店街は混雑するため早めの到着を。",
+    "name_en": "Shimokita Tengu Festival",
+    "shrine_en": "Shimokitazawa Ichibangai Shopping Street & Kitazawa Hachiman Shrine",
+    "prefecture_en": "Tokyo",
+    "city_en": "Setagaya Ward",
+    "date_pattern_en": "Weekend around Setsubun in early February (annual)",
+    "summary_en": "Held each year around the Setsubun season in the narrow lanes of Shimokitazawa, this festival fuses the youth culture of one of Tokyo's most distinctive neighborhoods with the older mountain-deity beliefs centered on Shingan-ji temple. A towering effigy of a karasu-tengu — the crow-faced sky spirit of esoteric Buddhist legend — is paraded through the shopping arcade by costumed bearers, while officiants in white shozoku attire scatter beans and small charms to passersby. Founded by the Ichibangai shopping district association in the postwar period and elaborated into its present form in the 1990s, the festival presents an unusual case in which the syncretic tengu cult of Mt. Kurama and the local Tokugawa-era Tendoryoson devotion at Shingan-ji are reinterpreted within a thoroughly contemporary urban setting. The result is one of the few examples in metropolitan Tokyo where pre-modern folk belief survives in public space, embedded in the daily commerce of a neighborhood better known internationally for its music venues, vintage shops, and underground theatre.",
+    "highlights_en": [
+      "Karasu-tengu float procession: a three-meter crow-faced effigy is wheeled through the narrow alleys of Shimokitazawa, its red mask glowing under the arcade lights",
+      "Bean-scattering by costumed officiants: men and women in white robes distribute beans and charms at intervals along the arcade, drawing crowds of residents and visitors alike",
+      "Sub-culture meets folk religion: the festival presents an unusual juxtaposition of contemporary Tokyo youth culture and an esoteric mountain-deity cult, rarely encountered in such concentrated form"
+    ],
+    "origin_en": "The cult of the Tendō-Ryōson tengu at the nearby Shingan-ji temple, founded in 1608, was historically embraced by Shimokitazawa merchants as a guardian against fire and theft. The shopping-district association reconstructed the postwar festival in the 1990s, introducing the large karasu-tengu float that now anchors the procession.",
+    "viewing_notes_en": "One minute on foot from Shimokitazawa Station (Odakyū and Keiō Inokashira lines). Arcades are narrow and densely crowded; arriving early is advisable, and route information should be checked in advance through the shopping-district association."
+  },
+  {
+    "id": "fest-104",
+    "name": "總願寺 節分会 鬼追い豆撒き式",
+    "name_kana": "そうがんじ せつぶんえ おにおいまめまきしき",
+    "shrine": "不動ヶ岡不動尊 總願寺",
+    "category": "weird",
+    "prefecture": "埼玉県",
+    "city": "加須市",
+    "lat": 36.130556,
+    "lng": 139.598056,
+    "date_pattern": "毎年2月3日",
+    "date_2026": "2026-02-03",
+    "date_2026_end": null,
+    "summary": "関東三大不動の一つで青鬼・赤鬼・黒鬼の三鬼が大鉞を振りかざす追儺式。",
+    "highlights": [
+      "三色の鬼の登場",
+      "巨大松明の点火",
+      "年男年女の豆撒き"
+    ],
+    "origin": "1616年創建の真言宗智山派寺院。江戸期から続く伝統行事で修験道系追儺の名残を保持。",
+    "official_url": "https://sogan-ji.jp/",
+    "reference_urls": [
+      "https://sogan-ji.jp/"
+    ],
+    "viewing_notes": "東武加須駅から徒歩約15分。豆撒きは午後3時頃と夜の2回。",
+    "name_en": "Sōgan-ji Setsubun-e Oni-oi Mamemaki Ceremony",
+    "shrine_en": "Fudōgaoka Fudōson Sōgan-ji Temple",
+    "prefecture_en": "Saitama",
+    "city_en": "Kazo City",
+    "date_pattern_en": "February 3 each year",
+    "summary_en": "On the night of Setsubun each year, Sōgan-ji in Kazo — one of the three great Fudō temples of the Kantō region — stages one of eastern Japan's most dramatic exorcism rites. Three demons, painted blue, red, and black, emerge from the temple precincts wielding enormous halberds (ōono) and rage before the main hall. A great pyre of timber lashed into a well-cribbed frame is set alight in front of the temple, and the demons are symbolically smoked out by the flames before being subdued through the chanting of the Shingon priesthood. Once the rite of subjugation concludes, year-men and year-women dressed in kamishimo formal wear scatter ritual beans and lucky coins from elevated platforms into the gathered crowd, drawing several thousand visitors annually. The juxtaposition of esoteric Buddhist ritual, Shugendō fire elements, and popular Setsubun custom makes Sōgan-ji's ceremony one of the most ethnographically substantial winter rites surviving on the Kantō plain.",
+    "highlights_en": [
+      "Appearance of three demons: figures in blue, red, and black masks brandish large halberds before the main hall, a dramatic staging rarely encountered elsewhere",
+      "Lighting of the great pyre: a cribbed-timber bonfire is ignited in front of the main hall, symbolically smoking out the demons and recalling the fire rituals of Shugendō",
+      "Bean and coin scattering by year-men and women: dignitaries in formal kamishimo attire toss ritual beans and lucky coins from raised platforms after the demons are subdued"
+    ],
+    "origin_en": "Sōgan-ji, a Shingon Chizan-ha temple founded in 1616, has served since the Edo period as a Bakufu-protected center of Fudō worship. The temple's Setsubun ceremony preserves Shugendō-influenced fire imagery rarely encountered in the Kantō plain.",
+    "viewing_notes_en": "About fifteen minutes on foot from Kazo Station on the Tōbu Isesaki Line, or by free shuttle bus on the day. Bean-scattering takes place twice, around 3 p.m. and again in the evening; the best photographic angle is directly before the main hall, where the smoke of the pyre rises behind the demons."
+  },
+  {
+    "id": "fest-105",
+    "name": "鬼怒川温泉 招福鬼まつり",
+    "name_kana": "きぬがわおんせん しょうふくおにまつり",
+    "shrine": "鬼怒川温泉街・古釜の福",
+    "category": "weird",
+    "prefecture": "栃木県",
+    "city": "日光市",
+    "lat": 36.815556,
+    "lng": 139.703333,
+    "date_pattern": "毎年2月1日〜28日（節分期間）",
+    "date_2026": "2026-02-01",
+    "date_2026_end": "2026-02-28",
+    "summary": "「鬼は内、福も内」を唱える温泉街の現代節分祭。鬼を歓待することで一年の招福を願う。",
+    "highlights": [
+      "「鬼は内」の豆撒き",
+      "鬼怒太との交流",
+      "鬼花火の打ち上げ"
+    ],
+    "origin": "1990年代後半に温泉組合が冬季活性化策として企画。地元伝承「鬼怒の鬼は福を呼ぶ」を背景とする。",
+    "official_url": "https://www.nikko-kankou.org/spot/572",
+    "reference_urls": [
+      "https://www.nikko-kankou.org/spot/572"
+    ],
+    "viewing_notes": "東武鬼怒川温泉駅下車。温泉街全域が会場。",
+    "name_en": "Kinugawa Onsen Shōfuku Oni Festival",
+    "shrine_en": "Kinugawa Onsen Town & Furugama-no-Fuku",
+    "prefecture_en": "Tochigi",
+    "city_en": "Nikkō City",
+    "date_pattern_en": "February 1–28 each year (Setsubun month)",
+    "summary_en": "Across the month of February, the hot-spring town of Kinugawa Onsen inverts the conventional Setsubun custom by welcoming demons rather than expelling them. Where most Japanese households chant 'demons out, fortune in,' here the cry is reversed: 'demons in, fortune in.' The reversal draws on a local etymological tradition that reads the place-name Kinugawa — written with characters meaning 'angry demon river' — as evidence that the demons of this valley are themselves bringers of fortune. Throughout the month, the spa district is decorated with masks, red lanterns, and sculptural figures of the mascot Kinuta, and on Setsubun weekend a small fireworks display is launched from the river gorge. Although the festival is a relatively recent invention of the 1990s — originally devised by the local inn association to revive off-season tourism — it draws on older minority traditions, found also at Yoshino in Nara and Kiryū in Gunma, where demons are addressed as ambivalent benefactors rather than as objects of expulsion.",
+    "highlights_en": [
+      "'Demons in' bean throwing: a complete inversion of the standard Setsubun chant, with locals and guests welcoming demons into the shopping streets and inns",
+      "Encounters with Kinuta the demon mascot: statues and costumed performers of the town's red-skinned demon figure appear throughout the hot-spring district",
+      "Demon fireworks: red-tinted fireworks are launched from the banks of the Kinugawa river on Setsubun weekend, weather permitting"
+    ],
+    "origin_en": "Devised in the late 1990s by the Kinugawa onsen association as a winter tourism initiative, the festival draws on a regional folk tradition that interprets the demons of the Kinugawa gorge as bringers of fortune rather than misfortune.",
+    "viewing_notes_en": "Alight at Kinugawa Onsen Station on the Tōbu Kinugawa Line. The festival is spread across the entire spa district and is best experienced in combination with an overnight stay; the fireworks schedule is weather-dependent and should be confirmed with the tourism office."
+  },
+  {
+    "id": "fest-106",
+    "name": "厳島神社 管絃祭",
+    "name_kana": "いつくしまじんじゃ かんげんさい",
+    "shrine": "厳島神社",
+    "category": "other",
+    "prefecture": "広島県",
+    "city": "廿日市市",
+    "lat": 34.295833,
+    "lng": 132.319722,
+    "date_pattern": "毎年旧暦6月17日",
+    "date_2026": "2026-07-31",
+    "date_2026_end": null,
+    "summary": "世界遺産・厳島神社で旧暦6月17日に斎行される日本三大船神事の一つ。",
+    "highlights": [
+      "大鳥居をくぐる御座船",
+      "管絃の音色",
+      "地御前神社往復"
+    ],
+    "origin": "平清盛が宮中の管絃の遊びを神事に取り入れたと伝わる平安期由来の海上祭礼。",
+    "official_url": "https://www.miyajima.or.jp/event/event_kangen.html",
+    "reference_urls": [
+      "https://www.miyajima.or.jp/event/event_kangen.html"
+    ],
+    "viewing_notes": "宮島連絡船で約10分。潮位により出航時刻が変動。",
+    "name_en": "Itsukushima Shrine Kangen-sai",
+    "shrine_en": "Itsukushima Shrine",
+    "prefecture_en": "Hiroshima",
+    "city_en": "Hatsukaichi City",
+    "date_pattern_en": "Lunar calendar June 17 each year",
+    "summary_en": "On the seventeenth day of the sixth lunar month, the World Heritage shrine of Itsukushima — built upon stilts above the tidal waters of the Seto Inland Sea — conducts one of the three great boat rituals of Japan. The kami of the shrine is transferred to a sacred barge, the gozasen, which is rowed beneath the towering vermilion torii gate and across the bay to the auxiliary shrine of Jigozen on the mainland. Throughout the procession, court musicians aboard the barge perform gagaku — the imperial wind and string ensemble — its mellow tones mingling with the sound of oars on calm summer water. The rite traces its formal structure to the patronage of Taira no Kiyomori in the late twelfth century, who is said to have transplanted the courtly music ceremonies of the Heian palace into Shinto liturgy at Itsukushima. As one of Japan's rare maritime festivals to preserve aristocratic court music in active ritual use, Kangen-sai stands alongside the Tenjin Matsuri of Osaka and the Hōran-enya of Matsue as a foundational example of the boat-borne kami procession.",
+    "highlights_en": [
+      "Passage of the sacred barge beneath the great torii: the vermilion gate frames the gozasen as it glides through at high tide, the festival's most iconic moment",
+      "Live performance of gagaku at sea: imperial court music is performed aboard the barge, mingling with the sound of oars across the inland sea",
+      "Round trip to Jigozen Shrine: the procession reaches the mainland subsidiary shrine of Jigozen, retracing a historical maritime cultic geography"
+    ],
+    "origin_en": "Traditional accounts attribute the festival to Taira no Kiyomori, who in the late Heian period is said to have introduced the music of the imperial court into Shinto liturgy at Itsukushima. Boat-borne kami processions thereafter became central to the Seto Inland Sea cult.",
+    "viewing_notes_en": "Take the Miyajima ferry from Miyajimaguchi Station on the JR Sanyo Line; the crossing takes about ten minutes. Departure times depend on tidal conditions and should be checked in advance with the shrine or local tourism office; a telephoto lens is helpful for capturing the torii crossing."
+  },
+  {
+    "id": "fest-107",
+    "name": "ホーランエンヤ（松江城山稲荷神社式年神幸祭）",
+    "name_kana": "ほうらんえんや",
+    "shrine": "松江城山稲荷神社・阿太加夜神社",
+    "category": "other",
+    "prefecture": "島根県",
+    "city": "松江市",
+    "lat": 35.475833,
+    "lng": 133.060833,
+    "date_pattern": "10年に一度（次回2029年5月予定）",
+    "date_2026": null,
+    "date_2026_end": null,
+    "summary": "松江城山稲荷神社の御神霊を阿太加夜神社まで送迎する10年に一度の式年神幸祭。",
+    "highlights": [
+      "100隻の大船団",
+      "9日間の渡御",
+      "10年に一度の希少性"
+    ],
+    "origin": "1648年に松江藩主松平直政が城山稲荷神社の神霊を阿太加夜神社に渡御したのが始まり。",
+    "official_url": "https://www.kankou-shimane.com/pickup/11853.html",
+    "reference_urls": [
+      "https://www.kankou-shimane.com/pickup/11853.html"
+    ],
+    "viewing_notes": "次回開催は2029年5月予定。詳細日程は2028年頃から公表見込み。",
+    "name_en": "Hōran-enya (Matsue Jōzan Inari Shrine Shikinen Shinkōsai)",
+    "shrine_en": "Matsue Jōzan Inari Shrine & Atakaya Shrine",
+    "prefecture_en": "Shimane",
+    "city_en": "Matsue City",
+    "date_pattern_en": "Once every ten years (next observance: May 2029)",
+    "summary_en": "Held only once each decade, the Hōran-enya is the largest boat ritual in Japan and one of the three great maritime festivals of the nation, alongside the Kangen-sai of Itsukushima and the Tenjin Matsuri of Osaka. The kami of Matsue Jōzan Inari Shrine is transferred to a sacred barge and rowed in procession with about one hundred attendant vessels along the Ohashi and Iu rivers to the subsidiary shrine of Atakaya, nine days later returning to the castle town. Each stage of the festival — the outbound procession, the middle-day rites, and the homeward return — is accompanied by sword and oar dances performed aboard the kaidenma rowing boats. Dating from 1648, when the second lord of the Matsue domain transferred the kami of his castle's tutelary Inari shrine, the festival's decennial cycle was formalized in the late nineteenth century and has been maintained, with wartime interruptions, ever since. Because the next observance falls in 2029, this entry is provided as an advance notice.",
+    "highlights_en": [
+      "Fleet of one hundred vessels: kaidenma rowing boats and attendant craft fill the Ohashi River with a density rarely encountered elsewhere in Japan",
+      "Nine-day procession: outbound, middle-day, and return phases trace a complete cultic geography between Matsue Castle and Atakaya Shrine",
+      "Decennial rarity: with the next festival falling in 2029, the number of opportunities to witness it over a lifetime is necessarily limited"
+    ],
+    "origin_en": "Initiated in 1648 by Matsudaira Naomasa, second lord of the Matsue domain, the festival originally observed a seven-year cycle and was reformulated as a decennial rite in the modern era. It has been continuously revived since 1948 in the postwar period.",
+    "viewing_notes_en": "The next observance is scheduled for May 2029, with detailed dates expected to be announced from around 2028 onward. Accommodation in Matsue should be secured very early; advance reservations for viewing platforms and observation boats are likely to be required."
+  },
+  {
+    "id": "fest-108",
+    "name": "唐津くんち",
+    "name_kana": "からつくんち",
+    "shrine": "唐津神社",
+    "category": "other",
+    "prefecture": "佐賀県",
+    "city": "唐津市",
+    "lat": 33.450278,
+    "lng": 129.971944,
+    "date_pattern": "毎年11月2日〜4日",
+    "date_2026": "2026-11-02",
+    "date_2026_end": "2026-11-04",
+    "summary": "佐賀県唐津市の唐津神社秋季例大祭。14台の漆塗り曳山が城下を巡行する。",
+    "highlights": [
+      "14台の曳山巡行",
+      "西の浜お旅所神幸",
+      "「エンヤ、エンヤ」の掛け声"
+    ],
+    "origin": "1819年の赤獅子奉納が現在の曳山行事の始まり。ユネスコ無形文化遺産。",
+    "official_url": "https://www.karatsu-jinja.org/kunti",
+    "reference_urls": [
+      "https://www.karatsu-jinja.org/kunti"
+    ],
+    "viewing_notes": "JR唐津駅徒歩10分。3日の西の浜お旅所神幸は12時頃が最大の見せ場。",
+    "name_en": "Karatsu Kunchi",
+    "shrine_en": "Karatsu Shrine",
+    "prefecture_en": "Saga",
+    "city_en": "Karatsu City",
+    "date_pattern_en": "November 2–4 each year",
+    "summary_en": "The autumn festival of Karatsu Shrine, observed each year from the second to the fourth of November, is one of the great float festivals of western Japan, ranking alongside Kyoto's Gion Matsuri and Hakata's Yamakasa. Across three days, fourteen monumental hikiyama — lacquered floats up to seven meters tall, shaped as lions, helmets, dragons, and mythical sea creatures — are drawn through the streets of the castle town by teams of several thousand pullers. The climactic moment occurs at midday on November 3, when the floats are hauled across the soft sand of the Nishi-no-hama beach to the otabisho, their wheels sinking deep into the dunes as the pullers strain to the rhythmic cry of 'enya, enya' in the local Karatsu dialect. The fourteen extant floats, built between 1819 and 1876 by craftsmen working in lacquer, leaf gilding, and papier-mâché, were spared from wartime destruction and survive as some of Japan's finest examples of late-Edo and early-Meiji urban craftsmanship. Karatsu Kunchi was inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity in 2016.",
+    "highlights_en": [
+      "Procession of fourteen lacquer floats: late-Edo and Meiji-era hikiyama in lion, helmet, dragon, and sea-creature forms parade through the castle town",
+      "Hauling across Nishi-no-hama beach: at noon on November 3, the floats are pulled across the soft sand of the seashore to the otabisho, the festival's most demanding moment",
+      "The 'enya, enya' chant: thousands of pullers in dialect produce a sustained acoustic rhythm that defines the festival's atmosphere"
+    ],
+    "origin_en": "The current float procession traces its origin to 1819, when the first hikiyama, the Red Lion, was offered to Karatsu Shrine. By 1876, fourteen further floats had been added by the town wards. The festival was inscribed on the UNESCO Intangible Cultural Heritage List in 2016.",
+    "viewing_notes_en": "About ten minutes on foot from JR Karatsu Station. The hauling across the beach around noon on November 3 is the most prized vantage point; paid grandstand seats are available, but standing space is open and densely occupied. The Hikiyama Exhibition Hall displays the actual floats year-round."
+  },
+  {
+    "id": "fest-109",
+    "name": "阿蘇神社 火振り神事",
+    "name_kana": "あそじんじゃ ひふりしんじ",
+    "shrine": "阿蘇神社",
+    "category": "fire",
+    "prefecture": "熊本県",
+    "city": "阿蘇市",
+    "lat": 32.951389,
+    "lng": 131.118889,
+    "date_pattern": "毎年3月の卯の祭期間中（巳の日）",
+    "date_2026": "2026-03-23",
+    "date_2026_end": null,
+    "summary": "阿蘇神社の田作祭の中核行事。茅束を振り回して姫神を迎える火祭り。",
+    "highlights": [
+      "茅束の火振り",
+      "姫神迎えの神事",
+      "三月の高原の闇"
+    ],
+    "origin": "祭神・健磐龍命と阿蘇都比咩命の婚姻神話に基づく予祝儀礼。",
+    "official_url": "https://asojinja.or.jp/events/tatsukuri/",
+    "reference_urls": [
+      "https://asojinja.or.jp/events/tatsukuri/"
+    ],
+    "viewing_notes": "JR宮地駅徒歩15分。日没後の開始のため防寒必須。",
+    "name_en": "Aso Shrine Hifuri Shinji",
+    "shrine_en": "Aso Shrine",
+    "prefecture_en": "Kumamoto",
+    "city_en": "Aso City",
+    "date_pattern_en": "Snake day during the U-no-Matsuri in March (annual)",
+    "summary_en": "On a designated evening in late March, the great shrine of Aso — one of the oldest in Kyushu, situated on the inner floor of the world's largest caldera — performs one of Japan's most striking fire rites. After nightfall, parishioners and pilgrims gather along the approach to the shrine bearing kayataba, bundles of dried miscanthus reeds bound at one end of a long pendant cord. The bundles are kindled, and the participants whirl them overhead in steady arcs, forming concentric rings of flame that line the dark approach. The rite enacts a passage from the founding mythology of Aso, in which the deity Takeiwatatsu-no-Mikoto receives his consort Asotsuhime through the light of torches that guide her along the path. As the springtime opening of the agricultural cycle on the Aso plateau, the festival is also one of the constituent rites of 'The Agricultural Festivals of Aso,' designated by the Japanese government as an Important Intangible Folk Cultural Property in 1982.",
+    "highlights_en": [
+      "Whirling reed bundles: long cords of burning kayataba turn overhead in slow arcs along the temple approach, producing successive rings of flame in the dark",
+      "Reenactment of the bridal procession: the rite stages the mythological reception of the consort goddess Asotsuhime by the deity of Mt. Aso",
+      "Highland evening: held in the cold mountain air of the Aso caldera in late March, the festival is set against an unusually clear sky and the surrounding silhouette of the volcano"
+    ],
+    "origin_en": "The festival is rooted in the founding mythology of Aso Shrine, in which the deity Takeiwatatsu welcomes his consort Asotsuhime through torchlight. It survives as part of 'The Agricultural Festivals of Aso,' designated an Important Intangible Folk Cultural Property in 1982.",
+    "viewing_notes_en": "About fifteen minutes on foot from Miyaji Station on the JR Hōhi Line. The rite begins after sundown and warm clothing is essential; visitor participation is permitted, with reed bundles available for a fee on site. A wide-angle lens is best for capturing the full arcs of flame."
+  },
+  {
+    "id": "fest-110",
+    "name": "高千穂神社 棚田神楽",
+    "name_kana": "たかちほじんじゃ たなだかぐら",
+    "shrine": "高千穂神社",
+    "category": "other",
+    "prefecture": "宮崎県",
+    "city": "西臼杵郡高千穂町",
+    "lat": 32.708611,
+    "lng": 131.305556,
+    "date_pattern": "毎年3月上旬の土曜日",
+    "date_2026": "2026-03-07",
+    "date_2026_end": null,
+    "summary": "重要無形民俗文化財「高千穂の夜神楽」を棚田の畦で奉納する春の特別公演。",
+    "highlights": [
+      "棚田×神楽",
+      "戸取・手力雄の舞",
+      "山里の闇と星空"
+    ],
+    "origin": "高千穂の夜神楽は中世以来の修験道系神楽。棚田神楽は冬季神楽の普及を目的とした特別公演。",
+    "official_url": "https://takachiho-kanko.info/event/47/",
+    "reference_urls": [
+      "https://takachiho-kanko.info/event/47/"
+    ],
+    "viewing_notes": "高千穂は3月でも氷点下になる夜あり。防寒必須。",
+    "name_en": "Takachiho Shrine Tanada Kagura",
+    "shrine_en": "Takachiho Shrine",
+    "prefecture_en": "Miyazaki",
+    "city_en": "Takachiho Town, Nishi-Usuki District",
+    "date_pattern_en": "Saturday in early March (annual)",
+    "summary_en": "On a single evening in early March, the village of Takachiho — long understood within the Kojiki as the place of descent of the imperial ancestor Ninigi-no-Mikoto — hosts a specialized open-air performance of its winter night-kagura on the terraced rice fields. Where the traditional yokagura cycle is performed across more than twenty hamlets from late autumn through February inside private dwellings designated as 'kagura inns,' the Tanada Kagura takes the same masked liturgical dance into the cold air of the terraces, surrounded by stone-bermed paddies awaiting spring planting. Bonfires are lit along the ridges, and the central episodes of the Iwato cycle — Totori, Tajikarao, and the opening of the cave of heaven — are performed to flute and drum. Inscribed as an Important Intangible Folk Cultural Property in 1978, Takachiho's kagura is among the most thoroughly studied of Japan's surviving Shugendō-influenced ritual dance traditions, and the open-air spring performance places it in direct relation to the mythological landscape that gave rise to it.",
+    "highlights_en": [
+      "Terraced fields as ritual stage: the kagura is performed on the unplanted paddies in the dark of early March, with bonfires lining the stone bunds",
+      "The opening of the heavenly rock cave: the climactic dances of Totori and Tajikarao, in which the cave is forced open and Amaterasu drawn forth, are among the most physically dramatic in the cycle",
+      "Highland night and star fields: the absence of light pollution in the Takachiho gorge allows the kagura to be seen against an exceptionally clear winter sky"
+    ],
+    "origin_en": "The yokagura of Takachiho derives from Shugendō-influenced ritual dance brought into the gorge by mountain ascetics in the medieval period. Designated an Important Intangible Folk Cultural Property in 1978, it survives in more than twenty hamlets; the spring Tanada Kagura is a modern outreach format.",
+    "viewing_notes_en": "About ninety minutes by bus from Nobeoka Station on the JR Nippō Line. The venue is on unpaved field terraces, and night temperatures in March may drop below freezing; warm clothing and hand-warmers are advisable. Advance reservation is sometimes required and should be confirmed through the town tourism office."
+  },
+  {
+    "id": "fest-111",
+    "name": "壱岐大大神楽",
+    "name_kana": "いきだいだいかぐら",
+    "shrine": "住吉神社（壱岐）ほか",
+    "category": "other",
+    "prefecture": "長崎県",
+    "city": "壱岐市",
+    "lat": 33.785278,
+    "lng": 129.713889,
+    "date_pattern": "8月および12月（年2回のみ）",
+    "date_2026": "2026-08-22",
+    "date_2026_end": null,
+    "summary": "国指定重要無形民俗文化財。約700年の歴史を持つ社家神楽の最高位、35番8時間の長丁場。",
+    "highlights": [
+      "35番・8時間の長丁場",
+      "神職のみによる奉納",
+      "湯立行事・御湯舞"
+    ],
+    "origin": "鎌倉期以降、壱岐島内の神社神職により伝承。1987年に国の重要無形民俗文化財に指定。",
+    "official_url": "https://www.nagasaki-tabinet.com/islands/events/100060",
+    "reference_urls": [
+      "https://www.nagasaki-tabinet.com/islands/events/100060"
+    ],
+    "viewing_notes": "博多港から高速船で約1時間。8時間の長丁場のため水分・椅子等の準備推奨。",
+    "name_en": "Iki Daidai Kagura",
+    "shrine_en": "Sumiyoshi Shrine (Iki) and others",
+    "prefecture_en": "Nagasaki",
+    "city_en": "Iki City",
+    "date_pattern_en": "Two performances annually, in August and December",
+    "summary_en": "On the island of Iki in the Genkai Sea, twice each year, the most elaborate form of one of Japan's most venerable shrine-musical traditions is performed: the Iki Daidai Kagura. With a history reckoned at roughly seven hundred years, Iki kagura is performed exclusively by the hereditary shrine priests of the island's roughly one hundred fifty shrines — a structural feature that distinguishes it from the more common 'village kagura' performed by lay villagers or shrine maidens. Of the four classes of Iki kagura — small, medium, great, and great-of-greats — the daidai represents the most complete form, comprising thirty-five numbered dances and requiring six to eight hours to perform in its entirety. The core ritual segments include the yudate water-purification rite, the omayumai dances of the heavenly cave-door, and ceremonial uses of sword and mask. Designated an Important Intangible Folk Cultural Property in January 1987, the tradition stands alongside the Hirado kagura and Takachiho kagura as one of the major surviving expressions of late-medieval Kyushu Shinto ritual.",
+    "highlights_en": [
+      "Thirty-five numbered dances across six to eight hours: among the longest surviving kagura cycles in continuous performance in Japan",
+      "Performance by shrine priests alone: in contrast to the more familiar 'village kagura,' all roles are filled by the hereditary clergy of Iki's shrines",
+      "Preservation of yudate water rites: the inclusion of the heated-water purification rite at the core of the performance retains an ancient stratum of Shinto practice"
+    ],
+    "origin_en": "Transmitted from the Kamakura period onward by the priesthood of Iki Island's shrines, and developed under the patronage of the Matsuura clan of Hirado domain in the early modern period. The tradition was designated an Important Intangible Folk Cultural Property of Japan in January 1987.",
+    "viewing_notes_en": "Iki is reached by jetfoil from Hakata Port in about an hour. The August performance is generally open to the public; the December 20 observance at Sumiyoshi Shrine is more strictly ritual and access should be confirmed in advance. Given the duration of six to eight hours, water and a portable seat are advisable."
+  },
+  {
+    "id": "fest-112",
+    "name": "彌彦神社 弓始神事",
+    "name_kana": "やひこじんじゃ ゆみはじめしんじ",
+    "shrine": "彌彦神社",
+    "category": "other",
+    "prefecture": "新潟県",
+    "city": "西蒲原郡弥彦村",
+    "lat": 37.708333,
+    "lng": 138.831944,
+    "date_pattern": "毎年1月7日",
+    "date_2026": "2026-01-07",
+    "date_2026_end": null,
+    "summary": "越後一宮・彌彦神社の弓矢神事。100本の矢を射放ち五穀豊穣を祈る。",
+    "highlights": [
+      "100本の矢の奉射",
+      "雪中の弓場",
+      "新潟随一の越後一宮"
+    ],
+    "origin": "祭神・天香山命の武勇にちなむ古来の弓矢神事。矢卜（やうら）の系譜。",
+    "official_url": "https://www.e-yahiko.com/spot/yumihajime/",
+    "reference_urls": [
+      "https://www.e-yahiko.com/spot/yumihajime/"
+    ],
+    "viewing_notes": "JR弥彦駅徒歩15分。神事は午前9時開始、所要約1時間半。",
+    "name_en": "Yahiko Shrine Yumihajime Shinji",
+    "shrine_en": "Yahiko Shrine",
+    "prefecture_en": "Niigata",
+    "city_en": "Yahiko Village, Nishikambara District",
+    "date_pattern_en": "January 7 each year",
+    "summary_en": "Each year on the seventh of January, at the snow-bound first shrine of the former Echigo province, an archery rite is performed in honor of the enshrined deity Ame-no-Kayama-no-Mikoto, traditionally remembered as a warrior who accompanied Emperor Jimmu in his eastward campaign. Archers in heavy court robes — kariginu over sashinuki — take up positions on the snow-covered archery range before the main hall and proceed to loose one hundred arrows over the course of approximately ninety minutes, the count of hits used to divine the coming year's harvest and the community's exposure to misfortune. The rite belongs to the broader category of yaura, divinatory arrow ceremonies, and is a standing-archery counterpart to the mounted yabusame of the great Kantō shrines. The hush of the snow-blanketed precincts, the slow tempo of preparation, and the muted thud of arrows into the straw target give the festival a distinctly meditative character, marking it as one of the most aesthetically restrained New Year rituals of the Hokuriku region.",
+    "highlights_en": [
+      "Volley of one hundred arrows: the count of hits is read as a divination of the coming year's harvest and well-being",
+      "Snowbound archery range: the rite is performed on the snow-covered grounds of one of the great shrines of the Sea of Japan coast",
+      "First shrine of the former Echigo province: the festival anchors the New Year rites of a mountain-deity sanctuary continuously revered since at least the early medieval period"
+    ],
+    "origin_en": "Yahiko Shrine, listed in the tenth-century Engishiki register, has long been associated with the warrior deity Ame-no-Kayama-no-Mikoto. The Yumihajime archery rite is recorded in early modern priestly archives and is believed to descend from older agrarian divinatory practices.",
+    "viewing_notes_en": "About fifteen minutes on foot from Yahiko Station on the JR Yahiko Line. The rite begins at 9 a.m. and runs roughly an hour and a half; the precincts are deep in snow and footwear with traction is necessary. Visitors hoping to photograph individual hits will find a telephoto lens helpful."
   }
 ]
