@@ -36,7 +36,7 @@ def enrich(item):
     p = photos.get(iid)
     if p:
         if isinstance(p, dict):
-            item['photo_url'] = p.get('url')
+            item['photo_url'] = p.get('primary') or p.get('url')
             item['photo_credit'] = p.get('credit')
             item['photo_license'] = p.get('license')
         elif isinstance(p, str):
