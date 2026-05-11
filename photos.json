@@ -609,26 +609,26 @@
   },
   "spot-055": {
     "name": "まんだら遊苑",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/1/15/Tateyama-museum_toyama-pref.jpg",
+    "credit": "Wikimedia Commons / XF10 / CC BY-SA 4.0",
     "alt_photos": []
   },
   "spot-056": {
     "name": "大観音寺・ルーブル彫刻美術館",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Louvre_Sculpture_Museum%2C_Mie.jpg",
+    "credit": "Wikimedia Commons / Miyuki Meinaka / CC BY-SA 4.0",
     "alt_photos": []
   },
   "spot-057": {
     "name": "神島 監的哨跡",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/1/13/Artillery_observer_station%28%5E%29_%2C_%E7%A5%9E%E5%B3%B6_%E7%9B%A3%E7%9A%84%E5%93%A8%E8%B7%A1_-_panoramio_-_z_tanuki.jpg",
+    "credit": "Wikimedia Commons / z tanuki / CC BY 3.0",
     "alt_photos": []
   },
   "spot-058": {
     "name": "丹生水銀鉱跡",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/5/55/%E4%B8%B9%E7%94%9F%E9%89%B1%E5%B1%B1%E5%8F%A3%E8%B7%A1.JPG",
+    "credit": "Wikimedia Commons / Wikimedia contributor / CC BY-SA 3.0",
     "alt_photos": []
   },
   "spot-059": {
@@ -669,8 +669,8 @@
   },
   "spot-065": {
     "name": "関・観音山公園の石仏群",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/0/01/KannonYama%2C_Seki-cho%2C_Kameyama-shi_%28%E8%A6%B3%E9%9F%B3%E5%B1%B1_%E4%BA%80%E5%B1%B1%E5%B8%82%E9%96%A2%E7%94%BA%29_-_panoramio_%282%29.jpg",
+    "credit": "Wikimedia Commons / carloshonda / CC BY 3.0",
     "alt_photos": []
   },
   "spot-066": {
@@ -681,8 +681,8 @@
   },
   "spot-067": {
     "name": "岩屋観音と清滝",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Sekisuikei.jpg",
+    "credit": "Wikimedia Commons / Motokoka / CC BY-SA 4.0",
     "alt_photos": []
   },
   "spot-068": {
@@ -759,8 +759,8 @@
   },
   "spot-080": {
     "name": "金山巨石群・岩屋岩蔭遺跡",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/af/Iwayaiwakage_saigenkan.JPG",
+    "credit": "Wikimedia Commons / Opqr / CC BY-SA 3.0",
     "alt_photos": []
   },
   "spot-081": {
@@ -813,8 +813,8 @@
   },
   "spot-089": {
     "name": "湯殿山総本寺 瀧水寺大日坊 即身仏真如海上人",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/9/99/Dainichibou.jpg",
+    "credit": "Wikimedia Commons / 東京都下おじさん / CC BY-SA 4.0",
     "alt_photos": []
   },
   "spot-090": {
@@ -831,8 +831,8 @@
   },
   "spot-092": {
     "name": "湯殿山 注連寺 即身仏鉄門海上人",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Churenji.jpg",
+    "credit": "Wikimedia Commons / Funioti-taro / Public domain",
     "alt_photos": []
   },
   "spot-093": {
@@ -849,14 +849,14 @@
   },
   "spot-095": {
     "name": "お松権現社（猫神さん）",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Omatsugongen_hall_of_worship.JPG",
+    "credit": "Wikimedia Commons / mti / CC0",
     "alt_photos": []
   },
   "spot-096": {
     "name": "多賀神社凸凹神堂",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/ab/TagaShrine_Log.JPG",
+    "credit": "Wikimedia Commons / Jpatokal / CC BY-SA 4.0",
     "alt_photos": []
   },
   "spot-097": {
