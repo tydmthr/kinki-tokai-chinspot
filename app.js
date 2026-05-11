@@ -887,8 +887,8 @@ function refreshThisMonth() {
     .map(x => x.f);
 
   sub.textContent = CURRENT_LANG === 'en'
-    ? `${monthName(month)} — ${monthFests.length} extraordinary days ahead`
-    : `${month}月（${monthName(month)}） — これから訪れるヤバい日々`;
+    ? `${monthName(month)}`
+    : `${month}月（${monthName(month)}）`;
 
   if (monthFests.length === 0) {
     grid.innerHTML = `<p class="tm-empty">${CURRENT_LANG === 'en' ? 'No upcoming festivals registered — explore the map instead.' : '今後の登録奇祭はありません。地図から珍スポットを巡ってみてください。'}</p>`;
