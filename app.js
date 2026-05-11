@@ -872,24 +872,26 @@ function refreshThisMonth() {
   if (!block || !grid) return;
 
   const now = new Date();
+  // JST今日0時を基準に「今日以降」を判定
+  const todayJST = new Date(now.getFullYear(), now.getMonth(), now.getDate());
   const month = now.getMonth() + 1;
-  // 該当月の祭をピックアップ
-  let monthFests = FESTIVALS.filter(f => {
-    if (f.date_2026) {
-      const d = new Date(f.date_2026 + 'T00:00:00+09:00');
-      return d.getMonth() + 1 === month;
-    }
-    const m = (f.date_pattern || '').match(/(\d+)月/);
-    return m && parseInt(m[1]) === month;
-  });
-  monthFests = monthFests.slice(0, 5);
+
+  // date_2026 があり「今日以降」の祭を日付昇順で上位5件
+  // （date_pattern のみの祭は厳密日付不明のため今回は除外）
+  let monthFests = FESTIVALS
+    .filter(f => f.date_2026)
+    .map(f => ({ f, dt: new Date(f.date_2026 + 'T00:00:00+09:00') }))
+    .filter(x => x.dt >= todayJST)
+    .sort((a, b) => a.dt - b.dt)
+    .slice(0, 5)
+    .map(x => x.f);
 
   sub.textContent = CURRENT_LANG === 'en'
     ? `${monthName(month)} — ${monthFests.length} extraordinary days ahead`
-    : `${month}月（${monthName(month)}） — 今月のヤバい日々`;
+    : `${month}月（${monthName(month)}） — これから訪れるヤバい日々`;
 
   if (monthFests.length === 0) {
-    grid.innerHTML = `<p class="tm-empty">${CURRENT_LANG === 'en' ? 'No festivals scheduled this month — explore the map instead.' : '今月の登録奇祭はありません。地図から珍スポットを巡ってみてください。'}</p>`;
+    grid.innerHTML = `<p class="tm-empty">${CURRENT_LANG === 'en' ? 'No upcoming festivals registered — explore the map instead.' : '今後の登録奇祭はありません。地図から珍スポットを巡ってみてください。'}</p>`;
     return;
   }
   grid.innerHTML = monthFests.map(f => `
