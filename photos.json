@@ -453,8 +453,8 @@
   },
   "fest-026": {
     "name": "潮かけ祭り（大島祭）",
-    "primary": null,
-    "credit": null,
+    "primary": "https://www.kankomie.or.jp/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcnBxIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5bc053d6e67c10cc76f99accedad15d3225aa7ba/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oSnlaWE5wZW1WZmRHOWZabWwwV3dkcEFwQUJNQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--b09a9ff8f7feb86019d77da17db2106d0ec9bb68/1555_1_org.jpg",
+    "credit": "三重県観光連盟「観光三重」公式素材（photo_free枚）",
     "alt_photos": []
   },
   "fest-027": {
@@ -1011,21 +1011,27 @@
   },
   "fest-082": {
     "name": "キリスト祭",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Wooden_Cross_of_KIRISUTO_NO_HAKA_in_Shingo_Village_Aomori_Prefecture_01.jpg",
-    "credit": "Wikimedia Commons / CC0",
-    "alt_photos": []
+    "primary": "https://images.keizai.biz/hachinohe_keizai/headline/1686117428_photo.jpg",
+    "credit": "八戸経済新聞（許諾依頼中）",
+    "alt_photos": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/7c/Wooden_Cross_of_KIRISUTO_NO_HAKA_in_Shingo_Village_Aomori_Prefecture_01.jpg"
+    ]
   },
   "fest-087": {
     "name": "牛越祭り",
-    "primary": null,
-    "credit": null,
+    "primary": "https://tabi-mag.jp/wp-content/uploads/ushigoematsuril1.jpg",
+    "credit": "ニッポン旅マガジン（許諾依頼中）",
     "alt_photos": []
   },
   "fest-093": {
     "name": "八重山のアンガマ",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/1/16/Ishigaki_yaimamura_angama.jpg",
-    "credit": "Wikimedia Commons / CC BY-SA 4.0",
-    "alt_photos": []
+    "primary": "https://yaeyama.or.jp/wp-content/uploads/2019/10/328240ae4ddc22b9273cfaf6015e41d5.jpg",
+    "credit": "八重山ビジターズビューロー（許諾依頼中）",
+    "alt_photos": [
+      "https://yaeyama.or.jp/wp-content/uploads/2023/10/DSC_0803-1024x577.jpg",
+      "https://yaeyama.or.jp/wp-content/uploads/2023/10/DSC_0616-1024x577.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/16/Ishigaki_yaimamura_angama.jpg"
+    ]
   },
   "fest-051": {
     "name": "関宿祇園夏まつり・関の山車",
