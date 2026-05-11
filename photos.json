@@ -303,20 +303,20 @@
   },
   "fest-001": {
     "name": "法界寺 裸踊り（修正会）",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Hokaiji05s1920.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-002": {
     "name": "四天王寺 どやどや（修正会結願法要）",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/8/82/Shitennoji06s3200.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-003": {
     "name": "西宮神社 開門神事 福男選び",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/9/99/Nishinomiya-jinja02st3200.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-004": {
@@ -327,44 +327,44 @@
   },
   "fest-005": {
     "name": "飛鳥坐神社 おんだ祭（田遊び）",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/0/08/Asukaniimasu-jinja04n3900.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-006": {
-    "name": "神倉神社 お燈祭り（御燈祭り）",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/4/44/Kamikura-jinja%2C_shaden.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "name": "神倉神社 お燈祭り",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/1/14/518wakayama-Kumano_Oto_Festival-xl.jpg",
+    "credit": "Wikimedia Commons / CC BY 4.0",
     "alt_photos": []
   },
   "fest-007": {
     "name": "尾鷲ヤーヤ祭り",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Owase_Shrine_%28Jinja%29_-_panoramio.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-008": {
-    "name": "豊橋鬼祭り（安久美神戸神明社例祭）",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/6/6c/%E6%84%9B%E7%9F%A5%E7%9C%8C%E8%B1%8A%E6%A9%8B%E5%B8%82_20250211_1711-3.jpg",
-    "credit": "Wikimedia Commons / CC BY-SA",
+    "name": "豊橋鬼祭り",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Toyohashi_Onimatsuri_%E8%B1%8A%E6%A9%8B%E9%AC%BC%E7%A5%AD_%E8%B5%A4%E9%AC%BC%E3%81%A8%E5%A4%A9%E7%8B%97%E3%81%AE%E3%81%8B%E3%82%89%E3%81%8B%E3%81%84.jpg",
+    "credit": "Wikimedia Commons / Public domain",
     "alt_photos": []
   },
   "fest-009": {
     "name": "砂かけ祭り",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/0/0b/HIROSE_TAISHA_TAIHO.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA ※廣瀬大社（奈良）の砂かけ祭り関連",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-010": {
     "name": "田縣神社 豊年祭",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Tagata_jinja_haiden_2020-12_ac_%281%29.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/f/f2/H%C5%8Dnen_Matsuri_2.JPG",
+    "credit": "Wikimedia Commons / CC BY 3.0",
     "alt_photos": []
   },
   "fest-011": {
-    "name": "大縣神社 豊年祭（おおがた祭）",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/20/%C5%8Cagata-jinja_Haiden.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "name": "大縣神社 豊年祭",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/4/42/Festival_Street_at_%C5%8Cagata_Shrine_-_March_2008.jpg",
+    "credit": "Wikimedia Commons / CC BY 3.0",
     "alt_photos": []
   },
   "fest-012": {
@@ -375,32 +375,32 @@
   },
   "fest-013": {
     "name": "嵯峨お松明式（清凉寺）",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Seiryoji_temple_%288278704083%29.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-014": {
     "name": "淡嶋神社 雛流し",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/5/58/Awashima-jinja%2C_haiden.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-015": {
     "name": "大瀬まつり（内浦漁港祭）",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Hikitechikaranomikoto_Jinja.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-016": {
     "name": "やすらい祭（玄武神社）",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/d/da/Imamiya.jpg",
-    "credit": "Wikimedia Commons / CC BY-SA",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-017": {
-    "name": "手力の火祭り（手力雄神社）",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/0/09/Chikuma_Shrine_20210413_04.jpg",
-    "credit": "Wikimedia Commons / CC BY-SA",
+    "name": "手力の火祭",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Tedikara_no_himaturi_natu_1.JPG",
+    "credit": "Wikimedia Commons / CC BY-SA 3.0",
     "alt_photos": []
   },
   "fest-018": {
@@ -422,15 +422,15 @@
     "alt_photos": []
   },
   "fest-021": {
-    "name": "多度大社 上げ馬神事（多度祭）",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Tado_Taisha01.jpg",
-    "credit": "Wikimedia Commons / CC BY-SA",
+    "name": "多度大社 上げ馬神事",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Tado_Festival_2.jpg",
+    "credit": "Wikimedia Commons / CC BY 3.0",
     "alt_photos": []
   },
   "fest-022": {
-    "name": "伊雑宮 御田植祭（磯部の御神田）",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Izawa-no-miya_07.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "name": "伊雑宮 御田植祭",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Izawa-mitaue_01.JPG",
+    "credit": "Wikimedia Commons / CC BY 2.5",
     "alt_photos": []
   },
   "fest-023": {
@@ -441,8 +441,8 @@
   },
   "fest-024": {
     "name": "熊野那智大社 那智の扇祭り（那智の火祭）",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Shrine_Kumano_nachi01.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-025": {
@@ -453,8 +453,8 @@
   },
   "fest-026": {
     "name": "潮かけ祭り（大島祭）",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Wagu_Yakumo_Shrine.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-027": {
@@ -494,9 +494,9 @@
     "alt_photos": []
   },
   "fest-033": {
-    "name": "采女祭（うねめまつり）",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/0/02/Uneme_Jinja_in_Nara.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "name": "采女祭",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Uneme_Matsuri_Festival_2015092701.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 3.0",
     "alt_photos": []
   },
   "fest-034": {
@@ -513,8 +513,8 @@
   },
   "fest-036": {
     "name": "丹生祭（笑い祭）",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Niutsuhime-jinja_roumon-3.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-037": {
@@ -524,15 +524,15 @@
     "alt_photos": []
   },
   "fest-038": {
-    "name": "広隆寺 牛祭り（太秦牛祭）",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Kouryuji_Taishiden.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "name": "広隆寺 牛祭り",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Ushimatsuri.jpg",
+    "credit": "Wikimedia Commons / Public domain",
     "alt_photos": []
   },
   "fest-039": {
     "name": "奥山大権現 虫送り（奥山ほたる祭）",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/0/06/Hokoji-hondo.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-040": {
@@ -543,20 +543,20 @@
   },
   "fest-041": {
     "name": "石上神宮 鎮魂祭",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Isonokami_Jingu_Haiden1.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-042": {
     "name": "長浜のつや物祭",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/c9/180922_Nagahama_Castle_Nagahama_Shiga_pref_Japan01.JPG",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-043": {
     "name": "豊橋市 どんき祭",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Toyohashi_Oni_Festival%E8%B1%8A%E6%A9%8B%E9%AC%BC%E7%A5%AD_%E8%A1%97%E8%A7%92.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 4.0",
     "alt_photos": []
   },
   "fest-044": {
@@ -567,20 +567,20 @@
   },
   "fest-045": {
     "name": "鈴鹿の御頭神事（三重・椿大神社）",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/7/74/Tsubaki-shrine.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-046": {
     "name": "石上神宮 摂社での元旦祭・産声祭",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Isonokami_Jingu_Haiden1.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-047": {
     "name": "多度大社 初詣・元旦馬駆け（新年神事）",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tado-taisha%2C_hongu_and_betsugu.jpg",
-    "credit": "Wikimedia Commons / Wikipedia contributor / CC BY-SA",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "spot-051": {
@@ -897,7 +897,7 @@
   },
   "fest-094": {
     "name": "なまはげ柴灯まつり",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Sinzanzinzya_Syaden.JPG",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/9/96/Namahage_Sedo_Festival_namahage.jpg",
     "credit": "Wikimedia Commons / CC BY-SA 4.0",
     "alt_photos": []
   },
@@ -921,8 +921,8 @@
   },
   "fest-098": {
     "name": "真清田神社 桃花祭",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/22/Aichiken_masumidajinja.png",
-    "credit": "Wikimedia Commons / CC0",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-099": {
@@ -933,8 +933,8 @@
   },
   "fest-100": {
     "name": "早池峰神社 蘇民祭",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/6/69/Hayachine_Shrine%2C_%E6%97%A9%E6%B1%A0%E5%B3%B0%E7%A5%9E%E7%A4%BE_-_panoramio.jpg",
-    "credit": "Wikimedia Commons / CC BY 3.0",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-101": {
@@ -957,20 +957,20 @@
   },
   "fest-104": {
     "name": "總願寺 節分会 鬼追い豆撒き式",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/3/30/Sogan-ji_Kazo_Saitama_01.jpg",
-    "credit": "Wikimedia Commons / CC BY-SA 3.0",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-105": {
     "name": "鬼怒川温泉 招福鬼まつり",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Kinu-Tateiwa_%C5%8C-Tsuribashi_bridge.jpg",
-    "credit": "Wikimedia Commons / CC BY-SA 3.0",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-106": {
     "name": "厳島神社 管絃祭",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/1/18/20100723_Miyajima_Itsukushima_4815.jpg",
-    "credit": "Wikimedia Commons / CC BY-SA 4.0",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Kangen_jigozen2.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 3.0",
     "alt_photos": []
   },
   "fest-107": {
@@ -987,8 +987,8 @@
   },
   "fest-109": {
     "name": "阿蘇神社 火振り神事",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/4/41/Aso_Jinja_02.JPG",
-    "credit": "Wikimedia Commons / CC BY-SA 3.0",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/5/56/%E5%BE%A1%E5%89%8D%E8%BF%8E%E3%81%88_%E7%81%AB%E6%8C%AF%E3%82%8A%E6%A8%AA.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 4.0",
     "alt_photos": []
   },
   "fest-110": {
@@ -999,8 +999,8 @@
   },
   "fest-111": {
     "name": "壱岐大大神楽",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/1/14/Iki_jinja%2C_Nagasaki_Haiden.jpg",
-    "credit": "Wikimedia Commons / CC BY-SA 3.0",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-112": {
@@ -1017,8 +1017,8 @@
   },
   "fest-087": {
     "name": "牛越祭り",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Kirishimamine_Jinja_Haiden.jpg",
-    "credit": "Wikimedia Commons / Public Domain",
+    "primary": null,
+    "credit": null,
     "alt_photos": []
   },
   "fest-093": {
@@ -1035,5 +1035,113 @@
       "https://upload.wikimedia.org/wikipedia/commons/8/8b/%E4%B8%89%E9%87%8D%E7%9C%8C%E4%BA%80%E5%B1%B1%E5%B8%82%E9%96%A2%E7%94%BA_%E6%9C%A8%E5%B4%8E%E7%94%BA%E5%B1%B1%E8%BB%8A_20250222_1040.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/a/ae/%E4%B8%89%E9%87%8D%E7%9C%8C%E4%BA%80%E5%B1%B1%E5%B8%82%E9%96%A2%E7%94%BA_%E4%B8%89%E7%95%AA%E7%94%BA%E5%B1%B1%E8%BB%8A_20250222_0929.jpg"
     ]
+  },
+  "fest-048": {
+    "name": "国崎のノット正月",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "fest-049": {
+    "name": "梶賀ハラソ祭り",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "fest-052": {
+    "name": "忍山神社のキッカケ祭り",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "fest-053": {
+    "name": "鳥羽の火祭り",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/3/39/Toba_Fire_Festival1.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 4.0",
+    "alt_photos": []
+  },
+  "fest-054": {
+    "name": "瀧山寺鬼祭り",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "fest-055": {
+    "name": "奥三河の花祭",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Hanamatsuri_in_Toei_1_%28cropped%29.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 3.0",
+    "alt_photos": []
+  },
+  "fest-056": {
+    "name": "下呂温泉 花笠まつり",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gero_no_Ta_no_Kami_Festival%2C_Marching_people.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 4.0",
+    "alt_photos": []
+  },
+  "fest-059": {
+    "name": "吉田の火祭り",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/8/82/Torches_burning_Yoshida_Fire_Festival_A.JPG",
+    "credit": "Wikimedia Commons / CC BY-SA 3.0",
+    "alt_photos": []
+  },
+  "fest-061": {
+    "name": "黒石寺蘇民祭",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "fest-062": {
+    "name": "笠間 悪態まつり",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Akutai_matsuri_in_kasama_%283%29.jpg",
+    "credit": "Wikimedia Commons / CC0",
+    "alt_photos": []
+  },
+  "fest-067": {
+    "name": "浦佐毘沙門堂裸押合大祭",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "fest-068": {
+    "name": "高知 どろんこ祭り",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "fest-070": {
+    "name": "西大寺会陽（裸祭り）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/8/89/Hadaka_Matsuri_%28-Naked_Festival-%29_in_Saidaiji%2C_Japan.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 3.0",
+    "alt_photos": []
+  },
+  "fest-071": {
+    "name": "かなまら祭",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Kanamara_Matsuri_2007_%28phallus_festival%29-crop.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 2.0",
+    "alt_photos": []
+  },
+  "fest-072": {
+    "name": "ほだれ祭",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/22/Hodare_Festival_2014_01.jpg",
+    "credit": "Wikimedia Commons / CC BY 3.0",
+    "alt_photos": []
+  },
+  "fest-073": {
+    "name": "鬼来迎（広済寺の鬼舞）",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "fest-074": {
+    "name": "見付天神裸祭",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "fest-075": {
+    "name": "ベッチャー祭",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Beccha_beta.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 3.0",
+    "alt_photos": []
   }
 }
