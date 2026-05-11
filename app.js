@@ -928,7 +928,7 @@ function refreshThisMonth() {
 
   // date_2026 あり→確定日、なし→date_patternから推定
   // 「今日以降」の祭を日付昇順で上位5件。過去日は繰り上げず除外
-  let monthFests = FESTIVALS
+  const upcoming = FESTIVALS
     .map(f => {
       const dt = f.date_2026
         ? new Date(f.date_2026 + 'T00:00:00+09:00')
@@ -936,13 +936,22 @@ function refreshThisMonth() {
       return { f, dt };
     })
     .filter(x => x.dt && x.dt >= todayJST)
-    .sort((a, b) => a.dt - b.dt)
-    .slice(0, 5)
-    .map(x => x.f);
+    .sort((a, b) => a.dt - b.dt);
 
-  sub.textContent = CURRENT_LANG === 'en'
-    ? `${monthName(month)}`
-    : `${month}月（${monthName(month)}）`;
+  // 今月内に未来の祭があるか判定（サブタイトル表示切り替え用）
+  const hasThisMonth = upcoming.some(x => x.dt.getMonth() + 1 === month);
+
+  let monthFests = upcoming.slice(0, 5).map(x => x.f);
+
+  if (hasThisMonth) {
+    sub.textContent = CURRENT_LANG === 'en'
+      ? `${monthName(month)}`
+      : `${month}月（${monthName(month)}）`;
+  } else {
+    sub.textContent = CURRENT_LANG === 'en'
+      ? `Festivals Ahead`
+      : `次なる祭礼`;
+  }
 
   if (monthFests.length === 0) {
     grid.innerHTML = `<p class="tm-empty">${CURRENT_LANG === 'en' ? 'No upcoming festivals registered — explore the map instead.' : '今後の登録奇祭はありません。地図から珍スポットを巡ってみてください。'}</p>`;
