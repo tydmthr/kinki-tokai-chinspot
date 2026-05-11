@@ -828,7 +828,7 @@ function buildList() {
     });
     grid.innerHTML = items.map(f => `
       <div class="list-card is-festival ${visitedSet.has(f.id)?'is-visited':''}" data-id="${f.id}" data-type="fest">
-        ${f.photo ? `<div class="lc-photo"><img src="${f.photo}" alt="${f.name}" loading="lazy" onerror="this.parentNode.style.display='none'"/></div>` : ''}
+        ${f.photo_url ? `<div class="lc-photo"><img src="${f.photo_url}" alt="${f.name}" loading="lazy" onerror="this.parentNode.style.display='none'"/></div>` : ''}
         <div class="lc-body">
           <p class="lc-cat">${CURRENT_LANG==='en'?'Festival':'奇祭'} ／ ${fcatLabel(f.category)}</p>
           <h3 class="lc-name">${pick(f,'name','name_en')}</h3>
@@ -959,7 +959,7 @@ function refreshThisMonth() {
   }
   grid.innerHTML = monthFests.map(f => `
     <div class="tm-card" data-id="${f.id}">
-      ${f.photo ? `<div class="tm-photo"><img src="${f.photo}" alt="${f.name}" loading="lazy" onerror="this.parentNode.style.display='none'"/></div>` : `<div class="tm-photo-placeholder">祭</div>`}
+      ${f.photo_url ? `<div class="tm-photo"><img src="${f.photo_url}" alt="${f.name}" loading="lazy" onerror="this.parentNode.style.display='none'"/></div>` : `<div class="tm-photo-placeholder">祭</div>`}
       <div class="tm-body">
         <p class="tm-date">${f.date_2026 ? formatDate(f.date_2026) : pick(f,'date_pattern','date_pattern_en')}</p>
         <h4 class="tm-name">${pick(f,'name','name_en')}</h4>

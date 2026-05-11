@@ -1008,5 +1008,23 @@
     "primary": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Daidaikagura_at_Yahiko_jinjya_01.jpg",
     "credit": "Wikimedia Commons / CC BY-SA 4.0",
     "alt_photos": []
+  },
+  "fest-082": {
+    "name": "キリスト祭",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Wooden_Cross_of_KIRISUTO_NO_HAKA_in_Shingo_Village_Aomori_Prefecture_01.jpg",
+    "credit": "Wikimedia Commons / CC0",
+    "alt_photos": []
+  },
+  "fest-087": {
+    "name": "牛越祭り",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Kirishimamine_Jinja_Haiden.jpg",
+    "credit": "Wikimedia Commons / Public Domain",
+    "alt_photos": []
+  },
+  "fest-093": {
+    "name": "八重山のアンガマ",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/1/16/Ishigaki_yaimamura_angama.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 4.0",
+    "alt_photos": []
   }
 }
