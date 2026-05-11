@@ -1062,8 +1062,8 @@
   },
   "fest-054": {
     "name": "瀧山寺鬼祭り",
-    "primary": null,
-    "credit": null,
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Onimatsuri1.JPG",
+    "credit": "Wikimedia Commons / CC BY-SA 4.0",
     "alt_photos": []
   },
   "fest-055": {
@@ -1142,6 +1142,12 @@
     "name": "ベッチャー祭",
     "primary": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Beccha_beta.jpg",
     "credit": "Wikimedia Commons / CC BY-SA 3.0",
+    "alt_photos": []
+  },
+  "fest-085": {
+    "name": "見島のカセドリ",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Mishima%27s_Kasedori_2017-02-11_01.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 4.0",
     "alt_photos": []
   }
 }
