@@ -865,6 +865,56 @@ document.getElementById('listSearch').addEventListener('input', e => {
 });
 
 // ============ This Month Section ============
+
+// 第N曜日を計算（year, month=1-12, n=1..5, wday=0(日)..6(土)）
+function nthWeekdayOfMonth(year, month, n, wday) {
+  const first = new Date(year, month - 1, 1);
+  const offset = (wday - first.getDay() + 7) % 7;
+  const day = 1 + offset + (n - 1) * 7;
+  // 月外にはみ出たら無効
+  const d = new Date(year, month - 1, day);
+  return d.getMonth() === month - 1 ? d : null;
+}
+
+// date_pattern から概算日付を推定（2026年固定）
+// 返値: Date または null（推定不可）
+function estimateFestDate(pattern, year) {
+  if (!pattern) return null;
+  const p = pattern;
+  // 休止・終了の明記は除外
+  if (/休止|終了/.test(p)) return null;
+
+  const WD = '日月火水木金土';
+  let m;
+
+  // 1) 年入り具体日: 「2026年は10月2日」「2026年は10/2」
+  m = p.match(new RegExp(year + '年[はの]?(\\d{1,2})月(\\d{1,2})日'));
+  if (m) return new Date(year, +m[1] - 1, +m[2]);
+
+  // 2) 「N月第M曜日」
+  m = p.match(/(\d{1,2})月第(\d)([日月火水木金土])曜/);
+  if (m) {
+    return nthWeekdayOfMonth(year, +m[1], +m[2], WD.indexOf(m[3]));
+  }
+
+  // 3) 「N月M日」固定日（範囲は初日を採用）
+  m = p.match(/(\d{1,2})月(\d{1,2})日/);
+  if (m) return new Date(year, +m[1] - 1, +m[2]);
+
+  // 4) 「N月上旬・中旬・下旬」
+  m = p.match(/(\d{1,2})月(上旬|中旬|下旬)/);
+  if (m) {
+    const day = { '上旬': 5, '中旬': 15, '下旬': 25 }[m[2]];
+    return new Date(year, +m[1] - 1, day);
+  }
+
+  // 5) 「N月」のみ（「N月頃」「N月頃」）→ 月初として1日と近似
+  m = p.match(/(\d{1,2})月/);
+  if (m) return new Date(year, +m[1] - 1, 1);
+
+  return null;
+}
+
 function refreshThisMonth() {
   const block = document.getElementById('thisMonthBlock');
   const grid = document.getElementById('thisMonthGrid');
@@ -876,12 +926,16 @@ function refreshThisMonth() {
   const todayJST = new Date(now.getFullYear(), now.getMonth(), now.getDate());
   const month = now.getMonth() + 1;
 
-  // date_2026 があり「今日以降」の祭を日付昇順で上位5件
-  // （date_pattern のみの祭は厳密日付不明のため今回は除外）
+  // date_2026 あり→確定日、なし→date_patternから推定
+  // 「今日以降」の祭を日付昇順で上位5件。過去日は繰り上げず除外
   let monthFests = FESTIVALS
-    .filter(f => f.date_2026)
-    .map(f => ({ f, dt: new Date(f.date_2026 + 'T00:00:00+09:00') }))
-    .filter(x => x.dt >= todayJST)
+    .map(f => {
+      const dt = f.date_2026
+        ? new Date(f.date_2026 + 'T00:00:00+09:00')
+        : estimateFestDate(f.date_pattern, 2026);
+      return { f, dt };
+    })
+    .filter(x => x.dt && x.dt >= todayJST)
     .sort((a, b) => a.dt - b.dt)
     .slice(0, 5)
     .map(x => x.f);
