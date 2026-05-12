@@ -4150,5 +4150,181 @@
       "warnings_extra": "地獄表現は子どもには刺激が強い可能性がある。宗教施設内の展示として敬意を払い、館内撮影可否や順路に従う。",
       "sources": "[地獄館公式](https://www.kurume-naritasan.or.jp/jigoku/), [成田山久留米分院 アクセス](https://www.kurume-naritasan.or.jp/access/), [成田山久留米分院公式](https://www.kurume-naritasan.or.jp/), [クロスロードふくおか](https://www.crossroadfukuoka.jp/spot/12724), [Wikipedia日本語版](https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E5%B1%B1%E4%B9%85%E7%95%99%E7%B1%B3%E5%88%86%E9%99%A2)"
     }
+  },
+  {
+    "id": "spot-103",
+    "name": "桂昌寺跡・地獄極楽",
+    "name_kana": "けいしょうじあと・じごくごくらく",
+    "category": "folk",
+    "prefecture": "大分県",
+    "city": "宇佐市",
+    "address": "大分県宇佐市安心院町東恵良",
+    "lat": 33.410602,
+    "lng": 131.388936,
+    "status": "現存",
+    "fee": "拝観料100円",
+    "hours": "常時開放",
+    "official_url": "https://www.city.usa.oita.jp/tourist/touristspot/touristspot2/touristspot3/10169.html",
+    "reference_urls": [
+      "https://www.usa-kanko.jp/pages/199/",
+      "https://www.navitime.co.jp/poi?spot=02301-t9513"
+    ],
+    "summary": "安心院町東恵良に残る桂昌寺跡の洞窟型巡礼空間。地獄道約40mと極楽道約30mの洞窟内に、閻魔大王、牛頭馬頭、奪衣婆、血の池地獄、十三仏などを配し、地獄から極楽へ至る物語を歩いて体験できる。江戸末期に大衆教導の場として造られたとされ、洞窟の終盤では縦穴を鎖づたいに登って地上へ出る構成も特徴。",
+    "highlights": [
+      "地獄道40m・極楽道30mを歩く洞窟型の地獄極楽巡り",
+      "閻魔大王・奪衣婆・血の池地獄などの立体的な教化表現",
+      "最後に縦穴を登って極楽へ出る身体性の強い動線"
+    ],
+    "from_kameyama": "車で約480分（新名神→山陽道→中国道→九州道→東九州道）",
+    "deepdive": {
+      "history_jp": "桂昌寺跡・地獄極楽は、大分県宇佐市安心院町東恵良に残る、江戸末期に造られたとされる洞窟型の地獄極楽巡り空間である。[宇佐市公式](https://www.city.usa.oita.jp/tourist/touristspot/touristspot2/touristspot3/10169.html) 地獄道約40m、極楽道約30mの洞窟内に、閻魔大王、牛頭馬頭、奪衣婆、血の池地獄、十三仏などが配置され、地獄から極楽へ至る物語を歩いて体験できる。[宇佐市観光協会](https://www.usa-kanko.jp/pages/199/)",
+      "cultural_context_jp": "江戸末期、大衆教導の場として造営された洞窟型の地獄極楽は、近世日本における仏教的因果応報の視覚化と娯楽性が重なる宗教空間として位置付けられる。地獄の恐怖を経て極楽に至る動線が、身体的な巡礼体験として残されている希少な事例。",
+      "local_perspective_jp": "宇佐市公式観光案内では、安心院町東恵良に所在し、拝観料100円、常時開放と案内される。[宇佐市公式](https://www.city.usa.oita.jp/tourist/touristspot/touristspot2/touristspot3/10169.html) 洞窟終盤では縦穴を鎖づたいに登って地上へ出る構成があり、装備と体力が必要と紹介される。",
+      "best_visit_time": "日中。洞窟内は暗いため懐中電灯を持参すると安心。",
+      "photo_tips": "洞窟入口と石仏群を組み合わせると、巡礼空間のスケールが伝わる。内部は暗所撮影となる。",
+      "warnings_extra": "洞窟内は足元が悪く、縦穴登攀があるため、滑りにくい靴・両手の自由・懐中電灯が望ましい。雨天・荒天時は無理をしない。",
+      "sources": "[宇佐市公式](https://www.city.usa.oita.jp/tourist/touristspot/touristspot2/touristspot3/10169.html), [宇佐市観光協会](https://www.usa-kanko.jp/pages/199/), [NAVITIME](https://www.navitime.co.jp/poi?spot=02301-t9513)"
+    }
+  },
+  {
+    "id": "spot-104",
+    "name": "正観寺 八大地獄",
+    "name_kana": "しょうかんじ はちだいじごく",
+    "category": "folk",
+    "prefecture": "徳島県",
+    "city": "海部郡牟岐町",
+    "address": "徳島県海部郡牟岐町中村奥前158-1",
+    "lat": 33.671608,
+    "lng": 134.408072,
+    "status": "現存",
+    "fee": "八大地獄見学料 大人400円・小人200円",
+    "hours": "参拝24時間、寺務所8:00〜16:00、八大地獄12:00〜16:00",
+    "official_url": "https://kegonshu-shokanji.org/index/index_7.html",
+    "reference_urls": [
+      "https://www.awanavi.jp/archives/spot/2784",
+      "https://www.navitime.co.jp/poi?spot=02301-t10124"
+    ],
+    "summary": "牟岐町の正観寺境内にある、仏教の八大地獄を立体的に表現した地獄めぐり空間。寺院参拝は24時間可能だが、八大地獄は正午から午後4時までの開館で、見学料が設定されている。地獄表現を観光展示として消費するのではなく、寺院の教化空間として紹介したいスポット。",
+    "highlights": [
+      "八大地獄を立体造形でたどる寺院境内の巡礼空間",
+      "大日大聖不動明王を本尊とする寺院文脈で扱える",
+      "徳島南部に残る強い地獄表現の常設スポット"
+    ],
+    "from_kameyama": "車で約300分（新名神→明石海峡大橋→徳島道→国道55号）",
+    "deepdive": {
+      "history_jp": "正観寺は、徳島県海部郡牟岐町中村奥前158-1にある華厳宗の寺院で、大日大聖不動明王を本尊とする。[正観寺公式](https://kegonshu-shokanji.org/index/index_7.html) 境内には仏教の八大地獄を立体的に表現した「八大地獄」の常設展示があり、見学料を払って巡ることができる。[阿波ナビ](https://www.awanavi.jp/archives/spot/2784)",
+      "cultural_context_jp": "八大地獄は、等活、黒縄、衆合、叫喚、大叫喚、焦熱、大焦熱、阿鼻からなる仏教世界観の地獄概念で、近世以降の寺院においては、視覚的な造形によって参拝者に因果応報を伝える教化装置として配置されてきた。正観寺の八大地獄も、観光的な怖さの消費ではなく、寺院教化の延長線上にあるスポットとして位置付けられる。",
+      "local_perspective_jp": "正観寺公式では、参拝は24時間可能、寺務所は8:00〜16:00、八大地獄は12:00〜16:00と案内される。[正観寺公式](https://kegonshu-shokanji.org/index/index_7.html) 八大地獄見学料は大人400円、小人200円とされる。",
+      "best_visit_time": "八大地獄の開館時間に合わせ、12:00〜16:00の間に訪れる。",
+      "photo_tips": "寺院外観と境内案内板を組み合わせ、施設のコンテクストを伝える。館内撮影可否は現地表示に従う。",
+      "warnings_extra": "八大地獄は不定休・天候の影響を受ける可能性があるため、訪問前に寺務所へ問い合わせるのが安全。",
+      "sources": "[正観寺公式](https://kegonshu-shokanji.org/index/index_7.html), [阿波ナビ](https://www.awanavi.jp/archives/spot/2784), [NAVITIME](https://www.navitime.co.jp/poi?spot=02301-t10124)"
+    }
+  },
+  {
+    "id": "spot-105",
+    "name": "御胎内清宏園・胎内神社",
+    "name_kana": "おたいないせいこうえん・たいないじんじゃ",
+    "category": "folk",
+    "prefecture": "静岡県",
+    "city": "御殿場市",
+    "address": "静岡県御殿場市印野1382-1",
+    "lat": 35.298406,
+    "lng": 138.862385,
+    "status": "現存",
+    "fee": "大人200円・小人100円",
+    "hours": "2〜10月8:30〜17:00、11〜1月8:30〜16:30",
+    "official_url": "https://gotemba.jp/information/1431/",
+    "reference_urls": [
+      "https://otainai-onsen.gr.jp/seikouen/",
+      "https://www.navitime.co.jp/poi?spot=02301-14401962"
+    ],
+    "summary": "富士山の噴火で形成された溶岩地帯にある清宏園と、溶岩隧道内に祀られた胎内神社。全長約68mの洞窟を人体内部に見立て、暗く狭い胎内をくぐるように進む信仰空間で、自然奇景と民俗信仰が重なる。安産信仰の場としても知られる。",
+    "highlights": [
+      "富士山噴火由来の溶岩隧道を人体内部に見立てた信仰構造",
+      "洞窟内に胎内神社が鎮座する",
+      "自然奇景と安産信仰が重なる体験型スポット"
+    ],
+    "from_kameyama": "車で約210分（東名阪→伊勢湾岸道→新東名）",
+    "deepdive": {
+      "history_jp": "御胎内清宏園は、静岡県御殿場市印野にある、富士山の噴火で形成された溶岩地帯に整備された公園で、園内の溶岩隧道に胎内神社が祀られている。[御殿場市観光協会](https://gotemba.jp/information/1431/) 隧道は全長約68mとされ、洞内の形状を人体内部に見立てて「御胎内」と呼ばれてきた。[御胎内温泉会館](https://otainai-onsen.gr.jp/seikouen/)",
+      "cultural_context_jp": "富士山麓には、溶岩洞穴を「胎内」と見立てて参拝する信仰が点在しており、御胎内清宏園・胎内神社はその代表的な事例の一つ。狭く暗い洞窟をくぐる身体性が、再生・安産信仰と結び付く構造になっている。",
+      "local_perspective_jp": "御殿場市観光協会の案内では、開園時間は2〜10月8:30〜17:00、11〜1月8:30〜16:30、料金は大人200円・小人100円とされる。[御殿場市観光協会](https://gotemba.jp/information/1431/)",
+      "best_visit_time": "晴天時の日中。冬季は閉園時間が早まる点に注意。",
+      "photo_tips": "溶岩隧道入口と森の景観を組み合わせると、自然信仰の文脈が伝わる。",
+      "warnings_extra": "洞内は狭く暗く、足元が悪い箇所がある。子ども連れ・高齢者は無理をしない。荒天時・冬季の凍結時は注意。",
+      "sources": "[御殿場市観光協会](https://gotemba.jp/information/1431/), [御胎内温泉会館](https://otainai-onsen.gr.jp/seikouen/), [NAVITIME](https://www.navitime.co.jp/poi?spot=02301-14401962)"
+    }
+  },
+  {
+    "id": "spot-106",
+    "name": "麻羅観音",
+    "name_kana": "まらかんのん",
+    "category": "folk",
+    "prefecture": "山口県",
+    "city": "長門市",
+    "address": "山口県長門市俵山",
+    "lat": 34.29616,
+    "lng": 131.096735,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "屋外参拝",
+    "official_url": "https://nanavi.jp/sightseeing/marakannon/",
+    "reference_urls": [
+      "https://drive.jafnavi.jp/map/spots/351135190007/",
+      "https://www.city.nagato.yamaguchi.jp/wadairoot/wadai/20210503marakannonkuyousai.html"
+    ],
+    "summary": "長門市俵山にある性信仰の小祠。大内義隆の遺児にまつわる伝承を背景に、子孫繁栄、良縁、夫婦円満などの祈願対象として語られる。境内には男根形の奉納物が並び、地域では供養と生殖信仰の文脈に位置付けられている。",
+    "highlights": [
+      "男根形の奉納物が並ぶ性信仰の小祠",
+      "大内氏ゆかりの遺児供養の伝承を背景に持つ",
+      "子孫繁栄・良縁・夫婦円満などの祈願対象"
+    ],
+    "from_kameyama": "車で約420分（新名神→山陽道→中国道）",
+    "deepdive": {
+      "history_jp": "麻羅観音は、山口県長門市俵山に祀られる小祠で、戦国期に大内義隆が陶晴賢の謀反で滅ぼされた際、女装させて落ち延びさせたとされる遺児が捕らえられ命を絶たれた、その供養に始まると伝えられる。[長門市観光案内（nanavi）](https://nanavi.jp/sightseeing/marakannon/) [長門市公式](https://www.city.nagato.yamaguchi.jp/wadairoot/wadai/20210503marakannonkuyousai.html) その供養の文脈から、男根形の奉納物が捧げられるようになり、後世には子孫繁栄・良縁・夫婦円満の祈願対象として広まったとされる。",
+      "cultural_context_jp": "麻羅観音は、性器形の奉納物が並ぶことから観光的に消費されやすいスポットだが、本来は戦国期の悲劇に発する供養と、子孫繁栄・生殖信仰が結び付いた民俗的祠であり、地域では真摯な祈願対象として位置付けられている。笑い物化せず、供養と性信仰の重なりとして紹介すべき場所。",
+      "local_perspective_jp": "長門市公式では、地元有志による麻羅観音供養祭が行われていることが紹介されている。[長門市公式](https://www.city.nagato.yamaguchi.jp/wadairoot/wadai/20210503marakannonkuyousai.html) 参拝は屋外で常時可能、無料と案内される。[長門市観光案内（nanavi）](https://nanavi.jp/sightseeing/marakannon/)",
+      "best_visit_time": "日中。山間の小祠のため、夕方以降は避ける。",
+      "photo_tips": "供養と信仰の文脈を尊重し、奉納物単体を面白がる構図ではなく、祠全体や案内板を含めて記録する。",
+      "warnings_extra": "性的モチーフを含むため、SNS拡散時の表現には配慮が必要。地元の方への礼節を守る。",
+      "sources": "[長門市観光案内（nanavi）](https://nanavi.jp/sightseeing/marakannon/), [長門市公式](https://www.city.nagato.yamaguchi.jp/wadairoot/wadai/20210503marakannonkuyousai.html), [JAFナビ](https://drive.jafnavi.jp/map/spots/351135190007/)"
+    }
+  },
+  {
+    "id": "spot-107",
+    "name": "生石神社 石の宝殿",
+    "name_kana": "おうしこじんじゃ いしのほうでん",
+    "category": "mystery",
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "address": "兵庫県高砂市阿弥陀町生石171",
+    "lat": 34.782536,
+    "lng": 134.795199,
+    "status": "現存",
+    "fee": "拝観料 大人100円・小人50円",
+    "hours": "要確認",
+    "official_url": "https://www.city.takasago.lg.jp/soshikikarasagasu/shogaigakushuka/bunkazai/3297.html",
+    "reference_urls": [
+      "https://online.bunka.go.jp/heritages/detail/210377",
+      "https://www.hyogo-tourism.jp/spot/detail_1047.html",
+      "https://www.takasago-tavb.com/nihonsanki/about/"
+    ],
+    "summary": "生石神社の御神体として祀られる巨大石造物。水面に浮いて見えることから「浮石」とも呼ばれ、「日本三奇」の一つとして語られる。国史跡「石の宝殿及び竜山石採石遺跡」の中心で、古墳時代以来の竜山石採石文化と神体信仰が重なる稀有な場所。",
+    "highlights": [
+      "一辺5m超級の巨大石造物が御神体として祀られる",
+      "水に浮いて見える「浮石」として知られる",
+      "国史跡の採石遺跡と信仰空間が重なる"
+    ],
+    "from_kameyama": "車で約150分（新名神→名神→山陽道）",
+    "deepdive": {
+      "history_jp": "石の宝殿は、兵庫県高砂市阿弥陀町生石にある生石神社の御神体で、竜山石を加工した一辺5mを超える巨大石造物である。[高砂市公式](https://www.city.takasago.lg.jp/soshikikarasagasu/shogaigakushuka/bunkazai/3297.html) 国指定史跡「石の宝殿及び竜山石採石遺跡」の中心遺構として、古墳時代以来の竜山石採石文化と神体信仰の重なりを今に伝える。[文化遺産オンライン](https://online.bunka.go.jp/heritages/detail/210377)",
+      "cultural_context_jp": "石の宝殿は、宮城県塩竈神社の塩竈、宮崎県霧島東神社の天の逆鉾と並ぶ「日本三奇」の一つとして語られてきた。[高砂市観光協会 日本三奇](https://www.takasago-tavb.com/nihonsanki/about/) 水面に浮いて見えるため「浮石」とも呼ばれ、巨大石造物そのものが神として祀られる稀有な神体信仰の事例。",
+      "local_perspective_jp": "兵庫県観光連盟では、生石神社の御神体として石の宝殿が紹介され、参拝者は社殿背後の岩窟と石造物を間近に見ることができる。[ひょうごツーリズム](https://www.hyogo-tourism.jp/spot/detail_1047.html) 拝観料は大人100円・小人50円と案内される。",
+      "best_visit_time": "日中。背後の山に登ると石の宝殿を上から見下ろせる視点もある。",
+      "photo_tips": "正面から見上げる構図と、上部から見下ろす構図の両方を押さえると、石造物のスケールと「浮石」感が伝わる。",
+      "warnings_extra": "神社境内のため、参拝者の動線・社務所案内に従う。背後の山道は足元注意。",
+      "sources": "[高砂市公式](https://www.city.takasago.lg.jp/soshikikarasagasu/shogaigakushuka/bunkazai/3297.html), [文化遺産オンライン](https://online.bunka.go.jp/heritages/detail/210377), [ひょうごツーリズム](https://www.hyogo-tourism.jp/spot/detail_1047.html), [高砂市観光協会 日本三奇](https://www.takasago-tavb.com/nihonsanki/about/)"
+    }
   }
 ]

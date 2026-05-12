@@ -3468,5 +3468,161 @@
       "Hell is only the first stop: the full circuit moves through a Merciful Mother Kannon, a Peace Pagoda Pure Land hall, and a Filial Piety Cave",
       "Allow an hour for the complete circuit; the demons are intense, so bring children old enough to know they aren't real"
     ]
+  },
+  {
+    "id": "spot-103",
+    "name": "桂昌寺跡・地獄極楽",
+    "name_kana": "けいしょうじあと・じごくごくらく",
+    "category": "folk",
+    "prefecture": "大分県",
+    "city": "宇佐市",
+    "address": "大分県宇佐市安心院町東恵良",
+    "lat": 33.410602,
+    "lng": 131.388936,
+    "status": "現存",
+    "fee": "拝観料100円",
+    "hours": "常時開放",
+    "official_url": "https://www.city.usa.oita.jp/tourist/touristspot/touristspot2/touristspot3/10169.html",
+    "reference_urls": [
+      "https://www.usa-kanko.jp/pages/199/",
+      "https://www.navitime.co.jp/poi?spot=02301-t9513"
+    ],
+    "summary": "安心院町東恵良に残る桂昌寺跡の洞窟型巡礼空間。",
+    "highlights": [],
+    "from_kameyama": "車で約480分（新名神→山陽道→中国道→九州道→東九州道）",
+    "name_en": "Keisho-ji Ruins Jigoku-Gokuraku Cave",
+    "prefecture_en": "Oita Prefecture",
+    "city_en": "Usa City",
+    "summary_en": "On the site of the former Keisho-ji temple in Ajimu, Usa City, a late-Edo-period subterranean pilgrimage walks visitors through a forty-meter Hell tunnel and a thirty-meter Paradise tunnel carved into the hillside. Inside, statues of Enma the Judge, the ox-headed and horse-headed wardens, the old hag who strips the dead at the River of Three Crossings, the Pool of Blood, and the Thirteen Buddhas are arranged so that the visitor physically experiences the journey from damnation to salvation. The walk ends with a vertical shaft that must be climbed by chain to reach paradise — a deliberately demanding finish that turned the route into a popular form of folk Buddhist instruction in the nineteenth century. The site is unstaffed, the lighting is minimal, and a flashlight is essential.",
+    "highlights_en": [
+      "A walk-through subterranean Hell-and-Paradise pilgrimage built in the late Edo period for popular Buddhist instruction",
+      "Life-sized figures of Enma, the ox-headed and horse-headed wardens, the river-crossing hag, and the Pool of Blood line the Hell tunnel",
+      "The route ends with a vertical chain-climb up a natural shaft into 'paradise' — bring a flashlight and grippy shoes"
+    ]
+  },
+  {
+    "id": "spot-104",
+    "name": "正観寺 八大地獄",
+    "name_kana": "しょうかんじ はちだいじごく",
+    "category": "folk",
+    "prefecture": "徳島県",
+    "city": "海部郡牟岐町",
+    "address": "徳島県海部郡牟岐町中村奥前158-1",
+    "lat": 33.671608,
+    "lng": 134.408072,
+    "status": "現存",
+    "fee": "八大地獄見学料 大人400円・小人200円",
+    "hours": "参拝24時間、寺務所8:00〜16:00、八大地獄12:00〜16:00",
+    "official_url": "https://kegonshu-shokanji.org/index/index_7.html",
+    "reference_urls": [
+      "https://www.awanavi.jp/archives/spot/2784",
+      "https://www.navitime.co.jp/poi?spot=02301-t10124"
+    ],
+    "summary": "牟岐町の正観寺境内にある、仏教の八大地獄を立体的に表現した地獄めぐり空間。",
+    "highlights": [],
+    "from_kameyama": "車で約300分（新名神→明石海峡大橋→徳島道→国道55号）",
+    "name_en": "Shokan-ji Temple Eight Great Hells",
+    "prefecture_en": "Tokushima Prefecture",
+    "city_en": "Mugi Town, Kaifu District",
+    "summary_en": "Shokan-ji, a Kegon-school temple in the fishing town of Mugi on Tokushima's Pacific coast, maintains a walk-through rendering of the Eight Great Hells of Buddhist cosmology — Reviving, Black Rope, Crushing, Screaming, Twice-Screaming, Scorching, Twice-Scorching, and the endless avici. The hell circuit is only open from noon until four in the afternoon, separate from the main grounds, and an admission fee is charged. The atmosphere is closer to a temple's pedagogical hall than to a roadside curiosity: the figures are explicitly framed as a teaching about karma and consequence, not a haunted-house attraction. Hours can shift with weather and staffing, so call ahead.",
+    "highlights_en": [
+      "A walk-through rendering of the Eight Great Hells inside a working Kegon-school temple complex",
+      "Open only from noon to 4pm — separate from the main grounds and with a small admission fee",
+      "Framed as Buddhist moral instruction rather than horror spectacle; call ahead, hours shift with weather"
+    ]
+  },
+  {
+    "id": "spot-105",
+    "name": "御胎内清宏園・胎内神社",
+    "name_kana": "おたいないせいこうえん・たいないじんじゃ",
+    "category": "folk",
+    "prefecture": "静岡県",
+    "city": "御殿場市",
+    "address": "静岡県御殿場市印野1382-1",
+    "lat": 35.298406,
+    "lng": 138.862385,
+    "status": "現存",
+    "fee": "大人200円・小人100円",
+    "hours": "2〜10月8:30〜17:00、11〜1月8:30〜16:30",
+    "official_url": "https://gotemba.jp/information/1431/",
+    "reference_urls": [
+      "https://otainai-onsen.gr.jp/seikouen/",
+      "https://www.navitime.co.jp/poi?spot=02301-14401962"
+    ],
+    "summary": "富士山の噴火で形成された溶岩地帯にある清宏園と、溶岩隧道内に祀られた胎内神社。",
+    "highlights": [],
+    "from_kameyama": "車で約210分（東名阪→伊勢湾岸道→新東名）",
+    "name_en": "Otainai Seikoen and Tainai Shrine",
+    "prefecture_en": "Shizuoka Prefecture",
+    "city_en": "Gotemba City",
+    "summary_en": "On the lava skirts of Mount Fuji's eastern flank, an approximately sixty-eight-meter lava tube has been read since at least the Edo period as the interior of a human body and consecrated as a shrine. Visitors enter Otainai Seikoen, a small park built around the tube, and then crawl, stoop, and squeeze through the tunnel as if traversing a womb, emerging on the far side where the Tainai Shrine — long associated with safe childbirth — is enshrined. The site is one of several 'womb caves' scattered across the foot of Fuji, where natural lava geography and folk beliefs about rebirth and fertility have layered onto each other. Closed-toe shoes and a willingness to get a little muddy are non-negotiable.",
+    "highlights_en": [
+      "A sixty-eight-meter lava tube on Mount Fuji's eastern flank, consecrated as the interior of a human body",
+      "Visitors traverse the cave as if through a womb, emerging at the Tainai Shrine of safe childbirth",
+      "One of several Fuji 'womb caves' where lava geography and fertility-rebirth folk belief overlap"
+    ]
+  },
+  {
+    "id": "spot-106",
+    "name": "麻羅観音",
+    "name_kana": "まらかんのん",
+    "category": "folk",
+    "prefecture": "山口県",
+    "city": "長門市",
+    "address": "山口県長門市俵山",
+    "lat": 34.29616,
+    "lng": 131.096735,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "屋外参拝",
+    "official_url": "https://nanavi.jp/sightseeing/marakannon/",
+    "reference_urls": [
+      "https://drive.jafnavi.jp/map/spots/351135190007/",
+      "https://www.city.nagato.yamaguchi.jp/wadairoot/wadai/20210503marakannonkuyousai.html"
+    ],
+    "summary": "長門市俵山にある性信仰の小祠。",
+    "highlights": [],
+    "from_kameyama": "車で約420分（新名神→山陽道→中国道）",
+    "name_en": "Mara Kannon",
+    "prefecture_en": "Yamaguchi Prefecture",
+    "city_en": "Nagato City",
+    "summary_en": "Mara Kannon is a small wayside shrine in the hot-spring district of Tawarayama, Nagato, where the local story begins in tragedy. When the warlord Ouchi Yoshitaka was overthrown in 1551, his young heir was reportedly disguised as a girl and smuggled into hiding here, only to be discovered, captured, and killed. The shrine began as a memorial for the boy, and over the centuries the offerings — carved wooden phalluses left by parishioners — took on a second life as petitions for fertility, safe childbirth, marital harmony, and good matches. The site is small, free, and open-air, and a local memorial service is still held annually. It is best understood not as a roadside curiosity but as a layering of mourning, lineage, and fertility belief — and depicted with that in mind.",
+    "highlights_en": [
+      "A small shrine memorializing the killed heir of the Ouchi clan, now layered with fertility and matchmaking belief",
+      "Offerings are carved wooden phalluses left by parishioners — please photograph and write about it with respect",
+      "A local memorial service is still observed; the site is free, open-air, and treated seriously by neighbors"
+    ]
+  },
+  {
+    "id": "spot-107",
+    "name": "生石神社 石の宝殿",
+    "name_kana": "おうしこじんじゃ いしのほうでん",
+    "category": "mystery",
+    "prefecture": "兵庫県",
+    "city": "高砂市",
+    "address": "兵庫県高砂市阿弥陀町生石171",
+    "lat": 34.782536,
+    "lng": 134.795199,
+    "status": "現存",
+    "fee": "拝観料 大人100円・小人50円",
+    "hours": "要確認",
+    "official_url": "https://www.city.takasago.lg.jp/soshikikarasagasu/shogaigakushuka/bunkazai/3297.html",
+    "reference_urls": [
+      "https://online.bunka.go.jp/heritages/detail/210377",
+      "https://www.hyogo-tourism.jp/spot/detail_1047.html",
+      "https://www.takasago-tavb.com/nihonsanki/about/"
+    ],
+    "summary": "生石神社の御神体として祀られる巨大石造物。",
+    "highlights": [],
+    "from_kameyama": "車で約150分（新名神→名神→山陽道）",
+    "name_en": "Oshiko Shrine Ishi-no-Hoden",
+    "prefecture_en": "Hyogo Prefecture",
+    "city_en": "Takasago City",
+    "summary_en": "Behind the modest hall of Oshiko Shrine in Takasago sits the Ishi-no-Hoden — the 'Stone Treasure Hall' — a single block of Tatsuyama tuff over five meters on a side, carved out of the surrounding bedrock but never fully detached from it. The stone is the shrine's object of worship, traditionally counted as one of the 'Three Wonders of Japan' alongside the salt cauldron of Shiogama Shrine and the heavenly halberd at Kirishima-Higashi Shrine. Because the base appears to float over the standing water in the quarry trench below, it is also called the 'floating stone.' The site is part of a nationally designated historic landmark covering both the worship space and the surrounding ancient quarries — a place where Kofun-era stoneworking, an unfinished monumental cut, and a still-active shrine sit on the same rock.",
+    "highlights_en": [
+      "A five-meter monolith carved from living bedrock and never freed — the shrine's object of worship",
+      "Traditionally counted as one of the Three Wonders of Japan; locally known as the 'floating stone'",
+      "Part of a nationally designated historic site that joins active worship with ancient Tatsuyama-stone quarries"
+    ]
   }
 ]
