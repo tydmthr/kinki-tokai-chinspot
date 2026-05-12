@@ -785,6 +785,8 @@ body {
   font-family: var(--font-mincho);
   font-size: 36px;
   color: var(--kin);
+}
+.tm-photo-placeholder {
   opacity: 0.5;
 }
 .tm-photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
