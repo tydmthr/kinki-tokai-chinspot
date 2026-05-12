@@ -3624,5 +3624,215 @@
       "Traditionally counted as one of the Three Wonders of Japan; locally known as the 'floating stone'",
       "Part of a nationally designated historic site that joins active worship with ancient Tatsuyama-stone quarries"
     ]
+  },
+  {
+    "id": "spot-108",
+    "name": "林下寺（お花大権現）",
+    "name_kana": "りんげじ（おはなだいごんげん）",
+    "category": "folk",
+    "prefecture": "徳島県",
+    "city": "三好郡東みよし町",
+    "address": "徳島県三好郡東みよし町中庄2271",
+    "lat": 34.031757,
+    "lng": 133.966069,
+    "status": "現存",
+    "fee": "要確認",
+    "hours": "要確認",
+    "official_url": "https://www.town.higashimiyoshi.lg.jp/docs/862.html",
+    "reference_urls": [
+      "https://www.navitime.co.jp/poi?spot=00004-36165000032"
+    ],
+    "summary": "東みよし町中庄の林下寺に祀られるお花大権現。町公式では、大小さまざまな男性のシンボルが多数奉納される『西日本随一の性の神様』として紹介され、縁結び、子授、安産、夫婦和合などの信仰を集める。性的奇観として消費せず、性信仰と奉納文化の民俗資料として扱いたい場所。",
+    "highlights": [
+      "男性シンボルの奉納物が多数残る性信仰の寺院",
+      "お花大権現の伝承と腰から下の病への霊験譚",
+      "縁結び・子授・安産・夫婦和合の祈願対象"
+    ],
+    "from_kameyama": "車で約260分（新名神→神戸淡路鳴門道→徳島道）",
+    "name_en": "Ringe-ji Temple (Ohana Daigongen)",
+    "prefecture_en": "Tokushima Prefecture",
+    "city_en": "Higashi-Miyoshi, Miyoshi District",
+    "summary_en": "Ohana Daigongen is enshrined at Ringe-ji Temple in Nakasho, Higashi-Miyoshi. The town's official cultural notice describes it as one of western Japan's most prominent shrines of sexual faith, where numerous phallic offerings of varying size have been dedicated and where prayers for matchmaking, fertility, safe childbirth, and marital harmony have long been gathered. The site is treated here not as sexual spectacle but as a folk record of devotion and votive practice around the body and reproduction.",
+    "highlights_en": [
+      "A temple of sexual faith preserving many dedicated phallic votives",
+      "The legend of Ohana Daigongen and miracles for ailments below the waist",
+      "A place of prayer for matchmaking, fertility, safe childbirth, and marital harmony"
+    ]
+  },
+  {
+    "id": "spot-109",
+    "name": "大宮子易両神社 陰陽巨石",
+    "name_kana": "おおみやこやすりょうじんじゃ いんようきょせき",
+    "category": "folk",
+    "prefecture": "山形県",
+    "city": "西置賜郡小国町",
+    "address": "山形県西置賜郡小国町大宮237",
+    "lat": 38.078479,
+    "lng": 139.737316,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "参拝自由、授与所等は要確認",
+    "official_url": "https://oomiya-koyasu.or.jp/about.html",
+    "reference_urls": [
+      "https://yamagatakanko.com/attractions/detail_1391.html",
+      "https://www.navitime.co.jp/poi?spot=00004-06164800042"
+    ],
+    "summary": "小国町に鎮座する子授け・安産・子育て・縁結びの神社。社殿脇の八角形の社には、男石『金丸太郎』と女石『種沢花子』という陰陽二柱の巨石が祀られ、産霊信仰と性・生殖の象徴が重なる。東北の子授け信仰を、奇物性だけでなく信仰の継続性から紹介できる候補。",
+    "highlights": [
+      "男石『金丸太郎』と女石『種沢花子』を祀る陰陽巨石",
+      "産霊信仰を背景にした子授け・安産・子育ての神社",
+      "山形・新潟方面の講や女性信仰の文脈が残る"
+    ],
+    "from_kameyama": "車で約600分（東名阪→北陸道→日本海東北道）",
+    "name_en": "Omiya-Koyasu-Ryo Shrine — Yin-Yang Megaliths",
+    "prefecture_en": "Yamagata Prefecture",
+    "city_en": "Oguni, Nishi-Okitama District",
+    "summary_en": "A shrine in Oguni revered for fertility, safe childbirth, child-rearing, and matchmaking. In an octagonal sub-shrine beside the main hall, two yin-yang megaliths are enshrined — the male stone 'Kanamaru Taro' and the female stone 'Tanesawa Hanako' — bringing together the faith in musubi (creative life force) and the symbolism of sex and reproduction. The site is presented as a continuing tradition of Tohoku fertility worship rather than as mere curiosity.",
+    "highlights_en": [
+      "Yin-yang megaliths enshrined as the male stone 'Kanamaru Taro' and the female stone 'Tanesawa Hanako'",
+      "A shrine of fertility, safe childbirth, and child-rearing rooted in musubi (life-creating) belief",
+      "A surviving context of women’s devotional confraternities across the Yamagata–Niigata region"
+    ]
+  },
+  {
+    "id": "spot-110",
+    "name": "名草の巨石群・厳島神社",
+    "name_kana": "なぐさのきょせきぐん・いつくしまじんじゃ",
+    "category": "mystery",
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "address": "栃木県足利市名草上町4990",
+    "lat": 36.432184,
+    "lng": 139.445274,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "24時間、日中推奨",
+    "official_url": "https://www.city.ashikaga.tochigi.jp/education/000029/000169/000627/p001270.html",
+    "reference_urls": [
+      "https://www.ashikaga-kankou.jp/spot/nagusaitsukushima",
+      "https://mapfan.com/spots/SCWWW,J,Z5"
+    ],
+    "summary": "足利市名草の厳島神社境内奥に広がる巨石群。市公式は、全国的にも珍しい花崗岩の『玉ねぎ風化』を示す巨石群と説明し、胎内くぐりで知られる高さ11m余・周囲30m以上のお供え石や弁慶の手割り石を紹介する。自然奇景と磐座的信仰が重なる、全国版向けの堅い候補。",
+    "highlights": [
+      "高さ11m余・周囲30m以上のお供え石と胎内くぐり",
+      "花崗岩の玉ねぎ風化を示す全国的にも珍しい巨石群",
+      "厳島神社の境内奥にある信仰と自然奇景の重なり"
+    ],
+    "from_kameyama": "車で約430分（東名阪→伊勢湾岸道→新東名→圏央道→北関東道）",
+    "name_en": "Nagusa Megaliths and Itsukushima Shrine",
+    "prefecture_en": "Tochigi Prefecture",
+    "city_en": "Ashikaga City",
+    "summary_en": "A field of megaliths spreading behind Itsukushima Shrine in Nagusa, Ashikaga. The city's official page describes the cluster as a nationally rare example of 'onion-skin' weathering in granite, with notable features including the Osonaeishi — over 11 meters tall and more than 30 meters in circumference, traditionally used for a 'rebirth' passage — and the Benkei no Tewari-ishi (Benkei's split stone). The site combines natural wonder with iwakura-style stone worship.",
+    "highlights_en": [
+      "The Osonaeishi — over 11 m tall and 30+ m in circumference, used for a 'rebirth' passage",
+      "A nationally rare granite outcrop showing classic 'onion-skin' spheroidal weathering",
+      "An iwakura-style sacred space deep in the precincts of Itsukushima Shrine"
+    ]
+  },
+  {
+    "id": "spot-111",
+    "name": "霊巌寺の奇岩",
+    "name_kana": "れいがんじのきがん",
+    "category": "mystery",
+    "prefecture": "福岡県",
+    "city": "八女市",
+    "address": "福岡県八女市黒木町笠原9731",
+    "lat": 33.223469,
+    "lng": 130.741085,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "8:00〜18:00目安、要確認",
+    "official_url": "https://www.city.yame.fukuoka.jp/soshiki/4/6/31/4/1454651789275.html",
+    "reference_urls": [
+      "https://www.crossroadfukuoka.jp/spot/10275",
+      "https://www.navitime.co.jp/poi?spot=00004-40165000051"
+    ],
+    "summary": "八女市黒木町の霊巌寺境内にそびえる県指定天然記念物の奇岩群。市公式は、座禅岩、女岩、仲人岩、仏法岩、剣岩、犬岩、猫岩といった名を挙げ、なかでも高さ12m余の男岩は日本最大級と説明する。寺院・修験・奇岩名・性象徴が重なり、資料館色のない自然信仰系候補として強い。",
+    "highlights": [
+      "座禅岩、女岩、仲人岩、剣岩、犬岩、猫岩など名を持つ奇岩群",
+      "高さ12m余の男岩は日本最大級とされる",
+      "八女茶発祥地の古刹と修験的な霊地性が重なる"
+    ],
+    "from_kameyama": "車で約520分（新名神→山陽道→九州道）",
+    "name_en": "Reigan-ji Temple — Strange Rocks",
+    "prefecture_en": "Fukuoka Prefecture",
+    "city_en": "Yame City",
+    "summary_en": "Within the precincts of Reigan-ji in Kuroki-machi, Yame, stand a prefecturally designated cluster of strange rocks. The city's official page names individual stones — Zazen-iwa (Meditation Rock), Onna-iwa (Woman Rock), Nakodo-iwa (Matchmaker Rock), Buppo-iwa, Tsurugi-iwa (Sword Rock), Inu-iwa (Dog Rock), Neko-iwa (Cat Rock) — and notes that the Otoko-iwa (Man Rock), over 12 m tall, is said to be among the largest in Japan. Temple, Shugendo ascetic associations, named formations, and sexual symbolism overlap in a strong nature-faith candidate without a museum framing.",
+    "highlights_en": [
+      "Named formations including Zazen, Woman, Matchmaker, Sword, Dog, and Cat Rocks",
+      "The Otoko-iwa (Man Rock), over 12 m tall, said to be among the largest in Japan",
+      "An ancient temple in the birthplace of Yame tea, overlapping with a Shugendo sacred site"
+    ]
+  },
+  {
+    "id": "spot-112",
+    "name": "耕三寺 千佛洞地獄峡",
+    "name_kana": "こうさんじ せんぶつどうじごくきょう",
+    "category": "bkyu",
+    "prefecture": "広島県",
+    "city": "尾道市",
+    "address": "広島県尾道市瀬戸田町瀬戸田553-2",
+    "lat": 34.303736,
+    "lng": 133.090217,
+    "status": "現存",
+    "fee": "大人1,400円ほか、要確認",
+    "hours": "9:00〜17:00、千佛洞地獄峡は9:00〜16:50",
+    "official_url": "https://www.kousanji.or.jp/senbutsu.html",
+    "reference_urls": [
+      "https://www.ononavi.jp/spots/detail.html?detail_id=346",
+      "https://www.navitime.co.jp/poi?spot=01409-100"
+    ],
+    "summary": "瀬戸田の耕三寺にある全長350mの洞窟型地獄・極楽表現。公式ページでは、源信『往生要集』を視覚で体感するため、富士山の溶岩と浅間山の焼石で岩組みし、約千体の石仏と彫刻絵で十界の場面を表したものと説明される。資料館ではなく『地獄洞窟』として切り出すと、全国版の地獄系スポットに合う。",
+    "highlights": [
+      "横洞350m・最深部15mの洞窟型地獄極楽空間",
+      "約千体の石仏と彫刻絵で十界を表現",
+      "富士山溶岩と浅間山焼石で岩組みされた人工洞窟"
+    ],
+    "from_kameyama": "車で約300分（新名神→山陽道→しまなみ海道）",
+    "name_en": "Kosan-ji — Senbutsudo Jigokukyo (Cave of a Thousand Buddhas)",
+    "prefecture_en": "Hiroshima Prefecture",
+    "city_en": "Onomichi City",
+    "summary_en": "Inside Kosan-ji on Setoda, a 350-meter cave passage stages the hells and paradises of Buddhist cosmology in physical form. The temple's official page describes how, to let visitors experience Genshin's Ojo-Yoshu through sight, the cavern was built up with lava from Mt. Fuji and burnt stones from Mt. Asama, with roughly a thousand stone Buddhas and relief carvings enacting the Ten Realms. Rather than framing the whole complex as a museum, the listing focuses on this hell-cavern as a singular grotto installation.",
+    "highlights_en": [
+      "A 350-meter horizontal cave passage of hells and paradises, descending up to 15 m",
+      "Roughly a thousand stone Buddhas and relief carvings depicting the Ten Realms",
+      "Cavern walls built from Mt. Fuji lava and Mt. Asama burnt stone"
+    ]
+  },
+  {
+    "id": "spot-113",
+    "name": "牛伏寺 地獄めぐり回廊",
+    "name_kana": "ごふくじ じごくめぐりかいろう",
+    "category": "folk",
+    "prefecture": "長野県",
+    "city": "松本市",
+    "address": "長野県松本市内田2573",
+    "lat": 36.165607,
+    "lng": 138.018416,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "受付時間9:00〜17:00目安、地獄回廊は要確認",
+    "official_url": "https://www.gofukuji.or.jp/access.html",
+    "reference_urls": [
+      "https://newsdig.tbs.co.jp/articles/-/250084",
+      "https://www.walkerplus.com/article/1138038/",
+      "https://www.navitime.co.jp/poi?spot=02301-4200556"
+    ],
+    "summary": "松本市内田の古刹・牛伏寺にある地獄めぐり回廊。ローカル報道では、約200年前から伝わる木像で地獄の様子を表現する回廊が2022年に完成したとされ、仁王門脇の回廊に奪衣婆や獄卒などの像が並ぶと紹介される。公式ページで回廊単体の情報が薄いため、追加時は公開条件・撮影可否の再確認を前提にしたい。",
+    "highlights": [
+      "約200年前から伝わる木像で地獄を表現する回廊",
+      "奪衣婆や獄卒などの像が並ぶ地獄めぐり",
+      "厄除観音として知られる古刹の中にある異色の造形"
+    ],
+    "from_kameyama": "車で約260分（東名阪→中央道→長野道）",
+    "name_en": "Gofuku-ji Temple — Hell-Tour Corridor",
+    "prefecture_en": "Nagano Prefecture",
+    "city_en": "Matsumoto City",
+    "summary_en": "A 'hell-tour' corridor inside the ancient temple of Gofuku-ji in Uchida, Matsumoto. Local reporting describes a corridor — completed in 2022 — that uses wooden images handed down for some 200 years to depict the hells, with figures such as Datsue-ba (the old woman who strips the dead) and the hell wardens lined up along a passage beside the Nio gate. Because the temple's own pages give the corridor only sparse coverage, opening hours and photography conditions should be confirmed again before any visit.",
+    "highlights_en": [
+      "A corridor that depicts the hells using wooden images handed down for about 200 years",
+      "Figures of Datsue-ba and hell wardens lined along the passage",
+      "A striking devotional installation inside a temple long revered as a yakuyoke Kannon site"
+    ]
   }
 ]

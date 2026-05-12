@@ -4326,5 +4326,215 @@
       "warnings_extra": "神社境内のため、参拝者の動線・社務所案内に従う。背後の山道は足元注意。",
       "sources": "[高砂市公式](https://www.city.takasago.lg.jp/soshikikarasagasu/shogaigakushuka/bunkazai/3297.html), [文化遺産オンライン](https://online.bunka.go.jp/heritages/detail/210377), [ひょうごツーリズム](https://www.hyogo-tourism.jp/spot/detail_1047.html), [高砂市観光協会 日本三奇](https://www.takasago-tavb.com/nihonsanki/about/)"
     }
+  },
+  {
+    "id": "spot-108",
+    "name": "林下寺（お花大権現）",
+    "name_kana": "りんげじ（おはなだいごんげん）",
+    "category": "folk",
+    "prefecture": "徳島県",
+    "city": "三好郡東みよし町",
+    "address": "徳島県三好郡東みよし町中庄2271",
+    "lat": 34.031757,
+    "lng": 133.966069,
+    "status": "現存",
+    "fee": "要確認",
+    "hours": "要確認",
+    "official_url": "https://www.town.higashimiyoshi.lg.jp/docs/862.html",
+    "reference_urls": [
+      "https://www.navitime.co.jp/poi?spot=00004-36165000032"
+    ],
+    "summary": "東みよし町中庄の林下寺に祀られるお花大権現。町公式では、大小さまざまな男性のシンボルが多数奉納される『西日本随一の性の神様』として紹介され、縁結び、子授、安産、夫婦和合などの信仰を集める。性的奇観として消費せず、性信仰と奉納文化の民俗資料として扱いたい場所。",
+    "highlights": [
+      "男性シンボルの奉納物が多数残る性信仰の寺院",
+      "お花大権現の伝承と腰から下の病への霊験譚",
+      "縁結び・子授・安産・夫婦和合の祈願対象"
+    ],
+    "from_kameyama": "車で約260分（新名神→神戸淡路鳴門道→徳島道）",
+    "deepdive": {
+      "history_jp": "林下寺のお花大権現は、東みよし町の文化財紹介で、大小さまざまな男性のシンボルが多数奉納されている場所として説明されている。[東みよし町公式](https://www.town.higashimiyoshi.lg.jp/docs/862.html) 公式解説では、作州津山にまつわるお花の方の霊を奉斎したものとされ、文化8年（1811）に旅僧がこの地に来て物語を伝えたこと、のちに林下寺境内へ移されたことが語られる。[東みよし町公式](https://www.town.higashimiyoshi.lg.jp/docs/862.html)",
+      "cultural_context_jp": "男根形奉納物は奇抜な見た目が先行しやすいが、町公式は縁結び、子授、安産、婦人病、性病などの霊験と結びつく信仰対象として記録している。[東みよし町公式](https://www.town.higashimiyoshi.lg.jp/docs/862.html) Bizarre Japanでは、笑い物にせず、民間信仰と身体・生殖に関わる祈願文化として紹介するのが適切。",
+      "local_perspective_jp": "所在地は徳島県三好郡東みよし町中庄2271で、NAVITIMEでは緯度経度34.031757, 133.966069が示される。[NAVITIME](https://www.navitime.co.jp/poi?spot=00004-36165000032)",
+      "best_visit_time": "日中。寺院境内の参拝対象として静かに訪問する。",
+      "photo_tips": "奉納物単体を過度に強調せず、寺院境内・祠・説明板を含めて信仰対象として記録する。",
+      "warnings_extra": "性信仰を扱うため、SNS投稿では過度な煽りや露骨な切り取りを避ける。",
+      "sources": "[東みよし町公式](https://www.town.higashimiyoshi.lg.jp/docs/862.html), [NAVITIME](https://www.navitime.co.jp/poi?spot=00004-36165000032)"
+    }
+  },
+  {
+    "id": "spot-109",
+    "name": "大宮子易両神社 陰陽巨石",
+    "name_kana": "おおみやこやすりょうじんじゃ いんようきょせき",
+    "category": "folk",
+    "prefecture": "山形県",
+    "city": "西置賜郡小国町",
+    "address": "山形県西置賜郡小国町大宮237",
+    "lat": 38.078479,
+    "lng": 139.737316,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "参拝自由、授与所等は要確認",
+    "official_url": "https://oomiya-koyasu.or.jp/about.html",
+    "reference_urls": [
+      "https://yamagatakanko.com/attractions/detail_1391.html",
+      "https://www.navitime.co.jp/poi?spot=00004-06164800042"
+    ],
+    "summary": "小国町に鎮座する子授け・安産・子育て・縁結びの神社。社殿脇の八角形の社には、男石『金丸太郎』と女石『種沢花子』という陰陽二柱の巨石が祀られ、産霊信仰と性・生殖の象徴が重なる。東北の子授け信仰を、奇物性だけでなく信仰の継続性から紹介できる候補。",
+    "highlights": [
+      "男石『金丸太郎』と女石『種沢花子』を祀る陰陽巨石",
+      "産霊信仰を背景にした子授け・安産・子育ての神社",
+      "山形・新潟方面の講や女性信仰の文脈が残る"
+    ],
+    "from_kameyama": "車で約600分（東名阪→北陸道→日本海東北道）",
+    "deepdive": {
+      "history_jp": "大宮子易両神社は、公式サイトで和銅5年（712）に大宮神社が勧請され、のちに子易神社を合祀して現在の形になったと説明される。[大宮子易両神社公式](https://oomiya-koyasu.or.jp/about.html) 山形県置賜地方や新潟県中越・下越地方を中心に、古くから子授かり、安産、子育て、縁結びの神として信仰されてきたとされる。[大宮子易両神社公式](https://oomiya-koyasu.or.jp/about.html)",
+      "cultural_context_jp": "社殿向かって右手の八角形の社には、陰陽二柱の特徴的な形状をした巨石が祀られ、男石『金丸太郎』が女石『種沢花子』を探していたという伝説が伝えられる。[大宮子易両神社公式](https://oomiya-koyasu.or.jp/about.html) この巨石信仰は、公式が説明する『産霊』の力と結びつき、子授け・縁結びの祈願対象となっている。[大宮子易両神社公式](https://oomiya-koyasu.or.jp/about.html)",
+      "local_perspective_jp": "所在地は山形県西置賜郡小国町大宮237で、山形県観光情報サイトでも観光スポットとして案内される。[やまがたへの旅](https://yamagatakanko.com/attractions/detail_1391.html) NAVITIMEでは緯度経度38.078479, 139.737316が示される。[NAVITIME](https://www.navitime.co.jp/poi?spot=00004-06164800042)",
+      "best_visit_time": "日中。冬季は積雪・路面状況に注意。",
+      "photo_tips": "社殿、八角形の小社、境内の説明を含めると、単なる奇物ではなく子授け信仰の場として伝わる。",
+      "warnings_extra": "性器象徴を含むが、参拝対象のため茶化した表現を避ける。",
+      "sources": "[大宮子易両神社公式](https://oomiya-koyasu.or.jp/about.html), [やまがたへの旅](https://yamagatakanko.com/attractions/detail_1391.html), [NAVITIME](https://www.navitime.co.jp/poi?spot=00004-06164800042)"
+    }
+  },
+  {
+    "id": "spot-110",
+    "name": "名草の巨石群・厳島神社",
+    "name_kana": "なぐさのきょせきぐん・いつくしまじんじゃ",
+    "category": "mystery",
+    "prefecture": "栃木県",
+    "city": "足利市",
+    "address": "栃木県足利市名草上町4990",
+    "lat": 36.432184,
+    "lng": 139.445274,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "24時間、日中推奨",
+    "official_url": "https://www.city.ashikaga.tochigi.jp/education/000029/000169/000627/p001270.html",
+    "reference_urls": [
+      "https://www.ashikaga-kankou.jp/spot/nagusaitsukushima",
+      "https://mapfan.com/spots/SCWWW,J,Z5"
+    ],
+    "summary": "足利市名草の厳島神社境内奥に広がる巨石群。市公式は、全国的にも珍しい花崗岩の『玉ねぎ風化』を示す巨石群と説明し、胎内くぐりで知られる高さ11m余・周囲30m以上のお供え石や弁慶の手割り石を紹介する。自然奇景と磐座的信仰が重なる、全国版向けの堅い候補。",
+    "highlights": [
+      "高さ11m余・周囲30m以上のお供え石と胎内くぐり",
+      "花崗岩の玉ねぎ風化を示す全国的にも珍しい巨石群",
+      "厳島神社の境内奥にある信仰と自然奇景の重なり"
+    ],
+    "from_kameyama": "車で約430分（東名阪→伊勢湾岸道→新東名→圏央道→北関東道）",
+    "deepdive": {
+      "history_jp": "名草の巨石群は、足利市公式によれば厳島神社の境内奥、弁天沢の中にある巨石群である。[足利市公式](https://www.city.ashikaga.tochigi.jp/education/000029/000169/000627/p001270.html) 市公式は、花崗岩特有の『玉ねぎ風化』を示す全国的にも珍しい巨石群と説明している。[足利市公式](https://www.city.ashikaga.tochigi.jp/education/000029/000169/000627/p001270.html)",
+      "cultural_context_jp": "名草の弁天さまの社殿前には、胎内くぐりで知られる高さ11m余・周囲30m以上のお供え石や、弁慶の手割り石などの巨岩・奇岩があるとされる。[足利市公式](https://www.city.ashikaga.tochigi.jp/education/000029/000169/000627/p001270.html) 巨石の下には岩清水が流れ、自然物と信仰空間が一体化している点がBizarre Japan向き。",
+      "local_perspective_jp": "足利市観光協会は所在地を栃木県足利市名草上町4990、北関東自動車道足利ICから車で約20分と案内する。[足利市観光協会](https://www.ashikaga-kankou.jp/spot/nagusaitsukushima) MapFanでは緯度経度36.4321841, 139.4452738が示される。[MapFan](https://mapfan.com/spots/SCWWW,J,Z5)",
+      "best_visit_time": "日中。雨天後は足元に注意。",
+      "photo_tips": "巨石単体だけでなく、参道、厳島神社、岩清水を含めると信仰空間として伝わる。",
+      "warnings_extra": "巨石周辺は足元が濡れやすい可能性があるため、夜間や荒天時の訪問は避ける。",
+      "sources": "[足利市公式](https://www.city.ashikaga.tochigi.jp/education/000029/000169/000627/p001270.html), [足利市観光協会](https://www.ashikaga-kankou.jp/spot/nagusaitsukushima), [MapFan](https://mapfan.com/spots/SCWWW,J,Z5)"
+    }
+  },
+  {
+    "id": "spot-111",
+    "name": "霊巌寺の奇岩",
+    "name_kana": "れいがんじのきがん",
+    "category": "mystery",
+    "prefecture": "福岡県",
+    "city": "八女市",
+    "address": "福岡県八女市黒木町笠原9731",
+    "lat": 33.223469,
+    "lng": 130.741085,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "8:00〜18:00目安、要確認",
+    "official_url": "https://www.city.yame.fukuoka.jp/soshiki/4/6/31/4/1454651789275.html",
+    "reference_urls": [
+      "https://www.crossroadfukuoka.jp/spot/10275",
+      "https://www.navitime.co.jp/poi?spot=00004-40165000051"
+    ],
+    "summary": "八女市黒木町の霊巌寺境内にそびえる県指定天然記念物の奇岩群。市公式は、座禅岩、女岩、仲人岩、仏法岩、剣岩、犬岩、猫岩といった名を挙げ、なかでも高さ12m余の男岩は日本最大級と説明する。寺院・修験・奇岩名・性象徴が重なり、資料館色のない自然信仰系候補として強い。",
+    "highlights": [
+      "座禅岩、女岩、仲人岩、剣岩、犬岩、猫岩など名を持つ奇岩群",
+      "高さ12m余の男岩は日本最大級とされる",
+      "八女茶発祥地の古刹と修験的な霊地性が重なる"
+    ],
+    "from_kameyama": "車で約520分（新名神→山陽道→九州道）",
+    "deepdive": {
+      "history_jp": "霊巌寺は、八女市公式で応永年間に禅僧・栄林周瑞が建立した臨済宗妙心寺派の古刹と説明される。[八女市公式](https://www.city.yame.fukuoka.jp/soshiki/4/6/31/4/1454651789275.html) 境内の奇岩は県指定天然記念物で、板状節理をなす斜面上に座禅岩、女岩、仲人岩、仏法岩、剣岩、犬岩、猫岩などがそびえるとされる。[八女市公式](https://www.city.yame.fukuoka.jp/soshiki/4/6/31/4/1454651789275.html)",
+      "cultural_context_jp": "八女市公式は、なかでも高さ12m余の男岩を日本最大級と説明している。[八女市公式](https://www.city.yame.fukuoka.jp/soshiki/4/6/31/4/1454651789275.html) 福岡県観光連盟は、古くは修験道場でもあった裏山に珍宝岩、女岩、仲人岩、賽河原岩、座禅岩などがあると紹介しており、奇岩と修験的霊地性の重なりが読み取れる。[福岡県観光連盟](https://www.crossroadfukuoka.jp/spot/10275)",
+      "local_perspective_jp": "所在地は福岡県八女市黒木町笠原9731で、福岡県観光連盟は駐車場50台、九州自動車道八女ICから約50分と案内している。[福岡県観光連盟](https://www.crossroadfukuoka.jp/spot/10275) NAVITIMEでは緯度経度33.223469, 130.741085が示される。[NAVITIME](https://www.navitime.co.jp/poi?spot=00004-40165000051)",
+      "best_visit_time": "日中。八女の山間部のため、雨天後は足元に注意。",
+      "photo_tips": "奇岩名の案内、寺院境内、山腹の岩のスケールが伝わる構図を優先する。",
+      "warnings_extra": "自然物のある山間寺院のため、夜間・荒天時は避ける。",
+      "sources": "[八女市公式](https://www.city.yame.fukuoka.jp/soshiki/4/6/31/4/1454651789275.html), [福岡県観光連盟](https://www.crossroadfukuoka.jp/spot/10275), [NAVITIME](https://www.navitime.co.jp/poi?spot=00004-40165000051)"
+    }
+  },
+  {
+    "id": "spot-112",
+    "name": "耕三寺 千佛洞地獄峡",
+    "name_kana": "こうさんじ せんぶつどうじごくきょう",
+    "category": "bkyu",
+    "prefecture": "広島県",
+    "city": "尾道市",
+    "address": "広島県尾道市瀬戸田町瀬戸田553-2",
+    "lat": 34.303736,
+    "lng": 133.090217,
+    "status": "現存",
+    "fee": "大人1,400円ほか、要確認",
+    "hours": "9:00〜17:00、千佛洞地獄峡は9:00〜16:50",
+    "official_url": "https://www.kousanji.or.jp/senbutsu.html",
+    "reference_urls": [
+      "https://www.ononavi.jp/spots/detail.html?detail_id=346",
+      "https://www.navitime.co.jp/poi?spot=01409-100"
+    ],
+    "summary": "瀬戸田の耕三寺にある全長350mの洞窟型地獄・極楽表現。公式ページでは、源信『往生要集』を視覚で体感するため、富士山の溶岩と浅間山の焼石で岩組みし、約千体の石仏と彫刻絵で十界の場面を表したものと説明される。資料館ではなく『地獄洞窟』として切り出すと、全国版の地獄系スポットに合う。",
+    "highlights": [
+      "横洞350m・最深部15mの洞窟型地獄極楽空間",
+      "約千体の石仏と彫刻絵で十界を表現",
+      "富士山溶岩と浅間山焼石で岩組みされた人工洞窟"
+    ],
+    "from_kameyama": "車で約300分（新名神→山陽道→しまなみ海道）",
+    "deepdive": {
+      "history_jp": "千佛洞地獄峡は、耕三寺公式ページで、源信和上の『往生要集』を視覚で体感してもらうために造られた洞窟と説明される。[耕三寺公式](https://www.kousanji.or.jp/senbutsu.html) 公式ページでは、横洞350m、最深部15mの洞内に、富士山の溶岩と浅間山の焼石で岩組みし、石仏約千体で地獄と極楽を表しているとされる。[耕三寺公式](https://www.kousanji.or.jp/senbutsu.html)",
+      "cultural_context_jp": "耕三寺は観光寺院・博物館として知られるため、掲載時は寺全体ではなく、千佛洞地獄峡の地獄造形に焦点を絞るのがよい。尾道観光協会は耕三寺・耕三寺博物館を瀬戸田町の寺社スポットとして案内している。[尾道観光協会](https://www.ononavi.jp/spots/detail.html?detail_id=346)",
+      "local_perspective_jp": "所在地は広島県尾道市瀬戸田町瀬戸田553-2で、NAVITIMEでは緯度経度34.303736, 133.090217、営業時間9:00〜17:00と示される。[NAVITIME](https://www.navitime.co.jp/poi?spot=01409-100) 千佛洞地獄峡の公式ページでは開洞時間が9:00〜16:50と案内されている。[耕三寺公式](https://www.kousanji.or.jp/senbutsu.html)",
+      "best_visit_time": "日中。閉洞時間が本館より早い可能性があるため、午後遅めは避ける。",
+      "photo_tips": "洞窟内が暗いため、高感度に強いカメラか明るいレンズが有効。撮影可否は現地掲示に従う。",
+      "warnings_extra": "有料施設。資料館色が強く見えないよう、記事では洞窟地獄表現に絞る。",
+      "sources": "[耕三寺公式](https://www.kousanji.or.jp/senbutsu.html), [尾道観光協会](https://www.ononavi.jp/spots/detail.html?detail_id=346), [NAVITIME](https://www.navitime.co.jp/poi?spot=01409-100)"
+    }
+  },
+  {
+    "id": "spot-113",
+    "name": "牛伏寺 地獄めぐり回廊",
+    "name_kana": "ごふくじ じごくめぐりかいろう",
+    "category": "folk",
+    "prefecture": "長野県",
+    "city": "松本市",
+    "address": "長野県松本市内田2573",
+    "lat": 36.165607,
+    "lng": 138.018416,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "受付時間9:00〜17:00目安、地獄回廊は要確認",
+    "official_url": "https://www.gofukuji.or.jp/access.html",
+    "reference_urls": [
+      "https://newsdig.tbs.co.jp/articles/-/250084",
+      "https://www.walkerplus.com/article/1138038/",
+      "https://www.navitime.co.jp/poi?spot=02301-4200556"
+    ],
+    "summary": "松本市内田の古刹・牛伏寺にある地獄めぐり回廊。ローカル報道では、約200年前から伝わる木像で地獄の様子を表現する回廊が2022年に完成したとされ、仁王門脇の回廊に奪衣婆や獄卒などの像が並ぶと紹介される。公式ページで回廊単体の情報が薄いため、追加時は公開条件・撮影可否の再確認を前提にしたい。",
+    "highlights": [
+      "約200年前から伝わる木像で地獄を表現する回廊",
+      "奪衣婆や獄卒などの像が並ぶ地獄めぐり",
+      "厄除観音として知られる古刹の中にある異色の造形"
+    ],
+    "from_kameyama": "車で約260分（東名阪→中央道→長野道）",
+    "deepdive": {
+      "history_jp": "牛伏寺は長野県松本市内田2573にある寺院で、公式サイトの交通アクセスページで所在地が確認できる。[牛伏寺公式](https://www.gofukuji.or.jp/access.html) TBS NEWS DIGは、牛伏寺に約200年前から伝わる木像で地獄の様子を表現する『地獄めぐりの回廊』が完成したと報じている。[TBS NEWS DIG](https://newsdig.tbs.co.jp/articles/-/250084)",
+      "cultural_context_jp": "Walkerplusは、仁王門脇に設けられた約7mの回廊に奪衣婆や地獄の獄卒など約20体が並び、各像を紹介する映像モニターも新設されたと紹介している。[Walkerplus](https://www.walkerplus.com/article/1138038/) 近世以来の地獄観を可視化する仏教教化の造形として、地獄堂系スポットの全国展開に合う。",
+      "local_perspective_jp": "NAVITIMEでは所在地を長野県松本市内田2573、緯度経度36.165607, 138.018416、受付時間9:00〜17:00、料金無料、駐車場ありと案内している。[NAVITIME](https://www.navitime.co.jp/poi?spot=02301-4200556)",
+      "best_visit_time": "日中。山腹の寺院のため、冬季・降雪時は道路状況を確認する。",
+      "photo_tips": "仁王門や回廊全体を含め、寺院の信仰空間として撮影する。像のアップは現地の撮影可否に従う。",
+      "warnings_extra": "公式サイト上で地獄回廊の詳細ページが確認しにくいため、公開状況・撮影可否は追加前または訪問前に再確認する。",
+      "sources": "[牛伏寺公式](https://www.gofukuji.or.jp/access.html), [TBS NEWS DIG](https://newsdig.tbs.co.jp/articles/-/250084), [Walkerplus](https://www.walkerplus.com/article/1138038/), [NAVITIME](https://www.navitime.co.jp/poi?spot=02301-4200556)"
+    }
   }
 ]
