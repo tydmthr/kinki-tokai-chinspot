@@ -49,9 +49,16 @@
   },
   "spot-009": {
     "name": "怪しい少年少女博物館",
-    "primary": null,
-    "credit": null,
-    "alt_photos": []
+    "primary": "https://live.staticflickr.com/3013/2458320155_bab9fb6c3e.jpg",
+    "credit": "Flickr / rish31415 / CC BY 2.0",
+    "alt_photos": [],
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source_url": "https://www.flickr.com/photos/25486877@N07/2458320155",
+    "creator": "rish31415",
+    "creator_url": "https://www.flickr.com/photos/25486877@N07",
+    "provider": "Flickr via Openverse",
+    "title": "怪しい少年少女博物館"
   },
   "spot-010": {
     "name": "奥摩耶遊園地跡",
@@ -639,9 +646,16 @@
   },
   "spot-060": {
     "name": "おうむ岩",
-    "primary": null,
-    "credit": null,
-    "alt_photos": []
+    "primary": "https://live.staticflickr.com/4117/4778653542_60db4d1b08_b.jpg",
+    "credit": "Flickr / Tamago Moffle / CC BY-SA 2.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source_url": "https://www.flickr.com/photos/8937001@N03/4778653542",
+    "creator": "Tamago Moffle",
+    "creator_url": "https://www.flickr.com/photos/8937001@N03",
+    "provider": "Flickr via Openverse",
+    "title": "鸚鵡岩 - Oumu-iwa Rock (Parrot Rock) // 2010.02.13 - 3"
   },
   "spot-061": {
     "name": "白瀧大明神",
@@ -663,9 +677,16 @@
   },
   "spot-064": {
     "name": "石山観音公園",
-    "primary": null,
-    "credit": null,
-    "alt_photos": []
+    "primary": "https://live.staticflickr.com/5614/30750301256_bb054a1ce4_b.jpg",
+    "credit": "Flickr / h_okumura / CC BY 2.0",
+    "alt_photos": [],
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "source_url": "https://www.flickr.com/photos/46635368@N00/30750301256",
+    "creator": "h_okumura",
+    "creator_url": "https://www.flickr.com/photos/46635368@N00",
+    "provider": "Flickr via Openverse",
+    "title": "石山観音公園"
   },
   "spot-065": {
     "name": "関・観音山公園の石仏群",
@@ -699,9 +720,16 @@
   },
   "spot-070": {
     "name": "鼻かけえびす",
-    "primary": null,
-    "credit": null,
-    "alt_photos": []
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Hanakake_Ebisu.jpg",
+    "credit": "Wikimedia Commons / Miyuki Meinaka / Public Domain",
+    "alt_photos": [],
+    "license": "Public Domain",
+    "license_url": "",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hanakake_Ebisu.jpg",
+    "creator": "Miyuki Meinaka",
+    "creator_url": "https://commons.wikimedia.org/wiki/User:Miyuki_Meinaka",
+    "provider": "Wikimedia Commons",
+    "title": "Hanakake Ebisu"
   },
   "spot-071": {
     "name": "聚楽園大仏",
@@ -861,9 +889,16 @@
   },
   "spot-097": {
     "name": "韓竈神社",
-    "primary": null,
-    "credit": null,
-    "alt_photos": []
+    "primary": "https://live.staticflickr.com/4319/35996884231_75b0768b1e_b.jpg",
+    "credit": "Flickr / Big Ben in Japan / CC BY-SA 2.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source_url": "https://www.flickr.com/photos/74418647@N00/35996884231",
+    "creator": "Big Ben in Japan",
+    "creator_url": "https://www.flickr.com/photos/74418647@N00",
+    "provider": "Flickr via Openverse",
+    "title": "Karakama Jinja"
   },
   "spot-098": {
     "name": "人穴富士講遺跡",
