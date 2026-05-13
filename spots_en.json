@@ -3834,5 +3834,324 @@
       "Figures of Datsue-ba and hell wardens lined along the passage",
       "A striking devotional installation inside a temple long revered as a yakuyoke Kannon site"
     ]
+  },
+  {
+    "id": "spot-114",
+    "name": "川倉賽の河原地蔵尊",
+    "name_kana": "かわくらさいのかわらじぞうそん",
+    "category": "folk",
+    "prefecture": "青森県",
+    "city": "五所川原市",
+    "address": "青森県五所川原市金木町川倉七夕野426-1",
+    "lat": 40.926529,
+    "lng": 140.459503,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "9:00〜13:00目安、12〜3月休業。大祭時期は混雑に注意",
+    "official_url": "https://www.city.goshogawara.lg.jp/kyouiku/bunka/sainogawara.html",
+    "reference_urls": [
+      "https://www.tohokukanko.jp/attractions/detail_1501.html",
+      "https://rurubu.jp/andmore/spot/80002190"
+    ],
+    "summary": "芦野公園の北東にある小高い丘に、大小約2,000体の地蔵が祀られる霊場。五所川原市公式では、恐山と同様にイタコの霊媒で知られ、旧暦6月22日から24日の例大祭には口寄せを聞く参詣者で賑わうと説明される。賽の河原信仰、死者供養、イタコ文化を一体で扱える津軽の濃い民俗信仰スポット。",
+    "highlights": [
+      "大小約2,000体の地蔵が集まる霊場",
+      "例大祭でイタコの口寄せが行われる",
+      "恐山と並び語られる津軽の二大イタコ聖地"
+    ],
+    "from_kameyama": "車で約900分（東名阪→北陸道→日本海東北道→東北道）",
+    "name_en": "Kawakura Sai-no-Kawara Jizōson",
+    "prefecture_en": "Aomori Prefecture",
+    "city_en": "Goshogawara City",
+    "summary_en": "A sacred site on a low hill northeast of Ashino Park where roughly 2,000 Jizō statues of every size are enshrined. Goshogawara City explains that, like Mt. Osore, the place is known for mediumship by itako shamans, and that during the festival of the 22nd–24th of the sixth lunar month worshippers fill the site to hear the dead spoken through their voices. A dense Tsugaru-region folk shrine where Sai-no-Kawara belief, memorial rites for the dead, and itako culture all converge.",
+    "highlights_en": [
+      "A sacred ground gathering some 2,000 Jizō statues of all sizes",
+      "Itako spirit-summoning performed at the great festival",
+      "One of Tsugaru's two great itako sanctuaries, spoken of alongside Mt. Osore"
+    ]
+  },
+  {
+    "id": "spot-115",
+    "name": "真駒内滝野霊園（頭大仏・モアイ像）",
+    "name_kana": "まこまないたきのれいえん（あたまだいぶつ・もあいぞう）",
+    "category": "bkyu",
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "address": "北海道札幌市南区滝野2",
+    "lat": 42.926723,
+    "lng": 141.383316,
+    "status": "現存",
+    "fee": "園内見学は無料、頭大仏殿は拝観寄付金あり",
+    "hours": "開門 4月〜10月 7:00〜19:00、11月〜3月 7:00〜18:00。頭大仏殿は季節で異なる",
+    "official_url": "https://www.takinoreien.com/pages/49/",
+    "reference_urls": [
+      "https://www.takinoreien.com/pages/107/",
+      "https://www.takinoreien.com/pages/315/"
+    ],
+    "summary": "公益社団法人が運営する巨大公園霊園に、モアイ像、ストーンヘンジ、六地蔵、観音像、安藤忠雄設計の頭大仏殿が並ぶ。公式によれば1981年開園で東京ドーム約20個分の広大な敷地を持ち、大型のモアイ像は高さ9.5m・重さ120t、頭大仏殿は高さ13.5m・重さ1,500tの大仏の頭だけが丘から突き出す独自形式となっている。霊園でありながら巨大モニュメント群が点在するスケール感が異様。",
+    "highlights": [
+      "高さ9.5m級のモアイ像が並ぶ正門周辺",
+      "安藤忠雄設計の丘に包まれた頭大仏殿",
+      "霊園内にストーンヘンジや世界各国のモニュメントが点在"
+    ],
+    "from_kameyama": "車＋フェリー約18時間 / 飛行機＋レンタカー約5時間（中部国際空港→新千歳）",
+    "name_en": "Makomanai Takino Cemetery (Head Daibutsu & Moai)",
+    "prefecture_en": "Hokkaidō",
+    "city_en": "Minami Ward, Sapporo City",
+    "summary_en": "A vast public-park cemetery, run by a public-interest body, where moai statues, a stonehenge, six Jizō, Kannon images and the Tadao Andō-designed Atama Daibutsu (Head Buddha) hall stand side by side. Per the official site, the larger moai reach 9.5 m tall and 120 t, and the Head Buddha hall is 13.5 m high and weighs 1,500 t, with only the giant Buddha's head emerging from a hill. A modern memorial space whose scale and mash-up of monuments is genuinely uncanny.",
+    "highlights_en": [
+      "Moai statues up to about 9.5 m tall lining the main gate",
+      "The Tadao Andō-designed Atama Daibutsu, its head rising from a hill",
+      "Stonehenge and monuments from around the world scattered across the cemetery grounds"
+    ]
+  },
+  {
+    "id": "spot-116",
+    "name": "蜂天国",
+    "name_kana": "はちてんごく",
+    "category": "bkyu",
+    "prefecture": "長野県",
+    "city": "東御市",
+    "address": "長野県東御市加沢435-1",
+    "lat": 36.341866,
+    "lng": 138.352509,
+    "status": "現存",
+    "fee": "大人300円、中高生100円、小学生以下無料",
+    "hours": "10:00〜15:00、火・水休館（要事前確認）",
+    "official_url": "https://www.hachi-tengoku.com",
+    "reference_urls": [
+      "https://www.hachi-tengoku.com/calendar.html",
+      "https://tomikan.jp/area/tanaka-unno/hachitengoku/",
+      "https://www.culture.nagano.jp/facilities/450/"
+    ],
+    "summary": "世界初のスズメバチの芸術館を名乗る私設展示施設。公式サイトでは、奇作・傑作600点余の蜂の巣を展示すると説明される。蜂の生態を利用しながら、巨大な巣を造形物として見せる発想が強烈で、自然物・執念・B級展示が重なる。経営母体は隣接の生コン会社（塩沢グループ）で、8〜10月には実際の巣作りの様子も観察できる。",
+    "highlights": [
+      "スズメバチの巣を使った世界初の蜂芸術館",
+      "奇作・傑作600点余の蜂の巣展示",
+      "8〜10月は実際の巣作りを観察可能"
+    ],
+    "from_kameyama": "車で約300分（東名阪→中央道→長野道→上信越道）",
+    "name_en": "Hachi Tengoku (Bee Heaven)",
+    "prefecture_en": "Nagano Prefecture",
+    "city_en": "Tōmi City",
+    "summary_en": "A privately run exhibition hall that bills itself as the world's first 'art museum of hornet nests'. The official site states that some 600-plus extraordinary hornet-nest works are on display. The idea of treating giant hornet nests — built by the hornets themselves — as sculptural objects is striking, sitting at the intersection of natural form, sheer obsession, and B-class display. It is run by an affiliated ready-mix concrete company, and from August through October real nest-building can also be observed.",
+    "highlights_en": [
+      "The self-styled world's first art museum of hornet nests",
+      "Some 600-plus extraordinary hornet-nest works on display",
+      "Real nest-building visible from August through October"
+    ]
+  },
+  {
+    "id": "spot-117",
+    "name": "西生寺（即身仏と雷獣のミイラ）",
+    "name_kana": "さいしょうじ（そくしんぶつとらいじゅうのみいら）",
+    "category": "folk",
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "address": "新潟県長岡市寺泊野積8996",
+    "lat": 37.68623,
+    "lng": 138.792831,
+    "status": "現存",
+    "fee": "大人・高校生500円、小中学生300円",
+    "hours": "受付9:00〜15:30、12月中旬〜3月末は冬期休観",
+    "official_url": "https://www.saisyouji.jp",
+    "reference_urls": [
+      "https://www.navitime.co.jp/poi?spot=02301-3700044",
+      "https://niigata-kankou.or.jp/blog/210",
+      "https://rurubu.jp/andmore/spot/80014929"
+    ],
+    "summary": "弥彦山中腹の古刹に、弘智法印の即身仏が祀られる。公式サイトでは、弘智法印が3,000日に及ぶ修行ののち貞治2年(1363年)に御入定し、日本最古の即身仏として現在に至ると説明される。宝物堂には雷獣のミイラも伝わり、死と祈り、民間伝承、寺宝展示が濃く重なる。",
+    "highlights": [
+      "弘智法印の即身仏を祀る越後の古刹",
+      "雷獣のミイラを伝える宝物堂",
+      "親鸞上人・松尾芭蕉も参詣した日本最古とされる即身仏"
+    ],
+    "from_kameyama": "車で約420分（東名阪→名神→北陸道）",
+    "name_en": "Saishō-ji Temple (Sokushinbutsu & Raijū Mummy)",
+    "prefecture_en": "Niigata Prefecture",
+    "city_en": "Nagaoka City",
+    "summary_en": "An old temple on the flank of Mt. Yahiko enshrining the sokushinbutsu (self-mummified Buddhist monk) of Kōchi Hōin. The official site states that, after 3,000 days of austerities, Kōchi Hōin entered nyūjō in 1363 and has remained as a sokushinbutsu ever since. The treasure hall also preserves a so-called 'raijū' (thunder beast) mummy — death, prayer, folk lore and temple-treasure display layered densely in a single site.",
+    "highlights_en": [
+      "An old Echigo temple enshrining the sokushinbutsu of Kōchi Hōin",
+      "A treasure hall preserving a so-called raijū (thunder beast) mummy",
+      "What is regarded as Japan's oldest sokushinbutsu, visited historically by Shinran and Bashō"
+    ]
+  },
+  {
+    "id": "spot-118",
+    "name": "高鍋大師",
+    "name_kana": "たかなべだいし",
+    "category": "bkyu",
+    "prefecture": "宮崎県",
+    "city": "児湯郡高鍋町",
+    "address": "宮崎県児湯郡高鍋町大字持田",
+    "lat": 32.144499,
+    "lng": 131.520576,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "常時見学可、日中推奨",
+    "official_url": "https://www.kanko-miyazaki.jp/spot/1139",
+    "reference_urls": [
+      "https://www.pref.miyazaki.lg.jp/contents/org/shoko/appeal/jaja/19_07.html",
+      "https://www.navitime.co.jp/poi?spot=02402-4540100018"
+    ],
+    "summary": "持田古墳群の近くに、故・岩岡保吉氏が私財を投じ還暦過ぎから一人で彫り上げた約750体の神仏混合の石像群が並ぶ。みやざき観光ナビは、盗掘被害にあった古墳に眠る古代人の霊を慰めるために1933年から開山されたと説明する。素朴でデフォルメの強い造形と鎮魂の動機が重なる、全国版向けの強いB級・民俗信仰スポット。",
+    "highlights": [
+      "約750体の神仏混合の石像群",
+      "持田古墳群の盗掘被害への鎮魂を背景にした造形",
+      "個人の信仰とアウトサイダーアートが重なる丘"
+    ],
+    "from_kameyama": "車で約760分（新名神→山陽道→九州道→東九州道）",
+    "name_en": "Takanabe Daishi",
+    "prefecture_en": "Miyazaki Prefecture",
+    "city_en": "Takanabe Town, Koyu District",
+    "summary_en": "Near the Mochida burial mound cluster stands a hill covered in some 750 syncretic stone images, carved single-handedly by the late Iwaoka Yasukichi from his sixties onward. Miyazaki Kankō Navi explains that he began the work in 1933 to console the spirits of the ancients buried in the looted tombs. Naïve, strongly deformed forms meet a motive of memorial — a powerfully Bizarre Japan-grade folk and outsider-art site, fit for the national edition.",
+    "highlights_en": [
+      "Around 750 syncretic Buddhist–Shinto stone images",
+      "Founded as a memorial to the looting of the Mochida burial mounds",
+      "A hillside where private devotion and outsider art converge"
+    ]
+  },
+  {
+    "id": "spot-119",
+    "name": "福田海 鼻ぐり塚",
+    "name_kana": "ふくでんかい はなぐりづか",
+    "category": "folk",
+    "prefecture": "岡山県",
+    "city": "岡山市北区",
+    "address": "岡山県岡山市北区吉備津795",
+    "lat": 34.669765,
+    "lng": 133.852997,
+    "status": "現存",
+    "fee": "無料、護摩木料100円",
+    "hours": "8:30〜16:30、定休日なし",
+    "official_url": "https://www.okayama-kanko.jp/spot/detail_10104.html",
+    "reference_urls": [
+      "https://rurubu.jp/andmore/spot/80033631",
+      "http://www.asahi-net.or.jp/~RN2H-DIMR/ohaka2/20tikusan/26cyugoku/hanaguri.html"
+    ],
+    "summary": "宗教法人福田海本部の境内に、全国から集められた牛の鼻輪を積み上げた供養塚。岡山観光WEBとるるぶは、牛の鼻輪約700万個を積み上げ、馬頭観音を本尊に家畜全般を供養していると説明する。色とりどりの鼻ぐりが巨大な塚を成す光景は異様だが、根底には食と畜類への鎮魂がある。",
+    "highlights": [
+      "約700万個の牛の鼻輪を積み上げた供養塚",
+      "馬頭観音を本尊に家畜全般を供養",
+      "食肉・畜産と鎮魂が可視化された大量奉納空間"
+    ],
+    "from_kameyama": "車で約220分（新名神→山陽道）",
+    "name_en": "Fukudenkai Hanaguri-zuka (Cattle-Nose-Ring Mound)",
+    "prefecture_en": "Okayama Prefecture",
+    "city_en": "Kita Ward, Okayama City",
+    "summary_en": "Within the grounds of the religious corporation Fukudenkai stands a memorial mound piled from cattle nose rings gathered from all over Japan. Okayama Kankō Web and Rurubu describe it as a heap of roughly seven million cattle nose rings, dedicated to Batō Kannon as the chief deity in memorial for livestock of every kind. The mound — bright with countless coloured rings — appears outlandish, but at its core lies a serious requiem for meat-producing animals.",
+    "highlights_en": [
+      "A memorial mound piled with around seven million cattle nose rings",
+      "Dedicated to Batō Kannon as chief deity, memorialising all livestock",
+      "A mass-offering space where meat, livestock husbandry, and requiem are made visible"
+    ]
+  },
+  {
+    "id": "spot-120",
+    "name": "陰陽石",
+    "name_kana": "いんようせき",
+    "category": "folk",
+    "prefecture": "宮崎県",
+    "city": "小林市",
+    "address": "宮崎県小林市東方",
+    "lat": 32.016193,
+    "lng": 131.006532,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "常時見学可、日中推奨",
+    "official_url": "https://www.city.kobayashi.lg.jp/soshikikarasagasu/keizaibushokokankoka/kankojoho/6/1671.html",
+    "reference_urls": [
+      "https://www.kanko-miyazaki.jp/spot/1095",
+      "https://www.navitime.co.jp/poi?spot=02037-0003351",
+      "https://www.web-gis.jp/GS_Kigan100/html/Kigan100_124pc.html"
+    ],
+    "summary": "小林市の川沿いに、男石・女石と呼ばれる巨大な自然石が並ぶ奇岩信仰の場。小林市公式によれば男石(陽石)は高さ17.5m、女石(陰石)は周囲5.5mで、霧島火山帯の加久藤火砕流が浸食を受けて形成された自然奇岩とされる。生殖器象徴が明瞭で、子宝・縁結び・夫婦和合の祈願対象として古くから語られる。霧島ジオパークのジオサイト指定。",
+    "highlights": [
+      "男石(高さ17.5m)・女石(周囲5.5m)と呼ばれる巨大自然石",
+      "子宝・縁結び・夫婦和合の祈願対象",
+      "霧島ジオパークのジオサイト指定"
+    ],
+    "from_kameyama": "車で約780分（新名神→山陽道→九州道→宮崎道）",
+    "name_en": "Inyō-seki (Yin-Yang Rocks)",
+    "prefecture_en": "Miyazaki Prefecture",
+    "city_en": "Kobayashi City",
+    "summary_en": "Along a riverbank in Kobayashi City stand a pair of huge natural rocks known as the Male Stone and the Female Stone — a place of cult around an extraordinary natural formation. According to the City of Kobayashi, the male (yang) stone is about 17.5 m tall and the female (yin) stone about 5.5 m around, formed when the Kakutō pyroclastic flow of the Kirishima volcanic belt was eroded by the river. The phallic and yonic forms are unmistakable, and the rocks have long been worshipped for child-blessing, matchmaking and conjugal harmony. They are also designated as a Kirishima Geopark geosite.",
+    "highlights_en": [
+      "Massive natural rocks known as the Male Stone (17.5 m tall) and the Female Stone (5.5 m around)",
+      "An object of prayer for children, matchmaking, and harmony between spouses",
+      "Designated as a Kirishima Geopark geosite"
+    ]
+  },
+  {
+    "id": "spot-121",
+    "name": "軽部神社",
+    "name_kana": "かるべじんじゃ",
+    "category": "folk",
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "address": "岡山県総社市清音軽部",
+    "lat": 34.638086,
+    "lng": 133.735614,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "参拝自由、日中推奨",
+    "official_url": "https://www.city.soja.okayama.jp/site/kanko/3604.html",
+    "reference_urls": [
+      "https://www.okayama-kanko.jp/spot/detail_10782.html",
+      "https://www.navitime.co.jp/poi?spot=00004-33164800013"
+    ],
+    "summary": "延宝6年(1678年)建立とされる神社で、境内にあった『垂乳根の桜』にちなみ乳神様として信仰を集めた。総社市公式は、安産や母乳の出を願うため、乳房を型取った手作りの絵馬が数多く奉納されていると説明する。身体信仰と大量奉納が視覚的に残る、岡山の民俗信仰スポット。",
+    "highlights": [
+      "乳神様として信仰される神社",
+      "乳房を型取った手作り絵馬が多数奉納",
+      "安産・母乳・乳の病に関わる身体信仰"
+    ],
+    "from_kameyama": "車で約210分（新名神→山陽道）",
+    "name_en": "Karube Shrine",
+    "prefecture_en": "Okayama Prefecture",
+    "city_en": "Sōja City",
+    "summary_en": "A shrine said to have been founded in 1678, which gathered devotion as 'the breast deity' from a 'Tarachine cherry tree' once standing in its precincts. The City of Sōja explains that worshippers praying for safe birth and for breast milk dedicate many hand-made ema in the shape of breasts. A folk-belief site where bodily devotion and mass votive offerings remain vividly visible.",
+    "highlights_en": [
+      "A shrine venerated as 'the breast deity'",
+      "Many hand-made ema shaped like breasts dedicated as offerings",
+      "Bodily devotion tied to safe birth, breast milk, and breast ailments"
+    ]
+  },
+  {
+    "id": "spot-122",
+    "name": "淡嶋神社",
+    "name_kana": "あわしまじんじゃ",
+    "category": "folk",
+    "prefecture": "和歌山県",
+    "city": "和歌山市",
+    "address": "和歌山県和歌山市加太118",
+    "lat": 34.273422,
+    "lng": 135.06682,
+    "status": "現存",
+    "fee": "無料、宝物殿は300円(要予約)",
+    "hours": "参拝9:00〜17:00目安",
+    "official_url": "https://www.kada.jp/awashima/",
+    "reference_urls": [
+      "https://www.wakayama-kanko.or.jp/spots/detail_217.html",
+      "https://mapfan.com/spots/SC3W3,J,TY",
+      "https://ja.wikipedia.org/wiki/%E6%B7%A1%E5%B6%8B%E7%A5%9E%E7%A4%BE"
+    ],
+    "summary": "和歌山市加太に鎮座し、全国の淡島神社・粟島神社の総本社とされる神社。少彦名命を祭神とし、医薬・安産・女性の病気回復の信仰と結びつく。境内には全国から納められた2万体以上の人形が並び、3月3日には人形を船に乗せ海に流す『雛流し』神事が行われる。心霊的に煽られやすい場所だが、Bizarre Japanでは人形供養と女性信仰の民俗として扱う。",
+    "highlights": [
+      "境内を埋める2万体以上の奉納人形",
+      "全国淡島神社・粟島神社の総本社",
+      "3月3日『雛流し』神事と2月8日『針供養』"
+    ],
+    "from_kameyama": "車で約150分（名阪国道→京奈和道→阪和道）",
+    "name_en": "Awashima Shrine",
+    "prefecture_en": "Wakayama Prefecture",
+    "city_en": "Wakayama City",
+    "summary_en": "A shrine in Kada, Wakayama City, known nationwide for memorial rites for dolls. Within its precincts stand great numbers of dolls offered from all over Japan, in connection with prayers for recovery from women's illnesses and for safe birth. Although the site is easily framed in 'haunted' terms, on Bizarre Japan we treat it strictly as a folk-religion site of doll memorial and women's devotion.",
+    "highlights_en": [
+      "Precincts filled with great numbers of offered dolls",
+      "A Kada shrine famed for ningyō-kuyō (doll memorial)",
+      "Tied to belief in recovery from women's illnesses and safe birth"
+    ]
   }
 ]

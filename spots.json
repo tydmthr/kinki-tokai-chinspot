@@ -4536,5 +4536,324 @@
       "warnings_extra": "公式サイト上で地獄回廊の詳細ページが確認しにくいため、公開状況・撮影可否は追加前または訪問前に再確認する。",
       "sources": "[牛伏寺公式](https://www.gofukuji.or.jp/access.html), [TBS NEWS DIG](https://newsdig.tbs.co.jp/articles/-/250084), [Walkerplus](https://www.walkerplus.com/article/1138038/), [NAVITIME](https://www.navitime.co.jp/poi?spot=02301-4200556)"
     }
+  },
+  {
+    "id": "spot-114",
+    "name": "川倉賽の河原地蔵尊",
+    "name_kana": "かわくらさいのかわらじぞうそん",
+    "category": "folk",
+    "prefecture": "青森県",
+    "city": "五所川原市",
+    "address": "青森県五所川原市金木町川倉七夕野426-1",
+    "lat": 40.926529,
+    "lng": 140.459503,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "9:00〜13:00目安、12〜3月休業。大祭時期は混雑に注意",
+    "official_url": "https://www.city.goshogawara.lg.jp/kyouiku/bunka/sainogawara.html",
+    "reference_urls": [
+      "https://www.tohokukanko.jp/attractions/detail_1501.html",
+      "https://rurubu.jp/andmore/spot/80002190"
+    ],
+    "summary": "芦野公園の北東にある小高い丘に、大小約2,000体の地蔵が祀られる霊場。五所川原市公式では、恐山と同様にイタコの霊媒で知られ、旧暦6月22日から24日の例大祭には口寄せを聞く参詣者で賑わうと説明される。賽の河原信仰、死者供養、イタコ文化を一体で扱える津軽の濃い民俗信仰スポット。",
+    "highlights": [
+      "大小約2,000体の地蔵が集まる霊場",
+      "例大祭でイタコの口寄せが行われる",
+      "恐山と並び語られる津軽の二大イタコ聖地"
+    ],
+    "from_kameyama": "車で約900分（東名阪→北陸道→日本海東北道→東北道）",
+    "deepdive": {
+      "history_jp": "五所川原市金木町川倉七夕野426-1にある霊場で、五所川原市教育委員会の公式ページは、大小約2,000体の地蔵が安置されると紹介している。[五所川原市公式](https://www.city.goshogawara.lg.jp/kyouiku/bunka/sainogawara.html) 東北観光推進機構によれば、旧暦6月22日から24日の例大祭にはイタコの口寄せが行われ、津軽一円から参詣者が集まると説明される。[東北観光推進機構](https://www.tohokukanko.jp/attractions/detail_1501.html)",
+      "cultural_context_jp": "賽の河原信仰、死者供養、イタコ文化が一体化した東北の濃い民俗信仰の場であり、恐山と並ぶ津軽の二大イタコ聖地として語られる。地蔵尊の堂内には亡き家族のために奉納された衣類や玩具が並び、近世以来の死者供養の慣行が現在も継続している。",
+      "local_perspective_jp": "るるぶの案内では、地蔵尊事務所の対応時間は9:00〜13:00目安、12月〜3月は休業との情報があり、大祭以外でも地蔵堂は屋外見学が可能とされる。[るるぶ](https://rurubu.jp/andmore/spot/80002190)",
+      "best_visit_time": "旧暦6月22日〜24日の例大祭、または静かに参拝するなら夏季の平日午前。冬季は事務所閉所のため要注意。",
+      "photo_tips": "屋外の地蔵群や奉納物は霊場としての敬意をもって距離をとって撮影する。堂内・参拝者・口寄せの場面は撮影を控えるのが無難。",
+      "warnings_extra": "心霊スポットとしての煽りや恐怖演出は避ける。供養と祈願の場として静かに扱い、私物・奉納物に触れない。",
+      "sources": "[五所川原市公式](https://www.city.goshogawara.lg.jp/kyouiku/bunka/sainogawara.html), [東北観光推進機構](https://www.tohokukanko.jp/attractions/detail_1501.html), [るるぶ](https://rurubu.jp/andmore/spot/80002190)"
+    }
+  },
+  {
+    "id": "spot-115",
+    "name": "真駒内滝野霊園（頭大仏・モアイ像）",
+    "name_kana": "まこまないたきのれいえん（あたまだいぶつ・もあいぞう）",
+    "category": "bkyu",
+    "prefecture": "北海道",
+    "city": "札幌市南区",
+    "address": "北海道札幌市南区滝野2",
+    "lat": 42.926723,
+    "lng": 141.383316,
+    "status": "現存",
+    "fee": "園内見学は無料、頭大仏殿は拝観寄付金あり",
+    "hours": "開門 4月〜10月 7:00〜19:00、11月〜3月 7:00〜18:00。頭大仏殿は季節で異なる",
+    "official_url": "https://www.takinoreien.com/pages/49/",
+    "reference_urls": [
+      "https://www.takinoreien.com/pages/107/",
+      "https://www.takinoreien.com/pages/315/"
+    ],
+    "summary": "公益社団法人が運営する巨大公園霊園に、モアイ像、ストーンヘンジ、六地蔵、観音像、安藤忠雄設計の頭大仏殿が並ぶ。公式によれば1981年開園で東京ドーム約20個分の広大な敷地を持ち、大型のモアイ像は高さ9.5m・重さ120t、頭大仏殿は高さ13.5m・重さ1,500tの大仏の頭だけが丘から突き出す独自形式となっている。霊園でありながら巨大モニュメント群が点在するスケール感が異様。",
+    "highlights": [
+      "高さ9.5m級のモアイ像が並ぶ正門周辺",
+      "安藤忠雄設計の丘に包まれた頭大仏殿",
+      "霊園内にストーンヘンジや世界各国のモニュメントが点在"
+    ],
+    "from_kameyama": "車＋フェリー約18時間 / 飛行機＋レンタカー約5時間（中部国際空港→新千歳）",
+    "deepdive": {
+      "history_jp": "真駒内滝野霊園は北海道札幌市南区滝野2に1981年に開園した公園霊園で、東京ドーム約20個分の広大な敷地を持つ。[真駒内滝野霊園公式](https://www.takinoreien.com/pages/49/) 正門付近にはモアイ像が並び、敷地内にはストーンヘンジ型の永代供養墓、六地蔵、観音像など世界各国のモニュメントが点在する。[モアイ像紹介](https://www.takinoreien.com/pages/107/)",
+      "cultural_context_jp": "公式ページによれば、モアイ像は未来と生きる証を後世に伝える意味を持ち、大型のものは高さ9.5m・重さ120t。安藤忠雄設計の頭大仏殿は、丘に埋もれた大仏の頭だけが突き出す独自の建築形式で、高さ13.5m・重さ1,500tとされる。[頭大仏紹介](https://www.takinoreien.com/pages/315/) 夏季にはラベンダーに覆われた丘から大仏の頭が顔を出すビジュアルが知られる。",
+      "local_perspective_jp": "開門時間は4〜10月が7:00〜19:00、11〜3月が7:00〜18:00。頭大仏殿の拝観は時期により異なり、寄付金で参拝できる。霊園であるため、墓参者への配慮が現地でも掲示される。",
+      "best_visit_time": "ラベンダーが咲く7月中下旬、または雪原に頭大仏が浮かぶ冬季。",
+      "photo_tips": "頭大仏殿は丘の参道を歩きながらの遠景・正面・回廊からの抜けが定番。モアイ像は正門前から並びの構図がわかりやすい。霊園区画にはレンズを向けない。",
+      "warnings_extra": "霊園であり墓参者が日常的に訪れる。心霊・アミューズメントパーク的な揶揄表現は避け、現代供養空間と巨大造形の組み合わせとして扱う。",
+      "sources": "[真駒内滝野霊園公式](https://www.takinoreien.com/pages/49/), [モアイ像紹介](https://www.takinoreien.com/pages/107/), [頭大仏紹介](https://www.takinoreien.com/pages/315/)"
+    }
+  },
+  {
+    "id": "spot-116",
+    "name": "蜂天国",
+    "name_kana": "はちてんごく",
+    "category": "bkyu",
+    "prefecture": "長野県",
+    "city": "東御市",
+    "address": "長野県東御市加沢435-1",
+    "lat": 36.341866,
+    "lng": 138.352509,
+    "status": "現存",
+    "fee": "大人300円、中高生100円、小学生以下無料",
+    "hours": "10:00〜15:00、火・水休館（要事前確認）",
+    "official_url": "https://www.hachi-tengoku.com",
+    "reference_urls": [
+      "https://www.hachi-tengoku.com/calendar.html",
+      "https://tomikan.jp/area/tanaka-unno/hachitengoku/",
+      "https://www.culture.nagano.jp/facilities/450/"
+    ],
+    "summary": "世界初のスズメバチの芸術館を名乗る私設展示施設。公式サイトでは、奇作・傑作600点余の蜂の巣を展示すると説明される。蜂の生態を利用しながら、巨大な巣を造形物として見せる発想が強烈で、自然物・執念・B級展示が重なる。経営母体は隣接の生コン会社（塩沢グループ）で、8〜10月には実際の巣作りの様子も観察できる。",
+    "highlights": [
+      "スズメバチの巣を使った世界初の蜂芸術館",
+      "奇作・傑作600点余の蜂の巣展示",
+      "8〜10月は実際の巣作りを観察可能"
+    ],
+    "from_kameyama": "車で約300分（東名阪→中央道→長野道→上信越道）",
+    "deepdive": {
+      "history_jp": "長野県東御市加沢435-1にある私設展示施設で、公式は『世界初のスズメバチの芸術館』を名乗る。[蜂天国公式](https://www.hachi-tengoku.com) 信州とうみ観光協会によれば、奇作・傑作600点余の蜂の巣を展示する施設として案内される。[信州とうみ観光協会](https://tomikan.jp/area/tanaka-unno/hachitengoku/)",
+      "cultural_context_jp": "長野県文化施設情報によれば、開館は10:00〜15:00、火・水休館、入館料は大人300円・中高生100円・小学生以下無料。経営母体は隣接の生コン会社（塩沢グループ）と紹介され、私設施設ならではの執念と個人コレクション性が強い。[長野県文化施設](https://www.culture.nagano.jp/facilities/450/)",
+      "local_perspective_jp": "8〜10月は実際のスズメバチの巣作りを観察できるとされ、自然物の造形そのものを展示物として鑑賞する珍しい施設として地元観光協会も紹介している。",
+      "best_visit_time": "巣作りが盛んな8〜10月。冬季は休館・短縮営業の場合があるため要事前確認。",
+      "photo_tips": "巨大な巣の質感は逆光やサイドライトで凹凸を強調すると伝わりやすい。蜂の活動期は屋外撮影時の距離に注意。",
+      "warnings_extra": "活動中の蜂を扱う展示があるため、刺激しないこと。営業状況は訪問前確認が必須。",
+      "sources": "[蜂天国公式](https://www.hachi-tengoku.com), [信州とうみ観光協会](https://tomikan.jp/area/tanaka-unno/hachitengoku/), [長野県文化施設](https://www.culture.nagano.jp/facilities/450/)"
+    }
+  },
+  {
+    "id": "spot-117",
+    "name": "西生寺（即身仏と雷獣のミイラ）",
+    "name_kana": "さいしょうじ（そくしんぶつとらいじゅうのみいら）",
+    "category": "folk",
+    "prefecture": "新潟県",
+    "city": "長岡市",
+    "address": "新潟県長岡市寺泊野積8996",
+    "lat": 37.68623,
+    "lng": 138.792831,
+    "status": "現存",
+    "fee": "大人・高校生500円、小中学生300円",
+    "hours": "受付9:00〜15:30、12月中旬〜3月末は冬期休観",
+    "official_url": "https://www.saisyouji.jp",
+    "reference_urls": [
+      "https://www.navitime.co.jp/poi?spot=02301-3700044",
+      "https://niigata-kankou.or.jp/blog/210",
+      "https://rurubu.jp/andmore/spot/80014929"
+    ],
+    "summary": "弥彦山中腹の古刹に、弘智法印の即身仏が祀られる。公式サイトでは、弘智法印が3,000日に及ぶ修行ののち貞治2年(1363年)に御入定し、日本最古の即身仏として現在に至ると説明される。宝物堂には雷獣のミイラも伝わり、死と祈り、民間伝承、寺宝展示が濃く重なる。",
+    "highlights": [
+      "弘智法印の即身仏を祀る越後の古刹",
+      "雷獣のミイラを伝える宝物堂",
+      "親鸞上人・松尾芭蕉も参詣した日本最古とされる即身仏"
+    ],
+    "from_kameyama": "車で約420分（東名阪→名神→北陸道）",
+    "deepdive": {
+      "history_jp": "新潟県長岡市寺泊野積8996にある真言宗の古刹で、公式サイトでは弘智法印が3,000日に及ぶ修行ののち貞治2年(1363年)に御入定し、現在も即身仏として安置されると紹介される。[西生寺公式](https://www.saisyouji.jp) NAVITIMEでも住所と緯度経度37.686230, 138.792831が完全一致で登録される。[NAVITIME](https://www.navitime.co.jp/poi?spot=02301-3700044)",
+      "cultural_context_jp": "新潟観光ナビによれば、宝物堂には『雷獣のミイラ』が伝えられ、江戸時代初期に絶滅したとされる幻の獣として紹介される。日本最古の即身仏と幻獣ミイラが同居する点で、近世越後の信仰と幻獣譚が一望できる場所になっている。[新潟観光ナビ](https://niigata-kankou.or.jp/blog/210)",
+      "local_perspective_jp": "るるぶによれば、受付は9:00〜15:30、12月中旬から3月末は冬期休観、拝観料は大人・高校生500円、小中学生300円。宝物堂は基本無料開放、即身仏拝観は要料金。[るるぶ](https://rurubu.jp/andmore/spot/80014929)",
+      "best_visit_time": "春〜秋。冬期休観があるため、降雪期は避けるのが安全。",
+      "photo_tips": "山門・本堂・宝物堂の順に外観中心で構成する。即身仏や雷獣ミイラの撮影は寺の指示に厳密に従う。",
+      "warnings_extra": "即身仏は信仰対象。『ミイラ男』『グロい』『死体が展示されている』等の表現は避け、入定信仰として丁寧に扱う。",
+      "sources": "[西生寺公式](https://www.saisyouji.jp), [NAVITIME](https://www.navitime.co.jp/poi?spot=02301-3700044), [新潟観光ナビ](https://niigata-kankou.or.jp/blog/210), [るるぶ](https://rurubu.jp/andmore/spot/80014929)"
+    }
+  },
+  {
+    "id": "spot-118",
+    "name": "高鍋大師",
+    "name_kana": "たかなべだいし",
+    "category": "bkyu",
+    "prefecture": "宮崎県",
+    "city": "児湯郡高鍋町",
+    "address": "宮崎県児湯郡高鍋町大字持田",
+    "lat": 32.144499,
+    "lng": 131.520576,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "常時見学可、日中推奨",
+    "official_url": "https://www.kanko-miyazaki.jp/spot/1139",
+    "reference_urls": [
+      "https://www.pref.miyazaki.lg.jp/contents/org/shoko/appeal/jaja/19_07.html",
+      "https://www.navitime.co.jp/poi?spot=02402-4540100018"
+    ],
+    "summary": "持田古墳群の近くに、故・岩岡保吉氏が私財を投じ還暦過ぎから一人で彫り上げた約750体の神仏混合の石像群が並ぶ。みやざき観光ナビは、盗掘被害にあった古墳に眠る古代人の霊を慰めるために1933年から開山されたと説明する。素朴でデフォルメの強い造形と鎮魂の動機が重なる、全国版向けの強いB級・民俗信仰スポット。",
+    "highlights": [
+      "約750体の神仏混合の石像群",
+      "持田古墳群の盗掘被害への鎮魂を背景にした造形",
+      "個人の信仰とアウトサイダーアートが重なる丘"
+    ],
+    "from_kameyama": "車で約760分（新名神→山陽道→九州道→東九州道）",
+    "deepdive": {
+      "history_jp": "みやざき観光ナビによれば、高鍋大師は故・岩岡保吉氏(1889〜1977)が私財を投じ、還暦過ぎから一人で彫り上げた石像群で、総数750体以上、最大の像は高さ約7mに及ぶ。[みやざき観光ナビ](https://www.kanko-miyazaki.jp/spot/1139) 宮崎県公式の特集も、持田古墳群への盗掘被害を鎮魂する動機で1933年に開山したと紹介する。[宮崎県公式](https://www.pref.miyazaki.lg.jp/contents/org/shoko/appeal/jaja/19_07.html)",
+      "cultural_context_jp": "弘法大師・観音・鬼・自刻像・水戸黄門など、神仏混合・近代偉人・自刻肖像までを内包する造形群で、近代日本のアウトサイダーアートと民俗信仰が重なる事例として注目される。2009年には宮崎県観光遺産にも指定されている。",
+      "local_perspective_jp": "NAVITIME(避難場所登録)によれば、所在地は宮崎県児湯郡高鍋町大字持田、緯度経度32.144499, 131.520576で登録され、駐車場50台、無料・常時見学可。[NAVITIME](https://www.navitime.co.jp/poi?spot=02402-4540100018)",
+      "best_visit_time": "日中。風化した屋外石像は順光・斜光ともに表情が出る。",
+      "photo_tips": "個々の像のクローズアップと、丘一面に像が点在する俯瞰の両方を押さえる。最大の自刻像はワイドで地面ごと入れると規模感が伝わる。",
+      "warnings_extra": "アクセス道路は狭い区間がある。作者を『変人』『奇人』と揶揄する表現や『廃墟』『放置』との誤解を招く表現は避ける。",
+      "sources": "[みやざき観光ナビ](https://www.kanko-miyazaki.jp/spot/1139), [宮崎県公式](https://www.pref.miyazaki.lg.jp/contents/org/shoko/appeal/jaja/19_07.html), [NAVITIME](https://www.navitime.co.jp/poi?spot=02402-4540100018)"
+    }
+  },
+  {
+    "id": "spot-119",
+    "name": "福田海 鼻ぐり塚",
+    "name_kana": "ふくでんかい はなぐりづか",
+    "category": "folk",
+    "prefecture": "岡山県",
+    "city": "岡山市北区",
+    "address": "岡山県岡山市北区吉備津795",
+    "lat": 34.669765,
+    "lng": 133.852997,
+    "status": "現存",
+    "fee": "無料、護摩木料100円",
+    "hours": "8:30〜16:30、定休日なし",
+    "official_url": "https://www.okayama-kanko.jp/spot/detail_10104.html",
+    "reference_urls": [
+      "https://rurubu.jp/andmore/spot/80033631",
+      "http://www.asahi-net.or.jp/~RN2H-DIMR/ohaka2/20tikusan/26cyugoku/hanaguri.html"
+    ],
+    "summary": "宗教法人福田海本部の境内に、全国から集められた牛の鼻輪を積み上げた供養塚。岡山観光WEBとるるぶは、牛の鼻輪約700万個を積み上げ、馬頭観音を本尊に家畜全般を供養していると説明する。色とりどりの鼻ぐりが巨大な塚を成す光景は異様だが、根底には食と畜類への鎮魂がある。",
+    "highlights": [
+      "約700万個の牛の鼻輪を積み上げた供養塚",
+      "馬頭観音を本尊に家畜全般を供養",
+      "食肉・畜産と鎮魂が可視化された大量奉納空間"
+    ],
+    "from_kameyama": "車で約220分（新名神→山陽道）",
+    "deepdive": {
+      "history_jp": "岡山市北区吉備津795の宗教法人福田海本部境内にある供養塚で、福田海は明治33年(1900年)に中山通幽師が開創した修験道系の宗教法人。塚は大正14年(1925年)に創設されたと伝えられ、全国の畜産業者から奉納された牛の鼻輪(鼻ぐり)が積み上げられている。[岡山観光WEB](https://www.okayama-kanko.jp/spot/detail_10104.html)",
+      "cultural_context_jp": "るるぶは、鼻輪約700万個を積み上げ、馬頭観音を本尊として家畜全般を供養していると紹介する。塚は6世紀後半の横穴式石室古墳の上に積まれており、近世以来の畜魂供養と古墳信仰が重層的に残る場として、動物慰霊塚研究でも取り上げられる。[るるぶ](https://rurubu.jp/andmore/spot/80033631), [動物慰霊塚研究](http://www.asahi-net.or.jp/~RN2H-DIMR/ohaka2/20tikusan/26cyugoku/hanaguri.html)",
+      "local_perspective_jp": "るるぶの案内によれば、参拝は8:30〜16:30、定休日なし、護摩木料は100円。毎年4月第3日曜には畜魂祭(鎮魂祭)が行われる。電話は086-287-3008(宗教法人福田海本部)。",
+      "best_visit_time": "畜魂祭が行われる4月第3日曜前後、または静かに参拝するなら平日午前。",
+      "photo_tips": "鼻ぐりが積み上がる塚の質感は順光のクローズアップが効く。塚全体は引きで古墳の盛り上がりごと入れると重層性が伝わる。",
+      "warnings_extra": "畜魂供養の場であり、冷やかしや『気持ち悪い』『グロテスク』等の感情的表現は避ける。公式単独サイトが弱いため岡山観光WEBを準公式扱いとして扱う。",
+      "sources": "[岡山観光WEB](https://www.okayama-kanko.jp/spot/detail_10104.html), [るるぶ](https://rurubu.jp/andmore/spot/80033631), [動物慰霊塚研究](http://www.asahi-net.or.jp/~RN2H-DIMR/ohaka2/20tikusan/26cyugoku/hanaguri.html)"
+    }
+  },
+  {
+    "id": "spot-120",
+    "name": "陰陽石",
+    "name_kana": "いんようせき",
+    "category": "folk",
+    "prefecture": "宮崎県",
+    "city": "小林市",
+    "address": "宮崎県小林市東方",
+    "lat": 32.016193,
+    "lng": 131.006532,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "常時見学可、日中推奨",
+    "official_url": "https://www.city.kobayashi.lg.jp/soshikikarasagasu/keizaibushokokankoka/kankojoho/6/1671.html",
+    "reference_urls": [
+      "https://www.kanko-miyazaki.jp/spot/1095",
+      "https://www.navitime.co.jp/poi?spot=02037-0003351",
+      "https://www.web-gis.jp/GS_Kigan100/html/Kigan100_124pc.html"
+    ],
+    "summary": "小林市の川沿いに、男石・女石と呼ばれる巨大な自然石が並ぶ奇岩信仰の場。小林市公式によれば男石(陽石)は高さ17.5m、女石(陰石)は周囲5.5mで、霧島火山帯の加久藤火砕流が浸食を受けて形成された自然奇岩とされる。生殖器象徴が明瞭で、子宝・縁結び・夫婦和合の祈願対象として古くから語られる。霧島ジオパークのジオサイト指定。",
+    "highlights": [
+      "男石(高さ17.5m)・女石(周囲5.5m)と呼ばれる巨大自然石",
+      "子宝・縁結び・夫婦和合の祈願対象",
+      "霧島ジオパークのジオサイト指定"
+    ],
+    "from_kameyama": "車で約780分（新名神→山陽道→九州道→宮崎道）",
+    "deepdive": {
+      "history_jp": "小林市公式によれば、男石(陽石)は高さ17.5m、女石(陰石)は周囲5.5mに及ぶ巨大な自然石で、川沿いに並ぶ。野口雨情の詩『人にゃ言うなよ 語るなよ』が刻まれた碑も建つ。[小林市公式](https://www.city.kobayashi.lg.jp/soshikikarasagasu/keizaibushokokankoka/kankojoho/6/1671.html) NAVITIMEは緯度経度32.016193, 131.006532で登録、web-gis.jp『奇岩百景』もほぼ同位置で記録している。[NAVITIME](https://www.navitime.co.jp/poi?spot=02037-0003351), [web-gis 奇岩百景](https://www.web-gis.jp/GS_Kigan100/html/Kigan100_124pc.html)",
+      "cultural_context_jp": "みやざき観光ナビでは、霧島火山帯の加久藤火砕流(約33万年前)が堆積し、川の浸食で形成された自然奇岩であり、『よろず生産の神』『子宝の神』として古くから信仰されてきたと説明される。霧島ジオパークのジオサイトにも指定されており、自然奇景と生殖器信仰が一体化した珍しい場所として地元観光資源に位置づけられている。[みやざき観光ナビ](https://www.kanko-miyazaki.jp/spot/1095)",
+      "local_perspective_jp": "アクセスはバス停『陰陽石』から徒歩5分、車は小林ICから約20分。常時見学可・無料、公道沿いから観察できるが川岸は足元注意。",
+      "best_visit_time": "緑の濃い初夏か紅葉期。川面が穏やかな日中。",
+      "photo_tips": "対岸からのワイドで男石・女石を一画面に収めると規模が伝わる。望遠で表面の岩肌をクローズアップする構図も有効。",
+      "warnings_extra": "『エロい岩』『R指定』等の即物的・煽情的表現は避け、自然信仰・ジオサイトの文脈で扱う。",
+      "sources": "[小林市公式](https://www.city.kobayashi.lg.jp/soshikikarasagasu/keizaibushokokankoka/kankojoho/6/1671.html), [みやざき観光ナビ](https://www.kanko-miyazaki.jp/spot/1095), [NAVITIME](https://www.navitime.co.jp/poi?spot=02037-0003351), [web-gis 奇岩百景](https://www.web-gis.jp/GS_Kigan100/html/Kigan100_124pc.html)"
+    }
+  },
+  {
+    "id": "spot-121",
+    "name": "軽部神社",
+    "name_kana": "かるべじんじゃ",
+    "category": "folk",
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "address": "岡山県総社市清音軽部",
+    "lat": 34.638086,
+    "lng": 133.735614,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "参拝自由、日中推奨",
+    "official_url": "https://www.city.soja.okayama.jp/site/kanko/3604.html",
+    "reference_urls": [
+      "https://www.okayama-kanko.jp/spot/detail_10782.html",
+      "https://www.navitime.co.jp/poi?spot=00004-33164800013"
+    ],
+    "summary": "延宝6年(1678年)建立とされる神社で、境内にあった『垂乳根の桜』にちなみ乳神様として信仰を集めた。総社市公式は、安産や母乳の出を願うため、乳房を型取った手作りの絵馬が数多く奉納されていると説明する。身体信仰と大量奉納が視覚的に残る、岡山の民俗信仰スポット。",
+    "highlights": [
+      "乳神様として信仰される神社",
+      "乳房を型取った手作り絵馬が多数奉納",
+      "安産・母乳・乳の病に関わる身体信仰"
+    ],
+    "from_kameyama": "車で約210分（新名神→山陽道）",
+    "deepdive": {
+      "history_jp": "総社市公式によれば、軽部神社は延宝6年(1678年)建立とされ、境内にあった『垂乳根の桜』にちなみ乳神様として信仰を集めてきた。[総社市公式](https://www.city.soja.okayama.jp/site/kanko/3604.html) NAVITIMEは緯度経度34.638086, 133.735614で登録、住所は岡山県総社市清音軽部となる。[NAVITIME](https://www.navitime.co.jp/poi?spot=00004-33164800013)",
+      "cultural_context_jp": "総社市公式・岡山観光WEBともに、安産や母乳の出を願うため、乳房を型取った手作りの絵馬が数多く奉納されていると紹介している。[岡山観光WEB](https://www.okayama-kanko.jp/spot/detail_10782.html) 身体の一部を型取って奉納する絵馬の風習は全国にあるが、軽部神社は乳房型絵馬が境内を占めるほど大量に集まる点で異彩を放つ。",
+      "local_perspective_jp": "参拝は無料・自由参拝。駐車場はなく、JR清音駅から徒歩10分が標準的なアクセス。",
+      "best_visit_time": "春の桜の時期、または雨上がりで絵馬が落ち着いた色合いに見える日中。",
+      "photo_tips": "絵馬掛けの全景と、奉納絵馬の細部の質感を引きと寄りで両方撮るとよい。個人名や顔写真などプライバシーが写る部分は避ける。",
+      "warnings_extra": "女性の身体や病気を笑いの対象にする表現は避ける。乳房型絵馬の撮影は奉納者のプライバシーに配慮し、必要に応じて顔写真等は写さない。駐車場がない点も明記する。",
+      "sources": "[総社市公式](https://www.city.soja.okayama.jp/site/kanko/3604.html), [岡山観光WEB](https://www.okayama-kanko.jp/spot/detail_10782.html), [NAVITIME](https://www.navitime.co.jp/poi?spot=00004-33164800013)"
+    }
+  },
+  {
+    "id": "spot-122",
+    "name": "淡嶋神社",
+    "name_kana": "あわしまじんじゃ",
+    "category": "folk",
+    "prefecture": "和歌山県",
+    "city": "和歌山市",
+    "address": "和歌山県和歌山市加太118",
+    "lat": 34.273422,
+    "lng": 135.06682,
+    "status": "現存",
+    "fee": "無料、宝物殿は300円(要予約)",
+    "hours": "参拝9:00〜17:00目安",
+    "official_url": "https://www.kada.jp/awashima/",
+    "reference_urls": [
+      "https://www.wakayama-kanko.or.jp/spots/detail_217.html",
+      "https://mapfan.com/spots/SC3W3,J,TY",
+      "https://ja.wikipedia.org/wiki/%E6%B7%A1%E5%B6%8B%E7%A5%9E%E7%A4%BE"
+    ],
+    "summary": "和歌山市加太に鎮座し、全国の淡島神社・粟島神社の総本社とされる神社。少彦名命を祭神とし、医薬・安産・女性の病気回復の信仰と結びつく。境内には全国から納められた2万体以上の人形が並び、3月3日には人形を船に乗せ海に流す『雛流し』神事が行われる。心霊的に煽られやすい場所だが、Bizarre Japanでは人形供養と女性信仰の民俗として扱う。",
+    "highlights": [
+      "境内を埋める2万体以上の奉納人形",
+      "全国淡島神社・粟島神社の総本社",
+      "3月3日『雛流し』神事と2月8日『針供養』"
+    ],
+    "from_kameyama": "車で約150分（名阪国道→京奈和道→阪和道）",
+    "deepdive": {
+      "history_jp": "和歌山県和歌山市加太118に鎮座する神社で、Wikipediaおよび和歌山観光公式は、全国の淡島神社・粟島神社の総本社とされ、少彦名命を祭神とすると紹介している。[淡嶋神社公式](https://www.kada.jp/awashima/), [和歌山観光公式](https://www.wakayama-kanko.or.jp/spots/detail_217.html), [Wikipedia](https://ja.wikipedia.org/wiki/%E6%B7%A1%E5%B6%8B%E7%A5%9E%E7%A4%BE) MapFanでは緯度経度34.2734756, 135.0668204で登録される。[MapFan](https://mapfan.com/spots/SC3W3,J,TY)",
+      "cultural_context_jp": "Wikipediaによれば、境内には全国から奉納された2万体以上の人形が並び、3月3日には人形を船に乗せ海に流す『雛流し』神事が行われる。2月8日には針供養も行われ、医薬・安産・女性の病気回復の信仰が現代まで継続している。",
+      "local_perspective_jp": "参拝は9:00〜17:00目安。宝物殿は要予約で300円。電話は073-459-0043(淡嶋神社社務所)。",
+      "best_visit_time": "3月3日の雛流し前後、または2月8日の針供養前後。",
+      "photo_tips": "境内を埋める人形群はワイドで奉納棚を画面に入れる構図が定番。個別の人形のアップは奉納者の意図に配慮し、過剰な顔寄せ撮影は避ける。",
+      "warnings_extra": "『怖い人形』『幽霊が出る』『呪いの人形』等の心霊オカルトフレーミングは避け、人形供養と女性信仰の場として記述する。",
+      "sources": "[淡嶋神社公式](https://www.kada.jp/awashima/), [和歌山観光公式](https://www.wakayama-kanko.or.jp/spots/detail_217.html), [MapFan](https://mapfan.com/spots/SC3W3,J,TY), [Wikipedia](https://ja.wikipedia.org/wiki/%E6%B7%A1%E5%B6%8B%E7%A5%9E%E7%A4%BE)"
+    }
   }
 ]
