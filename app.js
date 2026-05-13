@@ -1061,13 +1061,7 @@ function handleUrlParams() {
   }
 }
 
-// ============ Submit Form Link ============
-// GitHub Issues template-based submission (no auth wall, multilingual, version-controlled)
-const submitFormUrl = 'https://github.com/tydmthr/kinki-tokai-chinspot/issues/new?labels=spot-submission&template=spot-submission.md&title=%5B%E6%96%B0%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88%5D+';
-const submitBtn = document.getElementById('submitForm');
-if (submitBtn) {
-  submitBtn.href = submitFormUrl;
-}
+// Submit form link is now defined directly in index.html (Google Form + mail + IG DM)
 
 // ============ Refresh hook for language toggle ============
 window.refreshAll = function() {
