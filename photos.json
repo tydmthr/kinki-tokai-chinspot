@@ -1190,5 +1190,66 @@
     "primary": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Mishima%27s_Kasedori_2017-02-11_01.jpg",
     "credit": "Wikimedia Commons / CC BY-SA 4.0",
     "alt_photos": []
+  },
+  "fest-113": {
+    "name": "大善寺玉垂宮 鬼夜",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Oniyo001.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 3.0",
+    "alt_photos": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/69/Big_torch_in_Daizenji_Tamatare-gu.jpg"
+    ]
+  },
+  "fest-115": {
+    "name": "奥能登のあえのこと",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Oku-noto_no_Aenokoto_%282%29.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 3.0",
+    "alt_photos": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/13/Oku-noto_no_Aenokoto_%281%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3c/Oku-noto_no_Aenokoto_%283%29.jpg"
+    ]
+  },
+  "fest-119": {
+    "name": "恐山大祭",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Sacred_Mount_Osorezan_20200601a_stitching9.jpg",
+    "credit": "Wikimedia Commons / CC BY-SA 4.0",
+    "alt_photos": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3a/Shrine_-_Mount_Osore_-_Mutsu%2C_Aomori_-_DSC00425.jpg"
+    ]
+  },
+  "fest-120": {
+    "name": "宮古島のパーントゥ",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Miyako_paantou.jpg",
+    "credit": "Wikimedia Commons / CC BY 3.0",
+    "alt_photos": []
+  },
+  "fest-121": {
+    "name": "国東の修正鬼会",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Shujo_Onie_%28Bungotakada%29.jpg",
+    "credit": "Wikimedia Commons / CC0",
+    "alt_photos": []
+  },
+  "fest-114": {
+    "name": "アマメハギ",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "fest-116": {
+    "name": "六郷のカマクラ行事",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "fest-117": {
+    "name": "白石踊",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "fest-118": {
+    "name": "御陣乗太鼓",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
   }
 }
