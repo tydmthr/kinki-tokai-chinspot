@@ -46,9 +46,12 @@ def enrich(item):
         item['access'] = a
     e = (spots_en if iid.startswith('spot-') else fests_en).get(iid)
     if e:
-        for k in ['name_en','prefecture_en','city_en','summary_en','highlights_en']:
-            if k in e:
-                item[k] = e[k]
+        # Copy all keys ending in _en (covers name_en, summary_en, origin_en,
+        # viewing_notes_en, cultural_position_en, local_view_en, related_works_en,
+        # trivia_en, photo_tips_en, references_en, etc. — anything translated)
+        for k, v in e.items():
+            if k.endswith('_en'):
+                item[k] = v
     return item
 
 spots = [enrich(s) for s in spots]

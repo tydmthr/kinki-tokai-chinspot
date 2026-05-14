@@ -414,67 +414,68 @@ function buildDeepdiveBlock(item) {
   if (d.history_jp) {
     sections.push(`
       <details class="m-deep" open>
-        <summary class="m-deep-h"><i class="ph ph-scroll"></i> 歴史・伝承</summary>
+        <summary class="m-deep-h"><i class="ph ph-scroll"></i> ${t('m.deep.history')}</summary>
         <div class="m-deep-body">${renderMdLinks(d.history_jp)}</div>
       </details>`);
   }
   if (d.cultural_context_jp) {
     sections.push(`
       <details class="m-deep">
-        <summary class="m-deep-h"><i class="ph ph-globe-hemisphere-east"></i> 文化的位置づけ</summary>
+        <summary class="m-deep-h"><i class="ph ph-globe-hemisphere-east"></i> ${t('m.deep.cultural')}</summary>
         <div class="m-deep-body">${renderMdLinks(d.cultural_context_jp)}</div>
       </details>`);
   }
   if (d.local_perspective_jp) {
     sections.push(`
       <details class="m-deep">
-        <summary class="m-deep-h"><i class="ph ph-users-three"></i> 地元の視点</summary>
+        <summary class="m-deep-h"><i class="ph ph-users-three"></i> ${t('m.deep.local')}</summary>
         <div class="m-deep-body">${renderMdLinks(d.local_perspective_jp)}</div>
       </details>`);
   }
   if (d.related_works) {
     sections.push(`
       <details class="m-deep">
-        <summary class="m-deep-h"><i class="ph ph-books"></i> 関連作品・人物</summary>
+        <summary class="m-deep-h"><i class="ph ph-books"></i> ${t('m.deep.related')}</summary>
         <div class="m-deep-body">${renderMdLinks(d.related_works)}</div>
       </details>`);
   }
   if (d.trivia) {
     sections.push(`
       <details class="m-deep">
-        <summary class="m-deep-h"><i class="ph ph-lightbulb"></i> 豆知識</summary>
+        <summary class="m-deep-h"><i class="ph ph-lightbulb"></i> ${t('m.deep.trivia')}</summary>
         <div class="m-deep-body">${renderMdLinks(d.trivia)}</div>
       </details>`);
   }
   if (d.best_visit_time || d.photo_tips || d.warnings_extra) {
     const tips = [];
-    if (d.best_visit_time) tips.push(`<p><strong>ベスト訪問時期：</strong>${renderMdLinks(d.best_visit_time)}</p>`);
-    if (d.photo_tips) tips.push(`<p><strong>写真スポット：</strong>${renderMdLinks(d.photo_tips)}</p>`);
-    if (d.warnings_extra) tips.push(`<p><strong>注意事項：</strong>${renderMdLinks(d.warnings_extra)}</p>`);
+    const sep = CURRENT_LANG === 'en' ? ': ' : '：';
+    if (d.best_visit_time) tips.push(`<p><strong>${t('m.bestTime')}${sep}</strong>${renderMdLinks(d.best_visit_time)}</p>`);
+    if (d.photo_tips) tips.push(`<p><strong>${t('m.photoSpot')}${sep}</strong>${renderMdLinks(d.photo_tips)}</p>`);
+    if (d.warnings_extra) tips.push(`<p><strong>${t('m.warningsInline')}${sep}</strong>${renderMdLinks(d.warnings_extra)}</p>`);
     sections.push(`
       <details class="m-deep">
-        <summary class="m-deep-h"><i class="ph ph-camera"></i> 訪問・撮影のヒント</summary>
+        <summary class="m-deep-h"><i class="ph ph-camera"></i> ${t('m.deep.phototips')}</summary>
         <div class="m-deep-body">${tips.join('')}</div>
       </details>`);
   }
   if (d.external_reviews) {
     sections.push(`
       <details class="m-deep" open>
-        <summary class="m-deep-h"><i class="ph ph-newspaper-clipping"></i> 他の人の訪問記</summary>
+        <summary class="m-deep-h"><i class="ph ph-newspaper-clipping"></i> ${t('m.deep.othervisits')}</summary>
         <div class="m-deep-body m-reviews">${renderMdLinks(d.external_reviews)}</div>
       </details>`);
   }
   if (d.sources) {
     sections.push(`
       <details class="m-deep">
-        <summary class="m-deep-h"><i class="ph ph-quotes"></i> 参考出典</summary>
+        <summary class="m-deep-h"><i class="ph ph-quotes"></i> ${t('m.deep.references')}</summary>
         <div class="m-deep-body m-sources">${renderMdLinks(d.sources)}</div>
       </details>`);
   }
   if (sections.length === 0) return '';
   return `
     <div class="m-section m-deepdive">
-      <h3 class="m-h"><i class="ph ph-binoculars"></i> 深掘り情報</h3>
+      <h3 class="m-h"><i class="ph ph-binoculars"></i> ${t('m.deep.title')}</h3>
       ${sections.join('')}
     </div>`;
 }
@@ -499,22 +500,25 @@ function buildRelatedSpotsBlock(item) {
     .slice(0, 5);
   if (candidates.length === 0) return '';
   const cards = candidates.map(({ item: x, d }) => {
-    const label = x.shrine ? '奇祭' : catLabel(x.category);
+    const label = x.shrine ? t('m.festival') : catLabel(x.category);
     const name = pick(x, 'name', 'name_en');
     const photo = x.photo_url ? `<div class="rel-thumb" style="background-image:url('${x.photo_url}')"></div>` : `<div class="rel-thumb rel-thumb-empty">${x.shrine ? '奇' : '珍'}</div>`;
+    const pref = pick(x, 'prefecture', 'prefecture_en');
+    const city = pick(x, 'city', 'city_en');
+    const loc = CURRENT_LANG === 'en' ? [city, pref].filter(Boolean).join(', ') : `${pref||''}${city||''}`;
     return `
       <a class="rel-card" data-rel-id="${x.id}" data-rel-type="${x.shrine ? 'fest' : 'spot'}">
         ${photo}
         <div class="rel-body">
-          <span class="rel-cat">${label} ・ ${d.toFixed(1)}km</span>
+          <span class="rel-cat">${label} ・ ${d.toFixed(1)}${t('m.km')}</span>
           <strong class="rel-name">${name}</strong>
-          <span class="rel-loc">${x.prefecture||''}${x.city||''}</span>
+          <span class="rel-loc">${loc}</span>
         </div>
       </a>`;
   }).join('');
   return `
     <div class="m-section">
-      <h3 class="m-h"><i class="ph ph-map-trifold"></i> この近くの珍スポット・奇祭</h3>
+      <h3 class="m-h"><i class="ph ph-map-trifold"></i> ${t('m.nearby')}</h3>
       <div class="m-related">${cards}</div>
     </div>`;
 }
@@ -604,13 +608,13 @@ function openFestivalDetail(f) {
 
   const html = `
     ${buildPhotoBlock(f)}
-    <p class="m-cat">${CURRENT_LANG === 'en' ? 'Festival' : '奇祭'} ／ ${fcatLabel(f.category)}</p>
+    <p class="m-cat">${t('m.festival')} ／ ${fcatLabel(f.category)}</p>
     <h2 class="m-name">${name}</h2>
     ${f.name_kana ? `<p class="m-kana">${f.name_kana} ／ ${shrine}</p>` : ''}
     ${CURRENT_LANG === 'en' && f.name ? `<p class="m-kana" style="color:var(--gold)">${f.name}</p>` : ''}
     ${buildVisitButtons(f.id)}
     <div class="m-meta-grid">
-      <div class="m-meta-item"><span class="ml">${t('m.held')}</span><span class="mv">${pref}${city || ''}</span></div>
+      <div class="m-meta-item"><span class="ml">${t('m.held')}</span><span class="mv">${CURRENT_LANG === 'en' ? [city, pref].filter(Boolean).join(', ') : `${pref}${city || ''}`}</span></div>
       <div class="m-meta-item"><span class="ml">${t('m.date')}</span><span class="mv">${dateStr}<br><small style="color:var(--gray);font-size:10px">${pick(f,'date_pattern','date_pattern_en')}</small></span></div>
       <div class="m-meta-item"><span class="ml">${t('m.coords')}</span><span class="mv">${f.lat.toFixed(4)}, ${f.lng.toFixed(4)}</span></div>
     </div>
