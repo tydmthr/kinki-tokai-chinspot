@@ -1,10 +1,19 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
+  <script>
+    // Redirect legacy ?lang=en URLs to /en/
+    if (new URLSearchParams(location.search).get('lang') === 'en') {
+      location.replace('/en/' + location.hash);
+    }
+  </script>
+  <link rel="alternate" hreflang="ja" href="https://bizarrejapan.com/">
+  <link rel="alternate" hreflang="en" href="https://bizarrejapan.com/en/">
+  <link rel="alternate" hreflang="x-default" href="https://bizarrejapan.com/">
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>異界巡礼 — 日本全国 珍スポット76＆奇祭47百景 | Bizarre Japan</title>
-<meta name="description" content="日本全国の一生記憶に残る珍スポット76件と奇祭47件を、インタラクティブ地図と年間カレンダーで案内する旅行ガイド。土俗の祭礼、廃墟、聖地、B級カオス。76 strange spots and 47 wild festivals across Japan." />
+<title>異界巡礼 — 日本全国 珍スポット122＆奇祭121百景 | Bizarre Japan</title>
+<meta name="description" content="日本全国の一生記憶に残る珍スポット122件と奇祭121件を、インタラクティブ地図と年間カレンダーで案内する旅行ガイド。土俗の祭礼、廃墟、聖地、B級カオス。122 strange spots and 121 wild festivals across Japan." />
 <meta name="keywords" content="珍スポット,奇祭,日本全国,近畿,東海,三重,愛知,京都,大阪,奈良,bizarre japan,strange spots,wild festivals,fertility festival,japan" />
 <meta name="author" content="Bizarre Japan / 異界巡礼" />
 <meta name="theme-color" content="#0a0808" />
@@ -13,8 +22,8 @@
 <!-- Open Graph -->
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Bizarre Japan / 異界巡礼" />
-<meta property="og:title" content="異界巡礼 — 日本全国 珍スポット76＆奇祭47百景" />
-<meta property="og:description" content="日本全国の一生記憶に残る珍スポット76件と奇祭47件をマップ＋カレンダーで案内。Bizarre Japan: 76 strange spots and 47 wild festivals across Japan." />
+<meta property="og:title" content="異界巡礼 — 日本全国 珍スポット122＆奇祭121百景" />
+<meta property="og:description" content="日本全国の一生記憶に残る珍スポット122件と奇祭121件をマップ＋カレンダーで案内。Bizarre Japan: 122 strange spots and 121 wild festivals across Japan." />
 <meta property="og:url" content="https://bizarrejapan.com/" />
 <meta property="og:image" content="https://bizarrejapan.com/og-image.png" />
 <meta property="og:image:width" content="1200" />
@@ -25,7 +34,7 @@
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Bizarre Japan / 異界巡礼" />
-<meta name="twitter:description" content="76 strange spots and 47 wild festivals across Japan." />
+<meta name="twitter:description" content="122 strange spots and 121 wild festivals across Japan." />
 <meta name="twitter:image" content="https://bizarrejapan.com/og-image.png" />
 
 <!-- hreflang -->
@@ -46,7 +55,7 @@
   "name": "Bizarre Japan / 異界巡礼",
   "alternateName": "Strange Spots & Wild Festivals Across Japan",
   "url": "https://bizarrejapan.com/",
-  "description": "日本全国の珍スポット76件と奇祭47件を地図とカレンダーで巡るガイドサイト。",
+  "description": "日本全国の珍スポット122件と奇祭121件を地図とカレンダーで巡るガイドサイト。",
   "inLanguage": ["ja", "en"],
   "potentialAction": {
     "@type": "SearchAction",
@@ -62,7 +71,7 @@
   "name": "異界巡礼 — 日本全国 珍スポット＆奇祭百景",
   "url": "https://bizarrejapan.com/",
   "image": "https://bizarrejapan.com/og-image.png",
-  "abstract": "日本全国の珍スポット76件と奇祭47件を厳選収録。土俗の祭礼、廃墟、聖地、B級カオス。",
+  "abstract": "日本全国の珍スポット122件と奇祭121件を厳選収録。土俗の祭礼、廃墟、聖地、B級カオス。",
   "audience": {
     "@type": "Audience",
     "audienceType": "Travelers, cultural enthusiasts, oddity seekers"
@@ -127,21 +136,21 @@
       <text x="30" y="38" text-anchor="middle" font-family="Shippori Mincho B1, serif" font-size="20" font-weight="800" fill="currentColor">鬼</text>
     </svg>
     <div class="brand-text">
-      <h1 class="brand-name" data-i18n="brand.name">異界巡礼</h1>
-      <p class="brand-sub" data-i18n="brand.sub">日本全国 珍スポット＆奇祭百景</p>
+      <h1 class="brand-name">異界巡礼</h1>
+      <p class="brand-sub">日本全国 珍スポット＆奇祭百景</p>
     </div>
   </div>
   <nav class="tabs" id="tabs" role="tablist">
-    <button class="tab active" data-tab="hero" role="tab"><i class="ph ph-house"></i><span data-i18n="tab.hero">序</span></button>
-    <button class="tab" data-tab="map" role="tab"><i class="ph ph-map-trifold"></i><span data-i18n="tab.map">地図</span></button>
-    <button class="tab" data-tab="calendar" role="tab"><i class="ph ph-calendar-blank"></i><span data-i18n="tab.calendar">祭暦</span></button>
-    <button class="tab" data-tab="list" role="tab"><i class="ph ph-list-magnifying-glass"></i><span data-i18n="tab.list">名鑑</span></button>
-    <button class="tab" data-tab="routes" role="tab"><i class="ph ph-path"></i><span data-i18n="tab.routes">巡路</span></button>
+    <button class="tab active" data-tab="hero" role="tab"><i class="ph ph-house"></i><span>序</span></button>
+    <button class="tab" data-tab="map" role="tab"><i class="ph ph-map-trifold"></i><span>地図</span></button>
+    <button class="tab" data-tab="calendar" role="tab"><i class="ph ph-calendar-blank"></i><span>祭暦</span></button>
+    <button class="tab" data-tab="list" role="tab"><i class="ph ph-list-magnifying-glass"></i><span>名鑑</span></button>
+    <button class="tab" data-tab="routes" role="tab"><i class="ph ph-path"></i><span>巡路</span></button>
   </nav>
   <div class="header-actions">
-    <button class="lang-toggle" id="langToggle" aria-label="言語切替" title="JP / EN">
-      <i class="ph ph-translate"></i><span id="langLabel">EN</span>
-    </button>
+    <a class="lang-toggle" href="/en/" aria-label="English version" title="English">
+      <i class="ph ph-translate"></i><span>EN</span>
+    </a>
     <button class="theme-toggle" id="themeToggle" aria-label="テーマ切替" title="ダーク / ライト">
       <i class="ph ph-moon" id="themeIcon"></i>
     </button>
@@ -151,70 +160,64 @@
 <!-- HERO -->
 <section class="view view-hero active" id="view-hero">
   <div class="hero-inner">
-    <p class="hero-eyebrow" data-i18n="hero.eyebrow">日 本 全 国 ／ 異 界 案 内</p>
+    <p class="hero-eyebrow">日 本 全 国 ／ 異 界 案 内</p>
     <h2 class="hero-title">
-      <span class="hero-line-1" data-i18n="hero.line1">忘れられぬ</span>
-      <span class="hero-line-2" data-i18n="hero.line2">記憶のための、</span>
-      <span class="hero-line-3" data-i18n="hero.line3">もう一つの日本。</span>
+      <span class="hero-line-1">忘れられぬ</span>
+      <span class="hero-line-2">記憶のための、</span>
+      <span class="hero-line-3">もう一つの日本。</span>
     </h2>
-    <p class="hero-lede" data-i18n-html="hero.lede">
-      表通りの観光案内には載らない。<br>
-      しかし確かに其処にある——個人が一生をかけて作り上げたコンクリートの楽園。<br>
-      千年続く土俗の祭礼。語り継がれた廃墟と祠。<br>
-      <strong>日本全国の珍スポット76件と奇祭47件を、地図と暦で巡る。</strong>
-    </p>
+    <p class="hero-lede">表通りの観光案内には載らない。<br>しかし確かに其処にある——個人が一生をかけて作り上げたコンクリートの楽園。<br>千年続く土俗の祭礼。語り継がれた廃墟と祠。<br><strong>日本全国の珍スポット122件と奇祭121件を、地図と暦で巡る。</strong></p>
 
     <div class="hero-stats">
-      <div class="stat"><span class="stat-num" id="statSpots">76</span><span class="stat-label" data-i18n="hero.stat1">珍スポット</span></div>
+      <div class="stat"><span class="stat-num" id="statSpots">122</span><span class="stat-label">珍スポット</span></div>
       <div class="stat-divider"></div>
-      <div class="stat"><span class="stat-num" id="statFests">47</span><span class="stat-label" data-i18n="hero.stat2">奇祭・暦</span></div>
+      <div class="stat"><span class="stat-num" id="statFests">121</span><span class="stat-label">奇祭・暦</span></div>
       <div class="stat-divider"></div>
-      <div class="stat"><span class="stat-num" id="statPrefs">20</span><span class="stat-label" data-i18n="hero.stat3">府県</span></div>
+      <div class="stat"><span class="stat-num" id="statPrefs">47</span><span class="stat-label">府県</span></div>
     </div>
 
     <div class="hero-cta">
-      <button class="cta-primary" data-goto="map"><i class="ph ph-map-trifold"></i><span data-i18n="hero.cta1">地図で巡る</span></button>
-      <button class="cta-secondary" data-goto="calendar"><i class="ph ph-calendar-blank"></i><span data-i18n="hero.cta2">祭暦を開く</span></button>
+      <button class="cta-primary" data-goto="map"><i class="ph ph-map-trifold"></i><span>地図で巡る</span></button>
+      <button class="cta-secondary" data-goto="calendar"><i class="ph ph-calendar-blank"></i><span>祭暦を開く</span></button>
     </div>
 
     <!-- 今月のおすすめ -->
     <div class="hero-this-month" id="thisMonthBlock">
       <div class="tm-header">
-        <h3 data-i18n="tm.title">直近の異界 — 巡るべき日々</h3>
+        <h3>直近の異界 — 巡るべき日々</h3>
         <p class="tm-sub" id="thisMonthSub"></p>
       </div>
       <div class="tm-grid" id="thisMonthGrid"></div>
     </div>
 
     <div class="hero-categories">
-      <p class="cat-title" data-i18n="cat.title">四つの異界</p>
+      <p class="cat-title">四つの異界</p>
       <div class="cat-grid">
         <div class="cat-card cat-folk" data-cat="folk">
           <span class="cat-glyph">祓</span>
-          <h3 data-i18n="cat.folk.h">土俗・奇祭</h3>
-          <p data-i18n-html="cat.folk.p">性、火、裸、奇習。<br>千年の信仰の核心。</p>
+          <h3>土俗・奇祭</h3>
+          <p>性、火、裸、奇習。<br>千年の信仰の核心。</p>
         </div>
         <div class="cat-card cat-bkyu" data-cat="bkyu">
           <span class="cat-glyph">魁</span>
-          <h3 data-i18n="cat.bkyu.h">B級・カオス</h3>
-          <p data-i18n-html="cat.bkyu.p">個人が作った珍博物館、<br>コンクリート像群。</p>
+          <h3>B級・カオス</h3>
+          <p>個人が作った珍博物館、<br>コンクリート像群。</p>
         </div>
         <div class="cat-card cat-horror" data-cat="horror">
           <span class="cat-glyph">霊</span>
-          <h3 data-i18n="cat.horror.h">心霊・廃墟</h3>
-          <p data-i18n-html="cat.horror.p">有名心霊、廃墟、<br>いわく付きの場所。</p>
+          <h3>心霊・廃墟</h3>
+          <p>有名心霊、廃墟、<br>いわく付きの場所。</p>
         </div>
         <div class="cat-card cat-mystery" data-cat="mystery">
           <span class="cat-glyph">秘</span>
-          <h3 data-i18n="cat.mystery.h">聖地・ミステリー</h3>
-          <p data-i18n-html="cat.mystery.p">巨石、UFO、ピラミッド、<br>超古代史の影。</p>
+          <h3>聖地・ミステリー</h3>
+          <p>巨石、UFO、ピラミッド、<br>超古代史の影。</p>
         </div>
       </div>
     </div>
 
     <div class="hero-note">
-      <p data-i18n-html="hero.note">※ 心霊スポット・廃墟は来訪を推奨しません。歴史と来歴の記録として収録しています。<br>
-      ※ 祭事日程は2026年5月〜2027年4月の年間サイクルを基準。詳細は必ず公式情報で確認を。</p>
+      <p>※ 心霊スポット・廃墟は来訪を推奨しません。歴史と来歴の記録として収録しています。<br>※ 祭事日程は2026年5月〜2027年4月の年間サイクルを基準。詳細は必ず公式情報で確認を。</p>
     </div>
   </div>
 </section>
@@ -223,29 +226,29 @@
 <section class="view view-map" id="view-map">
   <aside class="map-sidebar" id="mapSidebar">
     <div class="filter-block">
-      <label class="filter-label" data-i18n="filter.search">検索</label>
-      <input type="search" id="spotSearch" placeholder="名前・地域で絞る" data-i18n-placeholder="filter.searchph" class="search-input"/>
+      <label class="filter-label">検索</label>
+      <input type="search" id="spotSearch" placeholder="名前・地域で絞る" class="search-input"/>
     </div>
     <div class="filter-block">
-      <label class="filter-label" data-i18n="filter.cat">カテゴリ</label>
+      <label class="filter-label">カテゴリ</label>
       <div class="cat-filter" id="catFilter">
-        <button class="cat-chip active" data-cat="all" data-i18n="filter.all">すべて<span class="count" id="cnt-all"></span></button>
-        <button class="cat-chip cat-folk" data-cat="folk" data-i18n="filter.folk">土俗・奇祭<span class="count" id="cnt-folk"></span></button>
-        <button class="cat-chip cat-bkyu" data-cat="bkyu" data-i18n="filter.bkyu">B級<span class="count" id="cnt-bkyu"></span></button>
-        <button class="cat-chip cat-horror" data-cat="horror" data-i18n="filter.horror">心霊<span class="count" id="cnt-horror"></span></button>
-        <button class="cat-chip cat-mystery" data-cat="mystery" data-i18n="filter.mystery">聖地<span class="count" id="cnt-mystery"></span></button>
+        <button class="cat-chip active" data-cat="all">すべて<span class="count" id="cnt-all"></span></button>
+        <button class="cat-chip cat-folk" data-cat="folk">土俗・奇祭<span class="count" id="cnt-folk"></span></button>
+        <button class="cat-chip cat-bkyu" data-cat="bkyu">B級<span class="count" id="cnt-bkyu"></span></button>
+        <button class="cat-chip cat-horror" data-cat="horror">心霊<span class="count" id="cnt-horror"></span></button>
+        <button class="cat-chip cat-mystery" data-cat="mystery">聖地<span class="count" id="cnt-mystery"></span></button>
       </div>
     </div>
     <div class="filter-block">
-      <label class="filter-label" data-i18n="filter.region">府県</label>
+      <label class="filter-label">府県</label>
       <div class="region-filter" id="regionFilter"></div>
     </div>
     <div class="filter-block">
-      <label class="filter-label" data-i18n="filter.layer">表示種別</label>
+      <label class="filter-label">表示種別</label>
       <div class="layer-toggle">
-        <label><input type="checkbox" id="showSpots" checked /> <span data-i18n="filter.spots">珍スポット</span><span class="dot" style="background:#c8332b"></span></label>
-        <label><input type="checkbox" id="showFests" checked /> <span data-i18n="filter.fests">祭事地</span><span class="dot" style="background:#d4a437"></span></label>
-        <label><input type="checkbox" id="showVisited" /> <span data-i18n="filter.visited">行った場所のみ</span></label>
+        <label><input type="checkbox" id="showSpots" checked /> <span>珍スポット</span><span class="dot" style="background:#c8332b"></span></label>
+        <label><input type="checkbox" id="showFests" checked /> <span>祭事地</span><span class="dot" style="background:#d4a437"></span></label>
+        <label><input type="checkbox" id="showVisited" /> <span>行った場所のみ</span></label>
       </div>
     </div>
     <div class="result-list" id="resultList"></div>
@@ -257,16 +260,16 @@
 <!-- CALENDAR -->
 <section class="view view-calendar" id="view-calendar">
   <div class="cal-header">
-    <h2 class="cal-title" data-i18n="cal.title">奇祭暦 — 一年で日本が一番ヤバい日々</h2>
-    <p class="cal-sub" data-i18n="cal.sub">2026年5月 〜 2027年4月</p>
+    <h2 class="cal-title">奇祭暦 — 一年で日本が一番ヤバい日々</h2>
+    <p class="cal-sub">2026年5月 〜 2027年4月</p>
     <div class="cal-cat-filter" id="calCatFilter">
-      <button class="cat-chip active" data-fcat="all" data-i18n="filter.all">すべて</button>
-      <button class="cat-chip" data-fcat="naked" data-i18n="cal.naked">裸</button>
-      <button class="cat-chip" data-fcat="fire" data-i18n="cal.fire">火</button>
-      <button class="cat-chip" data-fcat="weird" data-i18n="cal.weird">奇習</button>
-      <button class="cat-chip" data-fcat="sex" data-i18n="cal.sex">性</button>
-      <button class="cat-chip" data-fcat="animal" data-i18n="cal.animal">動物</button>
-      <button class="cat-chip" data-fcat="other" data-i18n="cal.other">他</button>
+      <button class="cat-chip active" data-fcat="all">すべて</button>
+      <button class="cat-chip" data-fcat="naked">裸</button>
+      <button class="cat-chip" data-fcat="fire">火</button>
+      <button class="cat-chip" data-fcat="weird">奇習</button>
+      <button class="cat-chip" data-fcat="sex">性</button>
+      <button class="cat-chip" data-fcat="animal">動物</button>
+      <button class="cat-chip" data-fcat="other">他</button>
     </div>
   </div>
   <div class="cal-grid" id="calGrid"></div>
@@ -275,12 +278,12 @@
 <!-- LIST -->
 <section class="view view-list" id="view-list">
   <div class="list-header">
-    <h2 class="list-title" data-i18n="list.title">百景名鑑</h2>
+    <h2 class="list-title">百景名鑑</h2>
     <div class="list-tabs">
-      <button class="list-tab active" data-listtab="spots" data-i18n="list.spots">珍スポット 76</button>
-      <button class="list-tab" data-listtab="festivals" data-i18n="list.fests">奇祭 47</button>
+      <button class="list-tab active" data-listtab="spots">珍スポット 122</button>
+      <button class="list-tab" data-listtab="festivals">奇祭 121</button>
     </div>
-    <input type="search" id="listSearch" placeholder="検索（名前・地域・カテゴリ）" data-i18n-placeholder="list.searchph" class="search-input list-search"/>
+    <input type="search" id="listSearch" placeholder="検索（名前・地域・カテゴリ）" class="search-input list-search"/>
   </div>
   <div class="list-grid" id="listGrid"></div>
 </section>
@@ -288,8 +291,8 @@
 <!-- ROUTES -->
 <section class="view view-routes" id="view-routes">
   <div class="routes-header">
-    <h2 class="routes-title" data-i18n="routes.title">巡礼コース — 半日・一日で巡る異界</h2>
-    <p class="routes-sub" data-i18n="routes.sub">テーマ別に厳選した巡礼ルート。地図で開けば順路が描かれる。</p>
+    <h2 class="routes-title">巡礼コース — 半日・一日で巡る異界</h2>
+    <p class="routes-sub">テーマ別に厳選した巡礼ルート。地図で開けば順路が描かれる。</p>
   </div>
   <div class="routes-grid" id="routesGrid"></div>
 </section>
@@ -307,30 +310,30 @@
     <div class="ig-feed-head">
       <h4 class="ig-feed-title">
         <i class="ph-fill ph-instagram-logo"></i>
-        <span data-i18n="footer.igTitle">最新のフィールドノート</span>
+        <span>最新のフィールドノート</span>
         <a class="ig-feed-handle" href="https://www.instagram.com/bizarre_japan/" target="_blank" rel="noopener">@bizarre_japan</a>
       </h4>
-      <p class="ig-feed-sub" data-i18n="footer.igSub">現地から届く未収録スポットの記録</p>
+      <p class="ig-feed-sub">現地から届く未収録スポットの記録</p>
     </div>
     <div class="ig-feed-grid" id="igFeedGrid"></div>
   </section>
 
   <div class="footer-cols">
     <div class="footer-col">
-      <h4 data-i18n="footer.about">このサイトについて</h4>
-      <p data-i18n-html="footer.aboutBody">異界巡礼は、日本全国の珍スポット76件と奇祭47件を厳選収録した個人運営のガイドです。<br>Independent travel guide curating 76 strange spots and 47 wild festivals across Japan.</p>
+      <h4>このサイトについて</h4>
+      <p>異界巡礼は、日本全国の珍スポット122件と奇祭121件を厳選収録した個人運営のガイドです。</p>
     </div>
     <div class="footer-col">
-      <h4 data-i18n="footer.share">情報提供・寄稿</h4>
-      <p data-i18n-html="footer.shareBody">あなたの知る奇異な場所、参加した奇祭の体験談を募集しています。</p>
+      <h4>情報提供・寄稿</h4>
+      <p>あなたの知る奇異な場所、参加した奇祭の体験談を募集しています。</p>
       <div class="footer-cta-group">
-        <a class="footer-cta" id="submitForm" href="https://docs.google.com/forms/d/e/1FAIpQLSeJ-SgIJIZik2GW25T-ChfB95_bdH1LuAzoXqe_5kvGTxKWbg/viewform" target="_blank" rel="noopener"><i class="ph ph-clipboard-text"></i><span data-i18n="footer.submitForm">フォームで送る</span></a>
-        <a class="footer-cta footer-cta-sub" href="mailto:bizarrejapan.jp@gmail.com"><i class="ph ph-envelope-simple"></i><span data-i18n="footer.submitMail">メール</span></a>
-        <a class="footer-cta footer-cta-sub" href="https://www.instagram.com/bizarre_japan/" target="_blank" rel="noopener"><i class="ph ph-instagram-logo"></i><span data-i18n="footer.submitDm">Instagram DM</span></a>
+        <a class="footer-cta" id="submitForm" href="https://docs.google.com/forms/d/e/1FAIpQLSeJ-SgIJIZik2GW25T-ChfB95_bdH1LuAzoXqe_5kvGTxKWbg/viewform" target="_blank" rel="noopener"><i class="ph ph-clipboard-text"></i><span>フォームで送る</span></a>
+        <a class="footer-cta footer-cta-sub" href="mailto:bizarrejapan.jp@gmail.com"><i class="ph ph-envelope-simple"></i><span>メール</span></a>
+        <a class="footer-cta footer-cta-sub" href="https://www.instagram.com/bizarre_japan/" target="_blank" rel="noopener"><i class="ph ph-instagram-logo"></i><span>Instagram DM</span></a>
       </div>
     </div>
     <div class="footer-col">
-      <h4 data-i18n="footer.collabs">関連サイト</h4>
+      <h4>関連サイト</h4>
       <ul class="footer-links">
         <li><a href="https://www.tokyobs.jp/" target="_blank" rel="noopener">東京別視点ガイド</a></li>
         <li><a href="https://omatsurijapan.com/" target="_blank" rel="noopener">オマツリジャパン</a></li>
@@ -342,14 +345,12 @@
     </div>
   </div>
   <div class="footer-bottom">
-    <p data-i18n-html="footer.copy">異界巡礼 / Bizarre Japan © 2026<br>
-    <span class="caution">※ 私有地への侵入・心霊スポット夜間立入は厳に慎まれたし。Some sites are private property — please respect access restrictions.</span><br>
-    画像出典：Wikimedia Commons ほか各クレジット表記参照</p>
+    <p>異界巡礼 / Bizarre Japan © 2026<br><span class="caution">※ 私有地への侵入・心霊スポット夜間立入は厳に慎まれたし。Some sites are private property — please respect access restrictions.</span><br>画像出典：Wikimedia Commons ほか各クレジット表記参照</p>
   </div>
 </footer>
 
 <script src="data.js"></script>
-<script src="i18n.js"></script>
+
 <script src="routes.js"></script>
 <script src="app.js"></script>
 </body>
