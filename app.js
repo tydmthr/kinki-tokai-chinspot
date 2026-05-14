@@ -75,10 +75,10 @@ themeToggle.addEventListener('click', () => {
   setTheme(document.body.dataset.theme === 'dark' ? 'light' : 'dark');
 });
 
-// ============ Lang Toggle ============
-document.getElementById('langToggle').addEventListener('click', () => {
-  setLang(CURRENT_LANG === 'ja' ? 'en' : 'ja');
-});
+// ============ Lang ============
+// Language is determined by URL path (/en/ vs /).
+// CURRENT_LANG, pick(), pickArr(), catLabel(), fcatLabel(), t() are defined in i18n.js.
+// Header has a static <a> link for switching, no JS handler needed.
 
 // ============ MAP ============
 let map = null;
@@ -1206,7 +1206,6 @@ async function loadIgFeed() {
 // ============ INIT ============
 window.addEventListener('DOMContentLoaded', async () => {
   await loadVisitsIndex();
-  applyI18n();
   updateCounts();
   initMap();
   buildRegionFilter();

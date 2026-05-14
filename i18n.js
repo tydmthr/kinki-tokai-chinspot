@@ -123,15 +123,9 @@ const I18N = {
   }
 };
 
-let CURRENT_LANG = (() => {
-  const url = new URLSearchParams(location.search);
-  if (url.get('lang') === 'en') return 'en';
-  if (url.get('lang') === 'ja') return 'ja';
-  const stored = localStorage.getItem('bizjp_lang');
-  if (stored === 'en' || stored === 'ja') return stored;
-  // ブラウザ言語から推定
-  return (navigator.language || 'ja').toLowerCase().startsWith('ja') ? 'ja' : 'en';
-})();
+// CURRENT_LANG is derived from <html lang>. JA = '/', EN = '/en/'.
+// Each HTML page has lang baked in; this is the single source of truth.
+const CURRENT_LANG = document.documentElement.lang === 'en' ? 'en' : 'ja';
 
 function getCounts() {
   const spots = (typeof SPOTS !== 'undefined' && Array.isArray(SPOTS)) ? SPOTS.length : 0;
@@ -153,45 +147,10 @@ function t(key) {
   return interpolateCounts(raw);
 }
 
-function applyI18n() {
-  document.documentElement.lang = CURRENT_LANG === 'en' ? 'en' : 'ja';
-  document.body.dataset.lang = CURRENT_LANG;
-  document.querySelectorAll('[data-i18n]').forEach(el => {
-    const key = el.dataset.i18n;
-    el.textContent = t(key);
-  });
-  document.querySelectorAll('[data-i18n-html]').forEach(el => {
-    const key = el.dataset.i18nHtml;
-    el.innerHTML = t(key);
-  });
-  document.querySelectorAll('[data-i18n-placeholder]').forEach(el => {
-    const key = el.dataset.i18nPlaceholder;
-    el.placeholder = t(key);
-  });
-  // ラベル切替
-  const langLabel = document.getElementById('langLabel');
-  if (langLabel) langLabel.textContent = CURRENT_LANG === 'ja' ? 'EN' : 'JA';
-  // 動的カウントを反映
-  const counts = getCounts();
-  const sEl = document.getElementById('statSpots');
-  const fEl = document.getElementById('statFests');
-  const pEl = document.getElementById('statPrefs');
-  if (sEl) sEl.textContent = counts.spots;
-  if (fEl) fEl.textContent = counts.fests;
-  if (pEl) pEl.textContent = counts.prefs;
-  // タイトル切替
-  document.title = CURRENT_LANG === 'en'
-    ? `Bizarre Japan — ${counts.spots} Strange Spots & ${counts.fests} Wild Festivals Across Japan`
-    : `異界巡礼 — 日本全国 珍スポット${counts.spots}＆奇祭${counts.fests}百景 | Bizarre Japan`;
-}
-
-function setLang(lang) {
-  CURRENT_LANG = lang;
-  localStorage.setItem('bizjp_lang', lang);
-  applyI18n();
-  // 再描画フック
-  if (window.refreshAll) window.refreshAll();
-}
+// applyI18n() and setLang() removed: each HTML now has text hardcoded per language.
+// Counts (statSpots/statFests/statPrefs) are also hardcoded in HTML.
+// Helper functions below (t, pick, pickArr, catLabel, fcatLabel, monthName) are
+// still used by app.js for dynamically-generated content (map popups, list items, etc.)
 
 // データから言語版テキストを取り出すヘルパー
 function pick(obj, jaField, enField) {
