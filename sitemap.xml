@@ -13,11 +13,20 @@
   </url>
   <url>
     <loc>https://bizarrejapan.com/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ja" href="https://bizarrejapan.com/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bizarrejapan.com/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bizarrejapan.com/en/"/>
+  </url>
+  <url>
+    <loc>https://bizarrejapan.com/en/</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bizarrejapan.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bizarrejapan.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bizarrejapan.com/"/>
   </url>
   <url>
     <loc>https://bizarrejapan.com/?view=map</loc>
@@ -25,7 +34,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ja" href="https://bizarrejapan.com/?view=map"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bizarrejapan.com/?view=map&amp;lang=en"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bizarrejapan.com/en/?view=map"/>
   </url>
   <url>
     <loc>https://bizarrejapan.com/?view=calendar</loc>
@@ -33,7 +42,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ja" href="https://bizarrejapan.com/?view=calendar"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bizarrejapan.com/?view=calendar&amp;lang=en"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bizarrejapan.com/en/?view=calendar"/>
   </url>
   <url>
     <loc>https://bizarrejapan.com/?view=list</loc>
@@ -41,15 +50,15 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ja" href="https://bizarrejapan.com/?view=list"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bizarrejapan.com/?view=list&amp;lang=en"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bizarrejapan.com/en/?view=list"/>
   </url>
   <url>
-    <loc>https://bizarrejapan.com/?lang=en</loc>
+    <loc>https://bizarrejapan.com/en/</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://bizarrejapan.com/?lang=en"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bizarrejapan.com/?lang=en&amp;lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://bizarrejapan.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bizarrejapan.com/en/&amp;lang=en"/>
   </url>
   <url>
     <loc>https://bizarrejapan.com/?spot=spot-001</loc>
