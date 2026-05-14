@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script>
+    // Redirect legacy ?lang=ja URLs to /
+    if (new URLSearchParams(location.search).get('lang') === 'ja') {
+      location.replace('/' + location.hash);
+    }
+  </script>
+  <link rel="alternate" hreflang="ja" href="https://bizarrejapan.com/">
+  <link rel="alternate" hreflang="en" href="https://bizarrejapan.com/en/">
+  <link rel="alternate" hreflang="x-default" href="https://bizarrejapan.com/">
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Bizarre Japan — 122 Strange Spots & 121 Wild Festivals Across Japan</title>
+<meta name="description" content="Independent travel guide curating 122 strange spots and 121 wild festivals across Japan. Folk rituals, ruins, sacred sites, weird roadside attractions. Interactive map and annual calendar." />
+<meta name="keywords" content="珍スポット,奇祭,日本全国,近畿,東海,三重,愛知,京都,大阪,奈良,bizarre japan,strange spots,wild festivals,fertility festival,japan" />
+<meta name="author" content="Bizarre Japan / 異界巡礼" />
+<meta name="theme-color" content="#0a0808" />
+<link rel="canonical" href="https://bizarrejapan.com/en/" />
+
+<!-- Open Graph -->
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Bizarre Japan / 異界巡礼" />
+<meta property="og:title" content="Bizarre Japan — 122 Strange Spots & 121 Wild Festivals Across Japan" />
+<meta property="og:description" content="Independent travel guide curating 122 strange spots and 121 wild festivals across Japan. Folk rituals, ruins, sacred sites, weird roadside attractions. Interactive map and annual calendar." />
+<meta property="og:url" content="https://bizarrejapan.com/en/" />
+<meta property="og:image" content="https://bizarrejapan.com/og-image.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:locale:alternate" content="ja_JP" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Bizarre Japan — 122 Strange Spots & 121 Wild Festivals Across Japan" />
+<meta name="twitter:description" content="Independent travel guide curating 122 strange spots and 121 wild festivals across Japan. Folk rituals, ruins, sacred sites, weird roadside attractions. Interactive map and annual calendar." />
+<meta name="twitter:image" content="https://bizarrejapan.com/og-image.png" />
+
+<!-- hreflang (set in <head> above) -->
+
+<!-- Favicons -->
+<link rel="icon" type="image/png" sizes="32x32" href="../favicon-32.png" />
+<link rel="icon" type="image/png" href="../favicon.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="../favicon-180.png" />
+
+<!-- Structured Data (Schema.org) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Bizarre Japan / 異界巡礼",
+  "alternateName": "Strange Spots & Wild Festivals Across Japan",
+  "url": "https://bizarrejapan.com/",
+  "description": "日本全国の珍スポット76件と奇祭47件を地図とカレンダーで巡るガイドサイト。",
+  "inLanguage": ["ja", "en"],
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://bizarrejapan.com/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TravelGuide",
+  "name": "異界巡礼 — 日本全国 珍スポット＆奇祭百景",
+  "url": "https://bizarrejapan.com/",
+  "image": "https://bizarrejapan.com/og-image.png",
+  "abstract": "日本全国の珍スポット76件と奇祭47件を厳選収録。土俗の祭礼、廃墟、聖地、B級カオス。",
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Travelers, cultural enthusiasts, oddity seekers"
+  },
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "Japan",
+    "geo": {
+      "@type": "GeoShape",
+      "box": "30.0 128.0 46.0 146.0"
+    }
+  }
+}
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;600;800;900&family=Noto+Sans+JP:wght@400;500;700&family=DotGothic16&family=Shippori+Mincho+B1:wght@500;700;800&family=Cinzel:wght@500;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" />
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/regular/style.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/fill/style.css" />
+
+<link rel="stylesheet" href="../style.css" />
+
+<!-- Google Analytics 4 (GA4) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8G1XMZ7WE9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-8G1XMZ7WE9', { 'anonymize_ip': true });
+</script>
+
+<!-- Google Search Console verification -->
+<meta name="google-site-verification" content="Jhw17-dEWAZJXdY3YRr9g1Ivox07eJfyBNsQ0KVRjY8" />
+</head>
+<body data-theme="dark" data-lang="ja">
+
+<!-- 紋章SVG defs -->
+<svg width="0" height="0" style="position:absolute">
+  <defs>
+    <pattern id="seigaiha" width="40" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 0 20 Q 10 0 20 20 T 40 20" fill="none" stroke="currentColor" stroke-width="0.6" opacity="0.18"/>
+    </pattern>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feBlend in="SourceGraphic" mode="multiply"/>
+    </filter>
+  </defs>
+</svg>
+
+<!-- ヘッダー -->
+<header class="site-header">
+  <div class="brand">
+    <svg class="logo" viewBox="0 0 60 60" aria-label="異界巡礼ロゴ">
+      <circle cx="30" cy="30" r="27" fill="none" stroke="currentColor" stroke-width="1.2"/>
+      <circle cx="30" cy="30" r="20" fill="none" stroke="currentColor" stroke-width="0.8"/>
+      <path d="M 30 8 L 30 52 M 8 30 L 52 30" stroke="currentColor" stroke-width="0.5" opacity="0.5"/>
+      <text x="30" y="38" text-anchor="middle" font-family="Shippori Mincho B1, serif" font-size="20" font-weight="800" fill="currentColor">鬼</text>
+    </svg>
+    <div class="brand-text">
+      <h1 class="brand-name">Bizarre Japan</h1>
+      <p class="brand-sub">Strange Spots & Wild Festivals · Across Japan</p>
+    </div>
+  </div>
+  <nav class="tabs" id="tabs" role="tablist">
+    <button class="tab active" data-tab="hero" role="tab"><i class="ph ph-house"></i><span>Home</span></button>
+    <button class="tab" data-tab="map" role="tab"><i class="ph ph-map-trifold"></i><span>Map</span></button>
+    <button class="tab" data-tab="calendar" role="tab"><i class="ph ph-calendar-blank"></i><span>Calendar</span></button>
+    <button class="tab" data-tab="list" role="tab"><i class="ph ph-list-magnifying-glass"></i><span>Index</span></button>
+    <button class="tab" data-tab="routes" role="tab"><i class="ph ph-path"></i><span>Routes</span></button>
+  </nav>
+  <div class="header-actions">
+    <a class="lang-toggle" href="../" aria-label="Japanese version" title="日本語"><i class="ph ph-translate"></i><span>JA</span></a>
+    <button class="theme-toggle" id="themeToggle" aria-label="テーマ切替" title="ダーク / ライト">
+      <i class="ph ph-moon" id="themeIcon"></i>
+    </button>
+  </div>
+</header>
+
+<!-- HERO -->
+<section class="view view-hero active" id="view-hero">
+  <div class="hero-inner">
+    <p class="hero-eyebrow">A C R O S S  J A P A N  /  P A R A L L E L  J A P A N</p>
+    <h2 class="hero-title">
+      <span class="hero-line-1">Memories that haunt,</span>
+      <span class="hero-line-2">rituals that defy reason —</span>
+      <span class="hero-line-3">the other Japan.</span>
+    </h2>
+    <p class="hero-lede">You won't find these in a tourist brochure.<br>But they exist — concrete paradises built by lifelong obsessives.<br>Folk rituals carrying a thousand years of fire and flesh.<br><strong>122 strange spots and 121 wild festivals across Japan, mapped and dated.</strong></p>
+
+    <div class="hero-stats">
+      <div class="stat"><span class="stat-num" id="statSpots">76</span><span class="stat-label">Strange Spots</span></div>
+      <div class="stat-divider"></div>
+      <div class="stat"><span class="stat-num" id="statFests">47</span><span class="stat-label">Wild Festivals</span></div>
+      <div class="stat-divider"></div>
+      <div class="stat"><span class="stat-num" id="statPrefs">20</span><span class="stat-label">Prefectures</span></div>
+    </div>
+
+    <div class="hero-cta">
+      <button class="cta-primary" data-goto="map"><i class="ph ph-map-trifold"></i><span>Open Map</span></button>
+      <button class="cta-secondary" data-goto="calendar"><i class="ph ph-calendar-blank"></i><span>Festival Calendar</span></button>
+    </div>
+
+    <!-- 今月のおすすめ -->
+    <div class="hero-this-month" id="thisMonthBlock">
+      <div class="tm-header">
+        <h3>Anomalies Ahead — Days to Witness</h3>
+        <p class="tm-sub" id="thisMonthSub"></p>
+      </div>
+      <div class="tm-grid" id="thisMonthGrid"></div>
+    </div>
+
+    <div class="hero-categories">
+      <p class="cat-title">Four Realms of the Bizarre</p>
+      <div class="cat-grid">
+        <div class="cat-card cat-folk" data-cat="folk">
+          <span class="cat-glyph">祓</span>
+          <h3>Folk & Ritual</h3>
+          <p>Sex, fire, flesh, archaic rites.<br>The molten core of belief.</p>
+        </div>
+        <div class="cat-card cat-bkyu" data-cat="bkyu">
+          <span class="cat-glyph">魁</span>
+          <h3>B-Grade Chaos</h3>
+          <p>One-man museums, concrete kingdoms,<br>obsessive private worlds.</p>
+        </div>
+        <div class="cat-card cat-horror" data-cat="horror">
+          <span class="cat-glyph">霊</span>
+          <h3>Haunted & Ruined</h3>
+          <p>Famous haunted sites,<br>ruins, places with a name.</p>
+        </div>
+        <div class="cat-card cat-mystery" data-cat="mystery">
+          <span class="cat-glyph">秘</span>
+          <h3>Sacred & Strange</h3>
+          <p>Megaliths, UFO lore,<br>pyramids, lost ancient histories.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="hero-note">
+      <p>Note: This is a cultural / historical archive. We do not recommend visiting haunted ruins or trespassing on private property.<br>Festival dates cover May 2026 – April 2027. Always confirm with official sources before traveling.</p>
+    </div>
+  </div>
+</section>
+
+<!-- MAP -->
+<section class="view view-map" id="view-map">
+  <aside class="map-sidebar" id="mapSidebar">
+    <div class="filter-block">
+      <label class="filter-label">Search</label>
+      <input type="search" id="spotSearch" placeholder="Filter by name or place" class="search-input"/>
+    </div>
+    <div class="filter-block">
+      <label class="filter-label">Category</label>
+      <div class="cat-filter" id="catFilter">
+        <button class="cat-chip active" data-cat="all">All<span class="count" id="cnt-all"></span></button>
+        <button class="cat-chip cat-folk" data-cat="folk">Folk<span class="count" id="cnt-folk"></span></button>
+        <button class="cat-chip cat-bkyu" data-cat="bkyu">B-Grade<span class="count" id="cnt-bkyu"></span></button>
+        <button class="cat-chip cat-horror" data-cat="horror">Haunted<span class="count" id="cnt-horror"></span></button>
+        <button class="cat-chip cat-mystery" data-cat="mystery">Sacred<span class="count" id="cnt-mystery"></span></button>
+      </div>
+    </div>
+    <div class="filter-block">
+      <label class="filter-label">Prefecture</label>
+      <div class="region-filter" id="regionFilter"></div>
+    </div>
+    <div class="filter-block">
+      <label class="filter-label">Layers</label>
+      <div class="layer-toggle">
+        <label><input type="checkbox" id="showSpots" checked /> <span>Spots</span><span class="dot" style="background:#c8332b"></span></label>
+        <label><input type="checkbox" id="showFests" checked /> <span>Festivals</span><span class="dot" style="background:#d4a437"></span></label>
+        <label><input type="checkbox" id="showVisited" /> <span>Visited only</span></label>
+      </div>
+    </div>
+    <div class="result-list" id="resultList"></div>
+  </aside>
+  <div id="map"></div>
+  <button class="sidebar-toggle" id="sidebarToggle" aria-label="サイドバー切替"><i class="ph ph-list"></i></button>
+</section>
+
+<!-- CALENDAR -->
+<section class="view view-calendar" id="view-calendar">
+  <div class="cal-header">
+    <h2 class="cal-title">Festival Calendar — Japan's Wildest Days</h2>
+    <p class="cal-sub">May 2026 – April 2027</p>
+    <div class="cal-cat-filter" id="calCatFilter">
+      <button class="cat-chip active" data-fcat="all">All</button>
+      <button class="cat-chip" data-fcat="naked">Naked</button>
+      <button class="cat-chip" data-fcat="fire">Fire</button>
+      <button class="cat-chip" data-fcat="weird">Weird</button>
+      <button class="cat-chip" data-fcat="sex">Fertility</button>
+      <button class="cat-chip" data-fcat="animal">Animal</button>
+      <button class="cat-chip" data-fcat="other">Other</button>
+    </div>
+  </div>
+  <div class="cal-grid" id="calGrid"></div>
+</section>
+
+<!-- LIST -->
+<section class="view view-list" id="view-list">
+  <div class="list-header">
+    <h2 class="list-title">Index of Wonders</h2>
+    <div class="list-tabs">
+      <button class="list-tab active" data-listtab="spots">Spots — 122</button>
+      <button class="list-tab" data-listtab="festivals">Festivals — 121</button>
+    </div>
+    <input type="search" id="listSearch" placeholder="Search (name, region, category)" class="search-input list-search"/>
+  </div>
+  <div class="list-grid" id="listGrid"></div>
+</section>
+
+<!-- ROUTES -->
+<section class="view view-routes" id="view-routes">
+  <div class="routes-header">
+    <h2 class="routes-title">Pilgrim Routes — Half-Day & Full-Day Tours</h2>
+    <p class="routes-sub">Hand-picked themed routes. Open in the map to see the path drawn.</p>
+  </div>
+  <div class="routes-grid" id="routesGrid"></div>
+</section>
+
+<!-- DETAIL MODAL -->
+<div class="modal" id="modal" aria-hidden="true">
+  <div class="modal-backdrop" data-close></div>
+  <article class="modal-content" id="modalContent"></article>
+</div>
+
+<!-- COLLABS / LINKS PAGE TRIGGER FROM FOOTER -->
+<footer class="site-footer">
+  <!-- Instagram feed (auto-updated daily by GitHub Actions) -->
+  <section class="ig-feed" id="igFeed" hidden>
+    <div class="ig-feed-head">
+      <h4 class="ig-feed-title">
+        <i class="ph-fill ph-instagram-logo"></i>
+        <span>Latest field notes</span>
+        <a class="ig-feed-handle" href="https://www.instagram.com/bizarre_japan/" target="_blank" rel="noopener">@bizarre_japan</a>
+      </h4>
+      <p class="ig-feed-sub">Unfiltered records from the field</p>
+    </div>
+    <div class="ig-feed-grid" id="igFeedGrid"></div>
+  </section>
+
+  <div class="footer-cols">
+    <div class="footer-col">
+      <h4>About this site</h4>
+      <p>Bizarre Japan is an independent travel guide curating 122 strange spots and 121 wild festivals across Japan.</p>
+    </div>
+    <div class="footer-col">
+      <h4>Submit · Contribute</h4>
+      <p>Know a strange place we missed? Witnessed an unforgettable festival? Share your discovery.</p>
+      <div class="footer-cta-group">
+        <a class="footer-cta" id="submitForm" href="https://docs.google.com/forms/d/e/1FAIpQLSeJ-SgIJIZik2GW25T-ChfB95_bdH1LuAzoXqe_5kvGTxKWbg/viewform" target="_blank" rel="noopener"><i class="ph ph-clipboard-text"></i><span>Submit via form</span></a>
+        <a class="footer-cta footer-cta-sub" href="mailto:bizarrejapan.jp@gmail.com"><i class="ph ph-envelope-simple"></i><span>Email</span></a>
+        <a class="footer-cta footer-cta-sub" href="https://www.instagram.com/bizarre_japan/" target="_blank" rel="noopener"><i class="ph ph-instagram-logo"></i><span>Instagram DM</span></a>
+      </div>
+    </div>
+    <div class="footer-col">
+      <h4>Related sites</h4>
+      <ul class="footer-links">
+        <li><a href="https://www.tokyobs.jp/" target="_blank" rel="noopener">東京別視点ガイド</a></li>
+        <li><a href="https://omatsurijapan.com/" target="_blank" rel="noopener">オマツリジャパン</a></li>
+        <li><a href="https://www.atlasobscura.com/" target="_blank" rel="noopener">Atlas Obscura</a></li>
+        <li><a href="https://commons.wikimedia.org/" target="_blank" rel="noopener">Wikimedia Commons</a></li>
+        <li><a href="../links.html">→ 関連サイト一覧 / All Links</a></li>
+        <li><a href="../press-kit.md" target="_blank">📰 Press Kit (EN)</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>Bizarre Japan / 異界巡礼 © 2026<br><span class="caution">Some sites are private property — please respect access restrictions. Do not trespass.</span><br>Image credits: Wikimedia Commons and individual sources noted per item</p>
+  </div>
+</footer>
+
+<script src="../data.js"></script>
+<script src="../routes.js"></script>
+<script src="../app.js"></script>
+</body>
+</html>
