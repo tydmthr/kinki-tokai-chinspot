@@ -5435,5 +5435,459 @@
     ],
     "origin_en": "A spring-greeting rite of the Shuni-e lineage transmitted at the Tendai-affiliated temples of the Kunisaki Peninsula, collectively known as Rokugo Manzan, with origins said to reach back to the Heian period. The rite fuses Buddhist liturgy with folk demon-driving, in the unusual structure of demons acting as 'messengers of the Buddha' who bestow blessings and ward off ill. Designated a national Important Intangible Folk Cultural Property. Today, Jobutsuji, Tennenji, Iwatoji and other temples take turns hosting the rite.",
     "viewing_notes_en": "Held at Jobutsuji (Narubutsu, Kunisaki-machi, Kunisaki City). Because performance rotates among the Rokugo Manzan temples, confirm the current year's host and date with the Kunisaki City Cultural Properties Division or with the individual temples in advance. The hall fills quickly amid torch sparks and smoke; arrive early. Being struck by a demon is regarded as a blessing of health, but even gentle blows can sting — choose your position with personal judgment."
+  },
+  {
+    "id": "fest-122",
+    "name": "間々田のじゃがまいた",
+    "name_kana": "まままだのじゃがまいた",
+    "shrine": "間々田八幡宮（栃木県小山市間々田）",
+    "category": "weird",
+    "prefecture": "栃木県",
+    "city": "小山市",
+    "lat": 36.29644,
+    "lng": 139.80339,
+    "date_pattern": "毎年5月5日（こどもの日）",
+    "date_2026": "2026-05-05",
+    "date_2026_end": null,
+    "summary": "栃木県小山市の間々田八幡宮で毎年5月5日に行われる年中行事。7町内の子どもたちが藁で長さ15mを超える龍頭蛇体「ジャガ」を各町ごとに作り、八幡宮へ集合する。修祓のあと弁天池に蛇頭を突っ込む「水飲みの儀」を経て町内を練り歩き、夕刻に各町の蛇体をぶつけ合う「蛇もみ」でクライマックスを迎える。2019年に国指定重要無形民俗文化財となった雨乞い・五穀豊穣の神事。",
+    "highlights": [
+      "国指定重要無形民俗文化財（2019年指定）",
+      "7町内が各々作る長さ15m超の藁製龍頭蛇体",
+      "蛇頭を池に突っ込む「水飲みの儀」",
+      "夕刻の「蛇もみ」で蛇体同士をぶつけ合う",
+      "雨乞いと疫病退散の二重の祈願構造"
+    ],
+    "origin": "口伝では約400年の歴史をもつとされ、農耕の雨乞いと「虫送り」系の厄祓いが結びついた複合型の行事と説明される。蛇体に災厄を託して送り出す民俗的構造を持ち、現在は7町内の子ども会が主体となって継承している。2019年に国指定重要無形民俗文化財。",
+    "official_url": "https://www.mamada-hachiman.jp/jyagamaita",
+    "reference_urls": [
+      "https://www.pref.tochigi.lg.jp/c05/intro/tochigiken/hakken/bunka1_12.html"
+    ],
+    "viewing_notes": "会場は間々田八幡宮（小山市間々田）。5月5日正午頃から行事開始。雨天決行。駐車場は近隣中学校校庭で14時頃に閉鎖されるため、JR間々田駅から徒歩での参詣が推奨される。境内および周辺道路で見学可能で、夕刻の蛇もみが最大の見どころ。",
+    "deepdive": {
+      "history_jp": "間々田八幡宮の社伝および地元口伝によれば約400年の歴史をもつとされ、農耕の雨乞いと厄祓いを兼ねた年中行事として継承されてきた。江戸期には既に近世農村行事として記録に登場する。2019年（平成31年）に「間々田のじゃがまいた」として国指定重要無形民俗文化財となった。",
+      "cultural_context_jp": "藁製の龍頭蛇体を担いで集落を巡り災厄を送り出す構造は、関東〜東北に広く分布する「虫送り」「藁の蛇」系の民俗と通底する。複数の蛇体が同時に登場し、相互にぶつけ合う形態は他に類例が少なく、民俗学的に注目される。",
+      "local_perspective_jp": "現在は7町内の子ども会と保存会が主体となって継承され、後継者育成と参加人口の確保が課題となっている。子どもが主役の祭礼として地域教育の場としても位置付けられている。",
+      "related_works": [],
+      "external_reviews": []
+    },
+    "name_en": "Mamada no Jagamaita (Straw Snake Festival)",
+    "shrine_en": "Mamada Hachiman Shrine (Oyama City, Tochigi Prefecture)",
+    "prefecture_en": "Tochigi Prefecture",
+    "city_en": "Oyama City",
+    "date_pattern_en": "Every year on May 5 (Children's Day)",
+    "summary_en": "An annual rite held on May 5 at Mamada Hachiman Shrine in Oyama, Tochigi Prefecture. Children from seven neighborhoods each weave a dragon-headed straw snake (jaga) over 15 meters long and bring them to the shrine. After a purification rite and a 'water-drinking' ceremony in which the snake heads are plunged into a lotus pond, the snakes are carried through the town. The day climaxes at dusk with the 'snake-pushing' ceremony in which the snake bodies collide with one another. Designated as a Nationally Designated Important Intangible Folk Cultural Property in 2019; a rain-bringing and bountiful-harvest rite.",
+    "highlights_en": [
+      "Nationally Designated Important Intangible Folk Cultural Property (designated 2019)",
+      "Straw dragon-snake bodies of over 15 meters made by each of seven neighborhoods",
+      "'Water-drinking' rite in which the snake heads are plunged into the pond",
+      "Evening 'snake-pushing' ceremony where the snakes collide with one another",
+      "Combined prayer for rain and for the warding off of epidemics"
+    ],
+    "origin_en": "Local oral tradition holds that the rite has a history of approximately 400 years and is described as a composite form combining agrarian rainmaking with the 'mushi-okuri' tradition of warding off misfortune by entrusting it to a straw effigy. The seven neighborhood children's associations now form the core of its transmission. Designated as a Nationally Designated Important Intangible Folk Cultural Property in 2019.",
+    "viewing_notes_en": "The venue is Mamada Hachiman Shrine in Mamada, Oyama City. The rite begins around midday on May 5 and is held rain or shine. The parking lot at a nearby junior high school closes around 2 PM, so walking from JR Mamada Station is recommended. Viewing is possible within the shrine precincts and along the surrounding streets; the evening 'snake-pushing' ceremony is the principal highlight."
+  },
+  {
+    "id": "fest-123",
+    "name": "龍ケ崎の撞舞",
+    "name_kana": "りゅうがさきのつくまい",
+    "shrine": "八坂神社祇園祭（茨城県龍ケ崎市根町撞舞通り）",
+    "category": "weird",
+    "prefecture": "茨城県",
+    "city": "龍ケ崎市",
+    "lat": 35.91,
+    "lng": 140.18,
+    "date_pattern": "毎年7月下旬日曜日（八坂神社祇園祭最終日夕刻）",
+    "date_2026": "2026-07-26",
+    "date_2026_end": null,
+    "summary": "茨城県龍ケ崎市で毎年7月下旬に行われる八坂神社祇園祭最終日の奉納神事。根町撞舞通りに建てられた高さ14mの竿の先端で、舞男2名がアクロバティックな所作を披露し、五穀豊穣と雨乞いを祈願する。平成11年に国選択無形民俗文化財、平成22年に茨城県指定無形民俗文化財となった。",
+    "highlights": [
+      "国選択無形民俗文化財（平成11年）・茨城県指定（平成22年）",
+      "高さ14mの竿の先端で行われる逆立ち・大車輪等の所作",
+      "祇園祭最終日夕刻の奉納神事",
+      "雨乞いと五穀豊穣を祈願する形態",
+      "後継者難の中で2名舞男体制により継承"
+    ],
+    "origin": "古代中国の柱上芸能「尋舞」が日本に伝来し、祭礼神事と習合したものとされる。「撞」は柱・竿を表す「橦」の転化と説明される。現在の2名舞男体制は平成20年度から定着し、後継者の育成を続けながら継承されている。",
+    "official_url": "https://www.city.ryugasaki.ibaraki.jp/kanko/bunka/bunkazai/tukumai.html",
+    "reference_urls": [
+      "https://kyoiku.pref.ibaraki.jp/bunkazai/bunkazai-8599/"
+    ],
+    "viewing_notes": "会場は龍ケ崎市役所南側の根町撞舞通り。夕刻18時頃から実施。雨天荒天時は中止となる場合がある。市役所南側駐車場が利用可能。関東鉄道竜ケ崎駅から徒歩約12分。竿の真下は危険区域のため進入禁止で、観覧は周囲の指定区域から行う。",
+    "deepdive": {
+      "history_jp": "古代中国の柱上芸能「尋舞」に系譜をもつとされる柱上奉納の祭礼で、近世以降は八坂神社祇園祭の最終日に組み込まれた奉納神事として継承されてきた。平成11年に国選択無形民俗文化財、平成22年に茨城県指定無形民俗文化財となった。",
+      "cultural_context_jp": "高所での軽業を神への奉納とする「柱上芸能」は東アジア全域に断片的に分布するが、現在の日本で14m級の竿を用いる定例の奉納神事として継承されているのは稀有な事例。民俗芸能と離れ業の複合という観点から民俗学・芸能史で重要視される。",
+      "local_perspective_jp": "後継者難は深刻な課題で、現在は2名の舞男体制により継承されている。市と保存会が連携した後継者育成が継続的に行われている。",
+      "related_works": [],
+      "external_reviews": []
+    },
+    "name_en": "Ryugasaki no Tsukumai (Pole-Top Dance)",
+    "shrine_en": "Yasaka Shrine Gion Festival (Nemachi Tsukumai Street, Ryugasaki City, Ibaraki Prefecture)",
+    "prefecture_en": "Ibaraki Prefecture",
+    "city_en": "Ryugasaki City",
+    "date_pattern_en": "A Sunday in late July (final evening of the Yasaka Shrine Gion Festival)",
+    "summary_en": "A votive rite held on the final evening of the Yasaka Shrine Gion Festival each year in late July in Ryugasaki City, Ibaraki Prefecture. At the top of a pole approximately 14 meters tall erected on Nemachi Tsukumai Street, two dancers perform acrobatic feats — handstands, rope-walking, great wheel turns — to pray for abundant harvests and rain. Designated as a Nationally Selected Intangible Folk Cultural Property in 1999 and as an Ibaraki Prefecturally Designated Intangible Folk Cultural Property in 2010.",
+    "highlights_en": [
+      "Nationally Selected Intangible Folk Cultural Property (1999) and Ibaraki Prefecturally Designated (2010)",
+      "Handstands and great wheel turns performed at the top of a 14-meter pole",
+      "Votive rite on the final evening of the Gion Festival",
+      "Combined prayer for abundant harvests and rain",
+      "Continued under a two-dancer system in the face of successor shortages"
+    ],
+    "origin_en": "Said to derive from the ancient Chinese pillar-top performing art 'jinwu', merged with shrine festival ritual after transmission to Japan. The character '撞' is explained as a phonetic variant of '橦', meaning a pillar or pole. The current two-dancer system was established in 2008 and continues alongside ongoing successor training.",
+    "viewing_notes_en": "The venue is Nemachi Tsukumai Street, on the south side of Ryugasaki City Hall. The performance begins around 6 PM. It may be cancelled in heavy rain. The parking lot on the south side of City Hall is available. About 12 minutes on foot from Kanto Tetsudo Ryugasaki Line Ryugasaki Station. The area directly beneath the pole is restricted; viewing is from the designated zones."
+  },
+  {
+    "id": "fest-124",
+    "name": "青海の竹のからかい",
+    "name_kana": "おうみのたけのからかい",
+    "shrine": "青海地区（新潟県糸魚川市青海）",
+    "category": "weird",
+    "prefecture": "新潟県",
+    "city": "糸魚川市",
+    "lat": 37.03667,
+    "lng": 137.8248,
+    "date_pattern": "毎年1月15日",
+    "date_2026": "2026-01-15",
+    "date_2026_end": null,
+    "summary": "新潟県糸魚川市青海地区で1月15日に行われる小正月行事。隈取をした若者らが東西に分かれ、太竹「勇み竹」と細竹「合せ竹」を引き合い、その勝敗で豊年豊漁を占う。終了後にはさいの神焼きも行われる。江戸期以来の伝承で、昭和62年に「青海の竹のからかい」として国指定重要無形民俗文化財（風俗習慣）に指定された。",
+    "highlights": [
+      "国指定重要無形民俗文化財（昭和62年指定・風俗習慣）",
+      "全国に同類3か所あったが現存唯一とされる小正月行事",
+      "隈取をした若衆が太竹と細竹を引き合う様式化された所作",
+      "勝敗で豊年豊漁を占う占い構造",
+      "竹引き後にさいの神焼きを行う二段構成"
+    ],
+    "origin": "江戸時代から続くとされる小正月の民間信仰行事で、五穀豊穣・除災招福・家内安全を祈願する。竹を東西で引き合い勝敗により豊凶を占う形式は全国に3か所あったとされるが、現存するのは青海のみと言われる。昭和62年に国指定重要無形民俗文化財。",
+    "official_url": "https://niigata-kankou.or.jp/event/2399",
+    "reference_urls": [
+      "http://www.itoigawa-base.com/viewspot/culture_02_01.html"
+    ],
+    "viewing_notes": "会場は青海地区。えちごトキめき鉄道「青海駅」から徒歩約2分。1月15日12時30分頃から竹引き、15時30分頃からさいの神焼きが行われる。専用駐車場はなく、公共交通機関の利用が推奨される。冬季のため防寒・防雪対策必須。",
+    "deepdive": {
+      "history_jp": "江戸時代起源とされる民間信仰由来の小正月行事で、地域の青年組織を担い手として継承されてきた。昭和62年（1987年）に「青海の竹のからかい」として国指定重要無形民俗文化財（風俗習慣・種別）に指定された。",
+      "cultural_context_jp": "東西二組に分かれて綱・竹・幟などを引き合い勝敗で豊凶を占う「占い綱引き」系の民俗は全国に分布するが、太竹と細竹の二種を用い隈取で様式化された装いの若衆が引き合う形式は他に類例が少なく、現存する唯一の事例とされる。",
+      "local_perspective_jp": "竹引き後に行われるさいの神焼きとの二段構成は、小正月の火祭りと厄祓い・占い綱引きが地域内で結合した独自の構造を示す。青年会の世代交代を見据えた継承活動が地域で続けられている。",
+      "related_works": [],
+      "external_reviews": []
+    },
+    "name_en": "Omi no Take no Karakai (Bamboo Tug-of-War)",
+    "shrine_en": "Omi district (Itoigawa City, Niigata Prefecture)",
+    "prefecture_en": "Niigata Prefecture",
+    "city_en": "Itoigawa City",
+    "date_pattern_en": "Every year on January 15",
+    "summary_en": "A Little New Year (Koshogatsu) rite held on January 15 in the Omi district of Itoigawa, Niigata. Young men in stylized kumadori makeup divide into east and west teams and pull on a thick 'isami-dake' and a thin 'awase-dake' bamboo; the outcome divines abundant harvests and a good fishing year. A Sai-no-kami fire-burning rite follows. Said to have been transmitted since the Edo period. Designated in 1987 as the Nationally Designated Important Intangible Folk Cultural Property 'Omi no Take no Karakai' (customary practices category).",
+    "highlights_en": [
+      "Nationally Designated Important Intangible Folk Cultural Property (designated 1987, customary practices)",
+      "Said to have had three such rites nationwide but to be the sole surviving Little New Year example",
+      "Stylized choreography by young men in kumadori makeup",
+      "Divinatory tug-of-war that foretells the year's fortune",
+      "Two-stage structure of bamboo pulling followed by the Sai-no-kami fire"
+    ],
+    "origin_en": "A Little New Year folk rite said to date from the Edo period and to pray for abundant harvests, the warding off of misfortune, and family safety. The form of pulling bamboo between east and west to divine the year's fortune is said to have existed at three sites nationwide, with Omi the only surviving example. Designated as a Nationally Designated Important Intangible Folk Cultural Property in 1987.",
+    "viewing_notes_en": "The venue is the Omi district. About 2 minutes on foot from Omi Station on the Echigo Tokimeki Railway. The bamboo pulling begins around 12:30 PM on January 15, and the Sai-no-kami fire is lit around 3:30 PM. There is no dedicated parking, so public transport is recommended. Cold-weather and snow gear are essential."
+  },
+  {
+    "id": "fest-125",
+    "name": "発光路の強飯式",
+    "name_kana": "ほっこうじのごうはんしき",
+    "shrine": "発光路地区（栃木県鹿沼市上粕尾）",
+    "category": "weird",
+    "prefecture": "栃木県",
+    "city": "鹿沼市",
+    "lat": 36.6377,
+    "lng": 139.6183,
+    "date_pattern": "毎年1月3日",
+    "date_2026": "2026-01-03",
+    "date_2026_end": null,
+    "summary": "栃木県鹿沼市上粕尾の発光路地区で1月3日に行われる年頭の儀礼。山伏装束の役者が、紋服裃姿の「強飯頂戴人」に対し高く盛られた3升飯と大盃の酒を「一粒残さず食え」と激しく責め立てる、日光修験の名残を伝える滑稽かつ厳粛な儀礼。平成8年12月に国指定重要無形民俗文化財となった。",
+    "highlights": [
+      "国指定重要無形民俗文化財（平成8年指定）",
+      "山伏が頂戴人に大量の飯と酒を強要する儀礼",
+      "3升飯と大盃という非日常的な象徴的供饌",
+      "日光修験の痕跡を伝える儀礼構造",
+      "頂戴人を務めることが地域の名誉とされる"
+    ],
+    "origin": "日光修験の名残とされる儀礼で、同様の「強飯頂戴」様式は日光山中を中心に複数残存する。発光路地区では地域の頂戴人を選び、山伏役・給仕役を地域内で務める形態で継承されてきた。平成8年（1996年）12月に国指定重要無形民俗文化財。",
+    "official_url": "https://www.pref.tochigi.lg.jp/c05/intro/tochigiken/hakken/bunka1_04.html",
+    "reference_urls": [
+      "https://www.shimotsuke.co.jp/articles/-/1007406"
+    ],
+    "viewing_notes": "会場は鹿沼市上粕尾の発光路地区。公共交通は乏しく、自動車での来訪が現実的。1月3日午前中の開催で、外部からは縁側越し・座敷越しの見学が基本となる。地区および保存会の指示に従い、撮影や立ち入り位置は許諾を得てから行うこと。",
+    "deepdive": {
+      "history_jp": "日光修験道に由来するとされる「強飯頂戴」様式の儀礼で、近世から発光路地区に伝承されてきた。日光輪王寺の強飯式（4月2日）や日光市生岡神社の子供強飯式（11月25日）と系統を同じくするとされる。平成8年（1996年）12月に国指定重要無形民俗文化財となった。",
+      "cultural_context_jp": "山伏装束の責め手が頂戴人に対し過剰な量の飯と酒を「食え」と強要する構造は、修験道の修法的供饌儀礼と村落の年頭儀礼が結合した独自の形態とされる。「責め」が滑稽化されつつも厳粛な祝福の場として機能する点に民俗学的特徴がある。",
+      "local_perspective_jp": "頂戴人を務めることは地区の名誉と位置付けられ、各家を順送りで担う形式が続いてきた。儀礼の継承は地域共同体の維持と密接に結びついている。",
+      "related_works": [],
+      "external_reviews": []
+    },
+    "name_en": "Hokkoji no Gohan-shiki (Forced-Eating Rite)",
+    "shrine_en": "Hokkoji district (Kamikasuo, Kanuma City, Tochigi Prefecture)",
+    "prefecture_en": "Tochigi Prefecture",
+    "city_en": "Kanuma City",
+    "date_pattern_en": "Every year on January 3",
+    "summary_en": "An early-year rite held on January 3 in the Hokkoji area of Kamikasuo, Kanuma City, Tochigi Prefecture. Performers in yamabushi (mountain ascetic) attire harangue a 'chodai-nin' (receiver) dressed in formal montsuki-kamishimo, demanding that he eat a heaped pile of three sho of rice and drink an enormous cup of sake 'down to the last grain'. A solemn and comic rite that preserves traces of Nikko Shugendo. Designated as a Nationally Designated Important Intangible Folk Cultural Property in December 1996.",
+    "highlights_en": [
+      "Nationally Designated Important Intangible Folk Cultural Property (designated 1996)",
+      "Yamabushi figures demanding that a chodai-nin consume vast quantities of food and sake",
+      "The visual impact of '3 sho of rice' as a non-ordinary symbolic offering",
+      "Ritual structure preserving traces of Shugendo",
+      "Serving as chodai-nin is treated as an honor for the district"
+    ],
+    "origin_en": "A rite said to preserve traces of Nikko Shugendo. Similar 'gohan-chodai' style rites survive at several sites in the Nikko mountains. In the Hokkoji district the chodai-nin and the yamabushi and serving roles are all chosen from within the community. Designated as a Nationally Designated Important Intangible Folk Cultural Property in December 1996 (Heisei 8).",
+    "viewing_notes_en": "The venue is the Hokkoji area of Kamikasuo, Kanuma City. Public transport is sparse, so travel by car is realistic. The rite is held on the morning of January 3 and is generally observed from outside, across verandas or from beyond the inner room. Follow the instructions of the district and the preservation society regarding photography and access."
+  },
+  {
+    "id": "fest-126",
+    "name": "蛸舞式神事",
+    "name_kana": "たこまいしきしんじ",
+    "shrine": "福岡神社（鳥取県西伯郡伯耆町）",
+    "category": "weird",
+    "prefecture": "鳥取県",
+    "city": "西伯郡伯耆町",
+    "lat": 35.379889,
+    "lng": 133.403306,
+    "date_pattern": "10月第3日曜日を含む3日間（神事は日曜日午後）",
+    "date_2026": "2026-10-18",
+    "date_2026_end": null,
+    "summary": "鳥取県伯耆町の福岡神社で毎年10月に行われる秋の例祭。ふんどし姿の氏子が藁で作った蛸を高く担ぎ上げ、神楽囃子に合わせて乱舞した後、社殿の丸梁に抱きついた主役の氏子を下から大勢で回転させる、他に例を見ない形態の神事。鳥取県指定無形民俗文化財。",
+    "highlights": [
+      "鳥取県指定無形民俗文化財",
+      "藁製の蛸を担いでの乱舞",
+      "丸梁に抱きついた氏子を皆で回転させる所作",
+      "「日本三大奇祭」の一つに数えられることもある稀有な形態",
+      "海の神話に由来する内陸の蛸神事"
+    ],
+    "origin": "社伝によれば熊野の速玉男命が乗った神船を無数の蛸が救ったという海の神話に由来するとされ、建治元年（1275年）以前から継承されてきたと伝えられる。内陸の地で蛸を主役とする神事として継承されている点に特異性がある。",
+    "official_url": "https://www.houki-town.jp/new2/2/8/11/",
+    "reference_urls": [
+      "https://www.nippon-matsuri.net/report/takomai/",
+      "https://tottori-jinjacho.jp/pages/673/"
+    ],
+    "viewing_notes": "会場は福岡神社（伯耆町福岡）。蛸舞式神事は10月第3日曜日の午後3時頃から。アクセスはJR溝口駅からタクシーまたは自家用車が現実的。社殿内での神事のため、参拝者の見学位置は限られる。氏子・神社の指示に従って観覧すること。",
+    "deepdive": {
+      "history_jp": "福岡神社の社伝によれば、熊野権現の神船を蛸が救ったという海の神話に由来し、建治元年（1275年）以前から継承されてきたとされる。山陰の内陸の地で蛸を主役とする神事が長期にわたって継承されてきた点に特徴がある。鳥取県指定無形民俗文化財。",
+      "cultural_context_jp": "海洋神話に由来する神事が内陸で継承されてきた点、社殿の丸梁に抱きついた氏子を大勢で回転させるという身体技法を伴う点で、他に類例が少なく民俗学的に注目される。「日本三大奇祭」の候補に挙げられることもある。",
+      "local_perspective_jp": "氏子と地区の保存会が継承の中心を担い、近年は観光客の参観も増えている。社殿内での所作のため安全管理と観覧マナーが課題となっている。",
+      "related_works": [],
+      "external_reviews": []
+    },
+    "name_en": "Tako-mai Shiki Shinji (Sacred Octopus Dance)",
+    "shrine_en": "Fukuoka Shrine (Hoki Town, Saihaku District, Tottori Prefecture)",
+    "prefecture_en": "Tottori Prefecture",
+    "city_en": "Saihaku District, Hoki Town",
+    "date_pattern_en": "Three days including the 3rd Sunday of October (the central rite on Sunday afternoon)",
+    "summary_en": "An autumn rite held each October at Fukuoka Shrine in Hoki Town, Tottori Prefecture. Parishioners in fundoshi loincloths raise high a straw octopus and dance to kagura music; finally a principal participant clings to a round beam of the shrine hall and is rotated by many others from below. A rite without parallel elsewhere. Designated as a Tottori Prefecturally Designated Intangible Folk Cultural Property.",
+    "highlights_en": [
+      "Tottori Prefecturally Designated Intangible Folk Cultural Property",
+      "Wild dance with a raised straw octopus",
+      "The bodily technique of rotating a person clinging to a round beam",
+      "Sometimes counted among the candidates for the 'Three Great Strange Festivals of Japan'",
+      "An inland octopus rite derived from a maritime myth"
+    ],
+    "origin_en": "Shrine tradition holds that the rite derives from a maritime myth in which countless octopuses rescued the divine vessel of Hayatamao-no-mikoto of Kumano, and that it has been transmitted from before 1275 (Kenji 1). It is distinguished by the long-term continuation of an octopus-centered rite in an inland area.",
+    "viewing_notes_en": "The venue is Fukuoka Shrine in Fukuoka, Hoki Town. The Tako-mai Shiki rite is held from around 3 PM on the third Sunday of October. Access is realistic by taxi or private car from JR Mizokuchi Station. As the central act takes place inside the shrine hall, viewing positions are limited; follow the instructions of the parishioners and the shrine."
+  },
+  {
+    "id": "fest-127",
+    "name": "西尾のてんてこ祭",
+    "name_kana": "にしおのてんてこまつり",
+    "shrine": "熱池八幡社（愛知県西尾市熱池町）",
+    "category": "sex",
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "lat": 34.8603,
+    "lng": 137.0536,
+    "date_pattern": "毎年1月3日",
+    "date_2026": "2026-01-03",
+    "date_2026_end": null,
+    "summary": "愛知県西尾市熱池町の熱池八幡社で毎年1月3日に行われる農耕予祝の祭礼。赤い装束の厄男6人が大根で作った男根を腰に付け、「てんてこ」と呼ばれる囃子に合わせて腰を振りながら行列し、神前で田植え歌を奉納する。境内到着後は竹箒で藁灰を観客に撒く厄除けの所作を行う。愛知県指定無形民俗文化財。",
+    "highlights": [
+      "愛知県指定無形民俗文化財",
+      "大根製の男根を腰に付けて行列する厄男6人",
+      "「てんてこ」囃子に合わせた腰振りと田植え歌奉納",
+      "竹箒で藁灰を観客に撒く厄祓いの所作",
+      "平安期の悠紀斎田由来とされる古い農耕予祝の系譜"
+    ],
+    "origin": "平安時代・清和天皇の大嘗会に供する悠紀斎田の縁起にゆかりがあるとされる農耕予祝の祭礼。明治30年に警察から禁止命令を受けて一時中断したが、大正12年に復活し継承されてきた。愛知県指定無形民俗文化財。",
+    "official_url": "https://www.city.nishio.aichi.jp/sportskanko/bunkazai/1001485/1001609/1001670/1002754.html",
+    "reference_urls": [
+      "https://nishio-saijiki.com/fes/single/3",
+      "https://www.katch.co.jp/community/kinjo/feature/feature105/"
+    ],
+    "viewing_notes": "会場は熱池八幡社（西尾市熱池町）。1月3日13時頃から行列開始、見所は13時00分〜13時25分頃の行列と灰撒き。公共交通は名鉄福地駅から徒歩約15分。藁灰が衣服に付着するため、汚れてもよい服装が無難。境内は混雑するため早めの到着が推奨される。",
+    "deepdive": {
+      "history_jp": "平安時代の清和天皇の大嘗会に供えられた悠紀斎田の縁起と結びつくとされる古い農耕予祝の祭礼で、近世以降は熱池八幡社の年頭神事として継承されてきた。明治30年に警察から風紀上の理由で禁止命令を受け中断したが、大正12年に復活した。現在は愛知県指定無形民俗文化財。",
+      "cultural_context_jp": "男根を象った造形物を伴う豊穣祈願は田縣神社や大縣神社など全国に類例があるが、本祭は熱池八幡社で独立に継承されてきたものであり、行列・腰振り・田植え歌奉納・灰撒きという一連の所作の組み合わせに地域固有の構造を持つ。",
+      "local_perspective_jp": "明治の禁止と大正の復活を経た歴史的経緯は、近代日本における風俗統制と民俗継承の関係を示す事例として注目される。現在は氏子と保存会により毎年実施され、家内安全・五穀豊穣を祈願する地区の年頭神事として定着している。",
+      "related_works": [],
+      "external_reviews": []
+    },
+    "name_en": "Tenteko Festival of Nishio",
+    "shrine_en": "Niiike Hachiman Shrine (Niiike, Nishio City, Aichi Prefecture)",
+    "prefecture_en": "Aichi Prefecture",
+    "city_en": "Nishio City",
+    "date_pattern_en": "Every year on January 3",
+    "summary_en": "An agrarian pre-celebration rite held on January 3 at Niiike Hachiman Shrine in Nishio, Aichi Prefecture. Six men of inauspicious age, in red attire and wearing phalluses carved from radish at their waists, parade swinging their hips to the 'tenteko' musical accompaniment and present a rice-planting song before the deity. On arrival in the precincts, straw ash is scattered onto the spectators with a bamboo broom as an act of misfortune-warding. An Aichi Prefecturally Designated Intangible Folk Cultural Property.",
+    "highlights_en": [
+      "Aichi Prefecturally Designated Intangible Folk Cultural Property",
+      "Six men of inauspicious age with phallic radishes at their waists",
+      "Hip-swinging procession to the 'tenteko' rhythm and offering of a rice-planting song",
+      "Scattering of straw ash with a bamboo broom as misfortune-warding",
+      "A lineage of agrarian pre-celebration linked to the Heian-period Yuki-saiden"
+    ],
+    "origin_en": "An agrarian pre-celebration rite said to be linked to the auspicious origin of the Yuki-saiden offered to the Daijo-sai of Emperor Seiwa in the Heian period. It was suspended after a police prohibition on grounds of public morals in Meiji 30 (1897), and was revived in Taisho 12 (1923). It is currently an Aichi Prefecturally Designated Intangible Folk Cultural Property.",
+    "viewing_notes_en": "The venue is Niiike Hachiman Shrine in Niiike, Nishio City. The procession begins around 1 PM on January 3; the principal highlight is the procession and ash-scattering between approximately 1:00 PM and 1:25 PM. The shrine is about 15 minutes on foot from Meitetsu Fukuchi Station. As straw ash will fall on clothing, casual clothes are advisable. The precincts become crowded, so early arrival is recommended."
+  },
+  {
+    "id": "fest-128",
+    "name": "羽茂まつりのつぶろさし",
+    "name_kana": "はもちまつりのつぶろさし",
+    "shrine": "草苅神社・菅原神社（新潟県佐渡市羽茂本郷）",
+    "category": "sex",
+    "prefecture": "新潟県",
+    "city": "佐渡市",
+    "lat": 37.8028,
+    "lng": 138.3585,
+    "date_pattern": "毎年6月15日",
+    "date_2026": "2026-06-15",
+    "date_2026_end": null,
+    "summary": "新潟県佐渡市羽茂地区で毎年6月15日に行われる豊穣神楽。男根型の木棒を持つ「つぶろさし」、女役「ささらすり」、「銭太鼓」、獅子が登場し、ユーモラスな所作を通じて豊作を促す「感染所作（かまけわざ）」を演じる。寺田・村山・飯岡の3集落が各様式で奉納したのちに門付け巡業に出る。新潟県指定無形民俗文化財。",
+    "highlights": [
+      "新潟県指定無形民俗文化財",
+      "男根型木棒を持つ「つぶろさし」と女役「ささらすり」の所作",
+      "感染所作（かまけわざ）の典型例として民俗学的に重要",
+      "寺田・村山・飯岡の3集落で様式が異なる複数系統の並存",
+      "奉納後に各集落を門付けで巡業する形態"
+    ],
+    "origin": "田楽・神楽系の豊穣儀礼の流れを汲む感染所作の典型例とされる芸能で、起源の詳細は未詳。羽茂地区の3集落でそれぞれ異なる様式が伝承されてきた。新潟県指定無形民俗文化財。",
+    "official_url": "https://niigata-kankou.or.jp/event/42487",
+    "reference_urls": [
+      "https://sado-geinou.com/geinou/tsuburosashi/"
+    ],
+    "viewing_notes": "会場は佐渡市羽茂本郷の草苅神社・菅原神社およびその周辺。6月15日に奉納・門付けが行われる。佐渡島内バス「羽茂商工会前」下車徒歩すぐ。佐渡へは新潟港〜両津港、または直江津港〜小木港のフェリーを利用する。集落の許諾と作法のもとで観覧すること。",
+    "deepdive": {
+      "history_jp": "田楽・神楽の系譜を引く豊穣儀礼で、起源の詳細は未詳ながら少なくとも近世から羽茂地区に継承されてきたとされる。寺田・村山・飯岡の3集落でそれぞれ独自の様式が伝承され、芸能としての複数系統の並存が特徴。新潟県指定無形民俗文化財。",
+      "cultural_context_jp": "男女の交わりを模倣的に演じることで豊作を呼び込もうとする「感染所作（かまけわざ）」の典型例として、民俗学・芸能史で重要視される。佐渡には能・人形芝居・鬼太鼓など多様な芸能が伝承されており、本芸能もその文脈の中に位置付けられる。",
+      "local_perspective_jp": "3集落の保存会が中心となって継承され、奉納後の門付け巡業によって地域共同体との結びつきが現在も維持されている。観覧の際は集落の作法に従うことが求められる。",
+      "related_works": [],
+      "external_reviews": []
+    },
+    "name_en": "Hamochi Festival Tsuburo Sashi (Fertility Dance)",
+    "shrine_en": "Kusakari Shrine and Sugawara Shrine (Hamochi Hongo, Sado City, Niigata Prefecture)",
+    "prefecture_en": "Niigata Prefecture",
+    "city_en": "Sado City",
+    "date_pattern_en": "Every year on June 15",
+    "summary_en": "A fertility kagura held on June 15 each year in the Hamochi district of Sado City, Niigata. The 'tsuburo sashi' dancer with a phallic wooden staff, the female role 'sasara-suri', the 'zeni-daiko' (coin drum) player, and a lion figure appear, performing humorous 'kamake-waza' (sympathetic-act) movements to encourage abundant harvests. The three communities of Terada, Murayama, and Iioka each perform their own style, then proceed on a kadozuke (door-to-door) tour. A Niigata Prefecturally Designated Intangible Folk Cultural Property.",
+    "highlights_en": [
+      "Niigata Prefecturally Designated Intangible Folk Cultural Property",
+      "The dance of a masked performer holding a phallic wooden staff and the female sasara-suri role",
+      "An important example of 'kamake-waza' (sympathetic-act ritual) in folklore studies",
+      "Coexistence of multiple lineages with differing styles in Terada, Murayama, and Iioka",
+      "Kadozuke door-to-door tour through the communities after the formal dedication"
+    ],
+    "origin_en": "A performance regarded as a typical example of 'kamake-waza' (sympathetic-act) within the Dengaku and Kagura lineage of fertility rites. Its detailed origins are uncertain. Each of the three Hamochi communities has transmitted its own distinct style. A Niigata Prefecturally Designated Intangible Folk Cultural Property.",
+    "viewing_notes_en": "The venue is Kusakari Shrine and Sugawara Shrine in Hamochi Hongo, Sado City, and the surrounding area. The dedication and the kadozuke tour take place on June 15. Sado-island bus stop 'Hamochi Shokokai-mae' is immediately adjacent. Ferries to Sado run from Niigata Port to Ryotsu Port, or from Naoetsu Port to Ogi Port. Viewing should be conducted with the permission of the communities and in accordance with local etiquette."
+  },
+  {
+    "id": "fest-129",
+    "name": "太宰府天満宮 鷽替え・鬼すべ神事",
+    "name_kana": "だざいふてんまんぐう うそかえ・おにすべしんじ",
+    "shrine": "太宰府天満宮（福岡県太宰府市宰府）",
+    "category": "weird",
+    "prefecture": "福岡県",
+    "city": "太宰府市",
+    "lat": 33.521414,
+    "lng": 130.533694,
+    "date_pattern": "毎年1月7日",
+    "date_2026": "2026-01-07",
+    "date_2026_end": null,
+    "summary": "福岡県太宰府天満宮で毎年1月7日夜に行われる正月神事。参拝者が暗闇の中で「替えましょ、替えましょ」と唱えながら木製の鷽（うそ）を見ず知らずの人と次々交換し、過去の嘘を天神の誠心に替えるとされる「鷽替え」と、続いて鬼すべ堂の鬼を火と煙で燻し出し縛られた鬼が堂内を七回半・堂外を三回半廻った後に退治される「鬼すべ」のセット神事。太宰府市指定無形民俗文化財。",
+    "highlights": [
+      "太宰府市指定無形民俗文化財",
+      "暗闇で木鷽を見知らぬ人と交換する「鷽替え」",
+      "鬼を煙で燻し出す炎と煙の神事「鬼すべ」",
+      "縛られた鬼が堂内七回半・堂外三回半を廻る所作",
+      "天満宮の祭神・菅原道真公信仰に由来する正月神事"
+    ],
+    "origin": "太宰府天満宮の祭神・菅原道真公への信仰から発展した正月神事で、近世以降に現在の形式が整えられてきたとされる。鷽替えは「嘘を誠（天神の誠心）に替える」言葉遊び的構造をもち、鬼すべは火と煙による厄祓いの構造をもつ。両神事の組み合わせは太宰府天満宮固有の正月神事として知られる。",
+    "official_url": "https://www.dazaifutenmangu.or.jp/omatsuri/usokae-onisube",
+    "reference_urls": [
+      "https://dazaifumiryoku.com/private/16371/",
+      "https://www.city.dazaifu.lg.jp/site/bunkazai/2933.html"
+    ],
+    "viewing_notes": "会場は太宰府天満宮（太宰府市宰府）。1月7日夜、鷽替えは18時頃から、鬼すべは21時頃から行われる。西鉄太宰府駅から徒歩約5分とアクセス良好だが、当日は非常に混雑するため早めの到着推奨。鬼すべは火と煙を伴い境内が煙に覆われるため、衣服への匂い付着や視界不良に注意。",
+    "deepdive": {
+      "history_jp": "太宰府天満宮の祭神・菅原道真公への信仰に由来する正月神事で、近世以降に現在の形式が整えられてきたとされる。鷽替え・鬼すべはともに天神信仰における年頭の厄祓いと結びついて継承されてきた。現在は太宰府市指定無形民俗文化財。",
+      "cultural_context_jp": "「嘘を誠に替える」言葉遊びによる厄祓いという鷽替えの構造と、火と煙によって鬼を堂外に追い出す鬼すべの追儺構造を組み合わせる点に、太宰府天満宮独自の正月神事としての位置付けがある。木鷽は授与品・縁起物としても全国の天神信仰圏で知られる。",
+      "local_perspective_jp": "鷽替えで授与される木鷽は太宰府天満宮の縁起物として古くから知られ、参拝者・観光客双方に親しまれている。鬼すべは堂内外の動線が複雑で、地元の保存会と神社が連携して安全管理を行っている。",
+      "related_works": [],
+      "external_reviews": []
+    },
+    "name_en": "Dazaifu Tenmangu Usokae & Onisube",
+    "shrine_en": "Dazaifu Tenmangu Shrine (Saifu, Dazaifu City, Fukuoka Prefecture)",
+    "prefecture_en": "Fukuoka Prefecture",
+    "city_en": "Dazaifu City",
+    "date_pattern_en": "Every year on January 7",
+    "summary_en": "Paired New Year rites held on the night of January 7 each year at Dazaifu Tenmangu Shrine in Fukuoka Prefecture. In the 'Usokae', worshippers in darkness chant 'Kaemasho, kaemasho' ('Let us exchange, let us exchange') and exchange small wooden bullfinches with strangers one after another, said to exchange the past year's lies (uso) for the sincerity of Tenjin. In the 'Onisube' that follows, demons confined in the Onisube Hall are smoked out with fire and smoke, and a bound demon is led seven and a half times around the hall's interior and three and a half times around its exterior before being subdued. A Dazaifu Municipally Designated Intangible Folk Cultural Property.",
+    "highlights_en": [
+      "Dazaifu Municipally Designated Intangible Folk Cultural Property",
+      "'Usokae' — exchanging wooden bullfinches with strangers in the dark",
+      "'Onisube' — a fire-and-smoke rite that drives out demons",
+      "The bound demon circumambulates the hall seven and a half times within and three and a half times without",
+      "A New Year rite derived from devotion to the enshrined deity, Sugawara no Michizane"
+    ],
+    "origin_en": "A New Year rite developed from devotion to the enshrined deity of Dazaifu Tenmangu, the Heian-period scholar-statesman Sugawara no Michizane, with the present form said to have been organized from the early modern period onward. The Usokae has a word-play structure in which 'lies (uso) are exchanged for truth (the sincerity of Tenjin)', while the Onisube has the structure of warding off misfortune through fire and smoke. The combination of the two is known as a New Year rite distinctive to Dazaifu Tenmangu.",
+    "viewing_notes_en": "The venue is Dazaifu Tenmangu Shrine. On the night of January 7, the Usokae begins around 6 PM and the Onisube around 9 PM. Access is good — about 5 minutes on foot from Nishitetsu Dazaifu Station — but the area becomes very crowded, so early arrival is recommended. The Onisube involves fire and dense smoke filling the precincts; expect smoke odor on clothing and reduced visibility."
+  },
+  {
+    "id": "fest-130",
+    "name": "陀々堂の鬼はしり",
+    "name_kana": "だだどうのおにはしり",
+    "shrine": "大津念仏寺 陀々堂（奈良県五條市大津町）",
+    "category": "fire",
+    "prefecture": "奈良県",
+    "city": "五條市",
+    "lat": 34.3547,
+    "lng": 135.6878,
+    "date_pattern": "毎年1月14日",
+    "date_2026": "2026-01-14",
+    "date_2026_end": null,
+    "summary": "奈良県五條市大津町の念仏寺陀々堂で毎年1月14日に行われる修正会結願の鬼走り行事。昼と夜の2回、大松明を手にした3体の鬼が堂内を激しく走り回り、護摩壇の炎が立ち上る中で年の始めの無病息災と五穀豊穣を祈願する。子ども鬼走りも行われる。国指定重要無形民俗文化財。",
+    "highlights": [
+      "国指定重要無形民俗文化財",
+      "昼夜2回の鬼走りと子ども鬼走り",
+      "大松明を手にした3体の鬼が堂内を走る所作",
+      "護摩壇の炎と火の粉を伴う火祭り構造",
+      "500年以上の歴史を伝える修正会結願の行事"
+    ],
+    "origin": "起源の詳細は不詳ながら500年以上の歴史を伝えるとされ、念仏寺陀々堂で行われる修正会の結願時の鬼走り行事として継承されてきた。国指定重要無形民俗文化財。",
+    "official_url": "https://www.city.gojo.lg.jp/soshiki/bunka/9/2201.html",
+    "reference_urls": [
+      "https://www.gojo.ne.jp/g-kanko/leisure/01oni-hashiri.html",
+      "https://ja.wikipedia.org/wiki/%E9%99%80%E3%80%85%E5%A0%82%E3%81%AE%E9%AC%BC%E3%81%AF%E3%81%97%E3%82%8A"
+    ],
+    "viewing_notes": "会場は念仏寺陀々堂（五條市大津町）。昼の鬼走りは16時頃、夜の鬼走りは21時頃から。観覧は自由だが堂内は混雑するため早めの到着推奨。松明の火の粉が飛ぶため燃えにくい服装で、堂内の指定区域外への進入は避けること。JR五条駅から車で約20分。",
+    "deepdive": {
+      "history_jp": "起源の詳細は不詳ながら500年以上の歴史を伝えるとされる、念仏寺陀々堂の修正会結願時の鬼走り行事。中世以降、寺院の修正会と村落の年頭儀礼が結合した形態として継承されてきた。国指定重要無形民俗文化財。",
+      "cultural_context_jp": "「鬼が走る」ことで年の災厄を祓い福を招くとする構造は、奈良・京都の修二会・修正会系の鬼会と通底する。大松明を手にした鬼が堂内を疾走する形態は、修正会結願の火祭りの一形態として民俗学・仏教民俗で注目される。",
+      "local_perspective_jp": "子ども鬼走りが行われる点に世代を越えた継承構造があり、地区の保存会と寺院が中心となって維持している。",
+      "related_works": [],
+      "external_reviews": []
+    },
+    "name_en": "Oni-Hashiri at Dadado Hall",
+    "shrine_en": "Otsu Nembutsu-ji Dadado Hall (Otsu, Gojo City, Nara Prefecture)",
+    "prefecture_en": "Nara Prefecture",
+    "city_en": "Gojo City",
+    "date_pattern_en": "Every year on January 14",
+    "summary_en": "A 'demon-running' rite held on January 14 each year at the Dadado Hall of Nembutsu-ji Temple in Otsu, Gojo City, Nara Prefecture, marking the conclusion of the temple's Shushō-e New Year ritual. Twice — once in the afternoon and once at night — three demons bearing large torches race through the hall while flames rise from the goma altar, in prayer for freedom from illness and for abundant harvests at the year's beginning. A children's demon-running is also held. A Nationally Designated Important Intangible Folk Cultural Property.",
+    "highlights_en": [
+      "Nationally Designated Important Intangible Folk Cultural Property",
+      "Two demon-runnings — afternoon and night — plus a children's demon-running",
+      "Three demons race through the hall bearing large torches",
+      "A fire-rite structure with flames and sparks from the goma altar",
+      "A Shushō-e concluding rite said to carry over 500 years of history"
+    ],
+    "origin_en": "A demon-running rite said to have over 500 years of history, though its precise origins are uncertain, transmitted as the concluding rite of the Shushō-e at the Dadado Hall of Nembutsu-ji Temple. A Nationally Designated Important Intangible Folk Cultural Property.",
+    "viewing_notes_en": "The venue is the Dadado Hall of Nembutsu-ji Temple in Otsu, Gojo City. The afternoon demon-running begins around 4 PM and the night demon-running around 9 PM. Viewing is open to all, but the hall becomes crowded, so early arrival is recommended. Sparks fly from the torches, so wear non-flammable clothing and avoid entering areas outside the designated viewing zones. About 20 minutes by car from JR Gojo Station."
   }
 ]
