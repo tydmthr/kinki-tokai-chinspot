@@ -1251,5 +1251,44 @@
     "primary": null,
     "credit": null,
     "alt_photos": []
+  },
+  "fest-125": {
+    "name": "発光路の強飯式",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/1/12/%E7%99%BA%E5%85%89%E8%B7%AF%E3%81%AE%E5%BC%B7%E9%A3%AF%E5%BC%8F.jpg",
+    "credit": "© Shikanuma / CC BY-SA 4.0 / Wikimedia Commons",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%E7%99%BA%E5%85%89%E8%B7%AF%E3%81%AE%E5%BC%B7%E9%A3%AF%E5%BC%8F.jpg",
+    "creator": "Shikanuma",
+    "provider": "Wikimedia Commons",
+    "title": "発光路の強飯式"
+  },
+  "fest-128": {
+    "name": "羽茂まつりのつぶろさし",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/8/88/Hamo_Matsuri_Sado_04.jpg",
+    "credit": "© KQuhen / CC BY-SA 4.0 / Wikimedia Commons",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hamo_Matsuri_Sado_04.jpg",
+    "creator": "KQuhen",
+    "provider": "Wikimedia Commons",
+    "title": "Hamo Matsuri Sado 04"
+  },
+  "fest-130": {
+    "name": "陀々堂の鬼はしり",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/26/Dadad%C5%8D-no-Onihashiri_%28Chichioni%29.jpg",
+    "credit": "A photographer / CC BY-SA 4.0 / Wikimedia Commons",
+    "alt_photos": [
+      "https://upload.wikimedia.org/wikipedia/commons/e/eb/Dadad%C5%8D-no-Onihashiri_%28Hahaoni%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/56/Dadad%C5%8D-no-Onihashiri_%28Kooni%29.jpg"
+    ],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Dadad%C5%8D-no-Onihashiri_(Chichioni).jpg",
+    "creator": "A photographer",
+    "provider": "Wikimedia Commons",
+    "title": "陀々堂の鬼はしり (父鬼)"
   }
 }
