@@ -410,66 +410,77 @@ function buildDeepdiveBlock(item) {
   if (!d) return '';
   const sections = [];
 
-  // 歴史・伝承
-  if (d.history_jp) {
+  // Localized field getter: returns EN if available and CURRENT_LANG=='en', otherwise JA
+  const history = pick(d, 'history_jp', 'history_jp_en');
+  const cultural = pick(d, 'cultural_context_jp', 'cultural_context_jp_en');
+  const local = pick(d, 'local_perspective_jp', 'local_perspective_jp_en');
+  const related = pick(d, 'related_works', 'related_works_en');
+  const trivia = pick(d, 'trivia', 'trivia_en');
+  const bestTime = pick(d, 'best_visit_time', 'best_visit_time_en');
+  const photoTips = pick(d, 'photo_tips', 'photo_tips_en');
+  const warningsExtra = pick(d, 'warnings_extra', 'warnings_extra_en');
+  const reviews = pick(d, 'external_reviews', 'external_reviews_en');
+  const sources = pick(d, 'sources', 'sources_en');
+
+  if (history) {
     sections.push(`
       <details class="m-deep" open>
         <summary class="m-deep-h"><i class="ph ph-scroll"></i> ${t('m.deep.history')}</summary>
-        <div class="m-deep-body">${renderMdLinks(d.history_jp)}</div>
+        <div class="m-deep-body">${renderMdLinks(history)}</div>
       </details>`);
   }
-  if (d.cultural_context_jp) {
+  if (cultural) {
     sections.push(`
       <details class="m-deep">
         <summary class="m-deep-h"><i class="ph ph-globe-hemisphere-east"></i> ${t('m.deep.cultural')}</summary>
-        <div class="m-deep-body">${renderMdLinks(d.cultural_context_jp)}</div>
+        <div class="m-deep-body">${renderMdLinks(cultural)}</div>
       </details>`);
   }
-  if (d.local_perspective_jp) {
+  if (local) {
     sections.push(`
       <details class="m-deep">
         <summary class="m-deep-h"><i class="ph ph-users-three"></i> ${t('m.deep.local')}</summary>
-        <div class="m-deep-body">${renderMdLinks(d.local_perspective_jp)}</div>
+        <div class="m-deep-body">${renderMdLinks(local)}</div>
       </details>`);
   }
-  if (d.related_works) {
+  if (related) {
     sections.push(`
       <details class="m-deep">
         <summary class="m-deep-h"><i class="ph ph-books"></i> ${t('m.deep.related')}</summary>
-        <div class="m-deep-body">${renderMdLinks(d.related_works)}</div>
+        <div class="m-deep-body">${renderMdLinks(related)}</div>
       </details>`);
   }
-  if (d.trivia) {
+  if (trivia) {
     sections.push(`
       <details class="m-deep">
         <summary class="m-deep-h"><i class="ph ph-lightbulb"></i> ${t('m.deep.trivia')}</summary>
-        <div class="m-deep-body">${renderMdLinks(d.trivia)}</div>
+        <div class="m-deep-body">${renderMdLinks(trivia)}</div>
       </details>`);
   }
-  if (d.best_visit_time || d.photo_tips || d.warnings_extra) {
+  if (bestTime || photoTips || warningsExtra) {
     const tips = [];
     const sep = CURRENT_LANG === 'en' ? ': ' : '：';
-    if (d.best_visit_time) tips.push(`<p><strong>${t('m.bestTime')}${sep}</strong>${renderMdLinks(d.best_visit_time)}</p>`);
-    if (d.photo_tips) tips.push(`<p><strong>${t('m.photoSpot')}${sep}</strong>${renderMdLinks(d.photo_tips)}</p>`);
-    if (d.warnings_extra) tips.push(`<p><strong>${t('m.warningsInline')}${sep}</strong>${renderMdLinks(d.warnings_extra)}</p>`);
+    if (bestTime) tips.push(`<p><strong>${t('m.bestTime')}${sep}</strong>${renderMdLinks(bestTime)}</p>`);
+    if (photoTips) tips.push(`<p><strong>${t('m.photoSpot')}${sep}</strong>${renderMdLinks(photoTips)}</p>`);
+    if (warningsExtra) tips.push(`<p><strong>${t('m.warningsInline')}${sep}</strong>${renderMdLinks(warningsExtra)}</p>`);
     sections.push(`
       <details class="m-deep">
         <summary class="m-deep-h"><i class="ph ph-camera"></i> ${t('m.deep.phototips')}</summary>
         <div class="m-deep-body">${tips.join('')}</div>
       </details>`);
   }
-  if (d.external_reviews) {
+  if (reviews) {
     sections.push(`
       <details class="m-deep" open>
         <summary class="m-deep-h"><i class="ph ph-newspaper-clipping"></i> ${t('m.deep.othervisits')}</summary>
-        <div class="m-deep-body m-reviews">${renderMdLinks(d.external_reviews)}</div>
+        <div class="m-deep-body m-reviews">${renderMdLinks(reviews)}</div>
       </details>`);
   }
-  if (d.sources) {
+  if (sources) {
     sections.push(`
       <details class="m-deep">
         <summary class="m-deep-h"><i class="ph ph-quotes"></i> ${t('m.deep.references')}</summary>
-        <div class="m-deep-body m-sources">${renderMdLinks(d.sources)}</div>
+        <div class="m-deep-body m-sources">${renderMdLinks(sources)}</div>
       </details>`);
   }
   if (sections.length === 0) return '';
