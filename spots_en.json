@@ -4153,5 +4153,245 @@
       "A Kada shrine famed for ningyō-kuyō (doll memorial)",
       "Tied to belief in recovery from women's illnesses and safe birth"
     ]
+  },
+  {
+    "id": "spot-123",
+    "name": "飯野高宮神山神社",
+    "name_kana": "いいのたかみやこうやまじんじゃ",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "松阪市",
+    "address": "三重県松阪市山添町4",
+    "lat": 34.5879,
+    "lng": 136.5647,
+    "status": "現存",
+    "fee": "無料・境内自由",
+    "hours": "境内自由",
+    "official_url": "https://www2.jingu125.info/2017/06/10/post-58832/",
+    "reference_urls": [
+      "https://www2.jingu125.info/2017/06/10/post-58832/"
+    ],
+    "summary": "松阪市山添町に鎮座する式内社とされる神社。境内・参道をJR紀勢本線が物理的に横断する構造が特異で、神域と近代鉄道が同じ空間で交差する珍しい事例として知られる。線路横断部は踏切扱いで、参拝の際は安全に配慮する必要がある。神社そのものの祭祀は通常の式内社として継承されている。",
+    "highlights": [
+      "境内・参道をJR紀勢本線が横切る稀な構造",
+      "式内社とされる古社で神域に鉄道が交差",
+      "踏切を渡って参拝する形になる動線"
+    ],
+    "from_kameyama": "車で約1時間（伊勢道→国道166号方面）",
+    "name_en": "Iino Takamiya Koyama Shrine",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Matsusaka City",
+    "summary_en": "A shrine in Yamazoe-cho, Matsusaka, said to be a shikinaisha (listed in the 10th-century Engishiki). Its distinguishing feature is that the JR Kisei Main Line physically crosses the shrine precincts and approach path, creating an unusual case in which a sacred site and a modern railway share the same ground. Visitors cross at a level crossing on the way to worship; ritual life at the shrine itself continues in the ordinary manner of a shikinaisha.",
+    "highlights_en": [
+      "A rare layout in which the JR Kisei Main Line crosses through the precincts and approach",
+      "A shikinaisha-class old shrine whose sacred area intersects an active rail line",
+      "Worshippers must cross a railway level crossing to reach the shrine"
+    ]
+  },
+  {
+    "id": "spot-124",
+    "name": "珍布峠と礫石",
+    "name_kana": "めずらしとうげ と つぶていし",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "松阪市",
+    "address": "三重県松阪市飯高町赤桶",
+    "lat": 34.4565,
+    "lng": 136.2966,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "通行自由（旧街道ウォーキング推奨時間帯）",
+    "official_url": "https://www.kankomie.or.jp/spot/1819",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/spot/1819",
+      "https://matsusaka-info.jp/report/detail/post-23.html"
+    ],
+    "summary": "松阪市飯高町赤桶にある旧街道の切り通し峠と、それに付随する伝承石「礫石」。観光三重は、天照大神と天児屋根命がこの地で出会い「おお、めずらしや」と言ったことから珍布峠と呼ばれると説明し、さらに天照大神が川に投げ入れて国境を決めたと伝わる礫石が見える地点として紹介している。地名民俗と国分け伝説が一体で残る場所。",
+    "highlights": [
+      "「めずらし峠」という地名そのものに残る神話的由来",
+      "天照大神と天児屋根命の邂逅伝説",
+      "国分け伝説に登場する礫石が川中に残る"
+    ],
+    "from_kameyama": "車で約1時間20分（伊勢道→国道166号方面）",
+    "name_en": "Mezurashi Pass and Tsubute-ishi Stone",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Matsusaka City",
+    "summary_en": "An old-road cut-through pass in Akaoke, Iitaka-cho, Matsusaka, paired with the legendary boulder known as Tsubute-ishi. Kanko Mie (the prefectural tourism site) explains that the name 'Mezurashi-toge' comes from a tradition that the deities Amaterasu and Ame-no-Koyane met here and said 'oh, how rare,' and that Tsubute-ishi is the stone Amaterasu is said to have thrown into the river to mark a provincial boundary. The site preserves a place-name folklore and a 'land-dividing' legend together at one location.",
+    "highlights_en": [
+      "A mythic origin embedded in the place-name itself ('Mezurashi Pass')",
+      "Tradition of the encounter between Amaterasu and Ame-no-Koyane",
+      "Tsubute-ishi, the boulder of the land-dividing legend, visible in the river"
+    ]
+  },
+  {
+    "id": "spot-125",
+    "name": "鳥羽市民の森公園 ガリバー像",
+    "name_kana": "とばしみんのもりこうえん がりばーぞう",
+    "category": "bkyu",
+    "prefecture": "三重県",
+    "city": "鳥羽市",
+    "address": "三重県鳥羽市大明東町",
+    "lat": 34.4947,
+    "lng": 136.8325,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "公園利用時間内",
+    "official_url": "https://www.iseshima-kanko.jp/spot/1633",
+    "reference_urls": [
+      "https://www.iseshima-kanko.jp/spot/1633"
+    ],
+    "summary": "鳥羽市民の森公園内にある、高さ6m・幅12mの巨大ガリバー遊具。伊勢志摩観光ナビは、全国でも屈指の巨大遊具として、1982年に「鳥羽ぶらじる丸」のガリバー広場でデビューし、1985年に現在の鳥羽市民の森公園へ移されたと説明している。1980年代の海洋パビリオン文化を背景に持つ、公共公園内のB級モニュメント。",
+    "highlights": [
+      "高さ6m・幅12mの巨大ガリバー造形遊具",
+      "1982年「鳥羽ぶらじる丸」由来で1985年に移設された経緯",
+      "無料の公共公園内にあるB級モニュメント"
+    ],
+    "from_kameyama": "車で約1時間20分（伊勢道→鳥羽方面）",
+    "name_en": "Gulliver Figure at Toba Citizen Forest Park",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Toba City",
+    "summary_en": "A reclining Gulliver play sculpture, 6 m tall and 12 m wide, set inside Toba Citizen Forest Park. Local tourism material describes it as one of the largest figure-form playground installations in Japan, originally unveiled in 1982 at the 'Toba Brazil-Maru' Gulliver Plaza and then moved to its present home at Toba Citizen Forest Park in 1985. It functions as a public-park B-class monument carrying the legacy of 1980s seaside pavilion culture.",
+    "highlights_en": [
+      "An oversized Gulliver figure 6 m tall and 12 m wide",
+      "A 1982 origin at the 'Toba Brazil-Maru' Gulliver Plaza, relocated to the park in 1985",
+      "A free public park hosting a distinctly B-class monument"
+    ]
+  },
+  {
+    "id": "spot-126",
+    "name": "阿曽の風穴",
+    "name_kana": "あそのふうけつ",
+    "category": "mystery",
+    "prefecture": "三重県",
+    "city": "度会郡大紀町",
+    "address": "三重県度会郡大紀町阿曽",
+    "lat": 34.3171,
+    "lng": 136.4714,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "終日（洞内は足元注意）",
+    "official_url": "https://www.kankomie.or.jp/spot/8407",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/spot/8407"
+    ],
+    "summary": "大紀町阿曽にある石灰岩の天然洞窟。観光三重は、長年の水の浸食により石灰岩が作った天然の洞窟で、内部に照明があり気軽に自然の神秘に触れられると説明している。山中の低温空間と石灰岩の造形が見られる小規模な自然奇景で、JR阿曽駅から徒歩約30分の位置にある。",
+    "highlights": [
+      "水の浸食でできた石灰岩の天然洞窟",
+      "内部に照明があり訪問しやすい構造",
+      "JR阿曽駅徒歩約30分の山間アクセス"
+    ],
+    "from_kameyama": "車で約1時間30分（伊勢道→紀勢道→大内山IC方面）",
+    "name_en": "Aso no Kazaana Cave",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Taki District, Taiki Town",
+    "summary_en": "A natural limestone cave in Aso, Taiki Town. Kanko Mie describes it as a cave formed over a long period by water eroding limestone, fitted with interior lighting that lets visitors encounter the geological feature easily. It is a small-scale natural curiosity—a cool, dim space of water-cut limestone—about a 30-minute walk from JR Aso Station.",
+    "highlights_en": [
+      "A natural limestone cave shaped by long-term water erosion",
+      "Interior lighting that makes the cave straightforward to visit",
+      "A roughly 30-minute walk from JR Aso Station into the hills"
+    ]
+  },
+  {
+    "id": "spot-127",
+    "name": "鯨の供養塔",
+    "name_kana": "くじらのくようとう",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "熊野市",
+    "address": "三重県熊野市二木島町字相川",
+    "lat": 34.0135,
+    "lng": 136.2344,
+    "status": "現存",
+    "fee": "無料（個人所有の文化財・要事前確認）",
+    "hours": "要事前確認（熊野市教育委員会）",
+    "official_url": "https://www.kankomie.or.jp/spot/4222",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/spot/4222"
+    ],
+    "summary": "熊野市二木島町に立つ江戸期の供養塔。観光三重は、寛文11年（1671年）に作られ正面に「鯨三十三本供養塔」の切付けがあると説明している。熊野の漁撈民俗ではブリ・マグロなど33本を得るごとに「万の祝」と称して祝う風習があり、この供養塔もその記念として建てられたと伝わる。動物供養と海の生業信仰が交差する民俗碑。",
+    "highlights": [
+      "寛文11年（1671年）銘の「鯨三十三本供養塔」",
+      "ブリ・マグロ33本ごとの「万の祝」の習俗",
+      "熊野の漁撈民俗と動物供養が一体で残る石碑"
+    ],
+    "from_kameyama": "車で約1時間40分（紀勢道経由）",
+    "name_en": "Kujira no Kuyo-to Whale Memorial Tower",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Kumano City",
+    "summary_en": "An Edo-period memorial stone in Nigishima-cho, Kumano. Kanko Mie records that it was erected in Kanbun 11 (1671) and that its face is inscribed 'Memorial Tower for Thirty-three Whales.' In Kumano fishing folklore, taking thirty-three of a major fish (yellowtail, tuna, etc.) was celebrated as 'Man-no-Iwai' (Celebration of Ten Thousand), and this tower is said to have been raised in connection with that practice. The site sits at the intersection of animal memorial tradition and the religious life of a fishing community.",
+    "highlights_en": [
+      "An Edo-period stele inscribed 'Memorial Tower for Thirty-three Whales' (1671)",
+      "Tied to the 'Man-no-Iwai' custom of marking every 33 yellowtail or tuna caught",
+      "A folk-religion stone where animal memorial and maritime livelihood meet"
+    ]
+  },
+  {
+    "id": "spot-128",
+    "name": "九鬼嘉隆の首塚・胴塚",
+    "name_kana": "くきよしたかのくびづか・どうづか",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "鳥羽市",
+    "address": "三重県鳥羽市答志町（答志島・首塚は築上山山頂、胴塚は和具漁港集落内）",
+    "lat": 34.5036,
+    "lng": 136.8825,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "見学可（島内集落・墓所のため静粛に）",
+    "official_url": "https://www.kankomie.or.jp/spot/4605",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/spot/4605",
+      "https://www.iseshima-kanko.jp/spot/1646"
+    ],
+    "summary": "戦国期の九鬼水軍当主・九鬼嘉隆の首と胴を別々に葬った供養地。観光三重は、首が遺言どおり鳥羽城を一望できる築上山山頂に埋葬されたと説明し、伊勢志摩観光ナビは、胴を葬った墓が和具漁港の町中にあり、洞仙庵跡や血洗い池が近くにあると説明している。首塚と胴塚が島内で離れている点が特異で、身体分離の葬送と島の記憶を伝える民俗的史跡として読める。",
+    "highlights": [
+      "首塚は築上山山頂、胴塚は和具漁港集落内に分かれて所在",
+      "首塚は鳥羽城を一望できる位置に置かれた遺言伝承",
+      "胴塚周辺に洞仙庵跡と血洗い池が残る"
+    ],
+    "from_kameyama": "車＋市営定期船＋徒歩で約2時間（亀山→鳥羽マリンターミナル→答志島）",
+    "name_en": "Kuki Yoshitaka Head Mound and Body Mound",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Toba City",
+    "summary_en": "Two separate burial sites on Tōshi-jima island, where the head and body of the Sengoku-era Kuki navy commander Kuki Yoshitaka were interred apart. Kanko Mie records that, per his will, his head was buried at the summit of Mt. Tsukijo with a view over Toba Castle; Ise-Shima Kanko Navi explains that the body mound stands in the town center of Wagu Fishing Port, near the former Tōsen-an temple site and the 'Chiarai-ike' (blood-washing pond). The fact that the head and body mounds are physically separated on the island makes this site readable as a folk-religion record of a divided-body burial tradition, rather than as an ordinary samurai gravesite.",
+    "highlights_en": [
+      "Head Mound at the summit of Mt. Tsukijo; Body Mound in Wagu Port village",
+      "Head burial chosen to overlook Toba Castle, per Kuki Yoshitaka's will",
+      "Former Tōsen-an temple site and 'Chiarai-ike' pond remain near the body mound"
+    ]
+  },
+  {
+    "id": "spot-129",
+    "name": "御塩殿神社・御塩道",
+    "name_kana": "みしおどのじんじゃ・みしおみち",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "伊勢市",
+    "address": "三重県伊勢市二見町荘",
+    "lat": 34.5024,
+    "lng": 136.7781,
+    "status": "現存",
+    "fee": "無料（参拝可能範囲は要確認）",
+    "hours": "境内自由（御塩焼所・御塩殿の見学可否は要確認）",
+    "official_url": "https://ise-kanko.jp/purpose/mishiodonojinja/",
+    "reference_urls": [
+      "https://ise-kanko.jp/purpose/mishiodonojinja/"
+    ],
+    "summary": "伊勢神宮内宮の所管社で、神宮の祭典で使用する堅塩を製造する場所。伊勢市観光協会は、高濃度の塩水を御塩焼所で煮つめて荒塩にし、御塩殿で型に入れて焼き固めると説明している。御塩浜で採られた塩水が御塩道を通って御塩殿まで運ばれる流れまで含めると、神宮周縁の特殊な生産儀礼として民俗信仰の核心が見える場所。",
+    "highlights": [
+      "神宮の祭典で使う堅塩を製造する内宮所管社",
+      "御塩焼所での荒塩煮詰めと御塩殿での焼き固めの二段工程",
+      "御塩浜から御塩殿へ続く「御塩道」の存在"
+    ],
+    "from_kameyama": "車で約60分（伊勢道→伊勢二見鳥羽ライン→二見方面）",
+    "name_en": "Mishiodono Shrine and Sacred Salt Route",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Ise City",
+    "summary_en": "An auxiliary shrine of the Inner Shrine (Naikū) of Ise Jingū, devoted to the production of the hardened salt (katashio) used in Jingū rituals. The Ise City Tourist Association describes a two-stage process: highly concentrated brine is reduced to coarse salt at the Mishio-yakisho, then molded and fire-hardened at the Mishio-dono itself. Read together with the Mishio-michi (Sacred Salt Route) along which brine from the Mishio-hama salt fields is carried to the shrine, the site forms an unusual production-ritual complex on the periphery of Jingū.",
+    "highlights_en": [
+      "An auxiliary shrine of the Inner Shrine where ritual hardened salt is produced",
+      "A two-stage process: reduction at the Mishio-yakisho and firing at the Mishio-dono",
+      "The 'Mishio-michi' route along which brine is carried from the salt fields"
+    ]
   }
 ]

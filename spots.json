@@ -5962,5 +5962,182 @@
       "warnings_extra_en": "Avoid framing the site through a paranormal or occult lens—describing dolls as \"frightening,\" claiming \"ghosts appear,\" or calling them \"cursed dolls.\" Describe the site as a place of doll memorial rites and women's faith.",
       "sources_en": "[Awashima Jinja Official](https://www.kada.jp/awashima/), [Wakayama Tourism Official](https://www.wakayama-kanko.or.jp/spots/detail_217.html)"
     }
+  },
+  {
+    "id": "spot-123",
+    "name": "飯野高宮神山神社",
+    "name_kana": "いいのたかみやこうやまじんじゃ",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "松阪市",
+    "address": "三重県松阪市山添町4",
+    "lat": 34.5879,
+    "lng": 136.5647,
+    "status": "現存",
+    "fee": "無料・境内自由",
+    "hours": "境内自由",
+    "official_url": "https://www2.jingu125.info/2017/06/10/post-58832/",
+    "reference_urls": [
+      "https://www2.jingu125.info/2017/06/10/post-58832/"
+    ],
+    "summary": "松阪市山添町に鎮座する式内社とされる神社。境内・参道をJR紀勢本線が物理的に横断する構造が特異で、神域と近代鉄道が同じ空間で交差する珍しい事例として知られる。線路横断部は踏切扱いで、参拝の際は安全に配慮する必要がある。神社そのものの祭祀は通常の式内社として継承されている。",
+    "highlights": [
+      "境内・参道をJR紀勢本線が横切る稀な構造",
+      "式内社とされる古社で神域に鉄道が交差",
+      "踏切を渡って参拝する形になる動線"
+    ],
+    "from_kameyama": "車で約1時間（伊勢道→国道166号方面）"
+  },
+  {
+    "id": "spot-124",
+    "name": "珍布峠と礫石",
+    "name_kana": "めずらしとうげ と つぶていし",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "松阪市",
+    "address": "三重県松阪市飯高町赤桶",
+    "lat": 34.4565,
+    "lng": 136.2966,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "通行自由（旧街道ウォーキング推奨時間帯）",
+    "official_url": "https://www.kankomie.or.jp/spot/1819",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/spot/1819",
+      "https://matsusaka-info.jp/report/detail/post-23.html"
+    ],
+    "summary": "松阪市飯高町赤桶にある旧街道の切り通し峠と、それに付随する伝承石「礫石」。観光三重は、天照大神と天児屋根命がこの地で出会い「おお、めずらしや」と言ったことから珍布峠と呼ばれると説明し、さらに天照大神が川に投げ入れて国境を決めたと伝わる礫石が見える地点として紹介している。地名民俗と国分け伝説が一体で残る場所。",
+    "highlights": [
+      "「めずらし峠」という地名そのものに残る神話的由来",
+      "天照大神と天児屋根命の邂逅伝説",
+      "国分け伝説に登場する礫石が川中に残る"
+    ],
+    "from_kameyama": "車で約1時間20分（伊勢道→国道166号方面）"
+  },
+  {
+    "id": "spot-125",
+    "name": "鳥羽市民の森公園 ガリバー像",
+    "name_kana": "とばしみんのもりこうえん がりばーぞう",
+    "category": "bkyu",
+    "prefecture": "三重県",
+    "city": "鳥羽市",
+    "address": "三重県鳥羽市大明東町",
+    "lat": 34.4947,
+    "lng": 136.8325,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "公園利用時間内",
+    "official_url": "https://www.iseshima-kanko.jp/spot/1633",
+    "reference_urls": [
+      "https://www.iseshima-kanko.jp/spot/1633"
+    ],
+    "summary": "鳥羽市民の森公園内にある、高さ6m・幅12mの巨大ガリバー遊具。伊勢志摩観光ナビは、全国でも屈指の巨大遊具として、1982年に「鳥羽ぶらじる丸」のガリバー広場でデビューし、1985年に現在の鳥羽市民の森公園へ移されたと説明している。1980年代の海洋パビリオン文化を背景に持つ、公共公園内のB級モニュメント。",
+    "highlights": [
+      "高さ6m・幅12mの巨大ガリバー造形遊具",
+      "1982年「鳥羽ぶらじる丸」由来で1985年に移設された経緯",
+      "無料の公共公園内にあるB級モニュメント"
+    ],
+    "from_kameyama": "車で約1時間20分（伊勢道→鳥羽方面）"
+  },
+  {
+    "id": "spot-126",
+    "name": "阿曽の風穴",
+    "name_kana": "あそのふうけつ",
+    "category": "mystery",
+    "prefecture": "三重県",
+    "city": "度会郡大紀町",
+    "address": "三重県度会郡大紀町阿曽",
+    "lat": 34.3171,
+    "lng": 136.4714,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "終日（洞内は足元注意）",
+    "official_url": "https://www.kankomie.or.jp/spot/8407",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/spot/8407"
+    ],
+    "summary": "大紀町阿曽にある石灰岩の天然洞窟。観光三重は、長年の水の浸食により石灰岩が作った天然の洞窟で、内部に照明があり気軽に自然の神秘に触れられると説明している。山中の低温空間と石灰岩の造形が見られる小規模な自然奇景で、JR阿曽駅から徒歩約30分の位置にある。",
+    "highlights": [
+      "水の浸食でできた石灰岩の天然洞窟",
+      "内部に照明があり訪問しやすい構造",
+      "JR阿曽駅徒歩約30分の山間アクセス"
+    ],
+    "from_kameyama": "車で約1時間30分（伊勢道→紀勢道→大内山IC方面）"
+  },
+  {
+    "id": "spot-127",
+    "name": "鯨の供養塔",
+    "name_kana": "くじらのくようとう",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "熊野市",
+    "address": "三重県熊野市二木島町字相川",
+    "lat": 34.0135,
+    "lng": 136.2344,
+    "status": "現存",
+    "fee": "無料（個人所有の文化財・要事前確認）",
+    "hours": "要事前確認（熊野市教育委員会）",
+    "official_url": "https://www.kankomie.or.jp/spot/4222",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/spot/4222"
+    ],
+    "summary": "熊野市二木島町に立つ江戸期の供養塔。観光三重は、寛文11年（1671年）に作られ正面に「鯨三十三本供養塔」の切付けがあると説明している。熊野の漁撈民俗ではブリ・マグロなど33本を得るごとに「万の祝」と称して祝う風習があり、この供養塔もその記念として建てられたと伝わる。動物供養と海の生業信仰が交差する民俗碑。",
+    "highlights": [
+      "寛文11年（1671年）銘の「鯨三十三本供養塔」",
+      "ブリ・マグロ33本ごとの「万の祝」の習俗",
+      "熊野の漁撈民俗と動物供養が一体で残る石碑"
+    ],
+    "from_kameyama": "車で約1時間40分（紀勢道経由）"
+  },
+  {
+    "id": "spot-128",
+    "name": "九鬼嘉隆の首塚・胴塚",
+    "name_kana": "くきよしたかのくびづか・どうづか",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "鳥羽市",
+    "address": "三重県鳥羽市答志町（答志島・首塚は築上山山頂、胴塚は和具漁港集落内）",
+    "lat": 34.5036,
+    "lng": 136.8825,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "見学可（島内集落・墓所のため静粛に）",
+    "official_url": "https://www.kankomie.or.jp/spot/4605",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/spot/4605",
+      "https://www.iseshima-kanko.jp/spot/1646"
+    ],
+    "summary": "戦国期の九鬼水軍当主・九鬼嘉隆の首と胴を別々に葬った供養地。観光三重は、首が遺言どおり鳥羽城を一望できる築上山山頂に埋葬されたと説明し、伊勢志摩観光ナビは、胴を葬った墓が和具漁港の町中にあり、洞仙庵跡や血洗い池が近くにあると説明している。首塚と胴塚が島内で離れている点が特異で、身体分離の葬送と島の記憶を伝える民俗的史跡として読める。",
+    "highlights": [
+      "首塚は築上山山頂、胴塚は和具漁港集落内に分かれて所在",
+      "首塚は鳥羽城を一望できる位置に置かれた遺言伝承",
+      "胴塚周辺に洞仙庵跡と血洗い池が残る"
+    ],
+    "from_kameyama": "車＋市営定期船＋徒歩で約2時間（亀山→鳥羽マリンターミナル→答志島）"
+  },
+  {
+    "id": "spot-129",
+    "name": "御塩殿神社・御塩道",
+    "name_kana": "みしおどのじんじゃ・みしおみち",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "伊勢市",
+    "address": "三重県伊勢市二見町荘",
+    "lat": 34.5024,
+    "lng": 136.7781,
+    "status": "現存",
+    "fee": "無料（参拝可能範囲は要確認）",
+    "hours": "境内自由（御塩焼所・御塩殿の見学可否は要確認）",
+    "official_url": "https://ise-kanko.jp/purpose/mishiodonojinja/",
+    "reference_urls": [
+      "https://ise-kanko.jp/purpose/mishiodonojinja/"
+    ],
+    "summary": "伊勢神宮内宮の所管社で、神宮の祭典で使用する堅塩を製造する場所。伊勢市観光協会は、高濃度の塩水を御塩焼所で煮つめて荒塩にし、御塩殿で型に入れて焼き固めると説明している。御塩浜で採られた塩水が御塩道を通って御塩殿まで運ばれる流れまで含めると、神宮周縁の特殊な生産儀礼として民俗信仰の核心が見える場所。",
+    "highlights": [
+      "神宮の祭典で使う堅塩を製造する内宮所管社",
+      "御塩焼所での荒塩煮詰めと御塩殿での焼き固めの二段工程",
+      "御塩浜から御塩殿へ続く「御塩道」の存在"
+    ],
+    "from_kameyama": "車で約60分（伊勢道→伊勢二見鳥羽ライン→二見方面）"
   }
 ]
