@@ -5344,35 +5344,53 @@
     "category": "other",
     "prefecture": "岡山県",
     "city": "笠岡市",
-    "lat": 34.323,
-    "lng": 133.557,
+    "lat": 34.4028,
+    "lng": 133.5217,
     "date_pattern": "毎年8月13日〜16日（盂蘭盆）",
     "date_2026": "2026-08-13",
     "date_2026_end": "2026-08-16",
-    "summary": "瀬戸内海の白石島で盂蘭盆に行われる海上盆踊り。源平水島合戦の戦死者供養を起源とすると伝えられ、同じ太鼓と歌に合わせて10種以上の異なる踊りが同時に舞われる極めて特異な構造を持つ。国指定重要無形民俗文化財であり、ユネスコ無形文化遺産「風流踊」の構成要素。",
+    "summary": "岡山県笠岡市の白石島に古くから伝わる盆踊り・回向（えこう）踊り。源平水島合戦の戦死者の霊を弔うために始まったと伝えられ、一つの音頭に合わせて13種類の異なる踊りが同心円に重なって舞われる、全国でも類を見ない形式が特徴。1976年（昭和51年）に国指定重要無形民俗文化財に選定され、2022年11月30日には「風流踊」の一つとしてユネスコ無形文化遺産代表一覧表に記載された。",
     "highlights": [
-      "国指定重要無形民俗文化財",
-      "ユネスコ無形文化遺産「風流踊」構成要素",
-      "同じ太鼓・歌に10種以上の踊りが同時並行で舞われる",
-      "源平水島合戦の戦死者供養が起源と伝わる",
-      "海上の櫓を中心に島の盆踊りとして継承"
+      "国指定重要無形民俗文化財（1976年指定）",
+      "ユネスコ無形文化遺産「風流踊」構成要素（2022年登録）",
+      "一つの音頭に合わせて13種類の踊りが同心円に重なる独自形式",
+      "源平水島合戦の戦死者供養を起源と伝える回向踊り",
+      "現在も白石踊会と笠岡市教育委員会が継承活動を行う"
     ],
-    "origin": "白石島周辺で1183年（治承5年）に行われた源平水島合戦の戦死者供養を起源とすると伝えられる盆踊り。同じ太鼓と歌に合わせて、扇踊・笠踊・男踊・女踊・娘踊・奴踊など10種以上の異なる振り付けが同時に舞われる構造は他に類例が少なく、民俗芸能としての価値が高い。国指定重要無形民俗文化財。2022年に「風流踊」の一つとしてユネスコ無形文化遺産代表一覧表に記載された。",
+    "origin": "白石島周辺で寿永2年（1183年）に行われた源平水島合戦の戦死者の霊を弔うために始まったと伝えられる盆踊り。一つの音頭に合わせて、男踊・女踊・娘踊（月見踊）・笠踊・奴踊・扇踊・二つ拍子・大師踊・阿亀踊・梵天踊・ブラブラ踊・鉄砲踊・真影踊の13種類の異なる踊りが同時に並行して舞われる構造は他に類例が少なく、民俗芸能としての価値が高い。1976年（昭和51年）に国指定重要無形民俗文化財に選定され、2022年（令和4年）11月30日に「風流踊」の構成要素としてユネスコ無形文化遺産代表一覧表に記載された。",
     "official_url": "https://www.city.kasaoka.okayama.jp/soshiki/39/34282.html",
     "reference_urls": [
       "https://kunishitei.bunka.go.jp/heritage/detail/302/186",
-      "https://www.kasaoka-kankou.jp/sightseeing/shiraishiodori"
+      "https://www.okayama-kanko.jp/event/detail_12621.html",
+      "https://www.jtco.or.jp/japanese-culture/?act=detail&id=107"
     ],
-    "viewing_notes": "会場は笠岡市白石島の特設会場（海岸広場）。笠岡港から定期船で約35分。8月の最盛期は宿泊予約が早期に埋まるため、計画的な手配を推奨。離島のため最終便の時刻に注意。海上の櫓を組む年もあり、観覧位置と潮の干満は事前確認が必要。",
+    "viewing_notes": "会場は笠岡市白石島の海岸広場（特設会場）。笠岡港から定期船で高速艇約20分、普通船約35分。8月13日〜16日の盆期間夜間に開催。鑑賞は無料。離島のため最終便の時刻に注意し、宿泊予約は早期に行うことを推奨。撮影時はフラッシュ・三脚使用について事前に主催者へ確認すること。踊り手・島民の動線を妨げないよう配慮する。",
+    "photo_credit": "写真提供　笠岡市教育委員会",
     "deepdive": {
-      "history_jp": "白石踊は瀬戸内海の小島に伝承された盆踊りで、源平水島合戦（治承5年・1183年）の戦死者供養を起源とする伝承を持つ。江戸期から島の盂蘭盆行事として広く行われ、明治以降の民俗学的調査により注目された。1976年に国指定重要無形民俗文化財となり、2022年に「風流踊」の構成要素としてユネスコ無形文化遺産代表一覧表に記載された。",
-      "cultural_context_jp": "同じ太鼓と歌に対して、性別・年齢・職業を象徴する10種以上の異なる踊りが同時に並行する形式は、近隣の備中・備後・讃岐の盆踊りにも見られない希少な構造である。",
-      "local_perspective_jp": "島民の高齢化と人口減少の中で、保存会が中心となり踊りを継承。本土からの帰省者と観光客が混じり合う3日間が、島の年中行事の最大の山場となっている。",
-      "related_works": [],
-      "external_reviews": [],
-      "history_jp_en": "Shiroishi Odori is a bon-odori (Obon dance) transmitted on a small island in the Seto Inland Sea, holding a tradition that its origin lies in the memorial service for those who died in the naval battle of Mizushima in the Genpei War (Juei 2, 1183 CE). It was widely practiced as an Obon event from the Edo period, attracted attention through ethnographic surveys conducted after the Meiji period, was designated as a Nationally Designated Important Intangible Folk Cultural Property in 1976, and in 2022 was inscribed on the UNESCO Representative List of Intangible Cultural Heritage of Humanity as a constituent element of \"Fūryū Odori\" (Elegant Dances).",
-      "cultural_context_jp_en": "The rare structure — in which more than ten different dances symbolizing gender, age, and occupation are simultaneously performed in parallel to the same drum and song — is not found in neighboring bon-odori traditions of Bichū (Okayama), Bingo (Hiroshima), or Sanuki (Kagawa).",
-      "local_perspective_jp_en": "Amid the aging and depopulation of the island community, the preservation society plays a central role in maintaining the dance tradition. The three days when returning residents and tourists mingle together are the single greatest peak event of the island's annual calendar."
+      "history_jp": "白石踊は岡山県笠岡市の白石島に古くから伝わる盆踊り・回向（えこう）踊りで、瀬戸内海で寿永2年（1183年）に行われた源平水島合戦の戦死者の霊を弔うために始まったと伝えられる。[岡山県観光WEB](https://www.okayama-kanko.jp/event/detail_12621.html)、[笠岡市](https://www.city.kasaoka.okayama.jp/soshiki/39/34282.html) 江戸期から島の盂蘭盆行事として広く行われ、明治以降の民俗学的調査により注目されてきた。昭和51年（1976年）5月4日に国の重要無形民俗文化財に指定され（[国指定文化財等データベース](https://kunishitei.bunka.go.jp/heritage/detail/302/186)）、令和4年（2022年）11月30日には全国41件で構成される「風流踊」の一つとしてユネスコ無形文化遺産代表一覧表に記載された。[笠岡市「白石踊を受け継ぐ」](https://www.city.kasaoka.okayama.jp/soshiki/39/34282.html)",
+      "cultural_context_jp": "白石踊の最大の特徴は、一つの音頭（唄）に合わせて13種類の異なる踊り——男踊・女踊・娘踊（月見踊）・笠踊・奴踊・扇踊・二つ拍子・大師踊・阿亀踊・梵天踊・ブラブラ踊・鉄砲踊・真影踊——が同心円に重なって舞われる構造にある。[笠岡市](https://www.city.kasaoka.okayama.jp/soshiki/39/34282.html) 音頭は現在20余りが伝わり、最盛期には60以上あったと言い伝えられている。代表的な唄に「那須与一」「石童丸」「丹波与作」「賽の河原」「山田の露」がある。これらは除災・死者供養・豊作祈願・雨乞いといった、安寧な暮らしを願う祈りを背景に持つ民俗芸能である。",
+      "local_perspective_jp": "白石島の人口減少と高齢化が進む中で、継承の中心を担うのが「白石踊会」とその笠岡支部である。笠岡市と協力した後継者育成事業のほか、笠岡支部では原則毎月第1・第3土曜日に笠岡市中央公民館で定期練習会を開き、新規会員を随時募集している。[笠岡市](https://www.city.kasaoka.okayama.jp/soshiki/39/34282.html) 2023年には第21回マルセン文化賞を受賞するなど、保存・継承活動への評価も高い。本土からの帰省者と観光客が混じり合う盆の3日間は、島の年中行事の最大の山場となっている。",
+      "related_works": [
+        "『白石踊 伝承者養成テキスト』（白石踊伝承者養成事業テキスト作成委員会、1979年）",
+        "『笠岡市の文化財』（笠岡市教育委員会）",
+        "「島の宝だからね」瀬戸内の白石島で3年ぶり源平合戦が起源の白石踊（TBS NEWS DIG、2022年）"
+      ],
+      "external_reviews": [
+        "岡山県三大盆踊り「白石踊」を体験！悠久の時が流れる石の島の夜（岡山県観光WEB、2025年）",
+        "笠岡市のユネスコ無形文化遺産 白石踊の鑑賞・体験をしてみませんか（倉敷市、2025年）"
+      ],
+      "best_visit_time": "8月13日〜16日の盆期間夜間。事前に白石踊会・笠岡市教育委員会へ開催詳細を確認すること。",
+      "photo_tips": "夜間屋外の動体撮影となるため、感度を高めに設定し、フラッシュは原則使用しない。踊り手の動線・島民の参列を妨げない位置から撮影する。三脚使用は事前に主催者へ確認のこと。",
+      "trivia": [
+        "13種類の踊りが一つの音頭に同心円で重なる形式は全国でも類例が少ない",
+        "音頭は現在20余り、最盛期には60以上あったと伝えられる",
+        "ユネスコ無形文化遺産「風流踊」は全国24都府県41件で構成され、白石踊もその一つ"
+      ],
+      "warnings_extra": "白石踊は地域の盆行事・回向踊りとしての宗教的性格が強い。撮影・取材は白石踊会と笠岡市教育委員会の指示に従うこと。煽情的・興味本位の表現は避ける。",
+      "sources": "[笠岡市「白石踊を受け継ぐ」](https://www.city.kasaoka.okayama.jp/soshiki/39/34282.html), [国指定文化財等データベース「白石踊」](https://kunishitei.bunka.go.jp/heritage/detail/302/186), [岡山県観光WEB](https://www.okayama-kanko.jp/event/detail_12621.html), [日本伝統文化振興機構（JTCO）](https://www.jtco.or.jp/japanese-culture/?act=detail&id=107)",
+      "history_jp_en": "Shiraishi Odori is a Bon dance (eko-odori, memorial dance) transmitted on Shiraishi Island in Kasaoka City, Okayama Prefecture. It is said to have originated as a memorial service for those who died in the naval Battle of Mizushima during the Genpei War (1183 CE). Practiced as an Obon event from the Edo period onward, it was designated a Nationally Designated Important Intangible Folk Cultural Property on May 4, 1976, and on November 30, 2022 was inscribed on the UNESCO Representative List of Intangible Cultural Heritage of Humanity as a constituent element of \"Furyu-odori\" (Ritual Dances).",
+      "cultural_context_jp_en": "The distinctive feature of Shiraishi Odori is its structure: thirteen different dances — including Otoko-odori (men's dance), Onna-odori (women's dance), Musume-odori (maiden's dance), Kasa-odori (umbrella dance), Yakko-odori (servant's dance), Ogi-odori (fan dance), and others — are performed simultaneously in concentric circles to a single song. Around twenty types of songs are currently transmitted, with tradition holding that more than sixty existed at the dance's peak.",
+      "local_perspective_jp_en": "Amid population decline and aging on Shiraishi Island, the Shiraishi Odori Kai (preservation society) and its Kasaoka branch play a central role in continuation. The branch holds regular practice sessions at the Kasaoka City Central Community Center on the first and third Saturdays of each month and welcomes new members at any time."
     }
   },
   {
