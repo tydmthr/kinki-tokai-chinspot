@@ -303,6 +303,26 @@ function updateCounts() {
     const el = document.getElementById('cnt-' + k);
     if (el) el.textContent = ` (${counts[k]})`;
   });
+
+  // 動的件数表示：SPOTS/FESTIVALSの実際の長さから全て上書き
+  const spotCount = SPOTS.length;
+  const festCount = FESTIVALS.length;
+  const prefCount = new Set([...SPOTS, ...FESTIVALS].map(d => d.prefecture).filter(Boolean)).size;
+
+  // hero stats
+  const $spots = document.getElementById('statSpots');
+  const $fests = document.getElementById('statFests');
+  const $prefs = document.getElementById('statPrefs');
+  if ($spots) $spots.textContent = spotCount;
+  if ($fests) $fests.textContent = festCount;
+  if ($prefs) $prefs.textContent = prefCount;
+
+  // list-tabs
+  const isEn = CURRENT_LANG === 'en';
+  const spotsTab = document.querySelector('.list-tab[data-listtab="spots"]');
+  const festsTab = document.querySelector('.list-tab[data-listtab="festivals"]');
+  if (spotsTab) spotsTab.textContent = isEn ? `Spots \u2014 ${spotCount}` : `珍スポット ${spotCount}`;
+  if (festsTab) festsTab.textContent = isEn ? `Festivals \u2014 ${festCount}` : `奇祭 ${festCount}`;
 }
 
 // ============ DETAIL MODAL ============
