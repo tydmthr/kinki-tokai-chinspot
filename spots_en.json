@@ -4393,5 +4393,110 @@
       "A two-stage process: reduction at the Mishio-yakisho and firing at the Mishio-dono",
       "The 'Mishio-michi' route along which brine is carried from the salt fields"
     ]
+  },
+  {
+    "id": "spot-130",
+    "name": "陶芸空間 虹の泉",
+    "name_kana": "とうげいくうかん にじのいずみ",
+    "category": "bkyu",
+    "prefecture": "三重県",
+    "city": "松阪市",
+    "address": "三重県松阪市飯高町波瀬（国道166号沿い）",
+    "lat": 34.422028,
+    "lng": 136.142944,
+    "status": "現存（保存維持活動中）",
+    "fee": "高校生以上800円（2025年4月改定、それ以前は500円）",
+    "hours": "10:00〜16:00（1〜2月休館、訪問前に営業確認）",
+    "official_url": "https://www.kankomie.or.jp/report/561",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/report/561",
+      "https://ja.wikipedia.org/wiki/%E9%99%B6%E8%8A%B8%E7%A9%BA%E9%96%93_%E8%99%B9%E3%81%AE%E6%B3%89"
+    ],
+    "summary": "陶芸家・東健次が松阪市飯高町波瀬の山中に約35年をかけて築いた屋外陶芸空間。観光三重は、5,800㎡規模の土地を陶で埋め尽くすことを目指したが2013年に作家が急逝し未完の大作となったと説明している。2023年4月から保存維持活動が再開され、2025年4月から入館料が改定された。受付不在時は近隣の道の駅でチケットを購入する運用が紹介されており、未完のまま屋外に残る陶芸環境という点で他の美術館とは性格が異なる。",
+    "highlights": [
+      "陶芸家・東健次が35年かけて築いた未完の屋外陶芸空間",
+      "5,800㎡の敷地を陶で埋め尽くす構想と作家急逝による未完性",
+      "2023年から保存維持活動が再開、2025年4月から入館料改定"
+    ],
+    "from_kameyama": "車で約2時間（名阪国道→伊勢自動車道松阪IC→国道166号方面）",
+    "name_en": "Niji no Izumi Ceramic Art Space",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Matsusaka City",
+    "summary_en": "An outdoor ceramic art space built by potter Kenji Higashi over roughly 35 years in the mountains of Hase, Iitaka-cho, Matsusaka City. Kanko Mie records that Higashi aimed to cover a 5,800-square-meter site entirely in ceramic works, but his sudden death in 2013 left it unfinished. Preservation activities resumed in April 2023, and the admission fee was revised in April 2025. When the reception is unstaffed, tickets can be purchased at the nearby roadside station. Unlike a conventional museum, the site is best understood as an unfinished outdoor ceramic environment.",
+    "highlights_en": [
+      "An unfinished outdoor ceramic environment built over 35 years by potter Kenji Higashi",
+      "Plan to cover the 5,800 m² site entirely in ceramics, left incomplete after the artist's death",
+      "Preservation activity resumed in 2023; admission fees revised in April 2025"
+    ]
+  },
+  {
+    "id": "spot-131",
+    "name": "丹倉神社",
+    "name_kana": "あかぐらじんじゃ",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "熊野市",
+    "address": "三重県熊野市育生町赤倉",
+    "lat": 33.963,
+    "lng": 136.018,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "境内自由（駐車場・トイレなし、山中アクセスのため要注意）",
+    "official_url": "https://kumano-kankou.com/?p=3277",
+    "reference_urls": [
+      "https://kumano-kankou.com/?p=3277",
+      "https://kumanokodo-iseji.jp/feature/powers/"
+    ],
+    "summary": "熊野市育生町赤倉、赤倉集落のさらに山深い奥に鎮座する古社。熊野市観光公社は、熊野三山に参拝者が訪れる以前からこの地に根付いた磐座信仰を示す巨岩をご神体とし、岩の上から樹木が育つ生命力も紹介していると説明している。社殿中心ではなく巨岩そのものが信仰対象である点で、熊野地域の自然崇拝と原始的な磐座信仰を現場で体感できる小規模な聖地。駐車場・トイレともになく、訪問は車利用と山中の狭路に注意が必要。",
+    "highlights": [
+      "巨岩をご神体とする磐座信仰の神社",
+      "熊野三山以前から続くとされる古い自然崇拝の場",
+      "巨岩の上から樹木が育つ独特の景観"
+    ],
+    "from_kameyama": "車で約3時間（伊勢自動車道→紀勢自動車道→熊野尾鷲道路熊野大泊IC→県道40号→育生町赤倉方面）",
+    "name_en": "Akakura Shrine",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Kumano City",
+    "summary_en": "A small, ancient shrine deep in the mountains beyond the Akakura settlement in Ikuo-cho, Kumano City. The Kumano City Tourism Association explains that the shrine takes a massive boulder as its sacred body, reflecting an iwakura (sacred-rock) tradition rooted in the area before pilgrims began visiting the Kumano Sanzan, and notes the striking sight of trees growing from the top of the rock. Worship here centers on the boulder itself rather than a main hall, making the site readable as a small but vivid example of Kumano's archaic nature worship. There is no parking and no toilet; access requires a car and care on narrow mountain roads.",
+    "highlights_en": [
+      "A shrine where a massive boulder serves as the sacred body of the kami (iwakura worship)",
+      "An ancient nature-worship site said to predate the Kumano Sanzan pilgrimage tradition",
+      "Distinctive landscape of trees growing on top of the sacred boulder"
+    ]
+  },
+  {
+    "id": "spot-132",
+    "name": "徐福ノ宮（波田須）",
+    "name_kana": "じょふくのみや（はだす）",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "熊野市",
+    "address": "三重県熊野市波田須町（蓬莱山）",
+    "lat": 33.918,
+    "lng": 136.158,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "境内自由（駐車場3台・トイレなし）",
+    "official_url": "https://www.city.kumano.lg.jp/tourism/?content=200",
+    "reference_urls": [
+      "https://www.city.kumano.lg.jp/tourism/?content=200",
+      "https://kumano-kankou.com/?p=57"
+    ],
+    "summary": "熊野市波田須町の蓬莱山（丸山）に鎮座し、秦の始皇帝の命で不老不死の霊薬を求めて渡来したと伝えられる徐福を祀る小祠。熊野市公式は徐福ノ宮を歴史を体感する観光資源として紹介し、熊野市観光公社は波田須町に駐車場3台・トイレなしで、JR熊野市駅から車約20分、JR波田須駅から徒歩約10分と案内している。徐福伝来は伝承であり史実として確定しているわけではないが、中国大陸からの渡来人を神として祀る構図と、熊野古道伊勢路・波田須の集落史が重なる小スポット。",
+    "highlights": [
+      "渡来伝承の徐福を祀る波田須の小祠",
+      "蓬莱山（丸山）に位置し、熊野古道伊勢路・波田須宿に近い",
+      "駐車場3台のみ、トイレなしの小規模信仰地"
+    ],
+    "from_kameyama": "車で約2時間40分（伊勢自動車道→紀勢自動車道→熊野尾鷲道路→国道311号波田須方面）",
+    "name_en": "Jofuku-no-Miya Shrine in Hadasu",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Kumano City",
+    "summary_en": "A small shrine on Mt. Hōrai (also called Maruyama) in Hadasu-cho, Kumano City, dedicated to Xu Fu (Jofuku), a figure said to have been sent by China's Qin Shi Huang in search of an elixir of immortality and to have settled in this area. The City of Kumano introduces Jofuku-no-Miya as a heritage tourism resource, and the Kumano City Tourism Association notes that the site has parking for three cars, no toilet, and is reached in about 20 minutes by car from JR Kumano Station or roughly a 10-minute walk from JR Hadasu Station. The Xu Fu story is a local tradition rather than confirmed history, but the shrine is notable as a small site that enshrines a continental immigrant as a deity, set within the village landscape of the Iseji route of the Kumano Kodō.",
+    "highlights_en": [
+      "A small shrine in Hadasu enshrining the legendary continental immigrant Xu Fu (Jofuku)",
+      "Located on Mt. Hōrai (Maruyama), near the Iseji route of the Kumano Kodō and the Hadasu post-village",
+      "Modest devotional site with only three parking spaces and no toilet"
+    ]
   }
 ]
