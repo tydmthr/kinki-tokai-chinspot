@@ -67,3 +67,63 @@ with open(os.path.join(base, 'data.js'), 'w', encoding='utf-8') as f:
 print(f'data.js regenerated: {len(spots)} spots, {len(fests)} festivals')
 print(f'Spots with deepdive: {sum(1 for s in spots if s.get("deepdive"))}')
 print(f'Fests with deepdive: {sum(1 for f in fests if f.get("deepdive"))}')
+
+# ============ Update index.html / en/index.html count display ============
+import re
+
+spot_count = len(spots)
+fest_count = len(fests)
+prefs = {d.get('prefecture') for d in spots + fests if d.get('prefecture')}
+pref_count = len(prefs)
+
+def update_html(path, patterns):
+    """Apply (regex, replacement) pairs to file. Report changes."""
+    full = os.path.join(base, path)
+    if not os.path.exists(full):
+        print(f'  skip (not found): {path}')
+        return 0
+    with open(full, encoding='utf-8') as f:
+        text = f.read()
+    original = text
+    total = 0
+    for pat, repl in patterns:
+        text, n = re.subn(pat, repl, text)
+        total += n
+    if text != original:
+        with open(full, 'w', encoding='utf-8') as f:
+            f.write(text)
+    print(f'  {path}: {total} replacements')
+    return total
+
+# JA index.html patterns: 珍スポットXXX＆奇祭YYY 形式、XXX件と奇祭YYY件 形式、XXX strange spots and YYY 形式
+ja_patterns = [
+    # 珍スポットN＆奇祭M（title / og:title）
+    (r'珍スポット\d+＆奇祭\d+', f'珍スポット{spot_count}＆奇祭{fest_count}'),
+    # 珍スポットN件と奇祭M件
+    (r'珍スポット\d+件と奇祭\d+件', f'珍スポット{spot_count}件と奇祭{fest_count}件'),
+    # N strange spots and M wild festivals
+    (r'\d+ strange spots and \d+ wild festivals', f'{spot_count} strange spots and {fest_count} wild festivals'),
+    # hero stat: <span ... id="statSpots">N</span>
+    (r'(id="statSpots"[^>]*>)\d+(</span>)', rf'\g<1>{spot_count}\g<2>'),
+    (r'(id="statFests"[^>]*>)\d+(</span>)', rf'\g<1>{fest_count}\g<2>'),
+    (r'(id="statPrefs"[^>]*>)\d+(</span>)', rf'\g<1>{pref_count}\g<2>'),
+    # list-tab JA
+    (r'(data-listtab="spots">)珍スポット\s*\d+(</button>)', rf'\g<1>珍スポット {spot_count}\g<2>'),
+    (r'(data-listtab="festivals">)奇祭\s*\d+(</button>)', rf'\g<1>奇祭 {fest_count}\g<2>'),
+]
+
+# EN index.html patterns
+en_patterns = [
+    (r'\d+ Strange Spots & \d+ Wild Festivals', f'{spot_count} Strange Spots & {fest_count} Wild Festivals'),
+    (r'\d+ strange spots and \d+ wild festivals', f'{spot_count} strange spots and {fest_count} wild festivals'),
+    (r'(id="statSpots"[^>]*>)\d+(</span>)', rf'\g<1>{spot_count}\g<2>'),
+    (r'(id="statFests"[^>]*>)\d+(</span>)', rf'\g<1>{fest_count}\g<2>'),
+    (r'(id="statPrefs"[^>]*>)\d+(</span>)', rf'\g<1>{pref_count}\g<2>'),
+    # list-tab EN: "Spots — N" / "Festivals — N"
+    (r'(data-listtab="spots">)Spots\s*—\s*\d+(</button>)', rf'\g<1>Spots — {spot_count}\g<2>'),
+    (r'(data-listtab="festivals">)Festivals\s*—\s*\d+(</button>)', rf'\g<1>Festivals — {fest_count}\g<2>'),
+]
+
+print(f'Updating HTML count display (spots={spot_count}, fests={fest_count}, prefs={pref_count})')
+update_html('index.html', ja_patterns)
+update_html('en/index.html', en_patterns)
