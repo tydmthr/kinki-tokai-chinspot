@@ -4498,5 +4498,366 @@
       "Located on Mt. Hōrai (Maruyama), near the Iseji route of the Kumano Kodō and the Hadasu post-village",
       "Modest devotional site with only three parking spaces and no toilet"
     ]
+  },
+  {
+    "id": "spot-133",
+    "name": "朝田寺 掛衣奉納群",
+    "name_kana": "ちょうでんじ かけころもほうのうぐん",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "松阪市",
+    "address": "三重県松阪市朝田町427",
+    "lat": 34.571322,
+    "lng": 136.566426,
+    "status": "現存",
+    "fee": "無料・境内自由（道明供養は11月24日）",
+    "hours": "境内終日自由。掛衣群は通年見学可。お焚き上げ「道明供養」は毎年11月24日",
+    "official_url": "https://chodenji.jp/",
+    "reference_urls": [
+      "https://chodenji.jp/history/",
+      "https://www.city.matsusaka.mie.jp/site/culture-info/chodenji-hondo.html",
+      "https://www.matsusaka-kanko.com/information/information/%E6%9C%9D%E7%94%B0%E5%AF%BA/",
+      "https://chindera.com/chodenji/chodenji.html",
+      "https://note.com/bunkajiho/n/n75024aaf65db"
+    ],
+    "summary": "松阪市朝田町に所在する天台真盛宗の古刹。本尊地蔵菩薩は重要文化財。境内・本堂内に故人の遺愛の衣類を掛けて死後の道明け（成仏）を祈る「掛衣（かけころも）」の風習で知られ、本堂・庫裏・境内の木々に大量の着物・洋服・帯が吊り下げられた光景が異様。掛けられた衣類は毎年11月24日の「道明供養（どうみょうくよう）」で焚き上げられる。県指定文化財の本堂（慶安5年/1652建立、入母屋造本瓦葺）、曽我蕭白の襖絵、花の寺としても知られるが、本Spaceでは衣類奉納の民俗信仰の物証性に注目する。怪奇煽りではなく死者鎮魂の文脈で扱うべき例。",
+    "highlights": [
+      "境内の樹木・堂内に故人の衣類が大量に掛けられた異様な光景",
+      "11月24日の「道明供養」で奉納衣類をお焚き上げ",
+      "三重県指定文化財・慶安5年（1652）建立の本堂、曽我蕭白襖絵"
+    ],
+    "from_kameyama": "車で約75分（伊勢自動車道→松阪IC→国道166号、松阪市朝田町）",
+    "name_en": "Chodenji Temple — Mass Garment Offerings (Kake-koromo)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Matsusaka City",
+    "summary_en": "An ancient Tendai-Shinsei sect temple in Asada-cho, Matsusaka. The principal Jizo Bosatsu statue is a National Important Cultural Property. The temple is known for the 'kake-koromo' (hanging garment) tradition: bereaved families hang the beloved clothes of the deceased in the main hall, on the storehouse, and from the trees in the grounds, praying for the dead to find their way to enlightenment. The result is a striking sight of countless kimono, Western clothes, and obi sashes hanging throughout the precincts. Offered garments are burned each year on November 24 in the 'Domyo Kuyo' memorial rite. The main hall (built 1652, hip-and-gable roof with tile) is a Mie Prefectural Cultural Property, and fusuma paintings by Soga Shohaku are kept here. This entry treats the site through the folkloric lens of memorialization of the dead — not as the supernatural.",
+    "highlights_en": [
+      "Trees and halls hung with great numbers of the deceased's garments — a striking sight",
+      "Offerings are burned on November 24 each year in the 'Domyo Kuyo' memorial ceremony",
+      "Mie Prefectural Cultural Property main hall (built 1652); fusuma paintings by Soga Shohaku"
+    ]
+  },
+  {
+    "id": "spot-134",
+    "name": "町屋百人衆 巨大龍踊り（千王神社）",
+    "name_kana": "まちやひゃくにんしゅう きょだいりゅうおどり（せんのうじんじゃ）",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "津市",
+    "address": "三重県津市栗真町屋町946（千王神社）",
+    "lat": 34.756763,
+    "lng": 136.52491,
+    "status": "現存（毎年7月開催／存続課題あり）",
+    "fee": "無料",
+    "hours": "毎年7月の祇園祭（土曜夜）",
+    "official_url": "https://tsukanko.jp/event/tribe_events-14722/",
+    "reference_urls": [
+      "https://tsukanko.jp/event/tribe_events-14722/",
+      "https://for-good.net/project/1003664",
+      "https://otonamie.jp/?p=7832",
+      "https://readyfor.jp/projects/137257/announcements/332356"
+    ],
+    "summary": "津市栗真町屋町の千王神社（せんのうじんじゃ）の祇園祭で奉納される全長約55mの電飾巨大龍。地元有志「町屋百人衆」が担ぎ手となり、伊勢街道から国道23号にかけて夜の街道を練り歩く。雨乞いと地域結束の意義を担う近現代の民俗行事で、保存会の高齢化と担い手不足により存続が課題となっており、クラウドファンディングでの支援活動も行われている。本Spaceでは「55mの龍が市街地国道を練り歩く視覚インパクト」と「地元100人で支える担い手の物語」の双方の文脈で扱う。",
+    "highlights": [
+      "全長約55mの電飾龍が国道23号を練り歩く",
+      "千王神社祇園祭（毎年7月）で奉納される地域行事",
+      "地元有志「町屋百人衆」が担ぎ手・担い手不足で存続課題"
+    ],
+    "from_kameyama": "車で約50分（伊勢自動車道→津IC→国道23号北上、津市栗真町屋町）",
+    "name_en": "Machiya Hyakuninshu — Giant Dragon Dance (Seno Shrine)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Tsu City",
+    "summary_en": "A roughly 55-meter-long electric-lit giant dragon dance offered at the Gion festival of Seno Shrine in Kurima-Machiyacho, Tsu City. Local volunteers known as the 'Machiya Hyakuninshu' (literally 'Hundred Townspeople') carry the dragon along the old Ise highway and out to National Route 23 in the evening. A modern folk event that doubles as a rain-prayer and community-bonding rite, it now faces existential challenges as the preservation group ages and successors become scarce; crowdfunding campaigns have been launched to sustain it. This entry frames the dragon as both a powerful nighttime spectacle and a story of community succession.",
+    "highlights_en": [
+      "A 55-meter electric dragon paraded down National Route 23",
+      "Offered at Seno Shrine's Gion Festival every July",
+      "Carried by local volunteers known as the 'Machiya Hyakuninshu' — at risk due to aging and lack of successors"
+    ]
+  },
+  {
+    "id": "spot-135",
+    "name": "上野天神祭のだんじり行事（菅原神社／上野天神宮）",
+    "name_kana": "うえのてんじんさいのだんじりぎょうじ（すがわらじんじゃ／うえのてんじんぐう）",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "伊賀市",
+    "address": "三重県伊賀市上野東町2929（菅原神社）",
+    "lat": 34.76628,
+    "lng": 136.131492,
+    "status": "現存（毎年10月開催）",
+    "fee": "無料",
+    "hours": "毎年10月23日から25日の最も近い金土日（本祭は日曜）",
+    "official_url": "https://www.ueno-tenjin-matsuri.jp/",
+    "reference_urls": [
+      "https://www.ueno-tenjin-matsuri.jp/",
+      "https://www.sugawara25.jp/",
+      "https://www.kankomie.or.jp/spot/2963"
+    ],
+    "summary": "伊賀市・菅原神社（上野天神宮）の秋季例祭。百数十体の能狂言面を被った鬼行列と9基のだんじりが旧城下町を巡行する。本祭は10月の第4日曜を中心に三日間開催。鬼行列を中心とする「上野天神祭のダンジリ行事」は国の重要無形民俗文化財に指定され、平成28年（2016年）にはユネスコ無形文化遺産にも登録された。座標は菅原神社境内。",
+    "highlights": [
+      "百数十体の能狂言面を被る鬼行列（ひょろつき鬼）",
+      "9基のだんじりが旧城下町を巡行",
+      "国の重要無形民俗文化財・ユネスコ無形文化遺産登録"
+    ],
+    "from_kameyama": "車で約45分（名阪国道→上野東ICまたは中瀬IC、伊賀上野中心市街地）",
+    "name_en": "Ueno Tenjin Festival Danjiri & Demon Procession (Sugawara Shrine)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Iga City",
+    "summary_en": "The autumn festival of Sugawara Shrine (Ueno Tenjin) in Iga City. Over one hundred performers wear Noh and Kyogen masks in a 'demon procession' that winds through the former castle town alongside nine danjiri floats. Centered on the fourth Sunday of October across three days, the danjiri event is designated an Important Intangible Folk Cultural Property of Japan and was inscribed on UNESCO's Intangible Cultural Heritage list in 2016. Coordinates are at Sugawara Shrine, about a 5-minute walk from Iga-Ueno Station.",
+    "highlights_en": [
+      "A procession of over 100 Noh/Kyogen-masked demons ('hyorotsuki-oni')",
+      "Nine danjiri floats parade through the old castle town",
+      "Important Intangible Folk Cultural Property; UNESCO Intangible Cultural Heritage (2016)"
+    ]
+  },
+  {
+    "id": "spot-136",
+    "name": "海山道稲荷神社（千体狐とコンビナート）",
+    "name_kana": "みやまどいなりじんじゃ（せんたいきつねとこんびなーと）",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "四日市市",
+    "address": "三重県四日市市海山道町1-62（海山道神社内・海山道開運稲荷神社）",
+    "lat": 34.943049,
+    "lng": 136.621646,
+    "status": "現存",
+    "fee": "無料・境内自由",
+    "hours": "境内終日自由（社務所は日中）",
+    "official_url": "https://www.miyamado-jinja.com/",
+    "reference_urls": [
+      "https://www.miyamado-jinja.com/",
+      "https://miyamadojinja.com/",
+      "https://ja.wikipedia.org/wiki/%E6%B5%B7%E5%B1%B1%E9%81%93%E7%A5%9E%E7%A4%BE"
+    ],
+    "summary": "四日市市海山道町に鎮座する神社。境内社の「海山道開運稲荷神社」のほうが本社より大きく、全国から奉納された無数の狐像が境内を埋め尽くす視覚密度が異様。背後には四日市コンビナートの煙突群が広がり、稲荷信仰と戦後重化学工業景観が一枚の画角に収まる三重独自の「異界」風景を形成する。近鉄名古屋線「海山道」駅前で撮影アクセス良好。通称「みやまどさん」。",
+    "highlights": [
+      "境内を埋め尽くす千体規模の奉納狐像",
+      "背景に四日市コンビナート煙突群が広がる異色の構図",
+      "近鉄海山道駅前で通年撮影可能・通称「みやまどさん」"
+    ],
+    "from_kameyama": "車で約40分（東名阪自動車道→四日市東IC→国道23号南下、四日市市海山道町）",
+    "name_en": "Miyamado Inari Shrine (Thousand Foxes & Petrochemical Skyline)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Yokkaichi City",
+    "summary_en": "A shrine in Miyamadocho, Yokkaichi City. The auxiliary 'Miyamado Kaiun Inari Shrine' on the grounds is actually larger than the main hall; its precincts are packed with hundreds of fox statues donated from across Japan, producing an overwhelming visual density. Behind the shrine rise the chimneys of the Yokkaichi petrochemical complex, and in a single frame, an old fox-cult shrine and postwar heavy industry coexist — a peculiarly Mie 'otherworldly' landscape. Excellent photography access right in front of Kintetsu Miyamado Station. Locally nicknamed 'Miyamado-san.'",
+    "highlights_en": [
+      "Roughly a thousand donated fox statues packed across the grounds",
+      "Yokkaichi petrochemical chimneys form a striking backdrop in a single frame",
+      "Open year-round, in front of Kintetsu Miyamado Station — locally 'Miyamado-san'"
+    ]
+  },
+  {
+    "id": "spot-137",
+    "name": "狐の嫁入り神事（海山道神社）",
+    "name_kana": "きつねのよめいりしんじ（みやまどじんじゃ）",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "四日市市",
+    "address": "三重県四日市市海山道町1-62（海山道神社）",
+    "lat": 34.943049,
+    "lng": 136.621646,
+    "status": "現存（毎年2月3日節分開催）",
+    "fee": "無料",
+    "hours": "毎年2月3日の節分。13時頃と15時頃の2回行列が出る",
+    "official_url": "https://www.miyamado-jinja.com/",
+    "reference_urls": [
+      "https://www3.jingu125.info/2018/02/06/post-63743/",
+      "https://www.miyamado-jinja.com/",
+      "https://ja.wikipedia.org/wiki/%E6%B5%B7%E5%B1%B1%E9%81%93%E7%A5%9E%E7%A4%BE"
+    ],
+    "summary": "四日市市・海山道神社（境内社の海山道開運稲荷神社）で毎年2月3日節分に行われる神事。白無垢の花嫁と狐面を被った行列が、神社近隣の街路から境内まで練り歩き「人を化かす狐」の婚礼を再現する。お面・白装束・行列・市街地という条件が揃った視覚的に強い民俗行事で、明治期から続くと伝えられる。spot-136 海山道稲荷神社と同一神社境内で、通年の境内風景と節分の神事日の対比でセット掲載する。",
+    "highlights": [
+      "白無垢花嫁と狐面行列が市街地を練り歩く",
+      "節分日（2月3日）に2回開催・撮影アクセス良好",
+      "海山道神社（spot-136）と同一神社・通年姿と神事日の対比"
+    ],
+    "from_kameyama": "車で約40分（東名阪自動車道→四日市東IC→国道23号南下、四日市市海山道町）",
+    "name_en": "Fox Wedding Ritual (Miyamado Shrine)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Yokkaichi City",
+    "summary_en": "A ritual held every February 3rd (Setsubun) at Miyamado Shrine (the Miyamado Kaiun Inari Shrine on its grounds) in Yokkaichi City. A pure-white bride and an attendant procession in fox masks walk from the surrounding streets into the shrine grounds, reenacting the wedding of the trickster fox. The combination of masks, white garments, a street procession, and an urban setting makes for an exceptionally photogenic folk event that, according to tradition, has been performed since the Meiji era. Paired with spot-136 (Miyamado Inari Shrine) for a contrast between the everyday and the festival-day appearance of the same shrine.",
+    "highlights_en": [
+      "White-robed bride and fox-masked procession walking through the city streets",
+      "Held twice on the day of Setsubun (February 3rd) — excellent photography access",
+      "Same shrine as spot-136 (Miyamado Inari Shrine); paired entries contrast everyday and festival days"
+    ]
+  },
+  {
+    "id": "spot-138",
+    "name": "山神獅子舞神事（山神社）",
+    "name_kana": "やまがみししまいしんじ（やまがみしゃ）",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "度会郡玉城町",
+    "address": "三重県度会郡玉城町山神271（山神社）",
+    "lat": 34.464923,
+    "lng": 136.60643,
+    "status": "現存（毎年1月開催）",
+    "fee": "無料",
+    "hours": "毎年1月の小正月前後の週末（要事前確認）",
+    "official_url": "https://www.kankomie.or.jp/event/35106",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/event/35106",
+      "https://www.kouryu.or.jp/festival/detail/24461/5814/",
+      "https://ina-tabi.hatenablog.com/entry/2025/01/26/200934"
+    ],
+    "summary": "度会郡玉城町山神に伝わる獅子舞神事。獅子舞に加え天狗役が登場し、観客が水につけた松ぼっくりを天狗に投げつけて疫病・悪魔退散を祈る、参加型の珍しい民俗芸能。節分の豆まきに通じる古層の邪気祓いの形式とされる。地元保存会が継承し、年初の小正月前後に山神社境内で開催される。座標は山神町中心の代表値。",
+    "highlights": [
+      "観客が松ぼっくりを天狗に投げつける参加型神事",
+      "獅子舞・天狗による疫病退散・五穀豊穣祈願",
+      "毎年小正月前後に山神社で奉納"
+    ],
+    "from_kameyama": "車で約80分（伊勢自動車道→玉城IC→県道65号、玉城町山神方面）",
+    "name_en": "Yamagami Lion Dance Ritual",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Tamaki, Watarai District",
+    "summary_en": "A lion dance ritual passed down in Yamagami, Tamaki Town in Watarai District. In addition to the lion dance, a tengu performer appears, and spectators hurl water-soaked pinecones at the tengu to drive away disease and evil — a rare participatory folk performance. The form recalls the bean-throwing of Setsubun and is considered a survival of older purification rites. Held at Yamagami Shrine around the small new year (early January) each year by the local preservation society. Coordinates are a representative value for the center of Yamagami-cho.",
+    "highlights_en": [
+      "Audience-participatory ritual: hurling wet pinecones at the tengu",
+      "Lion dance and tengu performance praying for harvest and warding off evil",
+      "Performed each year at Yamagami Shrine around the small new year"
+    ]
+  },
+  {
+    "id": "spot-139",
+    "name": "わらじ曳き神事（波切神社）",
+    "name_kana": "わらじひきしんじ（なきりじんじゃ）",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "志摩市",
+    "address": "三重県志摩市大王町波切1（波切神社）",
+    "lat": 34.282574,
+    "lng": 136.891751,
+    "status": "現存（毎年9月開催）",
+    "fee": "無料",
+    "hours": "毎年9月の申の日（旧暦九月の申の日に近い日）",
+    "official_url": "https://www.kanko-shima.com/purpose/16769/",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/event/35099",
+      "https://www.kanko-shima.com/purpose/16769/"
+    ],
+    "summary": "志摩市大王町波切・波切神社に伝わる海上安全祈願の神事。畳一枚大の巨大わらじを稚児たちが曳いて港まで運び、沖へ流す。地元の伝承では、かつて大王崎沖に現れた一つ目の海の怪物「だんだら法師」を、巨大なわらじで欺いて追い払ったことに由来するとされる。漁業の町・大王町の海辺信仰を象徴する古式の神事として志摩市指定無形民俗文化財。座標は波切町中心の代表値。",
+    "highlights": [
+      "畳一枚大の巨大わらじを稚児が曳いて海へ流す",
+      "海の怪物「だんだら法師」退散伝説に由来",
+      "志摩市指定無形民俗文化財・海辺信仰"
+    ],
+    "from_kameyama": "車で約120分（伊勢自動車道→伊勢IC→国道167号→県道17号、大王町波切）",
+    "name_en": "Giant Sandal-Dragging Ritual (Nakiri Shrine)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Shima City",
+    "summary_en": "A maritime safety ritual at Nakiri Shrine in Nakiri, Daioh-cho, Shima City. Children drag a giant straw sandal the size of a tatami mat down to the harbor, where it is set adrift. Local tradition links the rite to a legend in which a one-eyed sea monster called 'Dandara-Hoshi,' said to have appeared off Cape Daioh, was driven off by tricking it with an enormous sandal that suggested an even larger person was nearby. Designated an Intangible Folk Cultural Property by Shima City and emblematic of the coastal faith of the fishing town. Coordinates are a representative value for the center of Nakiri-cho.",
+    "highlights_en": [
+      "Children drag a tatami-sized giant straw sandal to the sea",
+      "Legend: warding off the one-eyed sea monster Dandara-Hoshi",
+      "Shima City Intangible Folk Cultural Property; coastal belief"
+    ]
+  },
+  {
+    "id": "spot-140",
+    "name": "仙宮神社・猿神石",
+    "name_kana": "せんぐうじんじゃ・さるしんせき",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "度会郡南伊勢町",
+    "address": "三重県度会郡南伊勢町河内77",
+    "lat": 34.284108,
+    "lng": 136.512474,
+    "status": "現存",
+    "fee": "無料・境内自由",
+    "hours": "境内終日自由（社務所は日中）",
+    "official_url": "https://www.iseshima-kanko.jp/spot/1675",
+    "reference_urls": [
+      "https://www.iseshima-kanko.jp/spot/1675"
+    ],
+    "summary": "度会郡南伊勢町河内に鎮座する古社。標高約70mの山の上にあり、御神木「蘇りの木」と呼ばれるバクチノキの横から本殿へと360段余りの石段が続く。本殿背後の磐山には、猿田彦命が岩となってこの地を守るという伝承を持つ巨岩「猿神石（さるしんせき）」が露出し、猿の横顔に見える形状を示す。本殿背後の磐座群は古代の祭祀跡で多くの遺物が出土しており、文化財の神社遺跡に指定。絵馬殿には百人一首や天の岩戸の神話にちなんだ絵画が奉納されている。",
+    "highlights": [
+      "猿田彦命が岩となったとされる「猿神石」（巨岩・磐座信仰）",
+      "本殿背後の磐山は古代祭祀跡・出土遺物多数・文化財指定",
+      "御神木「蘇りの木」（バクチノキ）と360段余の石段"
+    ],
+    "from_kameyama": "車で約130分（伊勢自動車道→玉城IC→国道260号、南伊勢町河内）",
+    "name_en": "Sengu Shrine & Sarushinseki (Monkey God Stone)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Minami-Ise, Watarai District",
+    "summary_en": "An ancient shrine in Kawachi, Minami-Ise Town in Watarai District. Perched atop a roughly 70-meter hill, the main hall is reached by a flight of over 360 stone steps that begin beside the sacred 'Tree of Resurrection' (a Bakuchi tree). On the rocky slope behind the main hall, a massive rock outcrop known as 'Sarushinseki' (Monkey God Stone) bears a profile resembling a monkey's face, said in local tradition to be the deity Sarutahiko transformed into stone to guard the land. The iwakura (sacred rock) group behind the main hall is an ancient ritual site that has yielded many artifacts and is designated a cultural property as a shrine archaeological site. The picture-tablet hall displays paintings inspired by the Hyakunin Isshu poems and the Tale of the Heavenly Rock Cave.",
+    "highlights_en": [
+      "'Sarushinseki' (Monkey God Stone): a massive iwakura associated with Sarutahiko",
+      "Iwakura group behind the main hall — an ancient ritual site with abundant excavated artifacts, designated as a cultural property",
+      "Sacred 'Tree of Resurrection' (Bakuchi tree) and the 360-plus stone steps"
+    ]
+  },
+  {
+    "id": "spot-141",
+    "name": "小向神社 八王子祭",
+    "name_kana": "おぶけじんじゃ はちおうじまつり",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "三重郡朝日町",
+    "address": "三重県三重郡朝日町小向1573-3（小向神社）",
+    "lat": 35.039069,
+    "lng": 136.662336,
+    "status": "現存（毎年8月14日夜開催）",
+    "fee": "無料",
+    "hours": "毎年8月14日夜（前夜祭含む）",
+    "official_url": "https://obukeshrine.com/fest.html",
+    "reference_urls": [
+      "https://obukeshrine.com/fest.html",
+      "https://obukeshrine.com/about.html",
+      "https://www.kankomie.or.jp/event/9941",
+      "https://mie3150.blog.jp/archives/29601287.html"
+    ],
+    "summary": "三重郡朝日町の小向神社に約300年前から伝わる火祭り。毎年8月14日夜、火のついた藁束で氏子同士が互いに叩き合い、最終的に5〜6mの大松明に点火する。三重県指定無形民俗文化財。火の粉と藁束、夜闇のなかで叩き合う身体性が圧倒的で、本Spaceの「異形性と機能の結合」が儀礼として最高潮に達する例。撮影は夜間・火気のため機材と安全配慮が必要。JR朝日駅から徒歩約10分、駐車場あり。",
+    "highlights": [
+      "火のついた藁束で氏子同士が叩き合う身体性の高い神事",
+      "最終的に5〜6mの大松明に点火する火祭り",
+      "毎年8月14日夜・三重県指定無形民俗文化財"
+    ],
+    "from_kameyama": "車で約40分（東名阪自動車道→桑名東IC→国道1号、朝日町小向）",
+    "name_en": "Obuke Shrine Hachioji Festival (Fire Ritual)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Asahi, Mie District",
+    "summary_en": "A roughly 300-year-old fire ritual held at Obuke Shrine in Asahi Town, Mie District. On the night of August 14 every year, parishioners strike each other with burning straw bundles, eventually setting alight a 5- to 6-meter great torch. Designated a Mie Prefectural Intangible Folk Cultural Property. The combination of sparks, straw bundles, and the bodily clash of strikers in the dark is overwhelming — an example where, in the framework of this Space, the 'fusion of unusual form and ritual function' reaches its peak. Night-time fire shooting demands care for equipment and safety. About a 10-minute walk from JR Asahi Station; parking available.",
+    "highlights_en": [
+      "Parishioners strike each other with burning straw bundles in a highly physical ritual",
+      "Climaxes with the lighting of a 5- to 6-meter great torch",
+      "Held every August 14 at night; Mie Prefectural Intangible Folk Cultural Property"
+    ]
+  },
+  {
+    "id": "spot-142",
+    "name": "中尾歯科（四日市市・異形歯科外観）",
+    "name_kana": "なかおしか（よっかいちし・いぎょうしかがいかん）",
+    "category": "bkyu",
+    "prefecture": "三重県",
+    "city": "四日市市",
+    "address": "三重県四日市市松本3丁目9-9（中尾歯科 まつもと診療所を代表座標として登録／複数店舗あり）",
+    "lat": 34.970118,
+    "lng": 136.589371,
+    "status": "現存（営業中）",
+    "fee": "外観見学自由",
+    "hours": "店舗ごとに異なる（夜10時まで営業の店舗あり）",
+    "official_url": "https://nakao-shika.jp/ryouyu",
+    "reference_urls": [
+      "https://www.nakao-shika.info/offices",
+      "https://nakao-shika.jp/ryouyu",
+      "https://nakaoshika-matsumoto.doctorsfile.jp/"
+    ],
+    "summary": "医療法人良友会が運営する四日市市・鈴鹿市の歯科チェーン。複数店舗にわたり、外壁の巨大な歯のオブジェ、煌びやかな内外装、夜10時までの営業など、一般的な医療施設の枠を大きく外れた視覚的存在感で知られる。店舗ごとに看板の意匠が異なり、四日市市内では複数の路面店が「異形の歯科」として地元のランドマーク化している。本エントリは代表座標として「まつもと診療所」を採用し、本文では他店舗の看板・外観にも言及する統合掲載方針。座標は松本3丁目中心の代表値。",
+    "highlights": [
+      "外壁の巨大な歯のオブジェと派手な内外装",
+      "夜10時まで営業の店舗もあり通常の歯科の枠外",
+      "四日市市・鈴鹿市に複数店舗を展開する歯科チェーン"
+    ],
+    "from_kameyama": "車で約40分（東名阪自動車道→四日市IC→国道477号、四日市市松本方面）",
+    "name_en": "Nakao Dental Clinic (Yokkaichi — Surreal Clinic Facades)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Yokkaichi City",
+    "summary_en": "A dental clinic chain operated by the medical corporation Ryoyu-kai across Yokkaichi and Suzuka cities, known for a visual presence that breaks far outside the look of a typical medical facility: giant tooth sculptures on the exterior, glittering interiors and signage, and branches that stay open as late as 10 PM. Each branch sports a distinct signboard design, and several street-level branches in Yokkaichi function as local landmarks of 'unusual dental clinic' aesthetics. This entry uses the Matsumoto branch as a representative location and refers to other branch facades in the description. Coordinates are a representative value for the center of Matsumoto 3-chome.",
+    "highlights_en": [
+      "Giant tooth sculptures on the exterior and flamboyant interior decor",
+      "Some branches stay open until 10 PM — well outside ordinary dental clinic norms",
+      "Multiple branches across Yokkaichi and Suzuka, each with distinct signage"
+    ]
   }
 ]
