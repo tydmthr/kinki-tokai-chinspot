@@ -1,0 +1,6 @@
+image,name,location,category,weirdness,confidence,is_duplicate,wiki_title,wiki_url,wiki_lat,wiki_lng,caption_summary,decision
+sample-001.jpg,サンプル珍スポット A,三重県亀山市,spot,8,0.85,,サンプル珍スポット A,https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB,34.855000,136.450000,採用例・spots.json へ追加される,採用
+sample-002.jpg,サンプル不採用 B,愛知県名古屋市,spot,4,0.62,,,,,,却下例・取り込みスキップ,却下
+sample-003.jpg,サンプル重複 C,京都府京都市,spot,7,0.78,重複,既存スポット,https://ja.wikipedia.org/wiki/%E6%97%A2%E5%AD%98,35.011700,135.768100,重複検出例・採用でもスキップ,採用
+sample-004.jpg,サンプル奇祭 D,岐阜県高山市,festival,9,0.90,,サンプル奇祭 D,https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E5%A5%87%E7%A5%AD,36.146100,137.252100,festival 行例・festivals.json へ追加,採用
+sample-005.jpg,サンプル保留 E,奈良県奈良市,spot,6,0.70,,,,,,保留例・decision 未記入で取り込まれない,
