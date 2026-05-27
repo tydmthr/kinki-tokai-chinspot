@@ -4859,5 +4859,296 @@
       "Some branches stay open until 10 PM — well outside ordinary dental clinic norms",
       "Multiple branches across Yokkaichi and Suzuka, each with distinct signage"
     ]
+  },
+  {
+    "id": "spot-148",
+    "name": "神前浦飛鳥神社（つがい龍の注連縄）",
+    "name_kana": "かみさきうらあすかじんじゃ（つがいりゅうのしめなわ）",
+    "name_en": "Kamisakiura Asuka Shrine (Paired Dragon Shimenawa)",
+    "category": "folk",
+    "prefecture": "三重県",
+    "prefecture_en": "Mie",
+    "city": "度会郡南伊勢町",
+    "city_en": "Minamiise, Watarai District",
+    "address": "三重県度会郡南伊勢町神前浦",
+    "lat": 34.260021,
+    "lng": 136.505371,
+    "status": "現存",
+    "fee": "境内自由",
+    "hours": "終日",
+    "official_url": "",
+    "reference_urls": [
+      "https://www.town.minamiise.lg.jp/",
+      "https://www.kankomie.or.jp/"
+    ],
+    "summary_en": "Asuka Shrine in the fishing village of Kamisakiura, Minamiise. The shrine is known for the giant paired-dragon shimenawa (sacred straw rope) woven and donated by local residents — a male-female pair rendered with fins, whiskers, and fangs entirely in straw. The shimenawa expresses the dragon-serpent (sea-deity) belief of Shima Peninsula fishing communities and is replaced annually for the village festival.",
+    "highlights_en": [
+      "Male-female pair of giant straw dragon shimenawa",
+      "Sea-deity / dragon-serpent worship of Shima fishing villages",
+      "Detailed straw craftsmanship down to fins and whiskers"
+    ],
+    "from_kameyama": "車で約2時間20分（伊勢自動車道→玉城IC→国道260号で南伊勢町方面）"
+  },
+  {
+    "id": "spot-149",
+    "name": "安乗神社・しめ切り神事",
+    "name_kana": "あのりじんじゃ・しめきりしんじ",
+    "name_en": "Anori Shrine — Shimekiri Ritual",
+    "category": "folk",
+    "prefecture": "三重県",
+    "prefecture_en": "Mie",
+    "city": "志摩市",
+    "city_en": "Shima",
+    "address": "三重県志摩市阿児町安乗",
+    "lat": 34.358669,
+    "lng": 136.897079,
+    "status": "現存",
+    "fee": "境内自由",
+    "hours": "祭礼日中心",
+    "official_url": "",
+    "reference_urls": [
+      "https://www.kanko-shima.com/",
+      "https://www.city.shima.mie.jp/"
+    ],
+    "summary_en": "The tutelary shrine of Anori fishing village at the eastern tip of the Shima Peninsula, supported by ama divers and fishermen. The September festival features the nationally designated 'Anori Puppet Theater' (Important Intangible Folk Cultural Property) and the shimekiri ritual involving the cutting of a sacred straw rope. Together with the Nakiri district, Anori preserves the maritime folk culture of Shima, framed by the stone-built Anori-saki Lighthouse on the cape.",
+    "highlights_en": [
+      "Stage for the nationally designated Anori Puppet Theater",
+      "Maritime folk worship centered on ama divers and fishermen",
+      "Integrated coastal sacred landscape with Anori-saki Lighthouse"
+    ],
+    "from_kameyama": "車で約2時間（伊勢自動車道→伊勢西IC→国道167号→県道17号）"
+  },
+  {
+    "id": "spot-150",
+    "name": "二木島祭・船子漕ぎ",
+    "name_kana": "にぎしままつり・ふなここぎ",
+    "name_en": "Nigishima Festival — Funako Rowing Race",
+    "category": "folk",
+    "prefecture": "三重県",
+    "prefecture_en": "Mie",
+    "city": "熊野市",
+    "city_en": "Kumano",
+    "address": "三重県熊野市二木島町",
+    "lat": 33.941479,
+    "lng": 136.177612,
+    "status": "現存",
+    "fee": "観覧無料",
+    "hours": "Nov 3 (biennial / irregular)",
+    "official_url": "",
+    "reference_urls": [
+      "https://www.city.kumano.mie.jp/",
+      "https://www.kankomie.or.jp/"
+    ],
+    "summary_en": "A boat festival held at Nigishima Bay in Kumano City. The core ritual is a 'hayafune' rowing race in which dozens of rowers propel traditional wooden boats across the bay, said to commemorate Emperor Jimmu's eastern expedition (Jimmu Tosei). Set against the dramatic ria coastline of southern Kii Peninsula, it represents an archaic stratum of coastal funa-togyo (boat procession) worship. Designated an Intangible Folk Cultural Property of Mie Prefecture.",
+    "highlights_en": [
+      "Hayafune rowing race tied to the Jimmu Tosei legend",
+      "Boat procession set within the ria coastline of Kumano",
+      "Mie Prefecture Intangible Folk Cultural Property"
+    ],
+    "from_kameyama": "車で約3時間（伊勢自動車道→紀勢自動車道→熊野尾鷲道路→二木島IC）"
+  },
+  {
+    "id": "spot-151",
+    "name": "古和浦祇園祭・船形神輿",
+    "name_kana": "こわうらぎおんさい・ふながたみこし",
+    "name_en": "Kowaura Gion Festival — Boat-shaped Mikoshi",
+    "category": "folk",
+    "prefecture": "三重県",
+    "prefecture_en": "Mie",
+    "city": "度会郡南伊勢町",
+    "city_en": "Minamiise, Watarai District",
+    "address": "三重県度会郡南伊勢町古和浦",
+    "lat": 34.26968,
+    "lng": 136.45105,
+    "status": "現存",
+    "fee": "観覧無料",
+    "hours": "Mid–late July",
+    "official_url": "",
+    "reference_urls": [
+      "https://www.town.minamiise.lg.jp/",
+      "https://www.kankomie.or.jp/"
+    ],
+    "summary_en": "A Gion festival of the Kowaura fishing village in Minamiise, in which a portable shrine shaped like a boat (funagata mikoshi) is carried through the village. It belongs to the lineage of boat-shaped mikoshi and floats found along the Ise-Shima coastline, dedicated to praying for maritime safety and good catches. Kowaura has historically prospered as a bonito and yellowtail fishing port, and the imagery of the festival retains strong traces of fishing-village culture.",
+    "highlights_en": [
+      "Boat-shaped portable shrine (funagata mikoshi)",
+      "Coastal village prayers for maritime safety and abundant catch",
+      "Part of the Ise-Shima coast funagata mikoshi lineage"
+    ],
+    "from_kameyama": "車で約2時間30分（伊勢自動車道→玉城IC→国道260号で古和浦方面）"
+  },
+  {
+    "id": "spot-152",
+    "name": "てんてこ祭（熱池八幡社）",
+    "name_kana": "てんてこまつり（にいけはちまんしゃ）",
+    "name_en": "Tenteko Festival (Niike Hachiman Shrine)",
+    "category": "folk",
+    "prefecture": "愛知県",
+    "prefecture_en": "Aichi",
+    "city": "西尾市",
+    "city_en": "Nishio",
+    "address": "愛知県西尾市熱池町神田103",
+    "lat": 34.839443,
+    "lng": 137.042282,
+    "status": "現存",
+    "fee": "観覧無料",
+    "hours": "Every January 3, approx. 13:00–14:30",
+    "official_url": "https://nishiokanko.com/list/shop/tentekosai/",
+    "reference_urls": [
+      "https://aichinow.pref.aichi.jp/spots/detail/303/",
+      "https://www.nishimikawanavi.jp/spots/detail/364/",
+      "https://trip.iko-yo.net/events/6636"
+    ],
+    "summary_en": "An annual New Year festival held on January 3 at Niike Hachiman Shrine in Niike-cho, Nishio City. Six masked men dressed in red costumes form a procession, three of whom wear a phallus carved from white radish (daikon) tied behind their waists; they march about 500 meters from the village to the shrine, swaying their hips in time with the 'tenteko, ten' rhythm of small drums. At the shrine, straw ash is swept in all directions with bamboo brooms — those bathed in the ash are said to be protected from misfortune. The festival is said to date to the Heian period when this area was selected as the Yuki Saiden rice paddy for Emperor Seiwa's Daijo-sai accession ritual, giving it over 1,100 years of history as an agricultural fertility rite. Designated an Aichi Prefecture Intangible Folk Cultural Property in 1957.",
+    "highlights_en": [
+      "Red-costumed procession with daikon-phalluses ('Tenka no Kisai' — Japan's strange festival)",
+      "Straw-ash sweeping ritual for warding off misfortune",
+      "Aichi Prefecture Intangible Folk Cultural Property (designated 1957)"
+    ],
+    "from_kameyama": "車で約2時間（東名阪自動車道→伊勢湾岸自動車道→豊明IC→国道23号→西尾市熱池町）"
+  },
+  {
+    "id": "spot-153",
+    "name": "寶珠山大観音寺（純金大観音・カラオケ観音）",
+    "name_kana": "ほうしゅざんだいかんのんじ（じゅんきんだいかんのん・からおけかんのん）",
+    "name_en": "Hoshuzan Daikannon-ji (Golden Daikannon & Karaoke Kannon)",
+    "category": "bkyu",
+    "prefecture": "三重県",
+    "prefecture_en": "Mie",
+    "city": "津市",
+    "city_en": "Tsu",
+    "address": "三重県津市白山町佐田1957",
+    "lat": 34.680332,
+    "lng": 136.340424,
+    "status": "現存（営業中）",
+    "fee": "Adults 800 yen (high school and above)",
+    "hours": "9:30–17:00, open year-round",
+    "official_url": "https://www.daikannon.or.jp/",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/spot/4781",
+      "https://note.com/yanma_travel/n/n9674b3615310"
+    ],
+    "summary_en": "A Shingon Buddhist temple founded in 1982 in front of Kintetsu Sakakibara-Onsenguchi Station in Tsu City. Its centerpiece is a 33-meter Golden Daikannon statue covered with approximately 1 ton of gold leaf, with many additional Buddhist images inside and out. The grounds also feature 'Manbai-gama,' said to be the world's largest cauldron and based on the Kobo Daishi legend of one grain of rice multiplying ten-thousand-fold; 'Karaoke Kannon,' a kannon dedicated to singers and microphone professionals; and walking grounds replicating the Shikoku 88-Temple and 100-Kannon pilgrimages. The site is operated jointly with the adjacent Louvre Sculpture Museum (spot-154), forming an unusually theme-park-like religious complex.",
+    "highlights_en": [
+      "33m Golden Daikannon covered in 1 ton of gold leaf",
+      "'Manbai-gama' (world's largest cauldron) and 'Karaoke Kannon'",
+      "Religious 'theme park' adjacent to the Louvre Sculpture Museum"
+    ],
+    "from_kameyama": "車で約45分（東名阪自動車道→亀山IC→伊勢自動車道→久居IC→国道165号→白山町佐田）"
+  },
+  {
+    "id": "spot-154",
+    "name": "ルーブル彫刻美術館",
+    "name_kana": "るーぶるちょうこくびじゅつかん",
+    "name_en": "Louvre Sculpture Museum (Mie)",
+    "category": "bkyu",
+    "prefecture": "三重県",
+    "prefecture_en": "Mie",
+    "city": "津市",
+    "city_en": "Tsu",
+    "address": "三重県津市白山町佐田東谷1957",
+    "lat": 34.676497,
+    "lng": 136.349278,
+    "status": "現存（営業中）",
+    "fee": "Adults 1,500 yen; elementary/junior high 800 yen; students / seniors 60+ / disability ID holders 1,000 yen",
+    "hours": "9:30–17:00 (last admission 16:30), open year-round",
+    "official_url": "https://www.louvre-m.com/",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/spot/3227",
+      "https://www.navitime.co.jp/poi?spot=02301-4400422"
+    ],
+    "summary_en": "A sculpture museum in Tsu City, operated together with and adjacent to Hoshuzan Daikannon-ji (spot-153). Through an official partnership with the Louvre Museum in Paris, the museum exhibits authorized replicas of world-renowned sculptures including the Venus de Milo and Winged Victory of Samothrace. The juxtaposition of a Louvre-authorized sculpture museum within the precincts of a Buddhist temple, located directly in front of Kintetsu Sakakibara-Onsenguchi Station, makes this one of central Mie's most representative kitsch/oddity spots.",
+    "highlights_en": [
+      "Officially authorized replicas from the Louvre Museum in Paris",
+      "Religious + sculpture chaos adjacent to Hoshuzan Daikannon-ji",
+      "Surreal station-front landscape at Kintetsu Sakakibara-Onsenguchi"
+    ],
+    "from_kameyama": "車で約45分（東名阪自動車道→亀山IC→伊勢自動車道→久居IC→国道165号→白山町佐田）"
+  },
+  {
+    "id": "spot-155",
+    "name": "三河臨海緑地・日本列島公園",
+    "name_kana": "みかわりんかいりょくち・にほんれっとうこうえん",
+    "name_en": "Mikawa Coastal Greenway — 'Japanese Islands' Park",
+    "category": "bkyu",
+    "prefecture": "愛知県",
+    "prefecture_en": "Aichi",
+    "city": "豊川市",
+    "city_en": "Toyokawa",
+    "address": "愛知県豊川市御津町安礼の崎",
+    "lat": 34.794376,
+    "lng": 137.315743,
+    "status": "現存（無料開放）",
+    "fee": "Free",
+    "hours": "Open all hours",
+    "official_url": "https://www.toyokawa-map.net/spot/000816.html",
+    "reference_urls": [
+      "https://www.navitime.co.jp/poi?spot=02301-4500093",
+      "https://ukiyokurashi.com/japanese-islands-park/",
+      "https://drive-ns.hatenablog.com/entry/2024/03/30/140202"
+    ],
+    "summary_en": "An open-air park within the Mikawa Coastal Greenway in Toyokawa City. The ground is inlaid with floral-emblem tiles representing all 47 prefectures of Japan, alongside benches modeled on each prefecture's signature product (e.g., Aomori apples, Yamagata shogi king-piece) and monuments and song stelae depicting famous sites (Tojinbo for Fukui, Lake Biwa for Shiga, etc.). Once an ambitious miniature 'Japanese archipelago,' the park is now largely overgrown with weeds; many benches and monuments have weathered into near-unrecognizable forms. The decaying state of the intended 'national miniature' is itself the spectacle — an unintentional outdoor B-grade time capsule.",
+    "highlights_en": [
+      "Floral tiles and product benches representing all 47 prefectures",
+      "Weathered monuments of famous national sites (Tojinbo, Lake Biwa, etc.)",
+      "Outdoor 'Japan-in-miniature' slowly dissolving into the landscape"
+    ],
+    "from_kameyama": "車で約1時間50分（東名阪自動車道→伊勢湾岸自動車道→豊明IC→国道23号→豊川市御津方面）"
+  },
+  {
+    "id": "spot-156",
+    "name": "中ノ瀬阿弥陀三尊磨崖仏",
+    "name_kana": "なかのせあみださんぞんまがいぶつ",
+    "name_en": "Nakanose Amida Triad Cliff Buddha",
+    "category": "mystery",
+    "prefecture": "三重県",
+    "prefecture_en": "Mie",
+    "city": "伊賀市",
+    "city_en": "Iga",
+    "address": "三重県伊賀市寺田",
+    "lat": 34.779392,
+    "lng": 136.169479,
+    "status": "現存",
+    "fee": "Free",
+    "hours": "All hours (inaccessible during high water)",
+    "official_url": "",
+    "reference_urls": [
+      "https://www.city.iga.lg.jp/",
+      "https://www.kankomie.or.jp/"
+    ],
+    "summary_en": "An Amida triad carved directly into the bedrock of the Tsuge River in Terada, Iga City. The central Amida Nyorai is flanked by attendant Bodhisattvas Kannon and Seishi, forming a classical Amida triad rendered straight onto a midstream cliff face. The carvings are estimated to date from the medieval period (Kamakura–Muromachi), reflecting the mountain- and water-side worship traditions of the Iga region. Because the work is integrated with the river itself, its visibility shifts with the season and water level; high water makes approach hazardous.",
+    "highlights_en": [
+      "Amida triad carved directly onto midstream bedrock of the Tsuge River",
+      "Medieval (Kamakura–Muromachi) cliff Buddha",
+      "Waterside religious site whose visibility shifts with the river"
+    ],
+    "from_kameyama": "車で約30分（名阪国道→中瀬IC→国道25号沿い→寺田）"
+  },
+  {
+    "id": "spot-157",
+    "name": "紫峰閣（榊原温泉廃国民宿舎）",
+    "name_kana": "しほうかく（さかきばらおんせんはいこくみんしゅくしゃ）",
+    "name_en": "Shihokaku — Abandoned Public Inn at Sakakibara Onsen",
+    "category": "horror",
+    "prefecture": "三重県",
+    "prefecture_en": "Mie",
+    "city": "津市",
+    "city_en": "Tsu",
+    "address": "三重県津市榊原町浜田",
+    "lat": 34.708781,
+    "lng": 136.369228,
+    "status": "廃業（廃墟）／立入禁止",
+    "fee": "—（公道からの観覧のみ）",
+    "hours": "— (external viewing from public road only; site entry strictly prohibited)",
+    "official_url": "",
+    "reference_urls": [
+      "https://haikyo.info/s/16023.html"
+    ],
+    "summary_en": "An abandoned former public inn (kokumin shukusha) standing along the Sakakibara River in Hamada, Sakakibara-cho, Tsu City. Its predecessor 'Seiansho' opened as a quiet retreat annex of the long-established Shin'yu-kan ryokan in the Sakakibara Onsen district; the building was later renovated into 'Kokumin Shukusha Shihokaku.' The inn once won a Prime Minister's Award for koi carp breeding, and the koi-rearing channels still remain on the grounds. It closed roughly a decade ago due to the owner's failing health, and the operating company is recorded as having undergone bankruptcy proceedings at the Tsu District Court. Today the building is widely known among ruin-photography enthusiasts for its signature composition: the abandoned hotel framed against a vermilion bridge across the Sakakibara River. Bizarre Japan does not permit any entry onto the site; this entry is published strictly for external viewing from the adjacent public road (near the 'Sakakibara Onsen Resort Walking Course — Yu-gori (Ritual Bathing) Pilgrimage Relaxation Point 2' interpretive sign).",
+    "highlights_en": [
+      "Long, abandoned public inn stretched along the Sakakibara River",
+      "Signature composition: ruined hotel framed by a vermilion bridge",
+      "Located along the 'Yu-gori Pilgrimage' Sakakibara Onsen Walking Course"
+    ],
+    "from_kameyama": "車で約40分（東名阪自動車道→亀山IC→伊勢自動車道→久居IC→国道165号→榊原町浜田）。公道から外観観覧のみ。敷地内立入禁止。"
   }
 ]

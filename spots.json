@@ -6740,5 +6740,266 @@
       "warnings_extra_en": "The museum is closed during the Tanadui (Tanedori) harvest festival. Access requires a ferry from Ishigaki Island (operated by Anei Kanko or Yaeyama Kanko Ferry), approximately 15 minutes each way. From Taketomi Port, the museum is a 20-minute walk or 10 minutes by rental bicycle. When no attendant is present, visitors are asked to place the admission fee in a basket provided at the entrance.",
       "sources_en": "[Wikipedia — Kiboin](https://ja.wikipedia.org/wiki/%E5%96%9C%E5%AE%9D%E9%99%A2), [Wikipedia — Uesedo Toru](https://ja.wikipedia.org/wiki/%E4%B8%8A%E5%8B%A2%E9%A0%AD%E4%BA%A8), [Okinawa Story](https://www.okinawastory.jp/spot/10882100), [Ishigaki Tours](https://ishigaki-tours.com/spot/kihouin), [Tanoshima](https://www.tanoshima.jp/spot/kihouinsyusyukan), [Higan.net](https://higan.net/interview/2019/05/kihouin/), [Jalan.net](https://www.jalan.net/kankou/spt_47381cc3290032268/)"
     }
+  },
+  {
+    "id": "spot-148",
+    "name": "神前浦飛鳥神社（つがい龍の注連縄）",
+    "name_kana": "かみさきうらあすかじんじゃ（つがいりゅうのしめなわ）",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "度会郡南伊勢町",
+    "address": "三重県度会郡南伊勢町神前浦",
+    "lat": 34.260021,
+    "lng": 136.505371,
+    "status": "現存",
+    "fee": "境内自由",
+    "hours": "終日",
+    "official_url": "",
+    "reference_urls": [
+      "https://www.town.minamiise.lg.jp/",
+      "https://www.kankomie.or.jp/"
+    ],
+    "summary": "南伊勢町神前浦の漁村に鎮座する飛鳥神社。拝殿には地元住民が藁で編み上げた巨大なつがい龍（雌雄一対）の注連縄が奉納される。龍体は数メートルに及び、ヒレ・髭・牙までを藁細工で表現する造形強度が特徴で、瀬戸内・志摩半島の漁村信仰における龍蛇神（海神）への祈願形態を伝える。注連縄は年に一度の祭礼に合わせて掛け替えられる。",
+    "highlights": [
+      "雌雄一対の藁製つがい龍の注連縄",
+      "漁村の龍蛇神信仰を伝える造形",
+      "ヒレ・髭まで作り込まれた藁細工の精緻さ"
+    ],
+    "from_kameyama": "車で約2時間20分（伊勢自動車道→玉城IC→国道260号で南伊勢町方面）"
+  },
+  {
+    "id": "spot-149",
+    "name": "安乗神社・しめ切り神事",
+    "name_kana": "あのりじんじゃ・しめきりしんじ",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "志摩市",
+    "address": "三重県志摩市阿児町安乗",
+    "lat": 34.358669,
+    "lng": 136.897079,
+    "status": "現存",
+    "fee": "境内自由",
+    "hours": "祭礼日中心",
+    "official_url": "",
+    "reference_urls": [
+      "https://www.kanko-shima.com/",
+      "https://www.city.shima.mie.jp/"
+    ],
+    "summary": "志摩半島東端の漁港集落・安乗（あのり）の氏神。海女と漁業者が支える漁村信仰の中核で、9月の例祭では国指定重要無形民俗文化財「安乗の人形芝居」が奉納されるほか、しめ縄を切る所作を伴う「しめ切り神事」が行われる。波切（なきり）地区とともに志摩の海洋民俗の保存地として知られ、奉納舞台と石造の灯台（安乗埼灯台）を含む海辺の信仰景観が完成度高くまとまっている。",
+    "highlights": [
+      "国指定重要無形民俗文化財・安乗の人形芝居の奉納舞台",
+      "海女・漁師による海洋民俗信仰の核",
+      "安乗埼灯台と一体の海辺信仰景観"
+    ],
+    "from_kameyama": "車で約2時間（伊勢自動車道→伊勢西IC→国道167号→県道17号）"
+  },
+  {
+    "id": "spot-150",
+    "name": "二木島祭・船子漕ぎ",
+    "name_kana": "にぎしままつり・ふなここぎ",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "熊野市",
+    "address": "三重県熊野市二木島町",
+    "lat": 33.941479,
+    "lng": 136.177612,
+    "status": "現存",
+    "fee": "観覧無料",
+    "hours": "11月3日（隔年または不定期）",
+    "official_url": "",
+    "reference_urls": [
+      "https://www.city.kumano.mie.jp/",
+      "https://www.kankomie.or.jp/"
+    ],
+    "summary": "熊野市二木島湾で開催される船祭。早船（はやふね）による競漕が祭礼の核で、神武天皇東征の伝承に由来するとされる。木製の早船を数十名の漕ぎ手が漕ぎ進める姿は、紀伊半島南部の海辺集落に残る古層の船渡御信仰として知られ、リアス式海岸の入江を舞台にした視覚的強度が高い。三重県無形民俗文化財に指定されている。",
+    "highlights": [
+      "神武東征伝承に由来する早船競漕",
+      "リアス式海岸の入江を舞台にした船渡御",
+      "三重県無形民俗文化財指定"
+    ],
+    "from_kameyama": "車で約3時間（伊勢自動車道→紀勢自動車道→熊野尾鷲道路→二木島IC）"
+  },
+  {
+    "id": "spot-151",
+    "name": "古和浦祇園祭・船形神輿",
+    "name_kana": "こわうらぎおんさい・ふながたみこし",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "度会郡南伊勢町",
+    "address": "三重県度会郡南伊勢町古和浦",
+    "lat": 34.26968,
+    "lng": 136.45105,
+    "status": "現存",
+    "fee": "観覧無料",
+    "hours": "7月中下旬",
+    "official_url": "",
+    "reference_urls": [
+      "https://www.town.minamiise.lg.jp/",
+      "https://www.kankomie.or.jp/"
+    ],
+    "summary": "南伊勢町古和浦の漁村に伝わる祇園祭で、船の形を模した神輿（船形神輿）を集落内で曳き回す。伊勢湾・志摩沿岸の漁村に点在する「船形神輿」「船形山車」の系譜に属し、海上安全と豊漁を祈念する。古和浦は古くからカツオ・ブリの漁港として栄えた集落で、祭礼の意匠にも漁村文化の特色が色濃く残る。",
+    "highlights": [
+      "船の形を模した船形神輿",
+      "漁村における海上安全・豊漁祈願の祭礼",
+      "志摩・南伊勢沿岸の船形神輿系譜のひとつ"
+    ],
+    "from_kameyama": "車で約2時間30分（伊勢自動車道→玉城IC→国道260号で古和浦方面）"
+  },
+  {
+    "id": "spot-152",
+    "name": "てんてこ祭（熱池八幡社）",
+    "name_kana": "てんてこまつり（にいけはちまんしゃ）",
+    "category": "folk",
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "address": "愛知県西尾市熱池町神田103",
+    "lat": 34.839443,
+    "lng": 137.042282,
+    "status": "現存",
+    "fee": "観覧無料",
+    "hours": "毎年1月3日 13:00頃〜14:30頃",
+    "official_url": "https://nishiokanko.com/list/shop/tentekosai/",
+    "reference_urls": [
+      "https://aichinow.pref.aichi.jp/spots/detail/303/",
+      "https://www.nishimikawanavi.jp/spots/detail/364/",
+      "https://trip.iko-yo.net/events/6636"
+    ],
+    "summary": "毎年1月3日に西尾市熱池町の熱池八幡社で行われる新年祭。赤装束に覆面姿の厄男6人のうち3人が腰の後ろに大根で作った男根を吊り、太鼓の「てんてこ、てん」という囃子に合わせて腰を振りながら集落から神社まで約500メートル練り歩く。境内では竹箒で藁灰を撒き散らし、この灰を浴びると厄除けになるとされる。平安時代に清和天皇大嘗会の悠紀斎田にこの地が選ばれたことを起源とし、千百年以上の歴史を持つとされる五穀豊穣祈願祭。昭和32年（1957年）に愛知県無形民俗文化財に指定された。",
+    "highlights": [
+      "腰に大根の男根を吊って練り歩く「天下の奇祭」",
+      "藁灰を浴びて厄除けする所作",
+      "愛知県無形民俗文化財（1957年指定）"
+    ],
+    "from_kameyama": "車で約2時間（東名阪自動車道→伊勢湾岸自動車道→豊明IC→国道23号→西尾市熱池町）"
+  },
+  {
+    "id": "spot-153",
+    "name": "寶珠山大観音寺（純金大観音・カラオケ観音）",
+    "name_kana": "ほうしゅざんだいかんのんじ（じゅんきんだいかんのん・からおけかんのん）",
+    "category": "bkyu",
+    "prefecture": "三重県",
+    "city": "津市",
+    "address": "三重県津市白山町佐田1957",
+    "lat": 34.680332,
+    "lng": 136.340424,
+    "status": "現存（営業中）",
+    "fee": "入山奉納料 大人800円（高校生以上）",
+    "hours": "9:30〜17:00（年中無休）",
+    "official_url": "https://www.daikannon.or.jp/",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/spot/4781",
+      "https://note.com/yanma_travel/n/n9674b3615310"
+    ],
+    "summary": "近鉄榊原温泉口駅前に1982年（昭和57年）開山された真言宗別格本山の仏教テーマパーク的寺院。最大の見所は高さ33メートル・金箔1トンを使用した純金大観音像で、堂内も含めて多数の仏像を擁する。境内には「萬倍釜」（弘法大師の一粒一万倍伝承にちなんで造られた世界最大の釜）、歌手やマイクを使う職業の上達を祈願する「カラオケ観音」、四国八十八ヶ所霊場・百観音霊場のお砂踏みなど、宗教施設としては類を見ないテーマパーク的構成を取る。隣接地にルーブル彫刻美術館（spot-154）が同経営で併設されている。",
+    "highlights": [
+      "高さ33メートル・金箔1トンの純金大観音",
+      "世界最大の釜「萬倍釜」と歌の上達を祈る「カラオケ観音」",
+      "ルーブル彫刻美術館と隣接の宗教カオス"
+    ],
+    "from_kameyama": "車で約45分（東名阪自動車道→亀山IC→伊勢自動車道→久居IC→国道165号→白山町佐田）"
+  },
+  {
+    "id": "spot-154",
+    "name": "ルーブル彫刻美術館",
+    "name_kana": "るーぶるちょうこくびじゅつかん",
+    "category": "bkyu",
+    "prefecture": "三重県",
+    "city": "津市",
+    "address": "三重県津市白山町佐田東谷1957",
+    "lat": 34.676497,
+    "lng": 136.349278,
+    "status": "現存（営業中）",
+    "fee": "大人1,500円、小中学生800円、学生・60歳以上・障がい者手帳提示1,000円",
+    "hours": "9:30〜17:00（入館は16:30まで／年中無休）",
+    "official_url": "https://www.louvre-m.com/",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/spot/3227",
+      "https://www.navitime.co.jp/poi?spot=02301-4400422"
+    ],
+    "summary": "津市白山町佐田に所在し、寶珠山大観音寺（spot-153）と同経営で隣接する彫刻美術館。フランス・パリのルーブル美術館との正式提携により、ミロのヴィーナス、サモトラケのニケなど世界的彫刻のレプリカ（公認複製）を館内に展示する。寺院の境内にルーブル公認の彫刻館が並ぶ独自の景観構成は、近鉄榊原温泉口駅前という鉄道インフラ立地と相まって、三重県中部の代表的B級スポットとして知られる。",
+    "highlights": [
+      "本家ルーブル美術館公認のレプリカ展示",
+      "大観音寺（spot-153）隣接の宗教＋彫刻カオス",
+      "近鉄榊原温泉口駅前の異界的駅前景観"
+    ],
+    "from_kameyama": "車で約45分（東名阪自動車道→亀山IC→伊勢自動車道→久居IC→国道165号→白山町佐田）"
+  },
+  {
+    "id": "spot-155",
+    "name": "三河臨海緑地・日本列島公園",
+    "name_kana": "みかわりんかいりょくち・にほんれっとうこうえん",
+    "category": "bkyu",
+    "prefecture": "愛知県",
+    "city": "豊川市",
+    "address": "愛知県豊川市御津町安礼の崎",
+    "lat": 34.794376,
+    "lng": 137.315743,
+    "status": "現存（無料開放）",
+    "fee": "無料",
+    "hours": "終日開放",
+    "official_url": "https://www.toyokawa-map.net/spot/000816.html",
+    "reference_urls": [
+      "https://www.navitime.co.jp/poi?spot=02301-4500093",
+      "https://ukiyokurashi.com/japanese-islands-park/",
+      "https://drive-ns.hatenablog.com/entry/2024/03/30/140202"
+    ],
+    "summary": "豊川市御津町安礼の崎に所在する三河臨海緑地内の公園。地面に47都道府県の県花を彫り込んだ絵タイルが配置され、各都道府県の名産品をモチーフにしたベンチ（青森リンゴ、山形将棋駒など）、東尋坊（福井）や琵琶湖（滋賀）などの名所を模したモニュメントや歌碑が点在する。完成当初は壮観だったとされるが、現在は雑草に覆われ、ベンチも経年劣化で本来の姿が判別困難な状態となっている。意図された「日本列島の縮図」が朽ち果てつつある景観そのものがB級スポット化しており、観光地化されていない屋外の珍空間として知られる。",
+    "highlights": [
+      "47都道府県の県花タイルと名産品モチーフベンチ",
+      "東尋坊・琵琶湖などの名所モニュメントの朽ちた姿",
+      "雑草に覆われた屋外型「日本列島縮図」の経年廃景"
+    ],
+    "from_kameyama": "車で約1時間50分（東名阪自動車道→伊勢湾岸自動車道→豊明IC→国道23号→豊川市御津方面）"
+  },
+  {
+    "id": "spot-156",
+    "name": "中ノ瀬阿弥陀三尊磨崖仏",
+    "name_kana": "なかのせあみださんぞんまがいぶつ",
+    "category": "mystery",
+    "prefecture": "三重県",
+    "city": "伊賀市",
+    "address": "三重県伊賀市寺田",
+    "lat": 34.779392,
+    "lng": 136.169479,
+    "status": "現存",
+    "fee": "見学自由",
+    "hours": "終日（増水時は接近不可）",
+    "official_url": "",
+    "reference_urls": [
+      "https://www.city.iga.lg.jp/",
+      "https://www.kankomie.or.jp/"
+    ],
+    "summary": "伊賀市寺田を流れる柘植川の岩盤に刻まれた阿弥陀三尊の磨崖仏。川中の岩肌に直接彫られた仏で、中尊の阿弥陀如来と脇侍の観音・勢至を伴う三尊形式を取る。彫像時期は中世（鎌倉〜室町期）と推定されており、伊賀地方の山岳・水辺信仰の所産として静かに残る。川の流れと岩のテクスチャに溶け込んだ磨崖仏という性格上、季節と水位によって見え方が変化する。増水時は接近危険。",
+    "highlights": [
+      "柘植川の川中岩盤に直接彫られた阿弥陀三尊",
+      "中世（鎌倉〜室町期）の磨崖仏として推定される",
+      "水位によって見え方が変わる水辺信仰の遺構"
+    ],
+    "from_kameyama": "車で約30分（名阪国道→中瀬IC→国道25号沿い→寺田）"
+  },
+  {
+    "id": "spot-157",
+    "name": "紫峰閣（榊原温泉廃国民宿舎）",
+    "name_kana": "しほうかく（さかきばらおんせんはいこくみんしゅくしゃ）",
+    "category": "horror",
+    "prefecture": "三重県",
+    "city": "津市",
+    "address": "三重県津市榊原町浜田",
+    "lat": 34.708781,
+    "lng": 136.369228,
+    "status": "廃業（廃墟）／立入禁止",
+    "fee": "—（公道からの観覧のみ）",
+    "hours": "—（公道からの外観観覧のみ／敷地内立入禁止）",
+    "official_url": "",
+    "reference_urls": [
+      "https://haikyo.info/s/16023.html"
+    ],
+    "summary": "三重県津市榊原町浜田、榊原川沿いに細長く立つ廃国民宿舎。前身は榊原温泉の老舗旅館「神湯館」の別館として開業した静養旅館「清安莊」で、後にその建物を改修して国民宿舎「紫峰閣」となった。錦鯉飼育で内閣総理大臣賞を受賞した経歴を持ち、敷地内には鯉養殖用の側溝が現存する。約10年前にオーナーの体調不良を理由に閉鎖、運営会社（有）国民宿舎紫峰閣は津地方裁判所で破産手続開始決定を受けたと記録される。現状は榊原川対岸の朱色の橋を含む全景が撮影可能な構図として広く知られ、廃墟系メディアでも紹介されている。本サイトでは敷地内への立入は一切推奨せず、公道（榊原川沿いの「リラックスポイント②〜湯垢離の地巡り〜 榊原温泉郷ウォーキングコース」案内板付近）からの外観観覧のみを前提として掲載する。",
+    "highlights": [
+      "榊原川沿いの細長い廃国民宿舎の全景",
+      "朱色の橋越しに望む廃ホテルのシグネチャ構図",
+      "「湯垢離の地巡り」榊原温泉郷ウォーキングコース沿線の景観"
+    ],
+    "from_kameyama": "車で約40分（東名阪自動車道→亀山IC→伊勢自動車道→久居IC→国道165号→榊原町浜田）。公道から外観観覧のみ。敷地内立入禁止。"
   }
 ]
