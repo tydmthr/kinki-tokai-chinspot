@@ -117,6 +117,8 @@ python3 build_data.py
 
 ## spots.json スキーマ（JP本体）
 
+> **完全仕様は [`docs/schema.md`](docs/schema.md) を参照。** Space 規定との差異・必須/任意区分・category slug マッピング・festival スキーマ含む。本節は要約。
+
 ```jsonc
 {
   "id": "spot-NNN",                    // 連番、ゼロ埋め3桁

@@ -1,6 +1,6 @@
-image,name,location,category,weirdness,confidence,is_duplicate,wiki_title,wiki_url,wiki_lat,wiki_lng,caption_summary,decision
-sample-001.jpg,サンプル珍スポット A,三重県亀山市,spot,8,0.85,,サンプル珍スポット A,https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB,34.855000,136.450000,採用例・spots.json へ追加される,採用
-sample-002.jpg,サンプル不採用 B,愛知県名古屋市,spot,4,0.62,,,,,,却下例・取り込みスキップ,却下
-sample-003.jpg,サンプル重複 C,京都府京都市,spot,7,0.78,重複,既存スポット,https://ja.wikipedia.org/wiki/%E6%97%A2%E5%AD%98,35.011700,135.768100,重複検出例・採用でもスキップ,採用
-sample-004.jpg,サンプル奇祭 D,岐阜県高山市,festival,9,0.90,,サンプル奇祭 D,https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB%E5%A5%87%E7%A5%AD,36.146100,137.252100,festival 行例・festivals.json へ追加,採用
-sample-005.jpg,サンプル保留 E,奈良県奈良市,spot,6,0.70,,,,,,保留例・decision 未記入で取り込まれない,
+decision,is_duplicate,category,category_slug,name,name_kana,name_en,prefecture,city,address,lat,lng,status,fee,hours,from_kameyama,summary,highlights,official_url,reference_urls,visit_priority,safety_level,safety_note,last_verified
+採用,,民俗信仰,folk,テスト珍スポット,てすとちんすぽっと,Test Bizarre Spot,三重県,亀山市,三重県亀山市本丸町1,34.855,136.452,現存,無料,境内自由,車で約5分,テスト用のサンプル登録。bulk_add.py の動作確認に使う仮想スポット。実際は登録しない。,テスト見どころ1;テスト見どころ2;テスト見どころ3,https://example.com/,https://ja.wikipedia.org/wiki/亀山城_(伊勢国);https://example.com/ref2,medium,safe,夜間は街灯少なめ,2026-05-28
+却下,,B級スポット,bkyu,微妙な候補,びみょうなこうほ,,三重県,鈴鹿市,三重県鈴鹿市某所,34.881,136.583,現存,無料,常時,車で約20分,出典が個人ブログのみで一次裏取り不可。判断保留→却下。,,,,,caution,私有地隣接,
+採用,重複,民俗信仰,folk,田縣神社,たがたじんじゃ,,愛知県,小牧市,愛知県小牧市田県町152,35.3383,136.9194,現存,無料,境内自由,車で約60分,重複チェック動作確認用。spots.json に既に存在する spot-001 と同一座標。SKIP されるはず。,既存重複の検証;ID衝突確認,https://tagata-jinja.or.jp/,,,,,
+採用,,festival,festival,テスト奇祭,てすとききさい,,三重県,亀山市,亀山市某神社,34.86,136.45,,,,,テスト用奇祭。festival 系統の動作確認用。実際は登録しない。,奇祭テスト1;奇祭テスト2,,,,,,
+保留,,廃墟,mystery,要再調査スポット,ようさいちょうさすぽっと,,岐阜県,郡上市,岐阜県郡上市某所,35.748,136.962,廃止,,,,出典に揺れあり。再調査保留。決定保留行は採用されない。,,,,,,,
