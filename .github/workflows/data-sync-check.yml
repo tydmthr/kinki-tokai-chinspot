@@ -1,0 +1,54 @@
+name: Data Sync Check
+
+# data.js が spots.json/festivals.json と同期しているか検証する。
+# Issue-1 (data.js ズレ) の再発防止。詳細: docs/MIGRATION_REPORT_2026-05-27.md
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'spots.json'
+      - 'festivals.json'
+      - 'photos.json'
+      - 'access_info.json'
+      - 'spots_en.json'
+      - 'festivals_en.json'
+      - 'build_data.py'
+      - 'data.js'
+      - '.github/workflows/data-sync-check.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'spots.json'
+      - 'festivals.json'
+      - 'photos.json'
+      - 'access_info.json'
+      - 'spots_en.json'
+      - 'festivals_en.json'
+      - 'build_data.py'
+      - 'data.js'
+      - '.github/workflows/data-sync-check.yml'
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run build_data.py
+        run: python3 build_data.py
+
+      - name: Verify data.js is in sync with spots.json
+        run: |
+          if git diff --exit-code data.js; then
+            echo "✅ data.js is in sync with spots.json"
+          else
+            echo "::error::data.js is out of sync with spots.json. Run 'python3 build_data.py' locally and commit the result."
+            exit 1
+          fi
