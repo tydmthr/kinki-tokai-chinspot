@@ -250,4 +250,45 @@ HTTPS + ブラウザ認証を選択したため動作上の問題はない。た
 
 ---
 
+
+---
+
+## 6. クロージング (2026-05-28 追記)
+
+全 Issue 完了。Claude Code 移行プロジェクトをクローズする。
+
+### 完了サマリ
+
+| Issue | 内容 | 状態 | Commit |
+|---|---|---|---|
+| Issue-1 | data.js を spots.json と同期 (142 → 157 件) | ✅ 完了 | [`6c71060`](https://github.com/tydmthr/kinki-tokai-chinspot/commit/6c71060) |
+| Issue-1 prevention | GitHub Actions CI で data.js 同期検証 | ✅ 稼働中 | [`392d67d`](https://github.com/tydmthr/kinki-tokai-chinspot/commit/392d67d) |
+| Issue-2 | bulk_add.py スキーマ整合 + docs/schema.md 整備 | ✅ 完了 | [`6c9021a`](https://github.com/tydmthr/kinki-tokai-chinspot/commit/6c9021a) |
+| Issue-3 | build_data.py の副作用 (HTML 自動更新) 文書化 | ✅ 完了 | [`e6108ff`](https://github.com/tydmthr/kinki-tokai-chinspot/commit/e6108ff) |
+| Issue-4 | candidates/_sample.csv + README.md 整備 | ✅ 完了 | [`8f2e101`](https://github.com/tydmthr/kinki-tokai-chinspot/commit/8f2e101) |
+| Issue-5 | SSH 鍵セットアップ (Ed25519、git push を SSH 化) | ✅ 完了 | (環境設定のみ) |
+
+### 確立された運用ルール
+
+1. **spots.json 編集時は必ず build_data.py 実行**: CI が data.js ズレを検出して push が失敗する
+2. **新規 spot 追加は `docs/schema.md` 準拠**: 実装スキーマ (4 category slug 固定: folk/bkyu/mystery/horror) に従う
+3. **CSV 発掘は `candidates/_sample.csv` をテンプレに**: 24 列、`;` 区切り、Japanese カンマ禁止
+4. **git push は SSH 経由**: `git@github.com:tydmthr/kinki-tokai-chinspot.git` (HTTPS は不使用)
+
+### 役割分担 (確定版)
+
+| 担当 | タスク |
+|---|---|
+| Claude Code (Mac) | コード変更・PR 運用・bulk_add 実行・dev server 確認・全 git push |
+| Computer (Web) | 候補発掘・SNS 文案・cron 方針策定・JSON 追記の下案・Space 文書管理 |
+
+### 残る検討事項 (新規 Issue 候補、本移行スコープ外)
+
+- festivals.json スキーマの完全仕様化 (`docs/schema.md` には概要のみ)
+- Instagram cron の GitHub Actions 化 vs Mac ローカル実行の決定
+- visits/ 配下の訪問記との spot 紐付け仕組み (`visit_url` フィールド検討)
+- spots.json の 47 件にしか入っていない拡張メタ (region/safety_level/visit_priority 等) を残り 110 件にも適用するか
+
+---
+
 (以上)
