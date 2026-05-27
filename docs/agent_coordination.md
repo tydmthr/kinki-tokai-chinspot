@@ -1,6 +1,6 @@
 # Bizarre Japan エージェント連絡板
 
-**最終更新**: 2026-05-24 (JST)
+**最終更新**: 2026-05-27 (JST)
 **目的**: 複数のAIエージェント・タスクが同時並行で進む際の衝突回避と情報共有
 
 ---
@@ -89,7 +89,9 @@ name_en, prefecture_en, city_en, summary_en, highlights_en
 | 日付 | タスク | 担当 | PR | サマリ |
 |---|---|---|---|---|
 | 2026-05-24 | 三重バッチ① 10件追加 (spot-133〜142) | Perplexity Computer | [#3](https://github.com/tydmthr/kinki-tokai-chinspot/pull/3) | folk:9 / bkyu:1。spots.json 132→142、spots_en.json 132→142 |
-| 2026-05-24 | 連絡板新設 + 件数表記 132→142 修正 | Perplexity Computer | (このPR) | docs/agent_coordination.md 新規。index.html 11箇所、en/index.html 5箇所更新 |
+| 2026-05-24 | 連絡板新設 + 件数表記 132→142 修正 | Perplexity Computer | [#4](https://github.com/tydmthr/kinki-tokai-chinspot/pull/4) | docs/agent_coordination.md 新規。index.html 11箇所、en/index.html 5箇所更新 |
+| 2026-05-27 | 全国常設施設バッチ① 5件追加 (spot-143〜147) | 全国常設施設発掘タスク | 直push (83e18f7) | mystery:1 / bkyu:3 / folk:1。十宝山大乗院鬼のミイラ・おおざわ石仏の森・珍宝館・津軽萬人観世音・喜宝院蒐集館。spots.json 142→147。**spots_en.json未追加**（要対応）|
+| 2026-05-27 | 三重・近畿バッチ② 10件追加 (spot-148〜157) | Perplexity Computer | (このPR) | folk:5 / bkyu:3 / mystery:1 / horror:1。神前浦飛鳥神社・安乗神社・二木島祭・古和浦祇園祭・てんてこ祭（愛知）・寶珠山大観音寺・ルーブル彫刻美術館・日本列島公園（愛知）・中ノ瀬磨崖仏・紫峰閣。spots.json 147→157、spots_en.json 142→152 |
 
 ---
 
