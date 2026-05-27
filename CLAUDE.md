@@ -97,6 +97,22 @@ python3 build_data.py
 
 を実行して `data.js` を再生成すること。`data.js` がサイト表示の実体です。
 
+#### `build_data.py` の副作用（要注意）
+
+スクリプトは `data.js` だけでなく、**サイトのメタ情報（件数表記）まで自動同期**します。
+
+| ファイル | 書き換え |
+|---|---|
+| `data.js` | `SPOTS` / `FESTIVALS` を JSON ソースから再構築（全文上書き） |
+| `index.html` | `<title>` / `<meta description>` / `og:title` / `og:description` / `twitter:description` の件数部分を正規表現で置換（16 箇所程度） |
+| `en/index.html` | 同上（ENサイト用テキスト、15 箇所程度） |
+
+**注意点**:
+
+- `spots.json` / `festivals.json` の編集後に `build_data.py` を流さずコミットすると、`data.js` が古いままになりヒーローの数値カウンタが実態より少なく表示される事故が起きる。実例として 2026-05-27 時点で `spots.json=157` に対し `data.js=142` の状態がコミットされていた。
+- `index.html` / `en/index.html` の件数差分は `build_data.py` が作るものなので、コミットに含めて問題なし。
+- コミット前の件数同期検証コマンドは `docs/workflow.md` 「3.5 build_data.py の副作用」を参照。
+
 ---
 
 ## spots.json スキーマ（JP本体）

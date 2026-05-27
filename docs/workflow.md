@@ -102,6 +102,50 @@ git pull origin main
 
 ---
 
+## 3.5 build_data.py の副作用（必読）
+
+`python3 build_data.py` は単に `data.js` を作るだけではなく、サイト全体のメタ情報まで自動同期します。**実行後に意図しないファイルが diff に出ても焦らないこと**。
+
+### 自動で書き換わるファイル
+
+| ファイル | 書き換え内容 | 機構 |
+|---|---|---|
+| `data.js` | `SPOTS` / `FESTIVALS` 配列を `spots.json` + `festivals.json` + EN訳 + photos + access から再構築 | 全文上書き |
+| `index.html` | `<title>` / `<meta description>` / `og:title` / `og:description` / `twitter:description` の **件数表記** | 正規表現で部分置換（16 箇所程度） |
+| `en/index.html` | 同上（EN サイト用テキスト） | 同上（15 箇所程度） |
+
+### 件数表記の置換パターン例
+
+- `珍スポット157＆奇祭159百景` の数字部分
+- `珍スポット157件と奇祭159件` の数字部分
+- `157 strange spots and 159 wild festivals` の数字部分
+
+### 運用上の注意
+
+1. **`spots.json` / `festivals.json` を編集したら必ず `build_data.py` を流してから commit する**
+   - 流さずに JSON だけコミットすると `data.js` が古いままになり、ヒーローの数値カウンタが実態より少なく表示される事故が起きる（実例: 2026-05-27 時点で `spots.json=157` に対し `data.js=142` の状態がコミットされていた）
+2. **コミットには JSON と `data.js`、必要なら `index.html` / `en/index.html` の差分もまとめて含める**
+   - HTML の件数差分は `build_data.py` が作るものなので、レビュー時は無害な変更として扱う
+3. **`data.js` は手動編集禁止**。常に `build_data.py` の出力を信頼ソースとする
+
+### 件数同期の検証ワンライナー
+
+コミット前に `spots.json` と `data.js` の件数が揃っているか確認:
+
+```bash
+python3 -c "
+import json, re
+spots = json.load(open('spots.json'))
+spots_n = len(spots.get('spots', spots) if isinstance(spots, dict) else spots)
+src = open('data.js').read()
+m = re.search(r'const SPOTS = (\[.*?\]);', src, re.DOTALL)
+datajs_n = len(json.loads(m.group(1))) if m else None
+print(f'spots.json={spots_n} / data.js={datajs_n} / match={spots_n == datajs_n}')
+"
+```
+
+---
+
 ## 4. ID 連番管理
 
 `spots.json` の `id` は `spot-NNN`（ゼロ埋め3桁）形式。
