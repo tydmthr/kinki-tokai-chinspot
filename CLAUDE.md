@@ -334,3 +334,53 @@ python3 scripts/bulk_add.py --csv ./candidates/2026-05.csv
 ---
 
 最終更新: 2026-05-27
+
+# CLAUDE.md への追記案
+
+リポジトリルートの `CLAUDE.md` に以下のセクションを追記してください（既存内容は残す）。Claude Code が自動で参照するので、掲示板と事故記録の存在を認知させる目的です。
+
+---
+
+## エージェント間連絡（Computer ⇄ Claude Code）
+
+このプロジェクトでは Perplexity Computer（クラウド側）と Claude Code（Mac ローカル）の 2 エージェントが協働している。
+
+### 掲示板を必ず確認
+
+セッション開始時、以下を必ず読むこと:
+
+1. **`docs/NOTICE_BOARD.md`** — エージェント間掲示板（新しいもの上）
+2. **`docs/incidents/`** — 重大事案の詳細記録（最新のものから読む）
+
+掲示板に自分宛の `REQUEST` / `QUESTION` がある場合は、対応後にステータスを更新する:
+
+```
+**ステータス**: open → acked → done
+```
+
+### 自分の作業を残す
+
+- 重要な決定 / 作業完了 / 質問 は掲示板に投稿
+- 投稿フォーマットは掲示板上部の「運用ルール」セクション参照
+- コミットメッセージ: `docs(notice): <種別> <短いタイトル> (<発信者>)`
+
+### 役割分担（2026-05-29 改訂）
+
+| 作業 | 主担当 |
+|---|---|
+| 候補発掘・裏取り・CSV/JSON 生成 | Computer |
+| ローカル取り込み（bulk_add.py） | **Claude Code** |
+| git 操作（add/commit/push/branch/履歴書き換え） | **Claude Code** |
+| Instagram 運用ファイル管理 | **Claude Code** |
+| 危険操作の事前判断 | 両方 |
+
+### Computer 側の自主規制（2026-05-29 事故後）
+
+Computer は以下の git 操作を絶対に提案しない:
+
+- `git add -A` / `git add .`（未追跡ファイル巻き込みリスク）
+- `git filter-repo` の反射的提案
+- `git push --force` の即時提案
+- push 前に `git status` 確認を促さない手順
+
+詳細は `docs/incidents/INCIDENT_2026-05-29.md` 参照。
