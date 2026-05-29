@@ -1,3 +1,8 @@
 .DS_Store
 *.log
 node_modules/
+
+# Local-only: source photos and Instagram drafts
+# Added 2026-05-29 after Batch 2 push incident (see docs/incidents/INCIDENT_2026-05-29.md)
+photos/
+instagram/drafts/
