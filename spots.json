@@ -7001,5 +7001,166 @@
       "「湯垢離の地巡り」榊原温泉郷ウォーキングコース沿線の景観"
     ],
     "from_kameyama": "車で約40分（東名阪自動車道→亀山IC→伊勢自動車道→久居IC→国道165号→榊原町浜田）。公道から外観観覧のみ。敷地内立入禁止。"
+  },
+  {
+    "id": "spot-158",
+    "name": "海向寺",
+    "name_kana": "かいこうじ",
+    "category": "folk",
+    "prefecture": "山形県",
+    "city": "酒田市",
+    "address": "〒998-0037 山形県酒田市日吉町2-7-12",
+    "lat": 38.91934,
+    "lng": 139.830266,
+    "status": "現存",
+    "fee": "大人500円（団体20名以上400円）・高校生300円・小中学生200円",
+    "hours": "9:00〜17:00（11月〜3月は9:00〜16:00）・火曜定休・1月1日〜3日休",
+    "summary": "砂高山海向寺は真言宗智山派の寺院で・弘法大師空海が開いたと伝えられる。庄内地方に現存する六体の即身仏のうち二体を安置する国内唯一の寺として知られる。忠海上人は1755年（宝暦5年）・円明海上人は1822年（文政5年）にそれぞれ湯殿山仙人沢での千日修行を経て入定し・即身仏となった。五穀断ち・十穀断ちという厳しい食行を重ねながら漆を飲み体内を防腐処理するという修行の末に成就した即身仏は・現在も即身堂に安置され・参拝者を迎えている。縁日（夜会式）の8月1日〜3日には夜間拝観も許される。江戸時代の民間信仰と山岳修験の交差点として・庄内における即身仏信仰の核心的な遺産である。",
+    "highlights": [
+      "日本国内で二体の即身仏（忠海上人・円明海上人）を同一境内に安置する唯一の寺院",
+      "湯殿山を中心とする出羽三山修験信仰と即身成仏思想の結節点",
+      "縁日（8月1日〜3日）の夜間特別拝観と・即身仏の遺品展示"
+    ],
+    "from_kameyama": "三重県亀山市起点で車約9時間（東名阪自動車道・名神高速・北陸道・東北中央道経由で山形県内へ・または東名高速・東北道・山形道・日本海東北道経由で酒田ICまで）",
+    "name_en": "Kaikoji Temple (Two Sokushinbutsu)",
+    "official_url": "http://kaikouji-sakata.jimdo.com/",
+    "visit_priority": "medium",
+    "safety_level": "safe",
+    "last_verified": "2026-05-28",
+    "reference_urls": [
+      "https://www.city.sakata.lg.jp/bunka/bunkazai/rekishibunkashisetsu/kaikouji.html",
+      "https://sakata-kankou.com/spot/30117",
+      "https://yamagatakanko.com/attractions/detail_1540.html",
+      "https://ja.wikipedia.org/wiki/%E6%B5%B7%E5%90%91%E5%AF%BA"
+    ]
+  },
+  {
+    "id": "spot-159",
+    "name": "鈴立山若松寺 ムカサリ絵馬堂",
+    "name_kana": "すずたてさんわかまつでら むかさりえまどう",
+    "category": "folk",
+    "prefecture": "山形県",
+    "city": "天童市",
+    "address": "〒994-0021 山形県天童市大字山元2205-1",
+    "lat": 38.365267,
+    "lng": 140.419267,
+    "status": "現存",
+    "fee": "境内自由（絵馬堂見学無料・ムカサリ絵馬奉納は永代供養料3万円〜）",
+    "hours": "4月〜9月 8:00〜17:00・10月〜3月 8:00〜16:00（天候により変動あり）",
+    "summary": "奈良時代の和銅元年（708年）に行基菩薩が開山したと伝える天台宗の古刹で・「西の出雲・東の若松」と称されるほど縁結び信仰で知られる。境内絵馬堂には・東アジアの「冥婚」習俗に由来するムカサリ絵馬が約1,300点以上奉納される。「ムカサリ」とは山形方言で婚礼を意味し・未婚死者のために親族が架空の配偶者との婚礼場面を描いて供養する形式。明治後期に村山地方で始まった習俗は現在も継続し・全国から奉納が寄せられている。観音堂（室町後期建立）は国重要文化財。昭和63年に絵馬堂が整備された。",
+    "highlights": [
+      "未婚死者への冥婚信仰に基づくムカサリ絵馬を約1,300点以上収蔵する国内最大規模の絵馬堂",
+      "室町時代後期建立の観音堂（国指定重要文化財）を有する・最上三十三観音霊場の第一番礼所",
+      "明治期から現代まで継続する生きた民俗習俗として・様式の変遷（婚礼全景→新郎新婦のみ）が観察できる"
+    ],
+    "from_kameyama": "三重県亀山市起点で車約8時間30分（東名阪・名神・東北道・山形道・東北中央道 天童IC経由）",
+    "name_en": "Wakamatsuyama Jakushoji Temple – Mukaesari Ema Hall (Posthumous Marriage Votive Paintings)",
+    "official_url": "https://www.wakamatu-kannon.jp/",
+    "visit_priority": "medium",
+    "safety_level": "safe",
+    "last_verified": "2026-05-28",
+    "reference_urls": [
+      "https://www.wakamatu-kannon.jp/ema.html",
+      "https://www.city.tendo.yamagata.jp/tourism/history/jakushoji.html",
+      "https://www.smt.jp/projects/dom/2023/08/2-1.html",
+      "https://yamagatakanko.com/attractions/detail_1575.html"
+    ]
+  },
+  {
+    "id": "spot-160",
+    "name": "赤倉霊場",
+    "name_kana": "あかくられいじょう",
+    "category": "folk",
+    "prefecture": "青森県",
+    "city": "弘前市",
+    "address": "青森県弘前市大字百沢字勝山大森（弘前市勝山大森・岩木山北東中腹・国有林内）",
+    "lat": 40.696438,
+    "lng": 140.336813,
+    "status": "現存",
+    "fee": "無料（霊堂内部は各カミサマによる）",
+    "hours": "境内自由（随時参拝可能）",
+    "summary": "岩木山（津軽富士）の北東中腹に広がる山岳信仰の聖地。中世以前から鬼伝説と岩木山信仰の修行地として知られ・近代以降は津軽地方独自の民間巫者「カミサマ（ゴミソ）」の聖地として発展した。カミサマとは神霊を憑依させカミオロシを行う憑依巫者で・昭和30〜40年代に28棟の霊堂が国有林内に建立された。岩木山神社（公認）とは対照的に・権力の庇護外に置かれた民衆信仰の空間であり・現在も霊堂群が残る。鬼神が棲む赤倉山の伝承は・津軽各地の鬼伝説とも深く結びつく。",
+    "highlights": [
+      "津軽の民間巫者「カミサマ（ゴミソ）」の修行聖地として・昭和期建立の霊堂28棟が国有林内に現存",
+      "中世以前の鬼伝説・岩木山修験道から近代の憑依巫俗まで・信仰形態の重層的な変遷が読み取れる",
+      "神社庁非公認の民間信仰施設として・近代国家の宗教統制から切り離された独自の聖地空間"
+    ],
+    "from_kameyama": "三重県亀山市起点で車約11時間（東名阪・名神・東北道・津軽道・弘前北IC経由で岩木山環状線へ）",
+    "name_en": "Akakura Sacred Site (Shamanic Pilgrimage Ground on Mt. Iwaki)",
+    "visit_priority": "medium",
+    "safety_level": "caution",
+    "safety_note": "山岳国有林内に位置し・積雪期は通行不可。参拝時は現地の状況を事前確認のこと。霊堂は私的施設のため無断立入不可の棟あり。",
+    "last_verified": "2026-05-28",
+    "reference_urls": [
+      "https://aomori-tourism.com/spot/detail_9910.html",
+      "http://www.komainu.org/aomori/hirosaki/akakura/akakura.html",
+      "https://www.city.hirosaki.aomori.jp/jouhou/seido/renkei/kenkyu25_3.pdf",
+      "https://www2.kokugakuin.ac.jp/21coe/modules/wfsection/article.php@articleid=198.html"
+    ]
+  },
+  {
+    "id": "spot-161",
+    "name": "田谷山定泉寺 瑜伽洞（田谷の洞窟）",
+    "name_kana": "たやさんじょうせんじ ゆがどう（たやのどうくつ）",
+    "category": "folk",
+    "prefecture": "神奈川県",
+    "city": "横浜市栄区",
+    "address": "〒244-0844 神奈川県横浜市栄区田谷町1501",
+    "lat": 35.367986,
+    "lng": 139.522167,
+    "status": "現存",
+    "fee": "大人400円・中高生200円・小学生100円（保護者同伴のみ受付）",
+    "hours": "9:00〜16:30（最終受付16:00）・無休",
+    "summary": "真言宗大覚寺派・定泉寺境内地下の人工洞窟。正式名称は田谷山瑜伽洞。鎌倉時代初期に鶴ヶ岡二十五坊の真言密教修行道場として開鑿されたのが直接の起源で・天保年間に再整備・拡大された。粘板岩の一枚岩を刳り貫いた洞内は上下三段・総延長約1キロメートルに及び・壁面と天井には本尊一願弘法大師・両界曼荼羅諸尊・十八羅漢ほか約250点の彫刻壁画が行者の手で刻まれている。四国・西国等の霊場本尊を集約した巡礼代替空間として機能し・1990年に横浜市登録史跡に指定。",
+    "highlights": [
+      "鎌倉時代初期開鑿の真言密教修行道場跡で・約250点の仏教浮彫レリーフが壁面・天井を埋める",
+      "上下三段構造・総延長約1キロメートルに及ぶ国内最大級の人工修行洞窟（横浜市登録地域文化財）",
+      "四国・西国・坂東・秩父各霊場の本尊を一堂に凝縮した「巡礼代替」空間としての機能を現代も維持"
+    ],
+    "from_kameyama": "三重県亀山市起点で車約3時間（東名阪・名神・東名高速・横浜新道上矢部IC経由・国道1号で田谷町へ）",
+    "name_en": "Taya-no-Dokutsu (Yugado Cave at Josenji Temple) – Kamakura-Period Esoteric Buddhist Training Cave",
+    "official_url": "http://taya-josenji.jp/",
+    "visit_priority": "medium",
+    "safety_level": "safe",
+    "last_verified": "2026-05-28",
+    "reference_urls": [
+      "http://taya-josenji.jp",
+      "https://ja.wikipedia.org/wiki/%E7%91%9C%E4%BC%BD%E6%B4%9E",
+      "https://congrant.com/project/ecpt/4210",
+      "https://www.geolab.jp/documents/science/science-102/"
+    ]
+  },
+  {
+    "id": "spot-162",
+    "name": "森のしずく公園（旧・慰霊の森）",
+    "name_kana": "もりのしずくこうえん（きゅう・いれいのもり）",
+    "category": "horror",
+    "prefecture": "岩手県",
+    "city": "岩手郡雫石町",
+    "address": "〒020-0572 岩手県岩手郡雫石町西安庭第47地割",
+    "lat": 39.657111,
+    "lng": 141.001917,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "常時開放（24時間）",
+    "summary": "1971年7月30日・岩手県雫石町上空で発生した全日空58便と航空自衛隊訓練機の空中衝突事故で犠牲となった162名を慰霊する施設。旅客機は高度約8,500メートルで空中分解し・主要残骸が現地の山腹に落下した。1972年に慰霊碑・1975年に慰霊堂と航空安全祈念の塔が完成し・2003年の三十三回忌まで毎年慰霊祭が開催された。2019年の大規模改修を経て・2020年5月に「森のしずく公園」へ改称。事故後に植林された樹齢の若い慰霊林は・航空安全史の記憶を緑として刻む場となっている。",
+    "highlights": [
+      "日本の航空史上最大規模の死者数を記録した1971年全日空雫石衝突事故（162名犠牲）の主要墜落地点に整備された慰霊施設",
+      "慰霊碑・慰霊堂・航空安全祈念の塔など複数の記念構造物と・事故後に植林された慰霊林（樹齢の若い二次林）",
+      "2020年「森のしずく公園」改称後も遺族・全日空・雫石町が共同で維持管理し・航空安全教育の場として機能"
+    ],
+    "from_kameyama": "三重県亀山市起点で車約9時間（東名阪・名神・東北道・秋田道・盛岡ICまたは雫石スマートIC経由）",
+    "name_en": "Mori no Shizuku Park (former Irei no Mori – Memorial Forest for 1971 ANA Shizukuishi Midair Collision)",
+    "official_url": "https://shizukuisi.wixsite.com/mysite/blank-7",
+    "visit_priority": "medium",
+    "safety_level": "safe",
+    "safety_note": "慰霊施設であるため・静粛かつ礼節ある行動が求められる。夜間は照明がなく暗いため・日中の訪問を推奨。",
+    "last_verified": "2026-05-28",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E5%85%A8%E6%97%A5%E7%A9%BA%E6%A9%9F%E9%9B%AB%E7%9F%B3%E8%A1%9D%E7%AA%81%E4%BA%8B%E6%95%85",
+      "https://shizukuisi.wixsite.com/mysite/blank-7",
+      "https://fields.canpan.info/organization/detail/1141046589",
+      "https://www2.nhk.or.jp/archives/movies/?id=D0009030104_00000"
+    ]
   }
 ]
