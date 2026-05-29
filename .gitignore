@@ -2,7 +2,9 @@
 *.log
 node_modules/
 
-# Local-only: source photos and Instagram drafts
+# Local-only: source photos and Instagram drafts/assets
 # Added 2026-05-29 after Batch 2 push incident (see docs/incidents/INCIDENT_2026-05-29.md)
+# instagram/assets/ added 2026-05-30 (see DECISION in docs/NOTICE_BOARD.md)
 photos/
 instagram/drafts/
+instagram/assets/
