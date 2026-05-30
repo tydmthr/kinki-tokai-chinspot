@@ -369,6 +369,26 @@ Claude Code 側で決まったら、本掲示板に DECISION として書き残�
 
 ---
 
+### [2026-05-30 19:00 JST] Computer NOTICE データ振り分けルールを明文化
+
+**ルール**: 祭事・神事・年中行事は `festivals.json` に格納し、`spots.json` には格納しない。
+
+**背景**: 過去の cron (33ed642c, 現在は削除済) によるバッチ追加で、本来 festivals.json に入るべき神事・祭 9件 (spot-135/137-141/149-152) が spots.json に誤って追加されていた。ユーザーから「地図フィルターで『施設のみ』にしても祭が残る」と指摘を受け、調査の結果民俗文化財・神社神事としては festivals.json が適切と判断。
+
+**対応**:
+1. 9件を festivals.json に移行 (fest-163〜fest-171, commit 3fbd949)
+2. 英訳を festivals_en.json に追加 (commit cdaa7db)
+3. `docs/schema.md` 1.5 に判定基準を記載 (本 commit)
+
+**今後の依頼**:
+- Claude Code が CSV から bulk_add する際も、`name` に「祭」「神事」「祇園」「だんじり」「花祭」「嫁入り」「曳き」「しめ切り」等が含まれるレコードは festivals.json へ振り分けてほしい。
+- 将来 cron を再作成する場合も prompt に本ルールを明記して適切な JSON へルーティングさせる。
+
+**ステータス**: done
+**関連**: commit 3fbd949 / cdaa7db, docs/schema.md §1.5
+
+---
+
 ## アーカイブ
 
 四半期ごとに `done` 案件を切り出す予定。現時点では未生成。
