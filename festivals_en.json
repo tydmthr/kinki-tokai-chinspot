@@ -7371,5 +7371,378 @@
     ],
     "origin_en": "The original Jōshi Sekku custom — floating paper dolls down rivers or seas to send away defilement — shifted nationally toward the 'display' form of Hinamatsuri from the early modern period onwards. Mochigase-chō, however, preserved the archaic floating form, with paper dolls, peach blossoms, and rapeseed flowers set on straw rafts and launched into the Sendai River on the 3rd of the third lunar month. It is preserved as a Tottori Prefectural Designated Intangible Folk Cultural Property and is one of the leading transmitted examples of nagashi-bina.",
     "viewing_notes_en": "View the floating from the prepared spectator zones along the riverbank. The launch point has current; follow the directions of local staff and security regarding bank access. The Mochigase Nagashi-bina Hall, an exhibition facility for the rite, can be visited on the same day. Confirm the year's date and launch point with Tottori City in advance. From JR Tottori, take the Inbi Line to Mochigase Station."
+  },
+  {
+    "id": "fest-163",
+    "name": "上野天神祭のだんじり行事",
+    "name_kana": "うえのてんじんさいのだんじりぎょうじ",
+    "shrine": "菅原神社（上野天神宮）",
+    "category": "weird",
+    "prefecture": "三重県",
+    "city": "伊賀市",
+    "lat": 34.76628,
+    "lng": 136.131492,
+    "date_2026": "2026-10-23",
+    "date_2026_end": "2026-10-25",
+    "date_pattern": "毎年10月25日に最も近い金土日（本祭は日曜）",
+    "origin": "上野天神宮（菅原神社）の秋祭りは、1660年（万治3年）に天神祭礼として再興され、1662年（寛文2年）に初めて城内を渡御した。鬼行列の起源は1690年（元禄3年）頃の記録に見える三鬼会の「役行者列」に遡り、1798年（寛政10年）頃に「鎮西八郎為朝列」が加わって現在の形が整った。だんじり9基と百数十体の能狂言面を被る「ひょろつき鬼」の行列が旧城下町を三日間にわたって巡行する形式は、伊賀上野の城下町文化と神社祭礼が融合した近世都市祭礼の典型例である。2002年に国の重要無形民俗文化財に指定され、2016年にはユネスコ無形文化遺産に登録された。",
+    "summary": "伊賀市・菅原神社（上野天神宮）の秋季例祭。百数十体の能狂言面を被った鬼行列（ひょろつき鬼）と9基のだんじりが旧城下町を巡行する。本祭（神幸祭）は10月25日に最も近い日曜日、その前日・前々日の三日間開催。鬼行列を中心とする「上野天神祭のダンジリ行事」は国の重要無形民俗文化財に指定され、2016年（平成28年）にはユネスコ無形文化遺産にも登録された。",
+    "highlights": [
+      "百数十体の能狂言面を被る鬼行列（ひょろつき鬼）",
+      "9基のだんじりが旧城下町を三日間巡行",
+      "国の重要無形民俗文化財・ユネスコ無形文化遺産登録（2016年）"
+    ],
+    "viewing_notes": "観覧無料。本祭（神幸祭）の日曜は午前9時に東の御旅所を出発し、本町通り・二之町通りを経て午後4時頃終了。だんじり蔵の宵山展示は宵々山（金曜）から楽しめる。最寄りは近鉄上野市駅（徒歩約5分）。駐車場は城下町中心部には少ないため公共交通を推奨。",
+    "official_url": "https://www.ueno-tenjin-matsuri.jp/",
+    "reference_urls": [
+      "https://www.ueno-tenjin-matsuri.jp/",
+      "https://www.sugawara25.jp/",
+      "https://www.kankomie.or.jp/spot/2963",
+      "https://www.iga-younet.co.jp/2026/04/15/113672/"
+    ],
+    "name_en": "Ueno Tenjin Festival — Danjiri Float Procession (Ueno Tenjin-sai no Danjiri Gyōji)",
+    "shrine_en": "Sugawara Jinja (Ueno Tenjin-gū, Sugawara Shrine)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Iga City",
+    "date_pattern_en": "Three-day festival; main procession (shinkōsai) on the Sunday closest to October 25, preceded by two preparatory evenings (Friday and Saturday)",
+    "summary_en": "The Ueno Tenjin Festival is the principal autumn festival of Sugawara Jinja (Ueno Tenjin-gū) in Iga City, Mie Prefecture. Its most distinctive element is a procession of nine danjiri (elaborately decorated festival floats) accompanied by a column of more than one hundred demons (hyōrotsuki-oni) wearing nō and kyōgen masks, which winds through the former castle-town streets over three days. The festival was re-established as a formal Tenjin ritual in Manbun 3 (1660) and was first permitted to process within the castle precinct in Kanbun 2 (1662); the demon procession is traceable to a record of the Sankikai's \"En no Gyōja column\" around Genroku 3 (1690), with the \"Chinzei Hachirō Tametomo column\" added around Kansei 10 (1798), establishing the festival's present form. The festival was designated a Nationally Designated Important Intangible Folk Cultural Property in 2002 and inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity in 2016 (Heisei 28).",
+    "highlights_en": [
+      "Procession of more than one hundred demons (hyōrotsuki-oni) wearing nō and kyōgen masks through the old castle-town streets",
+      "Nine danjiri festival floats parading across three consecutive days",
+      "Nationally Designated Important Intangible Folk Cultural Property and UNESCO Intangible Cultural Heritage (inscribed 2016)"
+    ],
+    "origin_en": "The autumn festival of Ueno Tenjin-gū was re-inaugurated as a Tenjin rite in Manbun 3 (1660) and first processed within the castle grounds in Kanbun 2 (1662). The demon procession, which constitutes the festival's most celebrated element, can be traced to the Sankikai's \"En no Gyōja column\" recorded around Genroku 3 (1690); the \"Chinzei Hachirō Tametomo column\" was incorporated around Kansei 10 (1798), completing the festival in its current configuration. The integration of nine danjiri floats and a large masked demon column represents a characteristic form of early-modern urban festival culture in which castle-town civic identity and Shinto shrine ritual became mutually reinforcing.",
+    "viewing_notes_en": "Free admission. On the main festival day (Sunday), the procession departs from the eastern otabisho (temporary shrine) at approximately 9:00 AM, travels along Honmachi-dōri and Ninomachi-dōri, and concludes around 4:00 PM. The danjiri float storehouses hold a yoidoshi (eve-of-festival) display from the Friday evening onward. Nearest access: Kintetsu Ueno-shi Station (approximately 5 minutes on foot). Parking in the castle-town center is limited; public transport is strongly recommended."
+  },
+  {
+    "id": "fest-164",
+    "name": "狐の嫁入り神事",
+    "name_kana": "きつねのよめいりしんじ",
+    "shrine": "海山道開運稲荷神社（海山道神社境内社）",
+    "category": "animal",
+    "prefecture": "三重県",
+    "city": "四日市市",
+    "lat": 34.943049,
+    "lng": 136.621646,
+    "date_2026": "2026-02-03",
+    "date_2026_end": null,
+    "date_pattern": "毎年2月3日（節分）",
+    "origin": "海山道神社の節分行事「追儺の鬼はらい」として古くから伝わる厄祓儀礼に起源を持ち、江戸時代に行われていた追儺が戦後に現在の形で甦ったと伝えられる。神使（みつかい）の総本家・助四郎家の小狐助太郎のもとへ、海山道開運稲荷神社の神使・福徳家の娘狐福子がお嫁入りするという設定のもと、新郎新婦・仲人・親族が正装して婚礼道中を再現する。狐が稲荷神の神使として豊穣・開運を司るという民俗観念と、節分の邪気祓い信仰が結びついた行事である。",
+    "summary": "四日市市・海山道神社境内の海山道開運稲荷神社で毎年2月3日節分に行われる神事。白無垢の花嫁と狐面を被った行列が、神社近隣の街路から境内まで練り歩き「狐の婚礼」を再現する。追儺の厄払い行事として江戸時代から続くとされ、節分の豆まきとあわせて2回（2026年は14:30出発の行列・15:00の豆まき等）実施される。",
+    "highlights": [
+      "白無垢花嫁と狐面行列が市街地を練り歩く視覚的に強い民俗神事",
+      "節分日（2月3日）開催・追儺と稲荷信仰が融合した厄祓行事",
+      "近鉄海山道駅前の好立地で撮影アクセス良好"
+    ],
+    "viewing_notes": "観覧・参加無料。2026年は行列出発14:30、豆まきは11:30・13:00・15:00・16:00の4回実施予定。近鉄名古屋線「海山道駅」下車すぐ。駐車場は境内周辺に限られるため電車利用を推奨。",
+    "official_url": "https://www.miyamado-jinja.com/",
+    "reference_urls": [
+      "https://www.miyamado-jinja.com/",
+      "https://mienabi.com/yokkaichi-kitsune-yomeiri/",
+      "https://ja.wikipedia.org/wiki/%E6%B5%B7%E5%B1%B1%E9%81%93%E7%A5%9E%E7%A4%BE",
+      "https://iko-yo.net/event_lites/detail/9613"
+    ],
+    "name_en": "Kitsune no Yomeiri Shinji — Fox Wedding Ritual (Kitsune no Yomeiri Shinji)",
+    "shrine_en": "Kaiyamichi Kaiun Inari Jinja (Kaiyamichi Kaiun Inari Shrine, subsidiary shrine within Kaiyamichi Jinja precinct)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Yokkaichi City",
+    "date_pattern_en": "Annually on Setsubun, February 3rd",
+    "summary_en": "Each year on Setsubun (February 3rd), Kaiyamichi Jinja in Yokkaichi City stages a ritual re-enactment of a fox wedding in which a bride fox (Fukuko, daughter of the Fukutoku household, divine messenger of Kaiyamichi Kaiun Inari Jinja) is ceremonially wed to a groom fox (Suketarō of the Sukeshirō household, chief divine messenger). Participants in formal dress — bride, groom, go-between, and relatives — process in bridal procession attire through the surrounding streets and into the shrine precinct. The ritual draws on the folk-religious identification of the fox as the divine messenger (shinshi) of Inari, guardian of agricultural abundance and good fortune, combined with the Setsubun tradition of oni-harai (demon expulsion); it is understood as both a purification rite and a re-enactment of the mythological bond between fox messengers. The present form is said to derive from an oni-harai (tsuina) rite of the Edo period that was revived after the war.",
+    "highlights_en": [
+      "White-robed fox bride and fox-masked wedding procession parading through city streets to the shrine precinct",
+      "Held on Setsubun (February 3rd); a fusion of tsuina demon-expulsion tradition and Inari fox-messenger belief",
+      "Excellent photographic access from Kintetsu Kaiyamichi Station immediately adjacent to the shrine"
+    ],
+    "origin_en": "The ritual is said to originate in an Edo-period oni-harai (tsuina, demon-expulsion rite) associated with Kaiyamichi Jinja's Setsubun observances, which was revived in its current wedding-procession form after World War II. The narrative framing — in which the fox messenger of the Sukeshirō household takes as bride the fox daughter of the Fukutoku household — reflects the folk-religious concept of the fox as the mediating divine messenger between the human community and the Inari deity, whose patronage encompasses agricultural fertility, commercial fortune, and the warding off of misfortune.",
+    "viewing_notes_en": "Free admission. The bridal procession departs at approximately 2:30 PM; bean-throwing ceremonies (mamemaki) are held at approximately 11:30 AM, 1:00 PM, 3:00 PM, and 4:00 PM. Nearest access: Kintetsu Nagoya Line, Kaiyamichi Station (immediately adjacent). Limited parking around the precinct; train access strongly recommended."
+  },
+  {
+    "id": "fest-165",
+    "name": "山神獅子舞神事",
+    "name_kana": "やまがみししまいしんじ",
+    "shrine": "山神山田寺（臨済宗南禅寺派）",
+    "category": "weird",
+    "prefecture": "三重県",
+    "city": "度会郡玉城町",
+    "lat": 34.464923,
+    "lng": 136.60643,
+    "date_2026": "2026-01-25",
+    "date_2026_end": null,
+    "date_pattern": "毎年1月第4日曜",
+    "origin": "室町時代の弘治元年（1555年）頃に制作されたと伝えられる雌雄2頭の獅子頭（三重県有形文化財）を用いる、400年以上の歴史を持つ神事。かつてこの地に天然痘が流行した際、悪疫退散を祈願して始まったと伝えられる。神事は臨済宗の寺院・山田寺の境内で行われ、住職の大般若祈祷の後、黒面・赤面の天狗と獅子が登場する構成は、仏教と民間信仰が習合した近世以前の形式を今日まで伝えている。三重県の無形民俗文化財および有形文化財（獅子頭）の両面で指定を受けている。",
+    "summary": "度会郡玉城町山神の山田寺（臨済宗）境内で毎年1月第4日曜に開催される獅子舞神事。黒面・赤面の天狗が登場すると観客は水に濡らした松ぼっくりを天狗に向けて投げつけ、天狗が反撃して子どもを追いかける参加型の所作で悪疫退散を祈願する。弘治元年（1555年）作の獅子頭が現役で使用されており、1965年（昭和40年）に三重県無形民俗文化財に指定された。",
+    "highlights": [
+      "観客が水に濡らした松ぼっくりを天狗に投げつける参加型神事",
+      "弘治元年（1555年）作の獅子頭が現役使用（三重県有形文化財）",
+      "仏教寺院（臨済宗）で行われる異色の獅子舞・天狗神事"
+    ],
+    "viewing_notes": "観覧無料。2026年は1月25日（日）開催見込み（要事前確認）。駐車場あり。会場の山田寺は玉城町山神271。玉城ICから車で約10分。例年アマチュアカメラマンが100人程度集まるため、早めの到着を推奨。",
+    "official_url": "https://www.kankomie.or.jp/event/35106",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/event/35106",
+      "https://www.kouryu.or.jp/festival/detail/24461/5814/",
+      "https://news.yahoo.co.jp/expert/articles/aeed7e476c27e7620086e2ad73ac0b5f66c132b1"
+    ],
+    "name_en": "Sanjin Shishimai Shinji — Mountain-God Lion Dance Ritual (Sanjin Shishimai Shinji)",
+    "shrine_en": "Sanjin Yamada-dera (Yamada Temple, Rinzai Sect, Nanzenji School)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Watarai District, Tamaki Town",
+    "date_pattern_en": "Fourth Sunday of January each year",
+    "summary_en": "Conducted annually on the fourth Sunday of January at Yamada-dera (a Rinzai Buddhist temple) in the Sanjin district of Tamaki Town, Watarai District, Mie Prefecture, this ritual lion dance (shishimai) has a documented history of more than four hundred years and employs a pair of male and female lion heads (shishi-gashira) believed to have been crafted around Kōji 1 (1555), now designated a Mie Prefectural Tangible Cultural Property. Following a Dai-hannya sūtra prayer conducted by the resident priest, performers wearing black-faced and red-faced tengu (mountain demon) masks appear; audience members then pelt the tengu with water-soaked pine cones, provoking the tengu to retaliate by chasing children through the crowd. The combination of a Buddhist ritual context, tengu iconography, and participatory audience combat reflects a pre-modern syncretic form in which Buddhist practice and folk belief remain integrated. The ritual was designated a Mie Prefectural Intangible Folk Cultural Property in 1965 (Shōwa 40).",
+    "highlights_en": [
+      "Audience members hurl water-soaked pine cones at tengu performers in a participatory purification ritual",
+      "Lion heads (shishi-gashira) crafted around Kōji 1 (1555) still in active ceremonial use — Mie Prefectural Tangible Cultural Property",
+      "An unusual lion dance performed within a Rinzai Buddhist temple precinct, integrating tengu iconography and folk exorcism"
+    ],
+    "origin_en": "The ritual is traditionally said to have originated when a plague struck the Sanjin district; prayers for the expulsion of the epidemic were offered through the lighting of torches and the commissioning of a lion dance at Yamada-dera. The extant pair of lion heads is believed to date to around Kōji 1 (1555), establishing the ritual's documented history at more than four centuries. The structure of the ceremony — a Rinzai Buddhist Dai-hannya prayer followed by the appearance of tengu and shishi performers — reflects a pre-modern syncretic form that survived the Meiji-era separation of Buddhism and Shinto (shinbutsu bunri) intact.",
+    "viewing_notes_en": "Free admission. The 2026 performance is expected on January 25th (Sunday); confirmation in advance is recommended. A parking area is available on site. Yamada-dera is located at 271 Sanjin, Tamaki Town, Watarai District. Approximately 10 minutes by car from the Tamaki Interchange. Amateur photographers typically number around one hundred; early arrival is advised."
+  },
+  {
+    "id": "fest-166",
+    "name": "わらじ曳き神事（わらじ祭り）",
+    "name_kana": "わらじひきしんじ（わらじまつり）",
+    "shrine": "波切神社",
+    "category": "weird",
+    "prefecture": "三重県",
+    "city": "志摩市",
+    "lat": 34.282574,
+    "lng": 136.891751,
+    "date_2026": "2026-09-05",
+    "date_2026_end": null,
+    "date_pattern": "毎年9月の申の日（最初の申の日が本祭）",
+    "origin": "波切神社の産土神である葦夜権現（韋夜権現）の祭祀に起源を持ち、元禄16年（1703年）に記された古文書に祭りの様式が記録されているが、由来についての明記はない。江戸時代以降、大王崎沖の大王島に住む片目片足の巨人「ダンダラボッチ（ダンダラ法師）」伝説と習合し、葦夜権現が化けた村人が大わらじを「千人力の大男の履物」と見せかけてダンダラボッチを追い払ったという物語が定着した。9月の「申の日」が選ばれるのは「去る（立ち去る）」との語呂合わせとも、台風の季節に海の脅威を鎮める実用的意義があったとも解釈される。1971年（昭和46年）に「波切のわらじ曳き」として三重県無形民俗文化財に指定されている。",
+    "summary": "志摩市大王町波切・波切神社で毎年9月の申の日に行われる海上安全祈願の神事。畳一枚大（縦2m余・横1m余）の大わらじを稚児が曳いて波切岬東側の須場の浜まで運び、沖の大王島方向に流す。ダンダラボッチ伝説に由来する全国的にも珍しい神事で、1971年に三重県無形民俗文化財に指定された。",
+    "highlights": [
+      "畳一枚大の大わらじを稚児が曳いて海へ流す「わらじ流し神事」",
+      "海の怪物ダンダラボッチ（一つ目の巨人）退散伝説に由来",
+      "三重県無形民俗文化財（1971年指定）・全国的にも希少な形式"
+    ],
+    "viewing_notes": "観覧無料。2026年は9月5日（土）の申の日が本祭予定（海へのわらじ流しは平日の場合、翌週末に行われることあり。要確認）。会場は三重県志摩市大王町波切。アクセスは近鉄鵜方駅からバスまたは車。問合せ先：0599-46-0570（大王観光案内所）。",
+    "official_url": "https://www.kanko-shima.com/purpose/16769/",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/event/35099",
+      "https://www.kanko-shima.com/purpose/16769/",
+      "https://ja.wikipedia.org/wiki/%E3%82%8F%E3%82%89%E3%81%98%E6%9B%B3%E3%81%8D"
+    ],
+    "name_en": "Waraji-Hiki Shinji — Giant Straw Sandal Ritual (Waraji-Hiki Shinji / Waraji Matsuri)",
+    "shrine_en": "Namikiri Jinja (Namikiri Shrine)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Shima City, Ōwachō Namikiri",
+    "date_pattern_en": "The Day of the Monkey (saru no hi) in September each year",
+    "summary_en": "Each year on the Day of the Monkey (saru no hi) in September, Namikiri Jinja in Ōwa Town, Shima City, stages a maritime safety ritual in which a giant straw sandal — measuring approximately two meters in length and one meter in width, equivalent to a full tatami mat — is hauled by children in ceremonial dress to Suba-no-hama beach on the eastern shore of Namikiri Cape, then set adrift toward Ōwa Island offshore. The ritual is associated with the legend of the Dandara-bocchi (also known as Dandara-hōshi), a one-eyed, one-legged giant said to inhabit Ōwa Island; according to local tradition, villagers disguised as Ashiya Gongen (the tutelary deity of Namikiri Jinja) persuaded the giant that the enormous sandal belonged to a warrior of supernatural strength, causing it to retreat. The selection of the Day of the Monkey is explained both as a wordplay on the verb saru (\"to leave, to depart\") and as a practical measure against the typhoon season. The ritual was designated a Mie Prefectural Intangible Folk Cultural Property in 1971 (Shōwa 46) under the name \"Namikiri no Waraji-Hiki.\"",
+    "highlights_en": [
+      "Giant straw sandal the size of a tatami mat, hauled by ritual-costumed children to the beach and set adrift offshore",
+      "Rooted in the legend of Dandara-bocchi — a one-eyed giant said to inhabit Ōwa Island — whose retreat is ritually re-enacted",
+      "Mie Prefectural Intangible Folk Cultural Property (designated 1971); one of a small number of such sandal-offering rituals nationally"
+    ],
+    "origin_en": "An early document dated Genroku 16 (1703) records the ritual's form, though it contains no explanation of its origin. From the Edo period onward the rite became associated with the legend of the Dandara-bocchi, a one-eyed, one-legged giant believed to inhabit the offshore Ōwa Island and to threaten the coastal community; the giant straw sandal functions as a visual deception — presented as the footwear of a warrior of overwhelming strength — causing the creature to withdraw. The choice of the Day of the Monkey (saru no hi) in September has been interpreted both as a linguistic pun on the concept of departure and as a response to the seasonal threat posed by typhoons to the fishing community.",
+    "viewing_notes_en": "Free admission. In 2026 the festival is expected on September 5th (Saturday, the Day of the Monkey); when the Day of the Monkey falls on a weekday, the sandal-setting ceremony may be rescheduled to the following weekend — advance confirmation is recommended. The venue is Namikiri Jinja, Ōwa Town, Shima City, Mie Prefecture. Access from Kintetsu Ugata Station by bus or car. Inquiries: Ōwa Tourism Information Center, 0599-46-0570."
+  },
+  {
+    "id": "fest-167",
+    "name": "小向神社 八王子祭（火祭り）",
+    "name_kana": "おぶけじんじゃ はちおうじまつり（ひまつり）",
+    "shrine": "小向神社",
+    "category": "fire",
+    "prefecture": "三重県",
+    "city": "三重郡朝日町",
+    "lat": 35.039069,
+    "lng": 136.662336,
+    "date_2026": "2026-08-13",
+    "date_2026_end": null,
+    "date_pattern": "毎年8月13日夜",
+    "origin": "江戸時代の享保年間（1716〜1736年）、小向地区に疫病が流行した際、八王子の神に疫病退散を祈願して藁束の松明に火をつけて叩き合ったところ疫病が収まったのが起源と伝えられる。八王子の神は天照大神と素戔嗚尊の誓約（うけい）で生まれた五男三女神であり、王子として現れて邪を祓うと信仰された。大松明による虫送りと病魔払いを兼ねた火の祭りとして以来毎年8月13日夜に継承され、かつて中断した際に伝染病が流行ったとの伝承から欠かさず続けられている。三重郡朝日町の無形文化財に指定されている。",
+    "summary": "三重郡朝日町の小向神社に約300年前（享保年間）から伝わる火祭り。毎年8月13日夜、火のついた藁束の松明で上半身裸になった氏子の青年・壮年二組が互いに叩き合い、火の粉を散らしながら病魔を追い払う。最終的に高さ5〜6mの大松明に点火して火柱を上げる。虫送りも兼ねた疫病退散の火祭りで、朝日町無形文化財に指定されている。",
+    "highlights": [
+      "火のついた藁束の松明で氏子同士が叩き合う激烈な身体性の神事",
+      "最終的に高さ5〜6mの大松明に点火し火柱を上げる",
+      "毎年8月13日夜・約300年の歴史・朝日町無形文化財"
+    ],
+    "viewing_notes": "観覧無料。2026年は8月13日（木）夜開催。夜間・火気のため機材保護と安全距離の確保が必要。近鉄「伊勢朝日」駅またはJR「朝日駅」から徒歩約10分。駐車場あり。問合せ：朝日町産業建設課 059-377-5658。",
+    "official_url": "https://obukehachioji.com/",
+    "reference_urls": [
+      "https://obukehachioji.com/",
+      "https://www.kankomie.or.jp/event/9941",
+      "https://www.bunka.pref.mie.lg.jp/minwa/hokusei/asahi/index.htm"
+    ],
+    "name_en": "Komukai Jinja Hachionji-sai — Fire Festival (Hi-Matsuri)",
+    "shrine_en": "Komukai Jinja (Komukai Shrine)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Mie District, Asahi Town",
+    "date_pattern_en": "Annually on the night of August 13th",
+    "summary_en": "Each year on the night of August 13th, Komukai Jinja in Asahi Town, Mie District, stages a fire festival with a history of approximately three hundred years tracing to the Kyōhō era (1716–1736). Two groups of male parishioners — youth and adults — strip to the waist and beat one another with burning bundles of straw, scattering sparks while praying for the expulsion of pestilence. The ritual culminates in the ignition of a large central torch five to six meters in height, producing a substantial pillar of fire. The festival functions simultaneously as a mushiokuri (insect-driving) rite and as a ceremony for warding off epidemic disease. It is designated an Intangible Cultural Property of Asahi Town.",
+    "highlights_en": [
+      "Two groups of bare-chested male parishioners beat one another with burning straw torches, scattering sparks in a physically intense exorcism ritual",
+      "Culminating ignition of a central torch five to six meters tall producing a sustained pillar of fire",
+      "Annually on August 13th; approximately three centuries of continuous practice; designated Intangible Cultural Property of Asahi Town"
+    ],
+    "origin_en": "The festival is said to have originated during the Kyōhō era (1716–1736), when an epidemic broke out in the Komukai district. Parishioners prayed to the deity Hachionji — the five male and three female deities born from the covenant (ukei) between Amaterasu and Susanoo-no-Mikoto, who are venerated as purifiers of malevolence — and, having lit straw torches, beat one another with them until the epidemic subsided. A local tradition holds that when the festival was suspended on one occasion, infectious disease subsequently broke out, reinforcing the community's commitment to uninterrupted annual observance. The ritual has been maintained without interruption each August 13th since that founding occasion.",
+    "viewing_notes_en": "Free admission. In 2026 the festival takes place on August 13th (Thursday) evening. Night-time conditions and open flame require appropriate protection of photographic equipment and maintenance of a safe viewing distance. Access: Kintetsu Ise-Asahi Station or JR Asahi Station, approximately 10 minutes on foot. Parking available. Inquiries: Asahi Town Industrial Construction Division, 059-377-5658."
+  },
+  {
+    "id": "fest-168",
+    "name": "安乗神社 しめ切り神事（注連切り神事）",
+    "name_kana": "あのりじんじゃ しめきりしんじ（しめんきりしんじ）",
+    "shrine": "安乗神社",
+    "category": "weird",
+    "prefecture": "三重県",
+    "city": "志摩市",
+    "lat": 34.358669,
+    "lng": 136.897079,
+    "date_2026": "2026-01-10",
+    "date_2026_end": null,
+    "date_pattern": "毎年1月10日",
+    "origin": "安乗神社（旧称・八幡神社）に戦国時代以前から伝わるとされる正月神事で、正確な起源は文献・資料として残っていない。大蛇に見立てた2本の大しめ縄（長さ8m・中心の太さ1.3m）を日本刀で断ち切る所作は、素盞嗚尊（スサノオノミコト）が八岐大蛇を退治した神話に由来するとも伝えられる。また戦国時代に畔乗城主・三浦新助が旧安乗神社に「野狐丸」という日本刀を奉納した記録があり、刀と神社の関係は中世に遡る。現在の神事は「祷家（とうや）制度」による氏子の当番制で運営され、加用（かよう）と呼ばれる裃姿の若者が日本刀で一番切り・二番切りと続け、奇数回で断ち切ると縁起良しとされる。",
+    "summary": "志摩半島東端・安乗岬の安乗神社で毎年1月10日に行われる正月神事。正月中神前に張った大しめ縄2本（長さ8m・太さ1.3m）を大蛇に見立て、裃姿の「加用（かよう）」と呼ばれる若者が日本刀で断ち切る。悪疫退散・五穀豊穣・大漁満足を祈願し、断ち切られたわらを持ち帰ると虫除けの御利益があるとされる。同日9月15・16日には国指定重要無形民俗文化財「安乗の人形芝居」も奉納される。",
+    "highlights": [
+      "長さ8m・太さ1.3mの大しめ縄2本を日本刀で断ち切る「しめ切り神事」",
+      "奇数回で断ち切れると縁起良し—太刀数で一年の豊凶を占う",
+      "戦国時代以前に遡る祷家（とうや）制度による古式継承"
+    ],
+    "viewing_notes": "境内観覧自由（無料）。2026年は1月10日（土）開催予定。国指定重要無形民俗文化財「安乗の人形芝居」は毎年9月15・16日に同境内の舞台で奉納。安乗岬は志摩市阿児町安乗。近鉄賢島駅からバスまたは車で約30分。駐車場あり（台数に限りあり）。",
+    "official_url": "",
+    "reference_urls": [
+      "https://www.kanko-shima.com/schedule/",
+      "https://www.touken-world.jp/tips/32723/",
+      "https://japan-heritage.bunka.go.jp/ja/culturalproperties/result/4286/",
+      "https://www.city.shima.mie.jp/"
+    ],
+    "name_en": "Anori Jinja Shime-kiri Shinji — Sacred Rope Cutting Ritual (Shime-kiri Shinji / Chigiri Shinji)",
+    "shrine_en": "Anori Jinja (Anori Shrine)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Shima City, Ago Town, Anori",
+    "date_pattern_en": "Annually on January 10th",
+    "summary_en": "Each year on January 10th, Anori Jinja on the eastern tip of the Shima Peninsula conducts a New Year ritual in which two large shimenawa (sacred straw ropes) — each approximately eight meters in length and 1.3 meters in diameter at the center — are ceremonially severed with a Japanese sword. The ropes, displayed before the deity throughout the New Year period, are identified with a great serpent, and the cutting rite is understood to re-enact Susanoo-no-Mikoto's defeat of the eight-headed serpent Yamata-no-Orochi. The swordsmen, known as kayō, are young men in formal kamishimo dress selected under the tōya (parishioner-rotation) system; cuts are made in sequence, and an odd total number of strikes to achieve the cut is considered auspicious, while the severed straw is taken home by attendees as a charm against insects. Anori Jinja also hosts the Nationally Designated Important Intangible Folk Cultural Property \"Anori no Ningyō Shibai\" (Anori puppet theater) on its precinct stage each September 15th and 16th.",
+    "highlights_en": [
+      "Two shimenawa ropes eight meters long and 1.3 meters in diameter at center, severed with a Japanese sword in a serpent-slaying rite",
+      "An odd total number of sword strokes to achieve the cut is considered auspicious — the count is read as an omen for the year",
+      "Transmission via the tōya (parishioner-rotation) system, preserving a pre-modern communal governance form traceable to at least the Sengoku period"
+    ],
+    "origin_en": "The ritual is documented at Anori Jinja (formerly known as Hachiman Shrine) as a New Year rite predating the Sengoku period, though no foundational text survives. The sword-cutting of a rope identified as a great serpent is associated with the mythological narrative of Susanoo-no-Mikoto's destruction of Yamata-no-Orochi. A separate historical record notes the dedication of a sword called \"Nokitsu-maru\" to the former Anori Jinja by Sengoku-era castle lord Miura Shinsuke, establishing a documented connection between the shrine and Japanese swords extending to the medieval period. The ritual is administered under the tōya system, in which designated parishioner households rotate responsibility for the ceremony on an annual basis.",
+    "viewing_notes_en": "The precinct is open for free observation. The 2026 ceremony is expected on January 10th (Saturday). The Nationally Designated Important Intangible Folk Cultural Property \"Anori no Ningyō Shibai\" (puppet theater) is performed on the precinct stage annually on September 15th and 16th. Anori Cape is located in Ago Town, Shima City, Mie Prefecture. Access from Kintetsu Kashikojima Station by bus or car (approximately 30 minutes). Parking is available but limited."
+  },
+  {
+    "id": "fest-169",
+    "name": "二木島祭・船子漕ぎ",
+    "name_kana": "にぎしままつり・ふなここぎ",
+    "shrine": "室古神社・阿古師神社",
+    "category": "weird",
+    "prefecture": "三重県",
+    "city": "熊野市",
+    "lat": 33.941479,
+    "lng": 136.177612,
+    "date_2026": null,
+    "date_2026_end": null,
+    "date_pattern": "毎年11月3日（2010年を最後に休止・現状維持困難）",
+    "origin": "二木島湾を挟んで対峙する室古神社（祭神：稲飯命）と阿古師神社（祭神：三毛入野命）の例祭として行われてきた船競漕。神武天皇東征の際に熊野灘で暴風雨に遭い入水した皇兄の二命を地元の漁民が救おうと船を出したことに由来するとも、伊勢大神と熊野大神が酒を酌み交わした故事の再現とも伝えられる。五色の幔幕と吹き流しで飾った関船2艘に各40名が乗り込み、八挺櫓で湾内を競漕する形式は江戸時代以前から続いており、三重県無形民俗文化財に指定されていた。過疎・高齢化による担い手不足から、2010年（平成22年）11月3日の開催を最後に約300年の歴史に幕を閉じた。",
+    "summary": "熊野市二木島湾で室古神社・阿古師神社の例祭として行われてきた関船競漕の神事。神武天皇東征伝承に由来し、五色の幔幕を纏った関船2艘が湾内を競漕するリアス式海岸の視覚的強度が高い祭礼であった。三重県無形民俗文化財に指定されていたが、担い手不足により2010年（平成22年）11月3日を最後に休止・廃絶した。現在、地域おこし行事として別途「ほうばい祭り」（毎年5月連休）が行われている。",
+    "highlights": [
+      "五色の幔幕で飾った関船2艘が湾内を競漕する船渡御",
+      "神武東征伝承に由来する室古神社・阿古師神社の合同例祭",
+      "2010年を最後に約300年の歴史が途絶（担い手不足による廃絶）"
+    ],
+    "viewing_notes": "2010年以降は開催されていない。現地での開催情報の確認は不要だが、二木島湾・室古神社・阿古師神社は現在も訪問可能。三重県立熊野古道センター（尾鷲市）に祭りの映像記録が保存されている。代替行事「ほうばい祭り」は毎年5月連休に二木島港で開催（地域振興目的）。",
+    "official_url": "",
+    "reference_urls": [
+      "https://www.mie-c.ed.jp/omatsuri/festival/%E4%BA%8C%E6%9C%A8%E5%B3%B6%E7%A5%AD/",
+      "https://ja.wikipedia.org/wiki/%E4%BA%8C%E6%9C%A8%E5%B3%B6%E7%94%BA",
+      "https://www.bunka.pref.mie.lg.jp/Miebunka/mobile/bunkazaiMobile/detail/730952"
+    ],
+    "name_en": "Futakijima Festival — Funako Kogi Boat Race Ritual (Futakijima-sai / Funako-Kogi)",
+    "shrine_en": "Muroko Jinja and Akoshi Jinja (Muroko Shrine and Akoshi Shrine)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Kumano City, Futakijima",
+    "date_pattern_en": "Formerly held on November 3rd (Culture Day); discontinued after the final observance on November 3, 2010",
+    "summary_en": "The Futakijima Festival was the joint autumn festival of Muroko Jinja (enshrining Inahi-no-Mikoto) and Akoshi Jinja (enshrining Mikenu-no-Mikoto), two shrines facing each other across Futakijima Bay in Kumano City. Its central rite was a ceremonial boat race (funako-kogi) in which two large vessels decorated with five-colored hangings (menmaku) and streaming banners, each crewed by approximately forty oarsmen pulling eight oars, raced across the enclosed bay. The ritual was designated a Mie Prefectural Intangible Folk Cultural Property. Owing to population decline, an aging community, and a critical shortage of bearers and participants, the festival was discontinued after its final observance on November 3, 2010 (Heisei 22), bringing to a close an unbroken tradition of approximately three hundred years. A separate community event, the Hōbai Matsuri, is now held annually during the Golden Week holidays in May.",
+    "highlights_en": [
+      "Two large vessels adorned with five-colored hangings racing across the enclosed waters of a ria-coast bay — a visually distinctive maritime ritual",
+      "Joint festival of Muroko Jinja and Akoshi Jinja, connected to the legend of Emperor Jimmu's eastern expedition and the drowning of two imperial princes in the Kumano Straits",
+      "Discontinued in November 2010 after approximately three hundred years of continuous observance, due to an irreversible shortage of community participants"
+    ],
+    "origin_en": "The ritual is said to derive either from local fishermen launching boats to rescue the imperial princes Inahi-no-Mikoto and Mikenu-no-Mikoto — brothers of Emperor Jimmu — after they were lost in the Kumano Straits during the legendary eastern expedition (Jimmu Tōsei), or alternatively from a re-enactment of a feast at which the Ise and Kumano deities exchanged cups of sake. Two ceremonially equipped vessels, each carrying approximately forty oarsmen, raced across Futakijima Bay in a form consistent with the medieval tradition of naval processional ritual. The festival was designated a Mie Prefectural Intangible Folk Cultural Property; however, accelerating demographic decline in the Futakijima community made it impossible to sustain the required number of participants, and the decision was made to hold a final observance on November 3, 2010. Film documentation of the festival is preserved at the Mie Prefectural Kumano Kodo Center in Owase City.",
+    "viewing_notes_en": "The festival has not been held since November 2010 and is not expected to resume. The sites of Futakijima Bay, Muroko Jinja, and Akoshi Jinja remain accessible to visitors. Film and documentation of the ritual are preserved at the Mie Prefectural Kumano Kodo Center (Owase City). The Hōbai Matsuri, a separate community revitalization event, is held annually during Golden Week (May) at Futakijima Port."
+  },
+  {
+    "id": "fest-170",
+    "name": "古和浦祇園祭・船形神輿",
+    "name_kana": "こわうらぎおんさい・ふながたみこし",
+    "shrine": "古和浦区の氏神（祇園祭保存会が主催）",
+    "category": "weird",
+    "prefecture": "三重県",
+    "city": "度会郡南伊勢町",
+    "lat": 34.26968,
+    "lng": 136.45105,
+    "date_2026": "2026-07-11",
+    "date_2026_end": null,
+    "date_pattern": "毎年7月第2土曜（荒天時翌日に延期）",
+    "origin": "明治初期（約150年前）から古和浦の漁村集落に伝わる祇園祭で、牛頭天王の祭礼に由来する夏の悪疫退散・海上安全祈願の行事である。カツオ・ブリ漁で栄えた古和浦の漁業文化を色濃く反映し、船の形を模した「御神灯と笹竹で飾りつけた御船神輿」（御舟）に囃し方7〜8名を乗せ、山之内旅館から外湾漁協駐車場まで集落内を担ぎ練り歩いた後、海上渡御を行う形式が成立している。伊勢湾・志摩沿岸の漁村に点在する船形神輿・船形山車の系譜に属し、海辺祭礼の民俗的意匠を現在まで継承している。",
+    "summary": "南伊勢町古和浦の漁村に明治初期から伝わる祇園祭。御神灯と笹竹で飾りつけた船形の御神輿（御舟）に囃し方を乗せ、集落内を担ぎ巡行した後に海上渡御を行う。終了後には花火大会も実施。漁村における海上安全・豊漁祈願の夏祭りで、毎年7月第2土曜に開催される。",
+    "highlights": [
+      "御神灯・笹竹で飾った船形神輿（御舟）に囃し方を乗せて海上渡御",
+      "明治初期から約150年続く漁村の夏祭り（志摩沿岸の船形神輿系譜）",
+      "海上渡御後に花火大会を実施"
+    ],
+    "viewing_notes": "観覧無料。2026年は7月11日（土）予定（荒天の場合は翌12日（日）に延期）。開始は19:00頃から、16:30頃より御舟回航開始、21:00頃から打ち上げ花火。JR伊勢柏崎駅下車後、南伊勢町営バスで「古和」下車（本数少ない）。車の場合は紀勢自動車道・紀勢大内山ICから約15分。臨時駐車場3箇所（無料）あり。問合せ：0596-78-0030（南伊勢町古和浦区事務所）。",
+    "official_url": "",
+    "reference_urls": [
+      "https://www.iseshima-kanko.jp/event/2095",
+      "https://www.kankomie.or.jp/report/2022",
+      "https://www.town.minamiise.lg.jp/material/files/group/10/chikugyougi_2025_0612_02.pdf"
+    ],
+    "name_en": "Kowaura Gion Festival — Boat-Shaped Portable Shrine Procession (Kowaura Gion-sai / Funahoko Mikoshi)",
+    "shrine_en": "Tutelary shrine of the Kowaura district (administered by the Kowaura Gion Festival Preservation Association)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Minamisei Town (Nansei Town), Kowaura",
+    "date_pattern_en": "Second Saturday of July each year",
+    "summary_en": "Each year on the second Saturday of July, the fishing community of Kowaura in Minamisei Town (Watarai District) holds a Gion summer festival tracing to the Meiji period (approximately one hundred and fifty years of continuous observance). The festival's principal element is a boat-shaped portable shrine (o-fune mikoshi) decorated with paper lanterns (o-jōchin) and bamboo branches, which carries several musicians (hayashi-kata) aboard as it is shouldered by bearers through the settlement from the Yamanouchi Inn to the outer bay fishing cooperative parking area, before being launched on the sea for a maritime procession (kaijō-togyo). The ritual is rooted in the Gion tradition of summer disease-expulsion associated with the deity Gozu-Tennō, adapted to the maritime livelihood of the Kowaura fishing community; it belongs to the lineage of boat-shaped mikoshi and boat-shaped dashi (festival floats) found at fishing-village festivals along the Ise Bay and Shima coastlines. A fireworks display follows the completion of the maritime procession.",
+    "highlights_en": [
+      "Boat-shaped portable shrine decorated with paper lanterns and bamboo, carrying musicians aboard, carried through the settlement and launched for a maritime procession",
+      "Approximately one hundred and fifty years of uninterrupted observance in a Mie fishing village; part of the boat-shaped mikoshi lineage of the Ise Bay–Shima coastal tradition",
+      "Maritime procession followed by a fireworks display"
+    ],
+    "origin_en": "The festival originates in the Gion tradition of summer disease-expulsion rites (associated with Gozu-Tennō, the deity of epidemic prevention) that were widely established in Japanese communities from the Heian period onward. The Kowaura variant has been transmitted since the Meiji period and closely reflects the fishing-village culture of a community whose economy was built on bonito and yellowtail fishing; the boat-shaped o-fune mikoshi embodies the adaptation of the mainland Gion festival form to the maritime iconography of a coastal settlement dependent on the sea for its livelihood.",
+    "viewing_notes_en": "Free admission. In 2026 the festival is expected on July 11th (Saturday); in the event of inclement weather it will be postponed to July 12th (Sunday). Proceedings begin from approximately 7:00 PM, with the o-fune mikoshi launch beginning around 4:30 PM and fireworks from approximately 9:00 PM. Access by train: JR Ise-Kashiwazaki Station, then Minamisei Town community bus to the Kowa stop (infrequent service). By car: approximately 15 minutes from the Kisei Ōuchiyama Interchange on the Kisei Expressway. Three temporary parking areas (free of charge) are available. Inquiries: Kowaura District Office, Minamisei Town, 0596-78-0030."
+  },
+  {
+    "id": "fest-171",
+    "name": "てんてこ祭",
+    "name_kana": "てんてこまつり",
+    "shrine": "熱池八幡社（熱池八幡神社）",
+    "category": "sex",
+    "prefecture": "愛知県",
+    "city": "西尾市",
+    "lat": 34.839443,
+    "lng": 137.042282,
+    "date_2026": "2026-01-03",
+    "date_2026_end": null,
+    "date_pattern": "毎年1月3日",
+    "origin": "平安時代の清和天皇（在位858〜876年）の大嘗会（だいじょうえ）において、悠紀斎田（ゆきさいでん）にこの熱池の地が選ばれたことを起源とし、以後千百年以上の歴史を持つ五穀豊穣祈願の農業祭として伝えられる。清和天皇期（859年頃）に当地から伊勢神宮に米が奉献されたことを記念する意義も伝わる。赤装束の厄男6人のうち3人が大根で男根を形作って腰に吊り、「てんてこ、てんてこ」という太鼓の囃子（この囃子音が祭り名の由来）に合わせて腰を振りながら集落から神社まで約500メートルを練り歩き、境内で竹箒により藁灰を撒いて観客に浴びせる。豊穣儀礼における男根呪術と火（灰）の邪気祓いが一体となった古形を示す祭礼である。1957年（昭和32年）に愛知県無形民俗文化財に指定された。",
+    "summary": "毎年1月3日に西尾市熱池町の熱池八幡社で行われる五穀豊穣祈願の農業祭。赤装束の厄男6人のうち3人が大根で作った男根を腰に吊り、「てんてこ、てんてこ」という太鼓の囃子に合わせて腰を振りながら集落から神社まで約500メートルを行列し、境内で藁灰を観客に浴びせて厄除けを行う。清和天皇の大嘗会に悠紀斎田として選ばれたことを起源とし、千百年以上の歴史を持つとされる。1957年（昭和32年）に愛知県無形民俗文化財に指定された「天下の奇祭」。",
+    "highlights": [
+      "大根の男根を腰に吊った厄男が太鼓囃子で腰を振りながら行列（豊穣儀礼）",
+      "境内で藁灰を観客に浴びせる厄除け神事",
+      "清和天皇大嘗会（859年頃）に起源・愛知県無形民俗文化財（1957年指定）"
+    ],
+    "viewing_notes": "観覧無料。2026年は1月3日（土）13:00〜開催。臨時駐車場（福地南部小学校・福地中学校、計300台・無料）あり。最寄りは名鉄西尾線「福地駅」下車徒歩約13分、または名鉄東部交通バス「熱池」下車徒歩5分。車の場合は東名高速「岡崎IC」から約40分。問合せ：0563-57-7840（西尾観光案内所）。",
+    "official_url": "https://nishiokanko.com/list/shop/tentekosai/",
+    "reference_urls": [
+      "https://aichinow.pref.aichi.jp/events/detail/1103/",
+      "https://www.city.nishio.aichi.jp/sportskanko/bunkazai/1001485/1001609/1001670/1002754.html",
+      "https://www.iwafu.com/jp/events/1048748",
+      "https://nishiokanko.com/list/shopinfo/25641/"
+    ],
+    "name_en": "Tenteko Festival — Fertility Rite of Atsumi Hachimansha (Tenteko-sai)",
+    "shrine_en": "Atsumi Hachiman-sha (Atsumi Hachiman Shrine)",
+    "prefecture_en": "Aichi Prefecture",
+    "city_en": "Nishio City, Atsumi-chō",
+    "date_pattern_en": "Annually on January 3rd",
+    "summary_en": "Conducted each year on January 3rd at Atsumi Hachiman-sha in Nishio City, Aichi Prefecture, the Tenteko-sai is an agricultural fertility rite with a tradition said to span more than eleven hundred years. Among six men in red ceremonial dress designated as toshi-otoko (men of unlucky age), three carry phallic fertility objects fashioned from daikon radish suspended from their waists; to the rhythm of drums beaten in the pattern that gives the festival its onomatopoeic name — \"tenteko, tenteko\" — they proceed in procession from the settlement to the shrine precinct, a distance of approximately five hundred meters, moving their hips in a manner consonant with fertility ritual iconography. Upon arrival at the precinct, a second celebrant sweeps straw ash over the assembled audience with a bamboo broom, an act understood as a purification rite conferring protection from misfortune. The ritual thus integrates phallic fertility iconography with fire-and-ash purification within a single agricultural ceremonial context. The festival was designated an Aichi Prefectural Intangible Folk Cultural Property in 1957 (Shōwa 32).",
+    "highlights_en": [
+      "Ritual procession featuring phallic fertility iconography fashioned from daikon radish — a well-documented form of agricultural fertility rite in Japanese folk religion",
+      "Culminating ash-scattering purification ceremony in which the audience receives a blessing of straw ash swept from a bamboo broom",
+      "Origin attributed to the designation of this site as the Yuki-saiden (sacred rice paddy for imperial Great Thanksgiving) during the reign of Emperor Seiwa (r. 858–876); Aichi Prefectural Intangible Folk Cultural Property (designated 1957)"
+    ],
+    "origin_en": "The festival's origin is traced to the Daijōe (Great Thanksgiving Ceremony) of Emperor Seiwa (r. 858–876), during which the Atsumi district was designated as the Yuki-saiden — the sacred paddy from which rice was dedicated to the Grand Shrine of Ise — an event understood to have initiated more than eleven hundred years of continuous agricultural ritual at this site. The association of phallic fertility objects with agricultural abundance, and of fire and ash with the expulsion of malevolent forces, reflects a pre-modern cosmology in which the fertility of the soil, the protection of the community from epidemic and misfortune, and the symbolic power of the male generative principle were conceived as mutually reinforcing. The festival name derives from the distinctive onomatopoeic rhythm of the accompanying drums — \"tenteko, tenteko\" — that structures the processional.",
+    "viewing_notes_en": "Free admission. In 2026 the festival takes place on January 3rd (Saturday) from approximately 1:00 PM. Temporary parking is available at Fukuchi Nanbu Elementary School and Fukuchi Junior High School (combined capacity approximately 300 vehicles; free of charge). Nearest station: Meitetsu Nishio Line, Fukuchi Station (approximately 13 minutes on foot); alternatively, Meitetsu Tōbu Kōtsū bus to the Atsumi stop (5 minutes on foot). By car: approximately 40 minutes from Okazaki Interchange on the Tomei Expressway. Inquiries: Nishio Tourism Information Center, 0563-57-7840."
   }
 ]
