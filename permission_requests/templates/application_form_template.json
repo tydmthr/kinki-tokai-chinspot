@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "写真使用許可申請書 穴埋め定義",
+  "description": "build_application_form.js に渡す穴埋めデータの定義。コピーして案件ごとに値を入れ、build_application_form.js の入力JSONとして使用する。",
+  "type": "object",
+  "required": [
+    "target_id",
+    "date",
+    "addressee_org",
+    "addressee_dept_person",
+    "honorific",
+    "subject_name",
+    "subject_location_designation",
+    "photo_count",
+    "credit_text",
+    "usage_period",
+    "fee_text",
+    "output_filename"
+  ],
+  "properties": {
+    "target_id": {
+      "type": "string",
+      "description": "対象ID。spot-XXX または fest-XXX。",
+      "examples": ["fest-116", "spot-118"]
+    },
+    "date": {
+      "type": "string",
+      "description": "申請日（令和表記）",
+      "examples": ["令和8年6月2日"]
+    },
+    "addressee_org": {
+      "type": "string",
+      "description": "宛先団体の正式名称",
+      "examples": ["あきた美郷づくり株式会社", "高鍋町観光協会", "公益社団法人石川県観光連盟"]
+    },
+    "addressee_dept_person": {
+      "type": "string",
+      "description": "部署名・役職・担当者名（複数行可）",
+      "examples": ["観光企画部 部長 兼 センター長 荒田 直樹"]
+    },
+    "honorific": {
+      "type": "string",
+      "description": "宛先呼称（本文中の「貴○」の○部分）。社/会/館/委員会/協会 等",
+      "enum": ["社", "会", "館", "委員会", "協会", "宮", "寺"],
+      "examples": ["社"]
+    },
+    "subject_name": {
+      "type": "string",
+      "description": "写真の対象名",
+      "examples": ["六郷のカマクラ", "高鍋大師", "能登のアマメハギ"]
+    },
+    "subject_location_designation": {
+      "type": "string",
+      "description": "所在地と文化財指定区分",
+      "examples": ["秋田県美郷町・国指定重要無形民俗文化財", "宮崎県高鍋町"]
+    },
+    "photo_count": {
+      "type": "integer",
+      "description": "写真点数",
+      "minimum": 1,
+      "examples": [7]
+    },
+    "credit_text": {
+      "type": "string",
+      "description": "指定クレジット文言",
+      "examples": ["写真提供　あきた美郷づくり株式会社", "©石川県観光連盟"]
+    },
+    "usage_period": {
+      "type": "string",
+      "description": "使用期間",
+      "default": "掲載開始日から、貴社からの掲載中止のご指示があるまで",
+      "examples": ["掲載開始日から、貴社からの掲載中止のご指示があるまで"]
+    },
+    "fee_text": {
+      "type": "string",
+      "description": "使用料に関する文言",
+      "default": "無償でご許可いただけますよう、お願い申し上げます。",
+      "examples": ["無償でご許可いただけますよう、お願い申し上げます。"]
+    },
+    "output_filename": {
+      "type": "string",
+      "description": "出力DOCXファイル名（拡張子含む）",
+      "examples": ["写真使用許可申請書_六郷のカマクラ_豊田元洋.docx"]
+    }
+  }
+}
