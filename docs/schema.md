@@ -160,6 +160,48 @@ URL がクエリパラメータ付き (例: `https://.../image.jpg?size=large`) 
 
 - 2026-06-01: spot-202 / spot-204 / spot-205 / spot-206 / spot-207 / spot-208 / spot-209 の 7件で `photo_url` に観光情報サイトのページ URL が誤って格納されていた問題を修正。各エントリの `photo_url` を `null` に変更、保全したい URL は `reference_urls` に追加。詳細は `docs/NOTICE_BOARD.md` の DECISION 投稿参照。
 
+### 1.7 deepdive スキーマ (2026-06-01 制定、Batch 6 以降形式が正規)
+
+**Batch 6 以降に追加されたエントリの `deepdive` オブジェクトは、以下の 19 キー構成を正規スキーマとする。** Batch 1-5 (spot-001〜142 / fest-001〜159) の旧スキーマも引き続き有効だが、新規追加・個別更新時は本スキーマに従う（漸進的マイグレーション）。
+
+#### 正規スキーマ（19 キー）
+
+各キーは spot/festival の解説テキストを格納する文字列フィールド。`_jp` と `_en` のペアで提供し、加えて警告補足フィールド `warnings_extra` を持つ。
+
+| キー | 役割 | 内容の例 |
+|---|---|---|
+| `history_jp` / `history_en` | 歴史的経緯 | 創建年・由来・主要な歴史イベント・系譜 |
+| `religion_jp` / `religion_en` | 宗教的・信仰的位置付け | 宗派・信仰体系・本尊・祭神・修験道との関係 |
+| `architecture_jp` / `architecture_en` | 建築・構造的特徴 | 様式・年代・建材・伽藍配置・特徴的な造作 |
+| `cultural_property_jp` / `cultural_property_en` | 文化財指定 | 国宝・重要文化財・登録有形・自治体指定など |
+| `legends_jp` / `legends_en` | 伝承・民俗・口承 | 伝説・地元の語り・民俗学的解釈 |
+| `access_jp` / `access_en` | アクセス | 最寄駅・バス・徒歩経路・所要時間・駐車場 |
+| `photo_points_jp` / `photo_points_en` | 撮影アドバイス | 順光時刻・推奨アングル・季節・撮影制限 |
+| `nearby_jp` / `nearby_en` | 周辺スポット | 徒歩・車圏内の関連スポット・横断企画素材 |
+| `warnings_jp` / `warnings_en` | 一般的な注意事項 | 拝観マナー・服装・撮影禁止・宗教的配慮 |
+| `warnings_extra` | 追加の安全注記（言語非依存） | 災害被害状況・私有地・閉鎖期間・電話確認推奨など、必要時のみ。`safety_level: caution` と併記される |
+
+**注**: `warnings_extra` は `_jp` / `_en` の対を持たない。本文中に日本語と英語を併記する運用、または日本語のみで記述する運用のいずれも認める（Batch 6 以降の実例では日本語ベースで記述されている）。
+
+#### 旧スキーマ（Batch 1-5、参考）
+
+Batch 3-5 で取り込まれた spot は 20 キー（10_jp + 10_en）構成だった。キー名は以下：
+
+`history_jp/_en, cultural_context_jp/_en, local_perspective_jp/_en, related_works (lang 非依存), external_reviews (lang 非依存), best_visit_time (lang 非依存), photo_tips (lang 非依存), trivia (lang 非依存), warnings_extra, sources`
+
+Batch 1-2 はさらに自由形式で、deepdive 自体を持たないエントリもある。
+
+#### マイグレーション方針
+
+- Batch 1-5 エントリの**遡及修正は不要**（サイト表示は既に機能している）
+- 個別エントリを編集する機会があれば、19 キー形式に揃える（漸進的）
+- Batch 10 以降の CSV テンプレート・JSON 生成は 19 キーを標準とする
+- `build_data.py` は deepdive オブジェクト全体をそのまま `data.js` に同期するため、スキーマ揺らぎがあってもビルドは成功する
+
+#### サンプル参照
+
+正規スキーマの実例は spot-184（笠置寺）以降の任意のエントリを参照。Batch 6（spot-184〜192）・Batch 7（spot-193〜201）・Batch 8（spot-202〜210）・Batch 9（spot-211〜219）はすべて本スキーマに準拠。
+
 ## 2. Space 規定との差異
 
 Space instructions に記載された規定スキーマ:
