@@ -119,6 +119,47 @@ spots と別構造。本ドキュメントでは概要のみ。詳細は別 Issu
 
 - 2026-05-30: spot-135/137-141/149-152 の 9件を fest-163〜fest-171 として festivals.json に移行 (commit 3fbd949)。
 
+### 1.6 photo_url の仕様 (2026-06-01 制定)
+
+**`photo_url` は spot/festival 詳細モーダルで `<img src="...">` として読み込まれる画像直リンク URL のみを受理する。**
+
+このルールは取り込みスクリプト (`bulk_add.py`, JSON 直接マージ) いずれにも適用される。
+
+#### 受理する値
+
+| 値 | 例 | 扱い |
+|---|---|---|
+| **画像直リンク URL** | `https://example.com/photos/foo.jpg`, `https://upload.wikimedia.org/.../bar.png` | ✓ そのまま `<img src>` で表示 |
+| `null` または **キー未設定** | `"photo_url": null` または キーごと不在 | ✓ サイト側で写真欄を表示しない (フォールバック) |
+
+#### 受理しない値
+
+| 値 | 例 | 理由 |
+|---|---|---|
+| **観光情報サイトの一般ページ URL** | `https://www.kankou-shimane.com/destination/20275` | HTML ページ。`<img>` で読み込むとブロークン画像になる |
+| **公式サイトのトップページ URL** | `https://www.sand-museum.jp` | 同上。`official_url` に既に格納されているはず |
+| **観光協会のスポット詳細ページ URL** | `https://rurubu.jp/andmore/spot/...` | 同上。参考リンクなら `reference_urls` に追加 |
+
+#### ページ URL を保持したい場合
+
+観光情報ページ・自治体公式の特定ページなど、参考情報として保持したい URL は `reference_urls` (配列) に追加する。`photo_url` には入れない。
+
+#### 拡張子による判定 (将来 lint 用)
+
+許容拡張子: `.jpg / .jpeg / .png / .webp / .gif / .svg` (大文字小文字不問)。
+URL がクエリパラメータ付き (例: `https://.../image.jpg?size=large`) の場合は、パス末尾の拡張子で判定する。
+
+#### 著作権・ライセンス
+
+- 自前撮影画像が望ましい
+- Wikipedia / Wikimedia Commons は CC ライセンス確認のうえ転載
+- 自治体公式の OG 画像は転載可否を都度確認 (基本は外部直リンク不可、ライセンス記載がある場合のみ)
+- 別途 `photos.json` で credit / license メタを管理する運用 (実装はサイト改修待ち)
+
+#### 過去の修正履歴
+
+- 2026-06-01: spot-202 / spot-204 / spot-205 / spot-206 / spot-207 / spot-208 / spot-209 の 7件で `photo_url` に観光情報サイトのページ URL が誤って格納されていた問題を修正。各エントリの `photo_url` を `null` に変更、保全したい URL は `reference_urls` に追加。詳細は `docs/NOTICE_BOARD.md` の DECISION 投稿参照。
+
 ## 2. Space 規定との差異
 
 Space instructions に記載された規定スキーマ:
@@ -132,7 +173,7 @@ Space instructions に記載された規定スキーマ:
 |---|---|---|
 | `description` | `summary` | 名称が異なるが**意味は同じ**。実装側 `summary` が正 |
 | `source` | `reference_urls` (配列) | 実装は配列で複数 URL 対応 |
-| `photo_url` | **未実装** | 画像は将来課題。当面は不要 |
+| `photo_url` | **仕様化済 (2026-06-01)** | 下記 §1.6 参照。画像直リンク URL のみ受理 |
 | `visit_url` | **未実装** | visits/ 配下の訪問記との紐付けは別仕組み |
 | (規定外) | `city`, `status`, `fee`, `hours`, `official_url`, `highlights`, `from_kameyama`, `deepdive` | 実装側拡張。新規追加時必須 |
 | `category` (8種) | `category` (4 slug) | 4 slug が正。`category_label` で細分可 |

@@ -8975,7 +8975,7 @@
       "https://rurubu.jp/andmore/spot/80032950",
       "https://drive.jafnavi.jp/spots/311131X00193/"
     ],
-    "photo_url": "https://www.tottori-guide.jp/tourism/tour/view/168",
+    "photo_url": null,
     "visit_url": null,
     "safety_level": "caution"
   },
@@ -9089,7 +9089,7 @@
       "https://izumo-kankou.gr.jp/684",
       "https://ja.wikipedia.org/wiki/%E9%A0%88%E4%BD%90%E7%A5%9E%E7%A4%BE_%28%E5%87%BA%E9%9B%B2%E5%B8%82%29"
     ],
-    "photo_url": "https://www.kankou-shimane.com/destination/20275",
+    "photo_url": null,
     "visit_url": null
   },
   {
@@ -9145,7 +9145,7 @@
       "https://ja.wikipedia.org/wiki/%E7%A0%82%E3%81%AE%E7%BE%8E%E8%A1%93%E9%A4%A8",
       "https://tottoreal-pavilion.jp/theme_s/1116/"
     ],
-    "photo_url": "https://www.sand-museum.jp",
+    "photo_url": null,
     "visit_url": null
   },
   {
@@ -9202,7 +9202,7 @@
       "https://www.fnn.jp/articles/-/943571",
       "https://www.jalan.net/kankou/spt_32341cc3290032472/"
     ],
-    "photo_url": "https://www.kankou-shimane.com/pickup/26388.html",
+    "photo_url": null,
     "visit_url": null
   },
   {
@@ -9256,11 +9256,12 @@
     "hours": "9:00〜17:00（12月〜2月は16:00まで）、最終入場は閉場10分前",
     "official_url": "https://www.ginzan-wm.jp/",
     "reference_urls": [
+      "https://www.ginzan-wm.jp/purpose_post/ryugenjimabu/",
       "http://mirai.iwamiginzan.jp/ryuugenzimabu/",
       "https://www.city.oda.lg.jp/update_info/3672",
       "https://whc.unesco.org/en/list/1246/"
     ],
-    "photo_url": "https://www.ginzan-wm.jp/purpose_post/ryugenjimabu/",
+    "photo_url": null,
     "visit_url": null
   },
   {
@@ -9316,7 +9317,7 @@
       "https://www.jalan.net/kankou/spt_32341ab2070007564/",
       "https://www.geo.shimane-u.ac.jp/geopark/oninoshitaburui.html"
     ],
-    "photo_url": "https://www.kankou-shimane.com/destination/20243",
+    "photo_url": null,
     "visit_url": null
   },
   {
@@ -9372,7 +9373,7 @@
       "https://rurubu.jp/andmore/spot/80033264",
       "https://kunibiki-geopark.jp/wp-content/uploads/2025/09/%E7%AB%8B%E4%B9%85%E6%81%B5%E5%B3%A1.pdf"
     ],
-    "photo_url": "https://rurubu.jp/andmore/spot/80033264",
+    "photo_url": null,
     "visit_url": null
   },
   {
