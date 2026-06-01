@@ -962,7 +962,7 @@ function refreshThisMonth() {
   const month = now.getMonth() + 1;
 
   // date_2026 あり→確定日、なし→date_patternから推定
-  // 「今日以降」の祭を日付昇順で上位5件。過去日は繰り上げず除外
+  // 「今日以降」の祭を日付昇順で上位10件。過去日は繰り上げず除外
   const upcoming = FESTIVALS
     .map(f => {
       const dt = f.date_2026
@@ -976,7 +976,7 @@ function refreshThisMonth() {
   // 今月内に未来の祭があるか判定（サブタイトル表示切り替え用）
   const hasThisMonth = upcoming.some(x => x.dt.getMonth() + 1 === month);
 
-  let monthFests = upcoming.slice(0, 5).map(x => x.f);
+  let monthFests = upcoming.slice(0, 10).map(x => x.f);
 
   if (hasThisMonth) {
     sub.textContent = CURRENT_LANG === 'en'
