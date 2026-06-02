@@ -1242,9 +1242,21 @@
   },
   "fest-117": {
     "name": "白石踊",
-    "primary": null,
-    "credit": null,
-    "alt_photos": []
+    "primary": "data/photos/fest-117/shiraishi-odori-01-sunset.jpg",
+    "credit": "写真提供　笠岡市教育委員会",
+    "license": "笠岡市教育委員会の許可に基づく限定使用（笠教生第203号・令和8年5月20日）",
+    "alt_photos": [
+      {
+        "url": "data/photos/fest-117/shiraishi-odori-02-yagura.jpg",
+        "caption": "白石踊・浜辺の櫓と踊り手（提灯に「石踊」の文字）",
+        "credit": "写真提供　笠岡市教育委員会"
+      },
+      {
+        "url": "data/photos/fest-117/shiraishi-odori-03-circle.jpg",
+        "caption": "中央の太鼓と日傘を囲む円陣（13種の踊りが同心円に重なる白石踊の典型構造）",
+        "credit": "写真提供　笠岡市教育委員会"
+      }
+    ]
   },
   "fest-118": {
     "name": "御陣乗太鼓",
