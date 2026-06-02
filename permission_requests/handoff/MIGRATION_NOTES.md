@@ -44,6 +44,9 @@
 - 郵便番号: **〒519-0105 三重県亀山市**
 - 業務以外の依頼であることを必ず明記（「※本依頼は個人運営の文化記録プロジェクトとしての依頼であり、所属団体の事業ではありません。」）
 - **confirm_action は使用禁止**（日本語が \uXXXX エスケープになる）。承認はチャット本文で「OK」を貰う方式。
+- **送信元エイリアス運用（2026-06-02〜）**: 許諾系メールの From は **`bizarrejapan.jp@gmail.com`**（運営用Gmail）。Gmail 側で個人Gmail (motohiro.toyoda@gmail.com) にエイリアス追加済。Claude Code の `mcp__claude_ai_Gmail__create_draft` は motohiro.toyoda@gmail.com アカウントに下書き作成 → Spark で From を `bizarrejapan.jp@gmail.com` に切り替えて送信。
+  - **CC: `bizarrejapan.jp@gmail.com` は不要**（自分から自分への控え重複を避ける）
+  - 既存下書き（fest-116 draft `r-5758993908194219284` / fest-117 draft `r6055418020300255053`）も同様に Spark で From 切替＋CC 削除して送信
 
 ## 現時点で進行中（Claude Code が優先処理）
 
