@@ -5301,39 +5301,61 @@
     "id": "fest-116",
     "name": "六郷のカマクラ",
     "name_kana": "ろくごうのかまくら",
-    "shrine": "秋田県仙北郡美郷町六郷地区",
+    "shrine": "秋田県仙北郡美郷町六郷地区（カマクラ畑公園・諏訪神社前ほか）",
     "category": "fire",
     "prefecture": "秋田県",
     "city": "仙北郡美郷町",
     "lat": 39.434,
     "lng": 140.561,
-    "date_pattern": "毎年2月11日〜15日（小正月行事）",
-    "date_2026": "2026-02-11",
-    "date_2026_end": "2026-02-15",
-    "summary": "秋田県美郷町六郷地区に700年余りにわたり伝承される小正月の火と年占いの行事。鎌倉時代の宮廷正月行事に由来するとされ、天筆書初め・天筆焼き・竹打ち（カマクラ）・鳥追い等の諸要素を含む。国指定重要無形民俗文化財。観光化された雪室「かまくら」とは別系統の本来の小正月行事。",
+    "date_pattern": "毎年2月11日〜15日（小正月行事・5日間）",
+    "date_2026": "2026-02-10",
+    "date_2026_end": "2026-02-14",
+    "summary": "秋田県美郷町六郷地区に七百余年伝承される小正月の火祭・年占い行事。鎌倉初期に二階堂氏が六郷の地頭として赴任し、京都御所の正月行事「左義長」の吉書焼きを伝えたものと言い伝えられる。豊作・安全繁栄を祈る「年ごい」、凶作・不幸を祓う「悪魔払い」、その年の吉凶を占う「年占い」の三要素が一体となった行事で、蔵開き・天筆書初め・鳥追い小屋・天筆掲揚・竹うち・天筆焼きの一連の催しからなる。昭和57年（1982年）1月14日に国指定重要無形民俗文化財に指定された。観光化された雪室「かまくら」とは別系統の本来の小正月行事。",
     "highlights": [
-      "国指定重要無形民俗文化財（昭和57年指定）",
-      "700年余の伝承を持つ小正月の年占い行事",
-      "天筆焼き・竹打ち（カマクラ）・鳥追いの組み合わせ",
-      "雪国の小正月行事の本来の姿を伝える",
-      "観光化された雪室かまくらとは別系統"
+      "国指定重要無形民俗文化財（昭和57年1月14日指定）",
+      "七百余年の歴史を有する小正月の火祭・年占い行事",
+      "鎌倉初期に二階堂氏が京都御所の「左義長」を伝えたと言い伝えられる",
+      "最終日夜の竹うち：北軍・南軍に分かれた男衆が長竹で激しく打ち合う",
+      "竹うちの勝敗で年を占う：北軍勝＝豊作、南軍勝＝米相場上昇",
+      "天筆焼き：五色の天筆を燃やし、書初めの炎で一年の吉凶を占う"
     ],
-    "origin": "「カマクラ」は鎌倉時代の宮廷正月行事「左義長」に由来するとされ、小正月に書初めや松飾を焼き、その火で一年の吉凶を占う行事として全国に広がった。六郷地区では700年余りにわたりこの本来の形が伝承され、天筆焼きや子供たちの竹打ち合戦などの要素を含む。1982年（昭和57年）に国指定重要無形民俗文化財に指定された。",
-    "official_url": "https://www.town.misato.akita.jp/archive/contents-3616",
+    "origin": "京都御所で行われていた正月の火祭「左義長（さぎちょう）」の吉書焼きの遺風をうつしたものとされ、鎌倉初期に二階堂氏が六郷の地頭となり、鎌倉幕府の「吉書初め」の行事をもたらしたものと言い伝えられる。豊作・安全繁栄を祈る「年ごい」、凶作・不幸を除去する「悪魔払い」、その年の吉凶を占う「年占い」の三者が一体となった小正月行事として、観光化が進む東北地方のカマクラの中でも今なお本来の姿を保ち、住民の伝承欲も高いことから、昭和57年（1982年）1月14日に国指定重要無形民俗文化財に指定された。最終日夜の竹うちは、六郷地区が北軍・南軍に分かれて長竹で激しく打ち合う勇壮な火祭で、北軍が勝てば豊作、南軍が勝てば米の値が上がると伝えられている。",
+    "official_url": "https://rokukama.akita-misato.com/",
     "reference_urls": [
+      "https://www.town.misato.akita.jp/archive/contents-3616",
+      "https://www.town.misato.akita.jp/kamakura/1159",
       "https://kunishitei.bunka.go.jp/heritage/detail/302/79",
-      "https://akita-misato.jp/event/kamakura/"
+      "https://www.tohokukanko.jp/festivals/detail_10076.html"
     ],
-    "viewing_notes": "会場は美郷町六郷の各地区。期間中は鳥追い小屋の建造、天筆書初め、竹打ち、天筆焼き等が日替わりで行われる。最終日（2月15日）の天筆焼き・竹打ちが最大の見どころ。極寒・積雪期の野外行事のため、防寒装備と滑り止めが必須。",
+    "viewing_notes": "会場はカマクラ畑公園（美郷町六郷字本道町115）と諏訪神社前ほか六郷地区各所。期間中は鳥追い小屋の建造、天筆書初め、天筆掲揚、竹うち、天筆焼き等が日替わりで行われる。最終日（2月15日／令和8年は2月14日）夜の竹うち・天筆焼きが最大の見どころ。竹うちは午後8時頃〜開始。極寒・積雪期の野外行事のため、防寒装備・滑り止め必須。長竹が激しく交錯するため、観覧位置に関する係員の指示に必ず従うこと。アクセス：JR大曲駅よりバス約20分（六郷大町下車・徒歩5分）、または車で秋田道大曲ICから約20分。",
+    "photo_credit": "写真提供　あきた美郷づくり株式会社",
+    "main_organizer": "六郷のカマクラ行事継承会 事務局（〒019-1404 秋田県仙北郡美郷町六郷字馬町83 名水市場湧太郎内・あきた美郷づくり株式会社）TEL 0187-84-0020",
     "deepdive": {
-      "history_jp": "六郷のカマクラは鎌倉時代の宮中行事「左義長」（三毬杖）の流れを汲むとされ、秋田藩政期から記録が残る。明治・大正期にも継続して伝承され、1982年に国指定重要無形民俗文化財となった。雪国の小正月行事の中でも「左義長系」の原型を強く残す事例として、民俗学・国文学双方から研究されてきた。",
-      "cultural_context_jp": "全国に分布する「どんど焼き」「左義長」「さいと焼き」等の系列の中で、文書焼成と竹打ちと鳥追いを複合させた六郷型は希少。観光向けに作られた「横手のかまくら」とは別系統で、年占いと厄祓いの本来の信仰機能を維持している。",
-      "local_perspective_jp": "天筆に願いを書く文化が今も子供から大人まで広く継承され、地域コミュニティの紐帯として機能している。",
-      "related_works": [],
-      "external_reviews": [],
-      "history_jp_en": "Rokugō no Kamakura is said to derive from the \"Sagichō\" (Sagi no Tō, a court ritual involving three-colored wands) of the Kamakura period (1185–1333 CE), and records survive from the Akita domain administration period. It was maintained continuously through the Meiji and Taisho eras, and in 1982 was designated as a Nationally Designated Important Intangible Folk Cultural Property. Among koshogatsu (Lesser New Year) events in snowy regions, it has been researched from both folklore studies and Japanese classical literature as a case that strongly retains the prototype of the \"sagichō-type\" event.",
-      "cultural_context_jp_en": "Within the nationwide cluster of sagichō / dondo-yaki / saito-yaki events, the Rokugō type — which combines document burning, bamboo-striking, and bird-chasing in a composite form — is rare. It is a different lineage from the tourism-oriented \"Yokote no Kamakura,\" and maintains the original religious functions of divination and purification.",
-      "local_perspective_jp_en": "The culture of writing wishes on tenbitsú (prayer paper banners) is still widely transmitted today from children to adults, and functions as a bond of community cohesion."
+      "history_jp": "六郷のカマクラは秋田県仙北郡美郷町六郷地区に七百余年伝承される小正月行事である。京都御所で行われていた正月の火祭「左義長（さぎちょう）」の吉書焼きの遺風をうつしたものとされ、鎌倉初期に二階堂氏が六郷の地頭となり、鎌倉幕府の「吉書初め」の行事をもたらしたものと言い伝えられる。[六郷のカマクラ公式](https://rokukama.akita-misato.com/) 江戸期以降も小正月行事として継承され、明治・大正期に観光化された他地域の「かまくら」とは異なり、本来の年占い・悪魔払いの形を保持してきた。昭和57年（1982年）1月14日に国の重要無形民俗文化財に指定された。[美郷町「四方山話」](https://www.town.misato.akita.jp/kamakura/1159), [国指定文化財等データベース](https://kunishitei.bunka.go.jp/heritage/detail/302/79)",
+      "cultural_context_jp": "六郷のカマクラは「豊作・安全繁栄を祈る『年ごい』」「凶作・不幸を除去する『悪魔払い』」「その年の吉凶を占う『年占い』」の三者が一体となった小正月行事である。2月11日〜15日の5日間にわたり、初日の「蔵開き」と「天筆書初め」から、最終日の「竹うち」と「天筆焼き」までの一連の催しからなる。観光客が観賞する雪室の「かまくら」とは別系統で、雪国の小正月行事の本来の姿を伝える稀少な事例として民俗学的価値が高い。[東北観光推進機構](https://www.tohokukanko.jp/festivals/detail_10076.html)",
+      "local_perspective_jp": "行事は六郷のカマクラ行事継承会（事務局：名水市場湧太郎内・あきた美郷づくり株式会社）が中心となって運営されている。竹うちでは地区を「北軍」「南軍」に分け、男衆が長竹を持って打ち合う。北軍が勝てば豊作、南軍が勝てば米の値が上がると伝えられ、今もなお勝敗の結果は地域で話題となる。[るるぶ＆more.](https://rurubu.jp/andmore/spot/20001033) 天筆（てんぴつ）は五色の短冊状の紙で、新年の祝詞や願い事が書き入れられ、長竹に結びつけて空に翻らせた後、天筆焼きで一年の吉凶を占う書初めとして燃やされる。",
+      "related_works": [
+        "『六郷のカマクラ』（美郷町教育委員会刊）",
+        "「カマクラ②六郷のカマクラ」（なんも大学、2017年）",
+        "国指定重要無形民俗文化財 六郷のカマクラ-竹うち・天筆焼き-（YouTube記録映像、2023年）"
+      ],
+      "external_reviews": [
+        "六郷のカマクラ（るるぶ＆more.、2025年）",
+        "【美郷町】2026年の「六郷のカマクラ」を開催！（akitanote、2026年）"
+      ],
+      "best_visit_time": "最終日（令和8年は2月14日）夜の竹うち・天筆焼き。竹うちは午後8時頃〜開始。極寒・積雪期につき防寒装備必須。",
+      "photo_tips": "夜間屋外の動体撮影となる。竹うちは竹の交錯と火の粉が激しく、撮影位置に関する係員の指示に必ず従う。三脚使用・フラッシュ使用は事前に主催者へ確認のこと。長竹が振り下ろされる範囲に立ち入らない。",
+      "trivia": [
+        "「カマクラ」の名称は鎌倉幕府時代に行事が伝来したことに由来するとされる",
+        "北軍勝＝豊作、南軍勝＝米相場上昇という年占いは現在も継承されている",
+        "観光化された雪室の「かまくら」とは別系統の本来の小正月行事",
+        "竹うちの竹は六郷地区の竹林から伐り出され、行事のために準備される"
+      ],
+      "warnings_extra": "竹うちは長竹の交錯と火の粉が激しい勇壮な火祭である。観覧位置に関する係員の指示に必ず従い、安全な観覧エリアから鑑賞すること。極寒・積雪期の野外行事のため、防寒装備・滑り止めが必須。撮影・取材は六郷のカマクラ行事継承会の指示に従い、煽情的・興味本位の表現は避ける。",
+      "sources": "[六郷のカマクラ公式](https://rokukama.akita-misato.com/), [美郷町「六郷のカマクラ行事」](https://www.town.misato.akita.jp/archive/contents-3616), [美郷町「四方山話」](https://www.town.misato.akita.jp/kamakura/1159), [国指定文化財等データベース「六郷のカマクラ」](https://kunishitei.bunka.go.jp/heritage/detail/302/79), [東北観光推進機構](https://www.tohokukanko.jp/festivals/detail_10076.html), [るるぶ＆more.](https://rurubu.jp/andmore/spot/20001033)",
+      "history_jp_en": "The Rokugo no Kamakura is a small-New-Year (koshougatsu) festival transmitted for over seven hundred years in the Rokugo district of Misato Town, Akita Prefecture. It is said to originate from the Sagicho fire ritual of the Kyoto Imperial Court, brought to the area in the early Kamakura period by the Nikaido clan, who became the local stewards (jito) and introduced the shogunate's New Year writing ceremony. Unlike the tourist-oriented snow-hut Kamakura known elsewhere, this festival preserves the original form of the small-New-Year folk rites and was designated a Nationally Designated Important Intangible Folk Cultural Property on January 14, 1982.",
+      "cultural_context_jp_en": "The festival combines three elements: tosegoi (prayer for a good harvest and safe prosperity), akumabarai (exorcism of misfortune), and toshiura (divination for the year). It unfolds over five days, beginning with the kura-biraki (storehouse opening) and tenpitsu kakizome (ceremonial first writing of the year) and culminating in the takeuchi (bamboo-striking contest) and tenpitsu-yaki (burning of the tenpitsu) on the final night.",
+      "local_perspective_jp_en": "During the takeuchi, the district is divided into the Northern Army (Hokugun) and the Southern Army (Nangun); men with long bamboo poles strike each other in a vigorous contest. Tradition holds that if the Northern Army wins the harvest will be abundant, while if the Southern Army wins the price of rice will rise — a divination still followed by residents today."
     }
   },
   {

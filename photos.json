@@ -1235,10 +1235,42 @@
     "alt_photos": []
   },
   "fest-116": {
-    "name": "六郷のカマクラ行事",
-    "primary": null,
-    "credit": null,
-    "alt_photos": []
+    "name": "六郷のカマクラ",
+    "primary": "data/photos/fest-116/rokugo-kamakura-01-takeuchi-fire.jpg",
+    "credit": "写真提供　あきた美郷づくり株式会社",
+    "license": "あきた美郷づくり株式会社（美郷町観光情報センター）の許可に基づく限定使用（2026年5月26日付け承諾）。クレジット指定文言は荒田直樹様の最終回答待ち。",
+    "alt_photos": [
+      {
+        "url": "data/photos/fest-116/rokugo-kamakura-02-takeuchi-clash.jpg",
+        "caption": "竹うちの応酬：北軍・南軍に分かれた男衆が長竹で激しく打ち合う。最終日夜の核心儀礼",
+        "credit": "写真提供　あきた美郷づくり株式会社"
+      },
+      {
+        "url": "data/photos/fest-116/rokugo-kamakura-03-tenpitsu-burning.jpg",
+        "caption": "天筆焼き：五色の天筆と燃え盛る炎",
+        "credit": "写真提供　あきた美郷づくり株式会社"
+      },
+      {
+        "url": "data/photos/fest-116/rokugo-kamakura-04-tenpitsu-night.jpg",
+        "caption": "夜の天筆焼きを取り囲む参加者と五色の天筆",
+        "credit": "写真提供　あきた美郷づくり株式会社"
+      },
+      {
+        "url": "data/photos/fest-116/rokugo-kamakura-05-toriyagoya.jpg",
+        "caption": "鳥追い小屋（雪のかまくら）と空に翻る五色の天筆",
+        "credit": "写真提供　あきた美郷づくり株式会社"
+      },
+      {
+        "url": "data/photos/fest-116/rokugo-kamakura-06-tenpitsu-sky.jpg",
+        "caption": "雪の祠を背景に五色の天筆が冬空に翻る",
+        "credit": "写真提供　あきた美郷づくり株式会社"
+      },
+      {
+        "url": "data/photos/fest-116/rokugo-kamakura-07-tenpitsu-detail.jpg",
+        "caption": "五色の天筆（赤・青・黄・緑・白）のクローズアップ。願い事や祝詞が記される",
+        "credit": "写真提供　あきた美郷づくり株式会社"
+      }
+    ]
   },
   "fest-117": {
     "name": "白石踊",
