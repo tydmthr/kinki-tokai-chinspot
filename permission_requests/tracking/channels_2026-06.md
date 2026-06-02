@@ -14,8 +14,7 @@
 | 🔴 高 | fest-114 | 「ほっと石川旅ねっと」DBから写真選定 → `spots.json` 反映 | — |
 | 🟡 中 | spot-118 | 高鍋町観光協会 加藤事務局長からの再返信を待機（5/30送付） | `negotiation_reply` 続報待ち |
 | 🟡 中 | spot-122 | 加太淡嶋神社へ電話（平日 9:00〜17:00） | `hold/spot-122_call_script.md` |
-| 🟢 低 | fest-116 | PR #5 を rebase + マージ後にお礼返信 | `templates/thanks_reply.md` |
-| 🟢 低 | fest-117 | PR #2 を rebase + マージ後にお礼返信 | `templates/thanks_reply.md` |
+| 🟡 中 | fest-116 / fest-117 | お礼返信ドラフトを Spark から送信（要会長確認） | `sent/fest-116_misato_2026-06-02_thanks_apology.md` / `sent/fest-117_kasaoka_2026-06-02_thanks.md` |
 
 ## 6月の運用方針（Claude Code 引き渡し後）
 
