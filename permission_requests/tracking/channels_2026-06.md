@@ -14,7 +14,8 @@
 | 2026-06-07 | fest-149 | 写真許諾依頼ドラフト作成（長門市役所 文化財保護室宛、フォーム送付運用） | 長門市役所 文化財保護室 | `none` → **`drafted`** |
 | 2026-06-07 | fest-157 | 写真許諾依頼ドラフト作成（木境大物忌神社 社務所＋由利本荘市 文化・スポーツ課、二段構え） | 木境大物忌神社／由利本荘市 | `none` → **`drafted`** |
 | 2026-06-07 | fest-170 | 写真許諾依頼ドラフト作成（南伊勢町観光協会フォーム＋地縁ルート別線） | 南伊勢町観光協会／古和浦祇園祭保存会 | `none` → **`drafted`** |
-| 2026-06-07 | （UI改修） | `upcoming-festivals.tsx` フォールバック空枠バグ修正＋第1フォールバック磨き（紙地・縦書き漢字月・7xl大日付・✦Coming） | bizarre-japan-next | `tsc --noEmit` exit 0、未コミット |
+| 2026-06-07 | （UI改修） | `upcoming-festivals.tsx` フォールバック空枠バグ修正＋第1フォールバック磨き（紙地・縦書き漢字月・7xl大日付・✦Coming） | bizarre-japan-next | `tsc --noEmit` exit 0、コミット28a11b8→push済 |
+| 2026-06-08 | fest-149 | 長門市観光コンベンション協会 info@nanavi.jp 宛 写真許諾依頼を Spark から送信完了（副候補・先行） | 長門市観光コンベンション協会 | `drafted` → **`sent`** |
 
 ## 着手予定（Claude Code が判断・実行）
 
@@ -22,7 +23,7 @@
 |---|---|---|---|
 | 🟢 完 | fest-114 | 輪島市役所宛て依頼送信済（2026-06-07）。市役所からの返信待ち | `sent/fest-114_wajima-shougai_2026-06-07_request.md` |
 | 🟢 完 | fest-114 | 披岸様御礼返信 送信済（2026-06-07） | `sent/fest-114_ishikawa-tourism_2026-06-07_thanks_close.md` |
-| 🔴 高 | fest-149 | 長門市役所 文化財保護室フォーム送付（ドラフト本文を貼付） | `sent/fest-149_nagato-bunkazai_2026-06-07_request.md` |
+| 🟡 中 | fest-149 | 長門市役所 文化財保護室フォーム送付（観光協会と二段構え／観光協会へは6/8送信済） | `sent/fest-149_nagato-bunkazai_2026-06-07_request.md` |
 | 🔴 高 | fest-157 | 木境大物忌神社 電話一次（0184-55-3249）＋由利本荘市 文化・スポーツ課フォーム | `sent/fest-157_kizakai-oomonoimi_2026-06-07_request.md` |
 | 🔴 高 | fest-170 | 南伊勢町観光協会フォーム送付＋会長地縁ルートで別線温め | `sent/fest-170_minamiise-kanko_2026-06-07_request.md` |
 | 🟡 中 | bizarre-japan-next | dev server で `upcoming-festivals.tsx` の新フォールバック目視確認 → コミット | `git status` で確認 |
