@@ -1,4 +1,18 @@
-# 異界巡礼 — 珍スポット＆奇祭百景
+> [!IMPORTANT]
+> **このリポジトリは 2026-06-07 をもって「データソース専用」になりました。**
+>
+> | 用途 | 状態 |
+> |---|---|
+> | **データソース**（spots.json / festivals.json / photos.json / access_info.json / data/photos/ / 写真許諾フロー / Instagram feed） | ✅ **継続運用中** |
+> | **サイト表示用ファイル**（index.html / app.js / style.css / en/） | ❌ **凍結（編集禁止）** |
+> | **本番サイト** https://bizarrejapan.com/ | ✅ 新リポ [tydmthr/bizarre-japan-next](https://github.com/tydmthr/bizarre-japan-next) で稼働 |
+> | **旧 GitHub Pages 公開**（tydmthr.github.io/kinki-tokai-chinspot/） | ❌ 2026-06-07 廃止 |
+>
+> JSON データは引き続きこのリポで編集してください。新サイトには `bizarre-japan-next/scripts/sync-from-source.sh` で取り込みます。
+
+---
+
+# 異界巡礼 — 珍スポット＆奇祭百景（データソース）
 
 > 表通りの観光案内には載らない、もう一つの日本。
 
