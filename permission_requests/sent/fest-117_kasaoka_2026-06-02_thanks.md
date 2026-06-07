@@ -8,7 +8,7 @@
 - **テンプレ起源**: templates/thanks_reply.md + 確認用URL報告
 - **添付**: なし
 - **Gmail draft_id**: `r6055418020300255053`
-- **公開URL**: https://bizarrejapan.com/?id=fest-117
+- **公開URL**: https://bizarrejapan.com/festivals/fest-117
 - **状態**: draft（ユーザー承認待ち→Sparkから送信）
 
 ## 経緯
@@ -31,7 +31,7 @@ Gmail メアド `ando-yasuhiro@city.kasaoka.lg.jp` および本人署名で確�
 
 要旨：
 - 写真3点と教育長名許可書のご送付への御礼
-- 公開URL報告：https://bizarrejapan.com/?id=fest-117
+- 公開URL報告：https://bizarrejapan.com/festivals/fest-117
 - 安東様の「確認用URLをご教示いただけますれば」へのお応えとして、本URLで確認をお願い
 - クレジット「写真提供　笠岡市教育委員会」明記済
 - 利用範囲・加工・編集方針の遵守事項を再確認

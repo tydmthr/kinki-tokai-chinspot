@@ -31,7 +31,7 @@
 2. **対象の現状を確認**：
    - `spots.json` / `festivals.json` の該当エントリ
    - `photos.json` の該当エントリ（`primary` / `credit` / `license`）
-   - サイト上での表示 (`https://bizarrejapan.com/?id=<ID>` 等)
+   - サイト上での表示 (`https://bizarrejapan.com/spots/spot-XXX` または `https://bizarrejapan.com/festivals/fest-XXX`)
 3. **窓口候補を一次資料で裏取り**：
    - 自治体公式サイト（教育委員会・文化課・観光課）
    - 神社庁登録情報

@@ -8,7 +8,7 @@
 - **テンプレ起源**: 独自起草（thanks_reply.md + お詫び要素）
 - **添付**: なし
 - **Gmail draft_id**: `r-5758993908194219284`
-- **公開URL**: https://bizarrejapan.com/?id=fest-116
+- **公開URL**: https://bizarrejapan.com/festivals/fest-116
 - **状態**: draft（ユーザー承認待ち→Sparkから送信）
 
 ## 経緯
@@ -41,7 +41,7 @@
 要旨：
 - 事前確認不履行のお詫び
 - クレジット文言誤りの修正完了報告（「写真提供　六郷のカマクラ行事継承会」確定）
-- 公開URL: https://bizarrejapan.com/?id=fest-116
+- 公開URL: https://bizarrejapan.com/festivals/fest-116
 - 取り下げ・修正要請は24時間以内対応
 - 遵守事項（煽情表現排除・民俗文脈・敬意・加工最小）の再確認
 
