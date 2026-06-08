@@ -16,6 +16,8 @@
 | 2026-06-07 | fest-170 | 写真許諾依頼ドラフト作成（南伊勢町観光協会フォーム＋地縁ルート別線） | 南伊勢町観光協会／古和浦祇園祭保存会 | `none` → **`drafted`** |
 | 2026-06-07 | （UI改修） | `upcoming-festivals.tsx` フォールバック空枠バグ修正＋第1フォールバック磨き（紙地・縦書き漢字月・7xl大日付・✦Coming） | bizarre-japan-next | `tsc --noEmit` exit 0、コミット28a11b8→push済 |
 | 2026-06-08 | fest-149 | 長門市観光コンベンション協会 info@nanavi.jp 宛 写真許諾依頼を Spark から送信完了（副候補・先行） | 長門市観光コンベンション協会 | `drafted` → **`sent`** |
+| 2026-06-08 | fest-157 | 由利本荘市 文化・スポーツ課 sports@city.yurihonjo.lg.jp 宛 Spark から送信完了（Gmail下書き `r-885741395008945362` 経由） | 由利本荘市 文化・スポーツ課 | `drafted` → **`sent`** |
+| 2026-06-08 | fest-170 | 南伊勢町観光協会 公式問い合わせフォーム（https://minami-ise.jp/inquiry.html）から送信完了（3営業日以内回答） | 南伊勢町観光協会 | `drafted` → **`sent`** |
 
 ## 着手予定（Claude Code が判断・実行）
 
@@ -24,9 +26,10 @@
 | 🟢 完 | fest-114 | 輪島市役所宛て依頼送信済（2026-06-07）。市役所からの返信待ち | `sent/fest-114_wajima-shougai_2026-06-07_request.md` |
 | 🟢 完 | fest-114 | 披岸様御礼返信 送信済（2026-06-07） | `sent/fest-114_ishikawa-tourism_2026-06-07_thanks_close.md` |
 | 🟡 中 | fest-149 | 長門市役所 文化財保護室フォーム送付（観光協会と二段構え／観光協会へは6/8送信済） | `sent/fest-149_nagato-bunkazai_2026-06-07_request.md` |
-| 🔴 高 | fest-157 | 木境大物忌神社 電話一次（0184-55-3249）＋由利本荘市 文化・スポーツ課フォーム | `sent/fest-157_kizakai-oomonoimi_2026-06-07_request.md` |
-| 🔴 高 | fest-170 | 南伊勢町観光協会フォーム送付＋会長地縁ルートで別線温め | `sent/fest-170_minamiise-kanko_2026-06-07_request.md` |
-| 🟡 中 | bizarre-japan-next | dev server で `upcoming-festivals.tsx` の新フォールバック目視確認 → コミット | `git status` で確認 |
+| 🟡 中 | fest-157 | 木境大物忌神社 電話一次（0184-55-3249、9-17時）未実施。市側返信を見てタイミング判断 | `sent/fest-157_kizakai-oomonoimi_2026-06-07_request.md` |
+| 🟢 完 | fest-157 | 由利本荘市 文化・スポーツ課 送信済（2026-06-08）→ 回答待ち | 同上 |
+| 🟢 完 | fest-170 | 南伊勢町観光協会フォーム送信済（2026-06-08）→ 3営業日以内回答待ち。地縁ルート（商工会）は反応見て判断 | `sent/fest-170_minamiise-kanko_2026-06-07_request.md` |
+| 🟢 完 | bizarre-japan-next | UI改修コミット28a11b8 push済、会長ブラウザ確認OK | — |
 | 🟢 低 | fest-114 | 輪島市分の進捗を見て、能登町秋吉地区アマメハギ保存会への照会要否を判断 | — |
 | 🟡 中 | spot-118 | 高鍋町観光協会 加藤事務局長からの再返信を待機（5/30送付） | `negotiation_reply` 続報待ち |
 | 🟡 中 | spot-122 | 加太淡嶋神社へ電話（平日 9:00〜17:00） | `hold/spot-122_call_script.md` |
