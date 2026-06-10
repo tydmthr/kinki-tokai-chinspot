@@ -24,23 +24,47 @@
 
 ## 役割分担（重要）
 
+**2026-06-10 改訂（B型に切り直し）**：会長からの「Perplexity Computer と Claude Code の行き来がしんどい」を受けて、裏取り〜記事化〜JSON化〜push の重い工程を Claude Code に集約。Perplexity Computer は「候補発掘の入口」だけに絞る。
+
 | 領域 | Perplexity Computer 側 | Claude Code 側 |
 |---|---|---|
-| スポット候補発掘・裏取り | ◎ 主担当 | △ サブ（補助検索） |
-| JP/EN 文案・SNS 投稿文生成 | ◎ 主担当 | △ サブ |
-| `spots.json` / `festivals.json` への追記 | ○ 候補JSON生成・直push可 | ◎ 取り込み実行・PR運用 |
-| `spots_en.json` / `festivals_en.json` への追記 | ○ EN文案を生成 | ◎ ファイルへの取り込み |
-| `build_data.py` 実行（data.js 再生成） | △ 軽微な場合のみ | ◎ 主担当 |
-| HTML / CSS / JS 改修 | △ 軽微な修正のみ | ◎ 主担当 |
-| Python スクリプト編集・新規作成 | △ 軽微な修正のみ | ◎ 主担当 |
+| **IGスクショ → 候補CSV化** | ◎ 主担当（Vision API / candidate_builder.py） | × |
+| **新規候補の発掘・面の広い探索** | ◎ 主担当（地方紙・SNS・観光協会の横断検索） | △ 個別URLは WebFetch で対応可 |
+| **掲載判断の一次フィルタ**（私有地・危険地の除外） | ◎ 候補CSV生成時に safety_note を付与 | ◎ 取り込み時に再判定 |
+| **裏取り・一次資料検証** | × | ◎ 主担当（WebSearch / WebFetch / deep-research） |
+| **JP 本文・summary・highlights 作成** | × | ◎ 主担当 |
+| **EN 翻訳（name_en / summary_en / highlights_en）** | × | ◎ 主担当 |
+| **deepdive（歴史/文化文脈/local_perspective 等）** | × | ◎ 主担当（deep-research で複数源並列） |
+| **photos.json / access_info.json 編集** | × | ◎ 主担当 |
+| `spots.json` / `festivals.json` への追記・連番付与 | × | ◎ 主担当 |
+| `build_data.py` 実行（旧サイト用、現在は凍結） | △ 軽微 | △ 軽微（旧サイトは凍結済） |
+| **本番反映**（commit → push → GitHub Actions） | × | ◎ 新リポ `bizarre-japan-next/` のフローへ |
+| HTML / CSS / JS 改修 | × | ◎ 主担当（新リポのみ。旧リポは凍結） |
+| Python スクリプト編集・新規作成 | △ 軽微 | ◎ 主担当 |
 | ローカル dev server 動作確認 | × | ◎ 主担当 |
 | 朝6時 Instagram フィード自動反映 | ◎ 専属（cron） | × **触らない** |
+| **SNS 投稿文（IG キャプション）作成** | ◎ 主担当 | △ サブ（テンプレ生成のみ） |
 | Space 内マニュアル・ポリシーの索引 | ◎ search_files | × |
+
+### B型運用の受け渡し
+
+Perplexity Computer は **候補CSV（`candidates/YYYY-MM_batchN.csv`）** を旧リポへ push。
+Claude Code はそれを受けて：
+
+1. `git pull` → candidates/ 最新化
+2. CSV の `decision=採用` 行を順に裏取り（WebSearch / WebFetch / deep-research）
+3. summary / highlights / deepdive / EN訳 を一気に生成
+4. spots.json / festivals.json / spots_en.json / festivals_en.json / photos.json / access_info.json に追記
+5. 旧リポへ push（データソース更新）
+6. 新リポで `./scripts/sync-from-source.sh` 相当が自動 sync（GitHub Actions、毎朝 JST 07:00 + 手動）
+7. 新リポの本番反映（commit → push → Pages）
+
+つまり Perplexity の押し出し → Claude Code の取り込みは Drive / git の片道のみ、**会長が往復する必要はなくなる**。
 
 ### push 運用ルール
 
-- **main 直 push 可**: `spots.json` / `festivals.json` / `spots_en.json` / `festivals_en.json` / 文案系 Markdown / `docs/`
-- **PR 運用**: コード変更（HTML / CSS / JS / Python スクリプト）
+- **main 直 push 可**: `spots.json` / `festivals.json` / `spots_en.json` / `festivals_en.json` / `photos.json` / `access_info.json` / `data/photos/` / `candidates/` / 文案系 Markdown / `docs/` / `permission_requests/`
+- **PR 運用**: Python スクリプト変更（HTML/CSS/JS は旧リポ凍結のため新リポへ）
 - **作業開始時の必須手順**: 必ず `git pull origin main` で最新化
   - 2026-05-27 に Computer 側からの push で発生した ID 連番衝突の再発防止
   - リモートの最新 `spots.json` の最大 ID を確認してから連番付与すること
