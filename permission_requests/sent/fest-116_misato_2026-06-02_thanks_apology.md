@@ -7,9 +7,9 @@
 - **件名**: Re: 【写真使用許諾のお願い】「六郷のカマクラ（竹うち）」掲載写真について（公開のご報告とお詫び）
 - **テンプレ起源**: 独自起草（thanks_reply.md + お詫び要素）
 - **添付**: なし
-- **Gmail draft_id**: `r-5758993908194219284`
+- **Gmail draft_id**: `r-5758993908194219284`（旧版、誤URL含む）／**`r-5695995091581445618`**（最終版、`/festivals/fest-116` 修正済、これを送信）
 - **公開URL**: https://bizarrejapan.com/festivals/fest-116
-- **状態**: draft（ユーザー承認待ち→Sparkから送信）
+- **状態**: **sent**（2026-06-10 13:13 JST、Spark から BizJP エイリアスで送信完了。msg_id `19eafbd4ce700355`、荒田様 n-arata@akita-misato.com に CC）
 
 ## 経緯
 

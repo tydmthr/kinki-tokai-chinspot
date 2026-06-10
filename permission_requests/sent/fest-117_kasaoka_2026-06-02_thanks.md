@@ -7,9 +7,9 @@
 - **件名**: Re: 白石踊の写真について（岡山県笠岡市）（公開のご報告・ご確認のお願い）
 - **テンプレ起源**: templates/thanks_reply.md + 確認用URL報告
 - **添付**: なし
-- **Gmail draft_id**: `r6055418020300255053`
+- **Gmail draft_id**: `r6055418020300255053`（旧版、誤URL含む）／**`r-4141440066604323212`**（最終版、`/festivals/fest-117` 修正済、これを送信）
 - **公開URL**: https://bizarrejapan.com/festivals/fest-117
-- **状態**: draft（ユーザー承認待ち→Sparkから送信）
+- **状態**: **sent**（2026-06-10 13:13 JST、Spark から BizJP エイリアスで送信完了。msg_id `19eafbc8afb247b1`、安東様宛て）
 
 ## 経緯
 
