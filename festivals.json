@@ -7520,5 +7520,45 @@
       "warnings_extra_en": "The 2026 schedule should be confirmed directly with Toyone Village (TEL: 0536-87-2525) or the Toyone Village Tourism Association. Based on the 2025 precedent (November 22–23), the 2026 date is estimated as November 28–29 (provisional). No public transportation is available — access by private vehicle only. Parking for 20 cars (free). At night in this mountain valley the temperature drops sharply; risk of frostbite and hypothermia is real. Please offer the customary visitor's contribution (2,000–3,000 yen) at the preservation society table; it directly funds the festival's continuation.",
       "sources_en": "[Toyone Village official (Hanamatsuri)](https://www.vill.toyone.aichi.jp/soshiki/kyoiku/173.html), [National Cultural Property Database 'Hanamatsuri'](https://kunishitei.bunka.go.jp/bsys/maindetails/302/84), [Aichi Now — Sakaba Hanamatsuri](https://aichinow.pref.aichi.jp/spots/detail/1637/), [Wikipedia 'Hanamatsuri (Shimotsuki Kagura)'](https://ja.wikipedia.org/wiki/%E8%8A%B1%E7%A5%AD_(%E9%9C%9C%E6%9C%88%E7%A5%9E%E6%A5%BD)), [Toyone Village Tourism Association](https://www.toyonemura-kanko.jp/event?visit_from=&visit_to=&s_freeword=%E8%8A%B1%E7%A5%AD)"
     }
+  },
+  {
+    "id": "fest-173",
+    "name": "佐陀神能",
+    "name_kana": "さだしんのう",
+    "shrine": "佐太神社",
+    "category": "folk",
+    "prefecture": "島根県",
+    "city": "松江市",
+    "lat": 35.544,
+    "lng": 132.997,
+    "date_pattern": "毎年9月24-25日（御座替神事に奉納）",
+    "date_2026": "2026-09-24",
+    "date_2026_end": "2026-09-25",
+    "summary": "佐陀神能（さだしんのう）は、島根県松江市鹿島町の佐太神社で毎年9月24日・25日の御座替神事（ござがえしんじ）に奉納される神事芸能である。直面（ひためん）で剣や榊などを採物として舞う「七座」、能楽の翁・千歳・三番叟を踏襲した祝言の「式三番」、記紀神話を題材とする仮面神話劇の「神能」の三部構成をとる。慶長13年（1608年）に佐太神社の神官・宮川兵部少輔秀行が京都で能楽を学んで持ち帰り、在来の神事舞と融合させたのが始まりと伝えられる。神懸かりや天蓋懸架を伴わない様式で、出雲神楽の源流に位置づけられる。昭和51年（1976年）に国の重要無形民俗文化財、平成23年（2011年）にユネスコ無形文化遺産に登録された。24日夜に御座替神事と七座、25日午後3時頃から例大祭、夜に式三番・神能が本殿前で奉納される。境内は常時参拝可能だが、奉納の観覧可否や撮影・着座方法は年度により案内が異なるため、佐太神社社務所への事前確認が望ましい。",
+    "highlights": [
+      "仮面を用いる神能（神話劇）と直面の七座、式三番からなる三部構成",
+      "ユネスコ無形文化遺産・国指定重要無形民俗文化財の二重指定を受ける神事芸能",
+      "出雲神楽の源流とされ、能楽の作法を神社神事に取り入れた稀有な例",
+      "9月24日夜の御座替神事（御神座を新しい真菰に替える）と一体で奉納される",
+      "大社造の本殿三社並立（重要文化財）を背景にした神域での上演"
+    ],
+    "origin": "佐陀神能の成立は、慶長13年（1608年）に佐太神社の神官・宮川兵部少輔秀行が京都へ赴き能楽の作法を学んで持ち帰り、当地に古くから伝わる神事舞と融合させたことに始まると伝えられる。神社では古傳の祭祀として伝承され、現在は佐陀神能保持者会が保護団体として継承を担う。天正以前の社家が能楽に範をとって舞わせたとも言われ、猿楽能の影響を受けた曲目を多く含むため芸能史的価値が高い。\n\n国の文化財制度との関わりは古く、文化財保護法の整備期である昭和27年（1952年）に初期指定を受け、昭和51年（1976年）5月4日に国の重要無形民俗文化財に指定された。さらに平成23年（2011年）11月27日、ユネスコの政府間委員会で無形文化遺産代表一覧表への記載が決定し、出雲神楽の源流とされる神事芸能として国際的に位置づけられた。神懸かりや天蓋（神籬）の懸架を伴わない点で、後年成立した他の出雲流神楽とは様式上一線を画す。",
+    "official_url": "https://sadajinjya.jp/?m=wp&WID=4200",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E4%BD%90%E9%99%80%E7%A5%9E%E8%83%BD",
+      "https://online.bunka.go.jp/heritages/detail/241163",
+      "https://www.kankou-matsue.jp/event_calendar/event_list/418/422",
+      "https://www.kankou-shimane.com/destination/20750"
+    ],
+    "viewing_notes": "境内は常時参拝可能（無料）。神能奉納時の拝観可否・観覧場所・撮影可否は年度により案内が異なるため、事前に佐太神社社務所（電話 0852-82-0668、平日8:30-17:00）への確認を推奨。神事への参列であるため、夜間奉納時は私語・移動・フラッシュ撮影を控えるなど作法に配慮。性別による参拝制限はなし。",
+    "deepdive": {
+      "history_jp": "佐陀神能の成立は、慶長13年（1608年）に佐太神社の神官・宮川兵部少輔秀行が京都で能楽の作法を学び、当地に持ち帰って既存の神事舞と融合させたことに始まると伝えられる（[佐陀神能 - Wikipedia](https://ja.wikipedia.org/wiki/%E4%BD%90%E9%99%80%E7%A5%9E%E8%83%BD)）。文化財保護法の整備に伴い、昭和27年（1952年）に初期の文化財指定を受け、昭和51年（1976年）5月4日に国の重要無形民俗文化財に指定された（[文化遺産オンライン](https://online.bunka.go.jp/heritages/detail/241163)）。平成23年（2011年）11月27日、インドネシア・バリ島で開催されたユネスコ政府間委員会で無形文化遺産代表一覧表への記載が決定し、出雲神楽の源流とされる芸能として国際的にも認められた（[佐太神社公式](https://sadajinjya.jp/?m=wp&WID=4200)）。保護団体は佐陀神能保持者会である（[文化遺産オンライン](https://online.bunka.go.jp/heritages/detail/241163)）。",
+      "cultural_context_jp": "佐陀神能は、神事舞である「七座（しちざ）」、祝言性の高い「式三番（しきさんばん）」、神話を題材とする仮面神能の「神能（しんのう）」の三部構成をとる（[しまね観光ナビ](https://www.kankou-shimane.com/destination/20750)）。七座は剣・榊などを採物として直面（ひためん）で舞われる清祓の舞、式三番は能楽の翁・千歳・三番叟を踏襲した祝祭舞、神能は天岩戸・八重垣などの記紀神話を仮面劇として演じる構成で、能楽の様式を神社神事に取り込んだ稀有な事例とされる（[佐陀神能 - Wikipedia](https://ja.wikipedia.org/wiki/%E4%BD%90%E9%99%80%E7%A5%9E%E8%83%BD)）。神懸かりや天蓋を吊らない点で他の出雲神楽と一線を画し、出雲流神楽の源流に位置づけられている。猿楽能の影響を受けた曲目を多く含むため芸能史的価値が高いと評価される（[文化遺産オンライン](https://online.bunka.go.jp/heritages/detail/241163)）。",
+      "local_perspective_jp": "奉納は本殿正中殿の御神座（御座）を新しい真菰で編んだものに替える「御座替神事」と一体で行われる祭礼で、9月24日夜に七座、25日夜に式三番と神能が奉納される（[松江観光協会](https://www.kankou-matsue.jp/event_calendar/event_list/418/422)）。地元では旧暦に倣い「八月の祭り」と呼ぶ古老もいる。境内は普段から参拝可能だが、神能奉納時の拝観可否・時間・座席の有無は年度により案内が異なるため、事前に佐太神社社務所（[佐太神社公式](https://sadajinjya.jp/)）へ問い合わせるのが確実。撮影や三脚使用は神事である性質上、その都度神社側の指示に従う必要がある。",
+      "best_visit_time": "2026年は9月24日（木）の夜（御座替神事と七座の奉納）と、25日（金）夜（式三番・神能の奉納）。本殿前の例大祭は25日午後3時頃から。神能の奉納は夕刻以降が中心で、当日午前の参拝は混雑が比較的少ない。",
+      "photo_tips": "神事奉納中の撮影は神社の指示に従うことが大前提。境内・本殿（重要文化財の大社造三殿並立）は日中、北山連峰を背景に良好な順光が得られる午前〜正午が適する。神能奉納時はフラッシュ・録音録画について現地アナウンスを要確認。三脚は混雑時には不可。",
+      "warnings_extra": "夜間の奉納は冷え込むため上着持参が望ましい。神事中は私語・拍手など能楽鑑賞時とは異なる作法が求められる場面があるため、観覧時は周囲の地元参拝者の所作に従う。神事への撮影機材持ち込み・SNS投稿可否は年度により方針が変わる可能性があるため事前確認を推奨。",
+      "sources": "[佐陀神能 - Wikipedia](https://ja.wikipedia.org/wiki/%E4%BD%90%E9%99%80%E7%A5%9E%E8%83%BD) / [文化遺産オンライン（文化庁）](https://online.bunka.go.jp/heritages/detail/241163) / [佐太神社公式ホームページ](https://sadajinjya.jp/?m=wp&WID=4200) / [松江観光協会 イベント情報](https://www.kankou-matsue.jp/event_calendar/event_list/418/422) / [しまね観光ナビ（島根県公式）](https://www.kankou-shimane.com/destination/20750)"
+    }
   }
 ]

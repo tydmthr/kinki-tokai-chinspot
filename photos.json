@@ -1334,5 +1334,43 @@
     "creator": "A photographer",
     "provider": "Wikimedia Commons",
     "title": "陀々堂の鬼はしり (父鬼)"
+  },
+  "spot-220": {
+    "name": "與止日女神社（川上神社・通称：淀姫さん）",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "spot-221": {
+    "name": "放牛石仏 100体目",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "spot-222": {
+    "name": "鬼ヶ島大洞窟",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Grotte_de_Megi-jima.jpg",
+    "credit": "Jyfrite, CC BY-SA 4.0, via Wikimedia Commons",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Grotte_de_Megi-jima.jpg",
+    "provider": "Wikimedia Commons",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "spot-223": {
+    "name": "猿島",
+    "primary": null,
+    "credit": null,
+    "alt_photos": []
+  },
+  "fest-173": {
+    "name": "佐陀神能",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Sada_jinja.jpg",
+    "credit": "Monado",
+    "alt_photos": [],
+    "license": "CC BY-SA 2.5",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sada_jinja.jpg",
+    "provider": "Wikimedia Commons",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5/"
   }
 }
