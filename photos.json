@@ -1372,5 +1372,55 @@
     "source_url": "https://commons.wikimedia.org/wiki/File:Sada_jinja.jpg",
     "provider": "Wikimedia Commons",
     "license_url": "https://creativecommons.org/licenses/by-sa/2.5/"
+  },
+  "spot-224": {
+    "name": "迦葉山弥勒護国禅寺",
+    "primary": null,
+    "credit": null,
+    "alt_photos": [],
+    "license": null,
+    "source_url": null,
+    "provider": null,
+    "license_url": null
+  },
+  "fest-174": {
+    "name": "高川仁井田神社 早飯食い",
+    "primary": null,
+    "credit": null,
+    "alt_photos": [],
+    "license": null,
+    "source_url": null,
+    "provider": null,
+    "license_url": null
+  },
+  "fest-175": {
+    "name": "でやんな祭",
+    "primary": null,
+    "credit": null,
+    "alt_photos": [],
+    "license": null,
+    "source_url": null,
+    "provider": null,
+    "license_url": null
+  },
+  "fest-176": {
+    "name": "甑島のトシドン",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Mask_of_Toshidon.jpg",
+    "credit": "うぃき野郎 (Wikimedia Commons)",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Mask_of_Toshidon.jpg",
+    "provider": "Wikimedia Commons",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "fest-177": {
+    "name": "徳島眉山天神社 飛梅祭（おむつき祭）",
+    "primary": null,
+    "credit": null,
+    "alt_photos": [],
+    "license": null,
+    "source_url": null,
+    "provider": null,
+    "license_url": null
   }
 }

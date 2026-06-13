@@ -8063,5 +8063,223 @@
     "origin_en": "Sada Shin-noh is said to have originated in 1608 (Keicho 13), when Miyagawa Hyobe-no-shoyu Hideyuki, a priest of Sada Shrine, traveled to Kyoto, studied the techniques of Noh, and brought them back to integrate with the shrine's pre-existing ritual dances. It is preserved today by the Sada Shin-noh Holders' Association. The repertoire incorporates many pieces influenced by Sarugaku Noh, giving it significant value in the history of performing arts. It was designated as an Important Intangible Folk Cultural Property of Japan in 1976 and inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity in 2011. It is regarded as the origin of the Izumo Kagura tradition, distinguished from later Izumo-style kagura by the absence of trance possession and canopy suspension.",
     "viewing_notes_en": "The shrine grounds are open to visitors free of charge throughout the year. Whether spectators may view the Shin-noh performance, the designated seating area, and photography rules vary year to year, so contacting the shrine office in advance (Tel: 0852-82-0668, weekdays 8:30-17:00) is recommended. As this is a religious ritual, please refrain from talking, moving around, or using flash photography during nighttime performances. There are no gender-based restrictions on attendance.",
     "date_pattern_en": "Every year on September 24-25 (performed at the Gozagae ritual)"
+  },
+  {
+    "id": "fest-174",
+    "name": "高川仁井田神社 早飯食い",
+    "name_kana": "たかがわにいだじんじゃ はやめしくい",
+    "shrine": "高川仁井田神社",
+    "category": "folk",
+    "prefecture": "高知県",
+    "city": "高知市",
+    "lat": 33.632,
+    "lng": 133.492,
+    "date_pattern": "毎年11月8日（高川仁井田神社の秋祭りの一行事）",
+    "date_2026": "2026-11-08",
+    "date_2026_end": null,
+    "summary": "高知市土佐山高川の高川仁井田神社で毎年11月8日に行われる秋祭りの一行事。地区の住民が拝殿に集い、四角い膳に盛られた白米と御膳味噌を、湯をかけながらできるだけ速く残さず食べる早食いの所作を中心とする。神事のあと、頭人（とうにん）が味噌や湯を持って走りながら給仕し、「ミソミソミソ」「ユーユーユー」という独特の掛け声が飛び交うなか、参加者は一斉に飯をかき込む。江戸時代から続くとされ、地元では「300年以上の伝統」と語られる。由来については、平安時代に土佐山へ逃れた平家の落ち武者が、戦に出る前に急いで飯を食べたことが始まりとする伝承が伝わる。五穀豊穣や無病息災を願う行事で、神社の神田で収穫した米を用いるとされる。2004年（平成16年）12月17日に高知市指定民俗文化財に指定された。例年は住民や土佐山学舎の生徒など40人ほどが参加するが、外部からの飛び入り参加は基本的に想定されていない。",
+    "highlights": [
+      "四角い膳の白米と御膳味噌を湯で流し込み、残さず速く食べる独特の所作",
+      "頭人が走りながら給仕し、「ミソミソミソ」「ユーユーユー」の掛け声が飛び交う",
+      "平家の落ち武者が出陣前に急ぎ飯を食べた伝承に由来するとされる",
+      "2004年に高知市指定民俗文化財となった五穀豊穣・無病息災の祈り",
+      "速い人は15〜40秒ほどで完食するとされる早食いの競い合い"
+    ],
+    "origin": "由来については、平安時代に土佐山へ落ち延びた平家の落ち武者が、戦に出陣する前に急いで飯を食べたことが始まりと伝えられている（地元の伝承）。また、神社の神田で収穫した米を食べることで五穀豊穣を願う秋祭りの行事として位置づけられ、江戸時代から続くとされる。地元では「300年以上の伝統」と語られる。",
+    "official_url": "https://www.city.kochi.kochi.jp/soshiki/90/cas-city-6000400.html",
+    "reference_urls": [
+      "https://www.city.kochi.kochi.jp/soshiki/90/cas-city-6000400.html",
+      "https://www.sunsuntv.co.jp/news/2020/11/971815",
+      "https://www.sunsuntv.co.jp/news/2021/11/2716004"
+    ],
+    "viewing_notes": "高知市指定民俗文化財に指定された秋祭りの一行事で、毎年11月8日に高川仁井田神社で行われる。例年の参加者は地区の住民や土佐山学舎の生徒など40人ほどで、外部からの飛び入り参加は基本的に想定されていない。早食いの所作を中心とする神事であり、見学を希望する場合は事前に地元や高知市の関係窓口へ確認することが望ましい。山間部の小規模な神社で普段は無人のため、開催日以外は神事を見ることはできない。近年は感染症対策で掛け声を控える、住民のみで実施するなど運用が変化した年もあった。",
+    "deepdive": {
+      "history_jp": "高川仁井田神社の早飯食い（高知市の文化財名称は「高川の早飯ぐい」）は、[高知市公式ホームページ](https://www.city.kochi.kochi.jp/soshiki/90/cas-city-6000400.html)によれば、11月8日に行われる高川仁井田神社の秋祭りの一行事で、2004年（平成16年）12月17日に高知市指定民俗文化財に指定されている。地元メディアの[高知さんさんテレビ](https://www.sunsuntv.co.jp/news/2020/11/971815)は「江戸時代から続く」「300年以上続く奇祭」と報じており、長く地域で受け継がれてきた行事であることがうかがえる。土佐山地区は2005年に高知市へ編入された旧土佐山村にあたる山間集落で、神社の神田で育てた米を用いる収穫儀礼の性格をもつと伝えられる。なお[文化遺産オンライン](https://bunka.nii.ac.jp/heritages/detail/117267)には仁井田神社本殿に関する登録情報もある。",
+      "cultural_context_jp": "この行事は、白米と御膳味噌を湯で流し込み、残さず速く食べることを作法とする点に大きな特徴がある。[高知さんさんテレビ](https://www.sunsuntv.co.jp/news/2021/11/2716004)によれば「お茶碗1杯のご飯と御膳味噌をお湯をかけながら食べ、その早さを競う」もので、速い人は15秒ほど、別の報道では40秒前後で完食するとされる。神事の後、頭人（とうにん）が味噌や湯を持って走りながら給仕し、「ミソミソミソ」「ユーユーユー（湯）」という掛け声が飛び交うなかで一斉に飯をかき込む（[高知市公式](https://www.city.kochi.kochi.jp/soshiki/90/cas-city-6000400.html)）。五穀豊穣や無病息災を願う秋祭りの一環であり、単なる早食い競争ではなく、収穫への感謝と祈願を所作に込めた民俗行事として位置づけられる。",
+      "local_perspective_jp": "[高知さんさんテレビ](https://www.sunsuntv.co.jp/news/2021/11/2716004)は、例年は地区の住民のほか土佐山学舎の生徒など合わせて40人ほどが参加すると伝えている。地元では「箸は下を持つ」といった早食いのコツが語り継がれ、掛け声をかけ合いながら我先にと競う賑わいが祭りの醍醐味とされる。一方、新型コロナの流行期には飛沫対策として声を出さず静かに手を挙げて知らせる形に変えた年もあり、住民からは「声かけできないのが寂しい」との声も伝えられた。地域行事としての色合いが濃く、外部からの観光的な飛び入りよりも、住民が世代を超えて関わり続ける点に重きが置かれている。",
+      "best_visit_time": "開催は毎年11月8日に固定されている。神事と早飯食いは午前から日中にかけて行われるため、訪れる場合はその時間帯となるが、住民中心の行事であり一般の飛び入り参加は基本的に想定されていない。見学を検討する場合は事前確認が前提となる。",
+      "photo_tips": "山間の小規模な拝殿内で行われるため、屋内の暗さに対応した明るいレンズや高感度設定が役立つ。膳・味噌・椿の葉・竹箸といった供物の配置や、給仕で走り回る頭人の動きが見どころだが、住民中心の神事であり撮影は関係者の許可と配慮を最優先とする。望遠で参加者の表情を抜くより、所作や供物の質感を静かに記録する姿勢が望ましい。",
+      "warnings_extra": "早食いの所作を伴う神事のため、外部の見物人が安易に参加・模倣することは避けるべきである。例年は住民や地元校の生徒が中心で、飛び入り参加は想定されていない。山間部の小社で普段は無人のため、開催日以外に神事を見ることはできない。感染症の流行状況によっては規模縮小や非公開で実施される年もあるため、訪問前に高知市や地元の窓口で実施可否を確認することが望ましい。",
+      "sources": "[高知市公式ホームページ（高川の早飯ぐい）](https://www.city.kochi.kochi.jp/soshiki/90/cas-city-6000400.html)、[高知さんさんテレビ 2020年報道](https://www.sunsuntv.co.jp/news/2020/11/971815)、[高知さんさんテレビ 2021年報道](https://www.sunsuntv.co.jp/news/2021/11/2716004)、[文化遺産オンライン 仁井田神社本殿](https://bunka.nii.ac.jp/heritages/detail/117267)"
+    },
+    "name_en": "Takagawa Niida Shrine Hayameshikui (Speed Rice-Eating Rite)",
+    "shrine_en": "Takagawa Niida Shrine",
+    "prefecture_en": "Kochi Prefecture",
+    "city_en": "Kochi City",
+    "summary_en": "Held every November 8 at Takagawa Niida Shrine in the Takagawa district of Tosayama, Kochi City, this rice-eating rite is part of the shrine's autumn festival. Local residents gather in the worship hall, where each receives a square tray bearing a bowl of white rice and grilled miso; they then eat as quickly as possible, pouring hot water over the rice and finishing without leaving a grain. After the Shinto ritual, the tonin (festival host) runs about serving miso and hot water while the distinctive cries of \"miso-miso-miso\" and \"yu-yu-yu\" fill the hall and participants scoop up their rice all at once. Said to date from the Edo period and described locally as a tradition over 300 years old, it is linked by legend to Heike warriors who fled to Tosayama in the Heian period and ate hurriedly before going to battle. The rite prays for an abundant harvest and good health, using rice grown in the shrine's sacred paddy. It was designated an intangible folk cultural property by Kochi City on December 17, 2004. Around forty people, mostly residents and pupils of the local Tosayama Gakusha school, typically take part; outside drop-in participation is not assumed.",
+    "highlights_en": [
+      "A singular rite of eating a tray of white rice and miso, flushed down with hot water, finished fast and without a grain left",
+      "The tonin serves on the run as cries of 'miso-miso-miso' and 'yu-yu-yu' ring through the hall",
+      "Said to stem from a legend of Heike warriors eating hurriedly before battle in the Heian era",
+      "Designated a Kochi City intangible folk cultural property in 2004, praying for a good harvest and good health",
+      "A speed-eating contest in which the fastest finish in roughly 15 to 40 seconds"
+    ],
+    "origin_en": "According to local legend, the custom began when Heike warriors who had fled to Tosayama in the Heian period ate their rice in haste before setting out for battle. It is also understood as an autumn-festival rite praying for an abundant harvest by eating rice grown in the shrine's sacred paddy, said to have continued since the Edo period and described locally as a tradition of more than 300 years.",
+    "viewing_notes_en": "This is part of an autumn festival designated as a Kochi City intangible folk cultural property, held on November 8 each year at Takagawa Niida Shrine. Participants are typically about forty residents and pupils of the local Tosayama Gakusha school; outside drop-in participation is essentially not assumed. As the rite centers on speed-eating, visitors hoping to observe should confirm in advance with local contacts or Kochi City. The shrine is a small mountain shrine that is normally unattended, so the rite cannot be seen except on the festival day. In recent years, operations have shifted in some years, such as refraining from the calls or holding the rite with residents only for infection control.",
+    "date_pattern_en": "Annually on November 8, as part of the autumn festival of Takagawa Niida Shrine"
+  },
+  {
+    "id": "fest-175",
+    "name": "でやんな祭",
+    "name_kana": "でやんなまつり",
+    "shrine": "耳浦神社",
+    "category": "folk",
+    "prefecture": "島根県",
+    "city": "隠岐郡西ノ島町",
+    "lat": 36.118,
+    "lng": 133,
+    "date_pattern": "非公開・日時非公表（古来、氏子以外の見学・撮影は慎まれてきた）。文献上は年2回、春（新暦3月初巳）と秋（10月28日）に斎行と伝わる。",
+    "date_2026": "2026-03-10",
+    "date_2026_end": "2026-10-28",
+    "summary": "島根県隠岐郡西ノ島町別府、耳浦（東国賀海岸沿い）の山中に鎮座する耳浦神社で、古くから春秋の年2回伝えられてきた神事である。祭神は大山祇大神とされ、地元では「山神さん」「荒神さん」とも呼ばれてきた。最大の特徴は、この祭が「見てはならない」性格を強くもつ点にある。祭の刻限が近づくと「でやんなよう」（出るな・出逢うな）と告げられ、神事に関わらない住民は戸を閉ざして物忌みをするのが古来のならわしとされる。文献では、特定の家の鎮守を集落全体が物忌みをして崇敬するという珍しい形態として、民俗学上注目されてきた。元禄2年（1689年）の棟札に庄屋・近藤家の名がみえると伝わり、その由来は近世にさかのぼる。氏子以外の見学・撮影は古来慎まれてきており、信仰上のタブーを尊重する観点から、本稿でも神社の所在と祭の存在・民俗的意義のみを記すにとどめる。儀式の具体的な内容や所作には立ち入らない。",
+    "highlights": [
+      "祭神は大山祇大神とされ、地元で「山神さん」「荒神さん」と呼ばれてきた山の神の信仰",
+      "「でやんなよう」（出るな・出逢うな）と告げられ、住民が戸を閉ざして物忌みをする「見てはならない」性格の神事",
+      "特定の家の鎮守を集落全体が物忌みして崇敬する、民俗学上注目される珍しい形態",
+      "元禄2年（1689年）の棟札に由来がさかのぼると伝わる近世以来の伝承",
+      "氏子以外の見学・撮影は古来慎まれており、信仰上のタブーが今日まで尊重されている"
+    ],
+    "origin": "古くは別府の庄屋・近藤家が鎮守神として祀った山神社にさかのぼると伝わり、元禄2年（1689年）の棟札に願主として近藤家の名が記されるとされる。祭神は大山祇大神。神社合祀の影響で一時中断したのち、区長を当屋として復活したと伝えられる。個人（特定の家）の信仰にもとづく神社を、無関係の集落の人々がともに物忌みをして崇敬するという形態は珍しく、民俗学上注目されてきた。",
+    "official_url": "https://ja.wikipedia.org/wiki/%E3%81%A7%E3%82%84%E3%82%93%E3%81%AA%E7%A5%AD",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%81%A7%E3%82%84%E3%82%93%E3%81%AA%E7%A5%AD",
+      "https://www.weblio.jp/content/%E3%81%A7%E3%82%84%E3%82%93%E3%81%AA%E7%A5%AD",
+      "https://www.town.nishinoshima.shimane.jp/bunya/b_sangyo/b_shoko-kanko/142"
+    ],
+    "viewing_notes": "この神事は「見てはならない」性格を強くもち、古来、氏子以外の見学・撮影は慎まれてきた。地元では「でやんなよう」（出るな・出逢うな）と告げられ、住民は物忌みをするならわしと伝わる。信仰上のタブーを尊重し、一般の見学・撮影は控えるべきである。日時は公表されておらず、観光目的での訪問・見物を促すものではない。耳浦周辺の山は古来「聖地」として畏れられてきた経緯があり、立ち入りや関心の向け方には十分な配慮が求められる。本稿は祭の存在と民俗的意義を記録するためのものであり、訪問を勧めるものではない。",
+    "deepdive": {
+      "history_jp": "でやんな祭は、島根県隠岐郡西ノ島町別府の耳浦に伝わる神事である。[でやんな祭（Wikipedia）](https://ja.wikipedia.org/wiki/%E3%81%A7%E3%82%84%E3%82%93%E3%81%AA%E7%A5%AD)によれば、古くは別府の庄屋・近藤家が鎮守神として祀った山神社にさかのぼり、元禄2年（1689年）の棟札に願主として近藤家の名が記されると伝わる。祭神は大山祇大神とされ、地元では「山神さん」「荒神さん」とも呼ばれてきた。[でやんな祭（Weblio辞書）](https://www.weblio.jp/content/%E3%81%A7%E3%82%84%E3%82%93%E3%81%AA%E7%A5%AD)も同様に、神社合祀の影響で一時中断したのち、区長を当屋として復活したと記している。なお当稿では、信仰上のタブーを尊重し、儀式の具体的な内容や所作には立ち入らない。",
+      "cultural_context_jp": "民俗学的に注目されるのは、特定の家（近藤家）の鎮守にもとづく神社を、本来は無関係であるはずの集落全体がともに物忌みをして崇敬するという、珍しい形態をとる点である。[でやんな祭（Wikipedia）](https://ja.wikipedia.org/wiki/%E3%81%A7%E3%82%84%E3%82%93%E3%81%AA%E7%A5%AD)は、この点を民俗学上注目される神事として記録している。祭の刻限が近づくと「でやんなよう」（出るな・出逢うな）と告げられ、神事に関わらない者は戸を閉ざして物忌みをするとされる。「でやんな」という呼称自体がこの言いまわしに由来すると伝わる。隠岐の祭礼・行事を扱う文献としては、品川知彦『島根の祭り・行事』（2000）や大津武久『隠岐島の民俗』（1973）などが参照され、[でやんな祭（Wikipedia）](https://ja.wikipedia.org/wiki/%E3%81%A7%E3%82%84%E3%82%93%E3%81%AA%E7%A5%AD)の出典欄にも挙げられている。",
+      "local_perspective_jp": "地元では、この祭は「見てはならない」もの、「出逢ってはならない」ものとして語り継がれてきた。[でやんな祭（Weblio辞書）](https://www.weblio.jp/content/%E3%81%A7%E3%82%84%E3%82%93%E3%81%AA%E7%A5%AD)や[西ノ島町（観光・イベント情報）](https://www.town.nishinoshima.shimane.jp/bunya/b_sangyo/b_shoko-kanko/142)が紹介する地域の伝承では、祭にまつわる強い禁忌が語られ、住民はその刻限に表へ出ることを慎むとされる。耳浦の山は古来「聖地」として畏れられ、薪一本も採らないと語り継がれてきたとも伝えられる。こうした地元の感覚は、外部からの好奇のまなざしや見物を前提とせず、むしろそれを退ける性格をもつ。観光的な見世物ではなく、集落の信仰生活のなかに静かに保たれてきた行事である点を、外部の者は尊重する必要がある。",
+      "best_visit_time": "観光・見物を目的とした「訪問の好機」は存在しない。日時は公表されておらず、氏子以外の見学・撮影は古来慎まれてきた。耳浦・別府周辺は大山隠岐国立公園に含まれる景勝地だが、この神事に関しては見物のための来訪自体が地元の信仰上のならわしと相容れないため、推奨しない。",
+      "photo_tips": "この神事は撮影が古来厳に慎まれてきたため、撮影に関する助言は行わない。神事そのものを撮ろうとすること自体が信仰上のタブーに触れる。耳浦周辺の自然景観（東国賀海岸・大山隠岐国立公園）を一般的に楽しむ場合も、神事の日時や場所に関心を向けず、地域の生活と信仰への配慮を最優先すべきである。",
+      "warnings_extra": "本祭は「見てはならない」性格を強くもつ神事であり、信仰上のタブーを尊重し、一般の見学・撮影は控えるべきである。日時は公表されておらず、観光・見物目的での訪問を促すものではない。地元では祭にまつわる強い禁忌が語り継がれており、外部の者が好奇心から立ち入る・覗く・撮影することは厳に慎まれる。本稿は祭の存在と民俗的意義を学術的・抑制的に記録する目的にとどまり、訪問・参観を勧めるものではない。怪奇趣味的な関心ではなく、民俗・信仰・歴史の文脈で静かに受けとめてほしい。",
+      "sources": "[でやんな祭（Wikipedia）](https://ja.wikipedia.org/wiki/%E3%81%A7%E3%82%84%E3%82%93%E3%81%AA%E7%A5%AD), [でやんな祭（Weblio辞書）](https://www.weblio.jp/content/%E3%81%A7%E3%82%84%E3%82%93%E3%81%AA%E7%A5%AD), [西ノ島町（観光・イベント情報）](https://www.town.nishinoshima.shimane.jp/bunya/b_sangyo/b_shoko-kanko/142)。文献：加藤隆久『神社の史的研究』（1976）、品川知彦『島根の祭り・行事』（2000）、大津武久『隠岐島の民俗』（1973）、島根県教育会『島根県口碑伝説集』（1927）"
+    },
+    "name_en": "Deyanna Matsuri (The Festival One Must Not Encounter)",
+    "shrine_en": "Mimiura Shrine",
+    "prefecture_en": "Shimane Prefecture",
+    "city_en": "Nishinoshima Town, Oki District",
+    "summary_en": "Deyanna Matsuri is a folk rite handed down at Mimiura Shrine, which stands on a mountain near Mimiura along the Higashi-Kuniga coast in Betsufu, Nishinoshima Town, Oki District, Shimane Prefecture. The enshrined deity is held to be Oyamatsumi-no-okami, locally also called the mountain god. Its defining character is that it is a rite one is not meant to see. As the appointed hour approaches, the community is told \"deyanna yo\" (do not go out, do not encounter it), and residents not involved in the rite traditionally close their doors and observe ritual seclusion. Folklorists have noted the unusual form in which an entire settlement observes seclusion for and venerates a shrine that originated as one family's tutelary deity. Tradition traces its origins to the early modern period, with a ridge-tag from 1689 said to bear the name of the Kondo family, the village headman. Out of respect for this religious taboo, viewing and photography by non-parishioners have long been refrained from; accordingly this entry records only the shrine's location and the festival's existence and folkloric significance, and does not enter into the specifics of the rite.",
+    "highlights_en": [
+      "The enshrined deity is held to be Oyamatsumi-no-okami, a mountain god locally called \"Yama-no-kami\" or \"Kojin-san\"",
+      "A rite \"one must not see\": residents are told \"deyanna yo\" (do not go out / do not encounter it) and observe ritual seclusion behind closed doors",
+      "An unusual form, noted in folklore studies, in which a whole settlement observes seclusion for a shrine that began as one family's tutelary deity",
+      "A tradition tracing to the early modern period, with origins said to date to a 1689 ridge-tag",
+      "Viewing and photography by outsiders have long been refrained from, and the religious taboo is respected to this day"
+    ],
+    "origin_en": "Tradition traces the rite to a mountain-god shrine that the Kondo family, headmen of Betsufu, enshrined as their tutelary deity; a ridge-tag dated 1689 (Genroku 2) is said to bear the Kondo name as patron. The enshrined deity is Oyamatsumi-no-okami. After a hiatus caused by Meiji-era shrine mergers, the rite is said to have been revived with the district head serving as the host (toya). The form, in which people of an unrelated settlement jointly observe ritual seclusion for and venerate a shrine rooted in one family's private faith, is unusual and has drawn the attention of folklorists.",
+    "viewing_notes_en": "This rite strongly carries the character of something one must not see, and viewing and photography by non-parishioners have traditionally been refrained from. Locally, the community is told \"deyanna yo\" (do not go out / do not encounter it), and residents observe ritual seclusion. Out of respect for this religious taboo, general viewing and photography should be avoided. The dates are not made public, and this entry does not encourage visits for sightseeing. The mountain around Mimiura has long been revered and feared as a sacred place, so any approach or attention calls for careful restraint. This entry exists to record the festival's existence and folkloric significance, not to recommend a visit.",
+    "date_pattern_en": "Non-public; dates are not publicly announced, and outsiders have traditionally refrained from viewing or photographing it. Literature records it being held twice a year, in spring (the first Day of the Snake in March, new calendar) and autumn (October 28)."
+  },
+  {
+    "id": "fest-176",
+    "name": "甑島のトシドン",
+    "name_kana": "こしきじまのトシドン",
+    "shrine": "地区の民間行事（特定の神社主催ではない）",
+    "category": "folk",
+    "prefecture": "鹿児島県",
+    "city": "薩摩川内市",
+    "lat": 31.777,
+    "lng": 129.782,
+    "date_pattern": "毎年12月31日（大晦日）の夜",
+    "date_2026": "2026-12-31",
+    "summary": "甑島のトシドンは、鹿児島県薩摩川内市下甑島に伝わる来訪神の年中行事である。大晦日の夜、長い鼻と裂けた口をもつ奇怪な面をかぶり、シュロの皮やソテツの葉で作った蓑をまとった青年らが「トシドン」と呼ばれる神に扮し、子どものいる家々を訪れる。トシドンは首のない馬に乗って山や大岩、大木に降り立つとされ、家に入ると子どもの一年の行いを問いただし、欠点を戒めつつ長所をほめる。歌や数え唄、けんけんなどをさせたうえで、最後に「年餅（トシドン餅）」を子どもに授けて去っていく。新年や季節の変わり目に神が訪れて祝福を与え、その来訪によって年が改まるという日本の民間信仰を今に伝える行事として知られる。1977年に国の重要無形民俗文化財に指定され、2009年にユネスコ無形文化遺産に単独登録、2018年にはナマハゲなどとともに「来訪神：仮面・仮装の神々」として拡張登録された。下甑町の手打・片野浦・瀬々野浦・青瀬などの集落で、それぞれの保存会によって継承されている。",
+    "highlights": [
+      "長い鼻と裂けた口の奇怪な面、シュロの皮やソテツの葉で飾った蓑をまとった来訪神「トシドン」が大晦日に家々を訪れる",
+      "子どもの一年の行いを問いただし、戒めながらも長所をほめ、最後に「年餅（トシドン餅）」を授けて祝福する",
+      "トシドンは首のない馬に乗り、山や大岩・大木に降りて来るという来訪神信仰を今に伝える",
+      "1977年国指定重要無形民俗文化財、2009年ユネスコ無形文化遺産登録、2018年「来訪神：仮面・仮装の神々」として拡張登録",
+      "下甑町の手打・片野浦・瀬々野浦・青瀬など複数集落で、それぞれの保存会が継承している"
+    ],
+    "origin": "起源の時期は明確ではなく、鹿児島県の公式解説でも「いつの頃から行われたか明確ではない」とされる。年の変わり目に神（来訪神）が家々を訪れ、祝福を授けて年を改めるという日本各地に広く分布する民間信仰・神観念を背景とする行事で、秋田のナマハゲなどと同系統の来訪神行事に位置づけられる。「トシドン」の名は「年（とし）」の神に由来するとされ、大晦日に新年をもたらす祝福神として子どもの前に現れる。東シナ海に浮かぶ下甑島という離島環境のなかで、各集落が独自の面・装束・所作を伝えながら継承してきた。",
+    "official_url": "https://www.pref.kagoshima.jp/ab10/kyoiku-bunka/bunka/museum/shichoson/satumasendai/doshidon.html",
+    "reference_urls": [
+      "https://www.pref.kagoshima.jp/ab10/kyoiku-bunka/bunka/museum/shichoson/satumasendai/doshidon.html",
+      "https://online.bunka.go.jp/heritages/detail/171451",
+      "https://www.city.satsumasendai.lg.jp/soshiki/1029/1/1/1584.html",
+      "https://ja.wikipedia.org/wiki/トシドン"
+    ],
+    "viewing_notes": "トシドンは観光イベントではなく、各家庭・集落の私的で神聖な年中行事である。多くの集落は観光化に否定的で、面の製作現場は非公開、撮影も原則禁止、行事後に装束を焼却するなど厳格に扱われる。一般の見学・取材を受け付けない集落が多く、本町（手打地区）の保存会が2008年以降に限定的な訪問受け入れを始めた例があるものの、毎年実施されるとは限らない。見学を希望する場合は、必ず事前に薩摩川内市教育委員会（社会教育課文化財グループ TEL 0996-22-7251）や薩摩川内市観光協会・こしきしま観光局に可否と条件を確認すること。子どものいる家庭の私的空間に入る行事である点を踏まえ、許可なき撮影・無断訪問は厳に慎む。なお、後継者不足のため地区によっては中学生がトシドン役を務める年もある。",
+    "deepdive": {
+      "history_jp": "甑島のトシドンは、鹿児島県薩摩川内市の下甑島に伝わる来訪神の年中行事である。[鹿児島県公式](https://www.pref.kagoshima.jp/ab10/kyoiku-bunka/bunka/museum/shichoson/satumasendai/doshidon.html)によれば「いつの頃から行われたか明確ではない」とされ、起源年代は特定されていない。1977年（昭和52年）5月17日に国の重要無形民俗文化財に指定され、保護団体として甑島トシドン保存会が登録されている（[文化庁資料](https://www.bunka.go.jp/seisaku/bunkashingikai/bunkazai/hogojoyaku/unesco/pdf/sanko_04_6.pdf)、[文化遺産オンライン](https://online.bunka.go.jp/heritages/detail/171451)）。2009年9月30日にユネスコ無形文化遺産代表一覧表に単独で登録され、2018年には秋田のナマハゲなど全国の同系統行事とともに「来訪神：仮面・仮装の神々」として拡張登録された（[薩摩川内市](https://www.city.satsumasendai.lg.jp/soshiki/1029/1/1/1584.html)）。",
+      "cultural_context_jp": "トシドンは、年や季節の変わり目に神が人里を訪れて祝福を与え、その来訪によって年が改まるという日本の民間信仰・神観念を体現する来訪神行事であり、秋田のナマハゲと同系統に位置づけられる（[コトバンク](https://kotobank.jp/word/%E7%94%91%E5%B3%B6%E3%81%AE%E3%81%A8%E3%81%97%E3%81%A9%E3%82%93-3226331)）。トシドンは長い鼻と大きく裂けた口の奇怪な面をかぶり、シュロの皮やソテツの葉で飾った蓑をまとう。[鹿児島県公式](https://www.pref.kagoshima.jp/ab10/kyoiku-bunka/bunka/museum/shichoson/satumasendai/doshidon.html)は、首のない馬に乗って近くの高い山・大岩・大木に降りて来ると伝えると記す。家に上がると子どもの一年の行いを問いただし、欠点を戒めつつ勉強や習い事などの長所をほめ、歌や数え唄、けんけんなどをさせたうえで、最後に魂を健やかに育てるとされる「年餅（トシドン餅）」を授けて去る（[Wikipedia](https://ja.wikipedia.org/wiki/トシドン)）。",
+      "local_perspective_jp": "トシドンは観光資源である以前に、子どものいる家庭の神聖な年越し行事である。[Wikipedia](https://ja.wikipedia.org/wiki/トシドン)によれば、面は段ボール等に色付けして地元産のシュロやソテツの葉で飾るが製作現場は非公開で撮影も禁じられ、行事後には装束を焼却する。多くの集落は観光化に否定的で一般の取材を受け付けず、本町（手打地区）の保存会が2008年以降に限定的な訪問受け入れを始めた例があるにとどまる。また平成以降、青年層の島外流出により担い手が減り、地区によっては中学生がトシドン役を務めるなど継承の課題を抱える。保存会は下甑町の手打・片野浦・瀬々野浦・青瀬などの集落ごとに組織され、それぞれが独自の面・装束・所作を守り伝えている（[薩摩川内観光物産ガイドこころ](https://satsumasendai.gr.jp/spotlist/1928)）。",
+      "best_visit_time": "行事は大晦日（12月31日）の夜のみ。ただし一般の見学が許される機会は極めて限られるため、観光目的であれば、面や資料を常設展示する施設や、トシドンを紹介する島の文化拠点を訪れるのが現実的。離島であり冬季は海が荒れて欠航もあるため、12月下旬の渡島は天候と船の運航状況に十分な余裕をもって計画する。",
+      "photo_tips": "行事そのものは私的な家庭内行事で、面の製作も含め撮影が原則禁止されているため、現地での無断撮影は厳禁。被写体としては、観光局の許可・案内のもとで公開される面や装束、下甑島の海食崖（ナポレオン岩など）や港の風景が候補となる。国立民族学博物館（大阪・吹田）など博物館の常設展示でトシドンの面を撮影できる場合がある。",
+      "warnings_extra": "トシドンは子どものいる家庭に上がり込む私的・神聖な行事であり、観光客向けの公開行事ではない。無断での訪問・撮影・SNS投稿は地域の信頼を損なう。見学可否は年・集落ごとに異なるため、必ず事前に薩摩川内市教育委員会または観光協会へ確認する。離島ゆえ冬季は欠航リスクがあり、宿泊施設も限られるため早めの手配が必要。",
+      "sources": "鹿児島県教育委員会公式ページ、文化庁（ユネスコ提案資料PDF）、文化遺産オンライン（文化庁）、薩摩川内市公式サイト、Wikipedia日本語版『トシドン』、コトバンク（甑島のトシドン）、薩摩川内観光物産ガイドこころ"
+    },
+    "date_2026_end": null,
+    "name_en": "Koshikijima no Toshidon",
+    "shrine_en": "Community folk ritual (not hosted by a specific shrine)",
+    "prefecture_en": "Kagoshima Prefecture",
+    "city_en": "Satsumasendai City",
+    "summary_en": "Koshikijima no Toshidon is an annual visiting-deity (raiho-shin) ritual handed down on Shimo-Koshikijima island in Satsumasendai City, Kagoshima Prefecture. On New Year's Eve, young men dress as deities called Toshidon, wearing grotesque masks with long noses and split mouths and straw capes decorated with palm bark and sago palm leaves, and visit households with children. The Toshidon are said to descend from mountains, great rocks, and large trees riding a headless horse. Entering each home, they question children about their conduct over the past year, admonish their faults while praising their merits, have them sing, count, or hop on one leg, and finally bestow a special rice cake called toshidon-mochi before departing. The custom preserves the traditional Japanese belief that deities visit at the turn of the year to bring blessings and that their arrival renews the year. It was designated an Important Intangible Folk Cultural Property of Japan in 1977, inscribed on the UNESCO Intangible Cultural Heritage list in 2009, and expanded in 2018 as part of \"Raiho-shin, ritual visits of deities in masks and costumes.\" It is maintained by preservation societies in settlements such as Teuchi, Katanoura, Sesenoura, and Aose in Shimokoshiki.",
+    "highlights_en": [
+      "On New Year's Eve, the visiting deity 'Toshidon' wearing a grotesque long-nosed mask and a straw cape decorated with palm bark and sago palm leaves visits households",
+      "The deity questions children about their past year's conduct, admonishing faults yet praising merits, then bestows a special toshidon-mochi rice cake as a blessing",
+      "Toshidon is said to ride a headless horse and descend from mountains, great rocks and large trees, preserving the raiho-shin visiting-deity belief",
+      "Designated an Important Intangible Folk Cultural Property in 1977, inscribed by UNESCO in 2009, and expanded in 2018 as 'Raiho-shin, ritual visits of deities in masks and costumes'",
+      "Maintained by separate preservation societies in several Shimokoshiki settlements including Teuchi, Katanoura, Sesenoura and Aose"
+    ],
+    "origin_en": "The exact period of origin is unknown; even the Kagoshima prefectural account states that it is \"unclear from when it has been practiced.\" The custom reflects a folk belief widespread across Japan in which deities visit homes at the turn of the year to bestow blessings and renew the year, placing it within the same lineage of visiting-deity (raiho-shin) rituals as Akita's Namahage. The name \"Toshidon\" is said to derive from the deity of the \"year\" (toshi), appearing before children on New Year's Eve as a blessing deity who ushers in the new year. On the remote island of Shimo-Koshikijima in the East China Sea, each settlement has handed down its own masks, costumes, and gestures.",
+    "viewing_notes_en": "Toshidon is not a tourist event but a private and sacred annual ritual of individual households and settlements. Many communities are reluctant to commercialize it: mask-making is not shown to the public, photography is generally prohibited, and costumes are burned after the ritual. Most settlements do not accept general spectators or media, although the preservation society in Hommachi (Teuchi area) began accepting limited visits from 2008, and even this is not guaranteed every year. Anyone wishing to observe must contact the Satsumasendai City Board of Education (Cultural Property Group, TEL 0996-22-7251) or the Satsumasendai / Koshikishima tourism office in advance to confirm whether and under what conditions viewing is possible. As the ritual enters the private homes of families with children, unauthorized photography or visits must be strictly avoided. Due to a shortage of successors, in some districts junior high school students now play the role of Toshidon in certain years.",
+    "date_pattern_en": "Every year on the night of December 31 (New Year's Eve)"
+  },
+  {
+    "id": "fest-177",
+    "name": "徳島眉山天神社 飛梅祭（おむつき祭）",
+    "name_kana": "とくしまびざんてんじんしゃ とびうめさい（おむつきまつり）",
+    "shrine": "徳島眉山天神社",
+    "category": "folk",
+    "prefecture": "徳島県",
+    "city": "徳島市",
+    "lat": 34.068,
+    "lng": 134.545,
+    "date_pattern": "毎年2月25日（飛梅祭／菅原道真公の命日に合わせた祭事）",
+    "date_2026": "2026-02-25",
+    "summary": "徳島眉山天神社は、徳島市の眉山東麓・新町橋に鎮座し、菅原道真公を祀る天満宮系の神社である。社伝によれば、潮音寺の鎮守として瑞巌寺の僧・一顎が甲斐国恵林寺から携えてきた渡唐天神の木像を祀ったのが起源とされ、文化6年（1809年）に現在地へ一社が創建されたと伝えられる。学問の神として徳島藩主蜂須賀家の崇敬を受け、現在も合格祈願・学業成就の社として知られる。毎年2月25日は菅原道真公の命日にあたり、当社では飛梅祭が営まれる。これは道真公を慕って大宰府まで飛んだという「飛梅伝説」にちなむ祭事で、延命長寿・家内安全・災難除けを祈願する。なお、この日に御神体（天神木像）の装束を改める「お召し替え（おむつき）」が行われると地元では語られるが、神事の具体的な所作や公開可否を裏づける一次資料は確認できていない。境内は常時参拝可能で、月替わりの彩り豊かな御朱印でも親しまれている。執行の有無や見学可否は事前に社務所へ確認するのが確実である。",
+    "highlights": [
+      "菅原道真公の命日（2月25日）に営まれる飛梅祭。飛梅伝説にちなみ延命長寿・家内安全を祈願する",
+      "御神体は甲斐国恵林寺由来と伝わる渡唐天神の木像で、文化6年（1809年）創建の由緒を持つ",
+      "徳島藩主蜂須賀家の崇敬を受けた学問の神。合格祈願・学業成就の社として地元に根づく",
+      "御神体の装束を改める『お召し替え（おむつき）』が行われると地元では語られる（神事の詳細は要確認）",
+      "眉山東麓・新町橋に鎮座し、月替わりの御朱印でも知られる市街地の神社"
+    ],
+    "origin": "社伝によれば、潮音寺の鎮守として、瑞巌寺の僧・一顎和尚が甲斐国（現在の山梨県）恵林寺から携えてきた渡唐天神の木像を祀ったのが起源とされる。文化6年（1809年）に現在の社地へ一社が創建されたと伝えられ、菅原道真公を学問の神として祀る。徳島藩主蜂須賀家の崇敬を受けて発展した。2月25日の飛梅祭は、道真公の命日と、道真公を慕って大宰府へ飛んだとされる「飛梅伝説」に由来する祭事である。御神体の装束を改める「お召し替え（おむつき）」の風習が地元で語られるが、その起源・年代を示す一次資料は確認できていない。",
+    "official_url": "https://www.bizan-tenjinsha.org",
+    "reference_urls": [
+      "https://www.bizan-tenjinsha.org",
+      "https://ja.wikipedia.org/wiki/徳島眉山天神社",
+      "https://www.awanavi.jp/archives/spot/1653",
+      "https://shikoku-tourism.com/spot/13529"
+    ],
+    "viewing_notes": "境内は市街地にあり常時参拝可能。飛梅祭は毎年2月25日に営まれるが、神事の公開範囲・参列可否は年により異なるため、事前に社務所（電話088-622-9962）へ確認するのが確実。御神体の装束を改める「お召し替え（おむつき）」については、地元で語られる風習で、その所作・公開可否・実施年を裏づける一次資料は本記事作成時点で確認できていない。撮影は神事中・社殿内では遠慮を求められる場合があるため、現地の指示と社務所の案内に従うこと。参拝・境内見学は無料。",
+    "deepdive": {
+      "history_jp": "徳島眉山天神社は、徳島市の眉山東麓・新町橋に鎮座する天満宮系の神社である。社伝では、潮音寺の鎮守として、瑞巌寺の僧・一顎和尚が甲斐国（現在の山梨県）の恵林寺から携えてきた渡唐天神の木像を祀ったのが起源とされ、文化6年（1809年）に現在地へ一社が創建されたと伝えられる（[徳島眉山天神社 Wikipedia](https://ja.wikipedia.org/wiki/徳島眉山天神社)、[阿波ナビ・徳島眉山天神社](https://www.awanavi.jp/archives/spot/1653)）。御祭神は学問の神として知られる菅原道真公で、徳島藩主蜂須賀家の崇敬を受けて発展した。現在も合格祈願・学業成就の社として地元に親しまれている（[しこく観光・徳島眉山天神社](https://shikoku-tourism.com/spot/13529)）。",
+      "cultural_context_jp": "天満宮系の社では、菅原道真公の命日にあたる毎月25日、とりわけ2月25日を重視する。当社では2月25日に飛梅祭が営まれ、道真公を慕って都から大宰府へ飛んだとされる「飛梅伝説」にちなみ、延命長寿・家内安全・災難除けを祈願する（[徳島眉山天神社 公式サイト](https://www.bizan-tenjinsha.org)）。また天神信仰特有の行事として、1月25日の初天神には『うそ替え神事』が行われ、知らず知らずについた嘘を天神の誠に替えるという信仰のもと、入試合格などを祈願する（[阿波ナビ・徳島眉山天神社](https://www.awanavi.jp/archives/spot/1653)）。御神体の装束を改める『お召し替え（おむつき）』は、神像を祀る社で広く見られる神衣奉献・装束改めの一類型と考えられるが、当社における具体的な所作・由緒を示す一次資料は確認できていない。",
+      "local_perspective_jp": "地元では、当社は眉山ロープウェイや阿波おどり会館に隣接する市街地の身近な参拝先として知られ、月替わりの彩り豊かな御朱印を目当てに訪れる人も多い（[しこく観光・徳島眉山天神社](https://shikoku-tourism.com/spot/13529)）。御神体の装束を改める『お召し替え（おむつき）』については、地元で語られる言い伝えとして紹介されることがあるが、本記事作成時点で公式サイトや観光協会の公開情報に当該神事の独立した記述は確認できなかった。実施の有無・公開可否は社務所への確認が前提となる。",
+      "best_visit_time": "飛梅祭が営まれる2月25日前後。境内は通年参拝可能で、梅の見ごろと重なる早春が雰囲気を味わいやすい。",
+      "photo_tips": "社殿・鳥居・境内の梅を日中の自然光で。神事中や社殿内の撮影は制限される場合があるため、現地表示と社務所の案内に従うこと。御神体（神像）の撮影は原則控える。",
+      "warnings_extra": "『おむつき祭』『御衣替え』という名称・御神体の装束改め神事については、本記事作成時点で一次資料・独立した報道での裏づけが取れていない。記事では公式に確認できる『飛梅祭（2月25日）』を主軸とし、装束改めは地元で語られる風習として扱う。参列・撮影可否は社務所（088-622-9962）に必ず事前確認すること。",
+      "sources": "[徳島眉山天神社 公式サイト](https://www.bizan-tenjinsha.org)、[徳島眉山天神社 Wikipedia](https://ja.wikipedia.org/wiki/徳島眉山天神社)、[阿波ナビ・徳島眉山天神社](https://www.awanavi.jp/archives/spot/1653)、[しこく観光ナビ・徳島眉山天神社](https://shikoku-tourism.com/spot/13529)"
+    },
+    "date_2026_end": null,
+    "name_en": "Tokushima Bizan Tenjinsha: Tobiume Festival (Robe-Renewal Rite)",
+    "shrine_en": "Tokushima Bizan Tenjinsha",
+    "prefecture_en": "Tokushima Prefecture",
+    "city_en": "Tokushima City",
+    "summary_en": "Tokushima Bizan Tenjinsha stands at the eastern foot of Mount Bizan in Tokushima City and enshrines Sugawara no Michizane, the deity of learning. According to shrine tradition, its origin lies in a wooden Totō Tenjin image that the monk Ichigaku of Zuiganji brought from Erinji temple in Kai Province; a shrine was established at the present site in 1809 (Bunka 6). Long revered by the Hachisuka lords of the Tokushima domain, it remains a place for prayers of academic success. February 25 marks the death anniversary of Michizane, and the shrine holds its Tobiume (Flying Plum) Festival, named for the legend of the plum tree that flew after Michizane to Dazaifu; worshippers pray for longevity, family safety, and protection from misfortune. Locally it is also said that the deity's robe is renewed on this day in a rite called omutsuki, though no primary source confirming the ritual's form or whether it is open to the public could be verified. The precinct is open year-round and is also known for its colorful monthly goshuin seals. Confirm festival timing and viewing with the shrine office in advance.",
+    "highlights_en": [
+      "The Tobiume Festival held on February 25, Michizane's death anniversary, praying for longevity and family safety",
+      "The object of worship is a wooden Totō Tenjin image said to derive from Erinji temple in Kai, with the shrine founded in 1809",
+      "A shrine of learning revered by the Hachisuka lords of Tokushima, rooted locally as a place for exam-success prayers",
+      "A robe-renewal rite called omutsuki is said locally to be performed on this day (ritual details unverified)",
+      "An urban shrine at the foot of Mount Bizan, also popular for its colorful monthly goshuin seals"
+    ],
+    "origin_en": "By shrine tradition, the origin lies in a wooden Totō Tenjin image that the monk Ichigaku of Zuiganji brought from Erinji temple in Kai Province (present-day Yamanashi) and enshrined as the guardian deity of Chōonji temple. A shrine was established at the present site in 1809 (Bunka 6), dedicated to Sugawara no Michizane as the god of learning, and it flourished under the patronage of the Hachisuka lords of Tokushima. The February 25 Tobiume Festival derives from Michizane's death anniversary and the legend of the plum tree that flew to Dazaifu in longing for him. A custom of renewing the deity image's robes, called omutsuki, is spoken of locally, but no primary source attesting to its origin or date has been confirmed.",
+    "viewing_notes_en": "The precinct is in the city center and open for worship at all times. The Tobiume Festival is held annually on February 25, but the extent to which the rite is public and whether attendance is permitted varies by year, so confirming in advance with the shrine office (tel. 088-622-9962) is advisable. Regarding the robe-renewal rite (omutsuki), this is a locally recounted custom, and as of this writing no primary source verifies its form, public accessibility, or years of performance. Photography may be restricted during rites or inside the hall, so follow on-site instructions and the shrine's guidance. Worship and precinct visits are free of charge.",
+    "date_pattern_en": "Annually on February 25 (Tobiume Festival, timed to Sugawara no Michizane's death anniversary)"
   }
 ]

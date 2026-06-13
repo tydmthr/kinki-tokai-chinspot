@@ -8995,5 +8995,30 @@
       "https://committees.jsce.or.jp/heritage/node/157",
       "https://www.cocoyoko.net/spot/sarushima.html"
     ]
+  },
+  {
+    "id": "spot-224",
+    "name": "迦葉山弥勒護国禅寺",
+    "name_kana": "かしょうざんみろくごこくぜんじ",
+    "category": "folk",
+    "prefecture": "群馬県",
+    "city": "沼田市",
+    "name_en": "Kashozan Mirokuji Temple (Ryugein)",
+    "prefecture_en": "Gunma Prefecture",
+    "city_en": "Numata",
+    "summary_en": "Kashozan Ryugein Mirokuji is a Soto Zen temple set on the slopes of Mt. Kasho in northern Numata, Gunma Prefecture, enshrining Maitreya (Miroku) as its principal image. Temple tradition holds that it was founded in 848 at the wish of Prince Katsuwara, a son of Emperor Kanmu, who invited the Tendai master Jikaku Daishi (Ennin) from Mt. Hiei, though this founding date is regarded as legendary. The temple converted to Soto Zen in 1456 under the master Tenson Keijun. According to legend, the youth Chuho Sonja, who attended the master, performed superhuman feats to build the temple halls, then declared himself an incarnation of the Buddha Kasho and vanished, leaving behind tengu masks. The temple thus became a renowned center of tengu worship. The Chuhodo hall houses giant tengu masks, including one dedicated in 1939 measuring about 6.5 meters in face length with a nose about 2.8 meters high. Counted among the \"Three Great Tengu of the Kanto region\" alongside Mt. Takao and Furumine Shrine, the temple preserves a distinctive custom of borrowing and returning tengu masks across successive visits. In the Edo period it served as a prayer site for the Tokugawa shogunate.",
+    "highlights_en": [
+      "The Chuhodo hall housing a giant tengu mask (about 6.5 m face length, 2.8 m nose) dedicated in 1939",
+      "The legend of Chuho Sonja as a tengu incarnation and the unique custom of borrowing and returning masks",
+      "Worship as one of the \"Three Great Tengu of the Kanto region,\" alongside Mt. Takao and Furumine Shrine",
+      "An ancient temple said to date to 848 that served as a Tokugawa shogunate prayer site",
+      "A mountain setting integrated with nature, including the city-designated \"Horse-hiding Cedar\""
+    ],
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/迦葉山龍華院",
+      "https://www.city.numata.gunma.jp/kanko/kashozan/1001803.html",
+      "https://www.numata-kankou.jp/activity/shrine-temple/kashozan/index.html",
+      "https://www.mlit.go.jp/tagengo-db/en/R6-00345.html"
+    ]
   }
 ]
