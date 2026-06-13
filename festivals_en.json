@@ -986,9 +986,9 @@
     "city": "志摩市志摩町和具",
     "lat": 34.282,
     "lng": 136.804,
-    "date_pattern": "夏至前後に関連行事（6月下旬）、本祭：毎年7月第4金曜日前後 / 2026年本祭は7月24日頃",
-    "date_2026": "2026-06-26",
-    "date_2026_end": "2026-07-24",
+    "date_pattern": "旧暦6月1日に斎行（2026年は7月14日）。前夜祭と本祭の2日間構成で、本祭が中心。年により新暦の日付が変動するため要確認。",
+    "date_2026": "2026-07-14",
+    "date_2026_end": null,
     "summary": "800年の歴史を持つ。海の女神・市杵島姫命が沖合2.5kmの大島の祠へ年に一度里帰りする際、船で海水（潮）を掛け合って清める神事。神輿を乗せた御座船が港を出るとき、沿岸に集まった人々が海水をかけ合い、周囲の船も海水を浴びせる。陸の見物客にも容赦なく海水がかかるが「潮を受けると風邪をひかない」という言い伝えがあり、観客も参加型で楽しめる。夜は花火大会。神輿船・見物人・漁師全員が海水まみれになる。",
     "highlights": [
       "神輿船・見物人・漁師全員が海水まみれになる圧倒的なビショビショ祭り",
@@ -1005,8 +1005,8 @@
     "shrine_en": "Ōshima Shrine (affiliated with Futami Okitama Shrine)",
     "prefecture_en": "Mie Prefecture",
     "city_en": "Shima City",
-    "date_pattern_en": "Annual, late July (check locally)",
-    "summary_en": "The ocean deity Ichikishimahime-no-Mikoto makes her annual return to the offshore island shrine of Ōshima on a day in late July, and the ceremony marking her departure from her land-side shrine involves the vigorous splashing of seawater among all participants and bystanders — a purification act that has the practical consequence of soaking everyone in the vicinity. The mikoshi (portable shrine) bearing the goddess is loaded onto a ceremonial boat; as it leaves the quay, the assembled crowd throws buckets, cups, and scoops of seawater at each other and at the departing shrine, with a thoroughness that ensures no one remains dry. The logic is ancient: seawater purifies, the purification cleanses the entire community for the year ahead, and the most effective administration of seawater is the most complete administration of seawater. Come prepared to be wet, and understand that this is the intended outcome rather than a side effect.",
+    "date_pattern_en": "Held on the 1st day of the 6th lunar month — July 14 in 2026 (the date shifts each year; an eve festival precedes the main day).",
+    "summary_en": "The ocean deity Ichikishimahime-no-Mikoto makes her annual return to the offshore island shrine of Ōshima on a day in July, and the ceremony marking her departure from her land-side shrine involves the vigorous splashing of seawater among all participants and bystanders — a purification act that has the practical consequence of soaking everyone in the vicinity. The mikoshi (portable shrine) bearing the goddess is loaded onto a ceremonial boat; as it leaves the quay, the assembled crowd throws buckets, cups, and scoops of seawater at each other and at the departing shrine, with a thoroughness that ensures no one remains dry. The logic is ancient: seawater purifies, the purification cleanses the entire community for the year ahead, and the most effective administration of seawater is the most complete administration of seawater. Come prepared to be wet, and understand that this is the intended outcome rather than a side effect.",
     "highlights_en": [
       "An ancient purification ceremony whose primary mechanism is throwing seawater at everyone present — bring a change of clothes or embrace wetness as the point",
       "A goddess's annual ocean voyage framed as a community water fight: devotion and exuberance in the same gesture",
