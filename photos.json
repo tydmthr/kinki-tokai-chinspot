@@ -1422,5 +1422,27 @@
     "source_url": null,
     "provider": null,
     "license_url": null
+  },
+  "fest-155": {
+    "name": "水止舞",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Mizudome-no-mai_Gonshoji_Temple_07.jpg",
+    "credit": "KQuhen / CC BY-SA 4.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "provider": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Mizudome-no-mai_Gonshoji_Temple_07.jpg",
+    "title": "厳正寺の水止舞 舞台での獅子舞奉納（東京都大田区・厳正寺）"
+  },
+  "fest-142": {
+    "name": "平方どろいんきょ",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/21/Ageo_Hirakata_Doroinkyo_1.JPG",
+    "credit": "京浜にけ / CC BY-SA 3.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "provider": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ageo_Hirakata_Doroinkyo_1.JPG",
+    "title": "平方どろいんきょ（埼玉県上尾市平方・八枝神社）"
   }
 }
