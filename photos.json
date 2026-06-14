@@ -448,9 +448,12 @@
   },
   "fest-024": {
     "name": "熊野那智大社 那智の扇祭り（那智の火祭）",
-    "primary": null,
-    "credit": null,
-    "alt_photos": []
+    "primary": "https://bizarrejapan.com/photos/fest-024.jpg",
+    "credit": "出典: 和歌山県公式観光サイト「わかやま観光情報」（和歌山県観光連盟）（https://www.wakayama-kanko.or.jp/events/detail_79.html）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "和歌山県公式観光サイト「わかやま観光情報」（和歌山県観光連盟）",
+    "source_url": "https://www.wakayama-kanko.or.jp/events/detail_79.html",
+    "license": "ライセンス不明（著作権あり可能性が高い）。出典は和歌山県公式観光サイト（和歌山県観光連盟）。サイト上に明示的なCC/PD表記は確認できず。事後承諾運用の方針に従い found=true とするが、商用・本番掲載前には和歌山県観光連盟への利用許諾連絡を推奨。問題があれば差し替え／撤去前提。"
   },
   "fest-025": {
     "name": "豊浜鯛まつり",
@@ -1506,5 +1509,41 @@
     "source_url": null,
     "provider": null,
     "license_url": null
+  },
+  "fest-149": {
+    "name": "サバー送り",
+    "primary": "https://bizarrejapan.com/photos/fest-149.jpg",
+    "credit": "出典: 長門市公式ホームページ（長門の話題「伝統のサバー送り」2017年）（https://www.city.nagato.yamaguchi.jp/wadairoot/wadai/20170701sabahokuri.html）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "長門市公式ホームページ（長門の話題「伝統のサバー送り」2017年）",
+    "source_url": "https://www.city.nagato.yamaguchi.jp/wadairoot/wadai/20170701sabahokuri.html",
+    "license": "著作権あり（長門市公式サイト掲載写真、明示的なCC/PD表記なし）。事後承諾運用のため found=true としたが、商用・転載には長門市への許諾確認が必要。問題があれば取り下げる前提。"
+  },
+  "fest-156": {
+    "name": "甚目の虫送り",
+    "primary": "https://bizarrejapan.com/photos/fest-156.jpg",
+    "credit": "出典: 松阪市公式ホームページ（文化情報「甚目の虫送り」）（https://www.city.matsusaka.mie.jp/site/culture-info/hadame-mushiokuri.html）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "松阪市公式ホームページ（文化情報「甚目の虫送り」）",
+    "source_url": "https://www.city.matsusaka.mie.jp/site/culture-info/hadame-mushiokuri.html",
+    "license": "著作権あり（松阪市公式サイト掲載、ライセンス表記なし）。クリエイティブ・コモンズやパブリックドメインの明示はなく、市の著作物と推定される。事後承諾運用前提で found=true とした。利用時は松阪市産業文化部文化課（Tel: 0598-53-4393）へ連絡し、問題があれば取り下げる前提。"
+  },
+  "fest-157": {
+    "name": "木境大物忌神社の虫除け祭り",
+    "primary": "https://bizarrejapan.com/photos/fest-157.jpg",
+    "credit": "出典: まいーれ（由利本荘市民俗芸能伝承館 公式サイト）（https://mai-re.jp/matsuri/ken/kizakai/）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "まいーれ（由利本荘市民俗芸能伝承館 公式サイト）",
+    "source_url": "https://mai-re.jp/matsuri/ken/kizakai/",
+    "license": "著作権あり（まいーれ＝由利本荘市民俗芸能伝承館の運営サイト掲載写真。CC/PD表記は確認できず、権利は撮影者・運営者に帰属するとみられる）。事後承諾運用のため found=true で記録するが、利用時は権利者（まいーれ／由利本荘市）への連絡を要する。なお由利本荘市公式サイト（https://www.city.yurihonjo.lg.jp/yashima/kinenkan/musiyoke01.htm）にも同祭の画像が存在し、代替候補。"
+  },
+  "fest-170": {
+    "name": "古和浦祇園祭",
+    "primary": "https://bizarrejapan.com/photos/fest-170.jpg",
+    "credit": "出典: 観光三重（公益社団法人 三重県観光連盟 公式サイト）取材レポート（撮影: 種橋マミ）（https://www.kankomie.or.jp/report/2022）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "観光三重（公益社団法人 三重県観光連盟 公式サイト）取材レポート「三重県内・漁獲量No.1のまち『南伊勢町』浦々の夏祭りと海の幸をご紹介‼」",
+    "source_url": "https://www.kankomie.or.jp/report/2022",
+    "license": "著作権あり（不明〜権利者明示）。撮影者クレジット「種橋マミ」、掲載は観光三重（三重県観光連盟）公式サイト。CC/PD表示は確認できず、明示的な再利用許諾なし。事後承諾運用方針に基づき found=true とするが、本番採用時は観光三重または撮影者へ連絡し許諾取得が必要。問題あれば取り下げ前提。"
   }
 }
