@@ -9020,5 +9020,54 @@
       "https://www.numata-kankou.jp/activity/shrine-temple/kashozan/index.html",
       "https://www.mlit.go.jp/tagengo-db/en/R6-00345.html"
     ]
+  },
+  {
+    "id": "spot-225",
+    "name": "枯松神社",
+    "name_kana": "かれまつじんじゃ",
+    "category": "folk",
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "name_en": "Karematsu Shrine",
+    "prefecture_en": "Nagasaki Prefecture",
+    "city_en": "Nagasaki City",
+    "summary_en": "Standing on a hillside south of Kurosaki Church in the Sotome district of Nagasaki, Karematsu Shrine is one of only a handful of Christian shrines in Japan. It enshrines Father San Jiwan (San Juan), a foreign missionary said to have worked in secret during the persecution era and revered as the teacher of the Japanese evangelist Bastian. According to local tradition, San Jiwan hid in a rock cave on Mount Karematsu and was buried where the shrine now stands; after the ban on Christianity was lifted in the Meiji era, believers built the shrine over his grave. Christian graves marked by face-down stone slabs remain in the precincts, and at the nearby \"Prayer Rock,\" Hidden Christians are said to have gathered secretly on the night of the pre-Easter \"Season of Sorrow\" to chant Orasho, prayers derived from Latin and Portuguese. The shrine has long been tended by local Hidden Christians and by parishioners of the Soto Zen temple Tenpukuji. Designated a Nagasaki City historic site in 2005, it is counted among Japan's rare Christian shrines. Each year on November 3, Hidden Christians, Catholics, and Buddhists gather here to pray at the Karematsu Shrine Festival.",
+    "highlights_en": [
+      "A rare Christian shrine, said to be one of only three in Japan, enshrining the persecution-era missionary Father San Jiwan",
+      "The 'Prayer Rock' where Hidden Christians are said to have chanted Orasho, alongside Christian graves of face-down stone slabs",
+      "The Karematsu Shrine Festival on November 3, where Hidden Christians, Catholics, and Buddhists pray together",
+      "A Nagasaki City historic site (2005) regarded as one of the sacred places of the Hidden Christians of Sotome",
+      "A living site of religious coexistence, preserved by Soto Zen temple parishioners and local residents"
+    ],
+    "reference_urls": [
+      "https://www.at-nagasaki.jp/spot/1097",
+      "https://oratio.jp/p_resource/karematsujinja",
+      "https://www.city.nagasaki.lg.jp/shimin/190001/192001/p000609.html",
+      "https://www.nagasaki-np.co.jp/kijis/?kijiid=696570792930559073"
+    ]
+  },
+  {
+    "id": "spot-226",
+    "name": "カステラ神社",
+    "name_kana": "かすてらじんじゃ",
+    "category": "bkyu",
+    "prefecture": "長崎県",
+    "city": "長崎市",
+    "name_en": "Castella Shrine (Kasutera Jinja)",
+    "prefecture_en": "Nagasaki Prefecture",
+    "city_en": "Nagasaki",
+    "summary_en": "Castella Shrine is a small novelty shrine tucked inside the souvenir shop \"Mominoki Core\" along Glover Street in the Minamiyamate district of Nagasaki. It enshrines \"Castella Daimyojin,\" a deity modeled on Nagasaki's famous sponge cake, castella, and is said to grant blessings for love and romantic fulfillment. Although it features a red torii gate, an offering box, a shrine pavilion, and items such as ema plaques, charms, and fortune slips, it is not a registered religious institution but a playful \"indie\" shrine created by the shop itself. Sitting on the slope leading to Glover Garden and Oura Cathedral, it is a popular stop for sightseers. The whimsical deity, depicted lifting its own roof, embodies the lighthearted spirit of a commercial space. Castella itself was introduced to Nagasaki by the Portuguese in the 16th century and has since become a signature local confection, making this shrine a charming example of regional food culture reimagined as a quirky tourist attraction. It was relocated to the back of the shop around 2017 following a renovation of the hotel building that houses it.",
+    "highlights_en": [
+      "Enshrines 'Castella Daimyojin,' a deity modeled on Nagasaki's signature sponge cake, in a shop-created novelty shrine",
+      "A whimsical deity figure that lifts its own roof, doubling as both the sacred object and the shrine pavilion",
+      "Promotes blessings for love and matchmaking, offering ema plaques, charms, and fortune slips",
+      "Located on the tourist route toward Glover Garden and Oura Cathedral, easy to drop by",
+      "Complete with a red torii gate and offering box, blending shrine aesthetics with commercial playfulness"
+    ],
+    "reference_urls": [
+      "https://4travel.jp/dm_shisetsu/10003576",
+      "https://www.9navi.jp/kasutera01.html",
+      "https://drive.jafnavi.jp/spots/421142X00474/"
+    ]
   }
 ]

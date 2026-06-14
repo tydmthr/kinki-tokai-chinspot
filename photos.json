@@ -1444,5 +1444,67 @@
     "provider": "Wikimedia Commons",
     "source_url": "https://commons.wikimedia.org/wiki/File:Ageo_Hirakata_Doroinkyo_1.JPG",
     "title": "平方どろいんきょ（埼玉県上尾市平方・八枝神社）"
+  },
+  "spot-225": {
+    "name": "枯松神社",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/23/Karematsu_shrine.jpg",
+    "credit": "© Indiana jo / CC BY-SA 4.0 / Wikimedia Commons",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Karematsu_shrine.jpg",
+    "creator": "Indiana jo",
+    "provider": "Wikimedia Commons",
+    "title": "枯松神社"
+  },
+  "spot-226": {
+    "name": "カステラ神社",
+    "primary": null,
+    "credit": null,
+    "alt_photos": [],
+    "license": null,
+    "source_url": null,
+    "provider": null,
+    "license_url": null
+  },
+  "fest-178": {
+    "name": "あらい祭（大根まつり）",
+    "primary": null,
+    "credit": null,
+    "alt_photos": [],
+    "license": null,
+    "source_url": null,
+    "provider": null,
+    "license_url": null
+  },
+  "fest-179": {
+    "name": "伊予豆比古命神社 椿まつり",
+    "primary": null,
+    "credit": null,
+    "alt_photos": [],
+    "license": null,
+    "source_url": null,
+    "provider": null,
+    "license_url": null
+  },
+  "fest-180": {
+    "name": "閼伽井嶽薬師 人形供養祭",
+    "primary": null,
+    "credit": null,
+    "alt_photos": [],
+    "license": null,
+    "source_url": null,
+    "provider": null,
+    "license_url": null
+  },
+  "fest-181": {
+    "name": "水海の田楽能舞",
+    "primary": null,
+    "credit": null,
+    "alt_photos": [],
+    "license": null,
+    "source_url": null,
+    "provider": null,
+    "license_url": null
   }
 }
