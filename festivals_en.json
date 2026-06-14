@@ -830,9 +830,9 @@
     "city": "志摩市阿児町磯部",
     "lat": 34.329,
     "lng": 136.7218,
-    "date_pattern": "5月初旬〜前儀（苗代祭等）、本祭（竹取神事・早乙女田植）毎年6月24日固定",
-    "date_2026": "2026-05-01",
-    "date_2026_end": "2026-06-24",
+    "date_pattern": "本祭（竹取神事・早乙女田植・踊込み）は毎年6月24日固定（6月月次祭当日／2026年は6月24日・水曜）。5月上旬の苗代祭などの前儀は本祭ではなく準備神事。日本三大御田植祭の一つ。",
+    "date_2026": "2026-06-24",
+    "date_2026_end": null,
     "summary": "日本三大御田植祭のひとつ（香取・住吉大社と並ぶ）。国の重要無形民俗文化財。早乙女（さおとめ）による手植えと並行して、「忍び男」と呼ばれる裸の男たちが田んぼに突進し、泥まみれになりながら竹の串（御幣竹）を奪い合う神事がある。この「竹取り」が奇祭要素で、竹を取った者はその年の豊作と幸福が約束されるとされる。優雅な早乙女の田植えと泥だらけの男たちの対比が祭りの白眉。伊雑宮（伊勢神宮内宮の別宮）という聖地での開催。",
     "highlights": [
       "裸の男たちが田んぼで泥まみれになりながら竹を奪い合う",
@@ -849,7 +849,7 @@
     "shrine_en": "Izawanomiya Shrine (Ise Jingū Geku subsidiary)",
     "prefecture_en": "Mie Prefecture",
     "city_en": "Shima City, Isobe Town",
-    "date_pattern_en": "Annual, June 24th",
+    "date_pattern_en": "The main festival (bamboo-grabbing rite, rice planting by saotome maidens, and the closing dance procession) is held every year on a fixed date of June 24th (the day of the June monthly festival; in 2026 it falls on Wednesday, June 24th). The preliminary rites such as the seedbed festival in early May are preparatory, not the main festival. One of Japan's three great rice-planting festivals.",
     "summary_en": "One of Japan's Three Great Sacred Rice-Planting Ceremonies (alongside those at Katori Shrine and Sumiyoshi Taisha), the Izawanomiya Otaue-e is a National Important Intangible Folk Cultural Property conducted on the shrine's dedicated sacred rice paddies. Young women (saotome) plant rice seedlings in the ancient hand-transplanting method while, simultaneously, a group of men called the Shinobi-otoko — naked or near-naked, their bodies representing the raw fertility force of the male principle — rush into the paddy and seize the bamboo poles bearing the sacred offerings, wrestling with each other in mud that deepens as the ritual progresses. The ceremony's logic is straightforward within ancient Japanese agricultural religion: the women provide the technical skill of cultivation; the men provide the wild energy of fertility; the combination, enacted in the presence of the shrine's deity, consecrates the season's planting. Izawanomiya is a subsidiary shrine of the Grand Shrine of Ise, giving the ceremony an unusually elevated theological context.",
     "highlights_en": [
       "Near-naked men wrestling for sacred bamboo poles in a sacred mud paddy while women plant rice seedlings: ancient Japanese agricultural cosmology at full visible expression",
@@ -4597,8 +4597,8 @@
     "city": "世田谷区",
     "lat": 35.661389,
     "lng": 139.667222,
-    "date_pattern": "毎年2月節分前後の週末",
-    "date_2026": "2026-01-30",
+    "date_pattern": "毎年2月節分前後の週末（本祭「天下一天狗道中」は土曜。2026年は1/30前夜祭〜2/1の3日間で本祭は1/31）",
+    "date_2026": "2026-01-31",
     "date_2026_end": "2026-02-01",
     "summary": "東京都世田谷区の下北沢一番街商店街と北澤八幡神社を中心に毎年節分時期に催される福祭。",
     "highlights": [
@@ -4616,7 +4616,7 @@
     "shrine_en": "Shimokitazawa Ichibangai Shopping Street & Kitazawa Hachiman Shrine",
     "prefecture_en": "Tokyo",
     "city_en": "Setagaya Ward",
-    "date_pattern_en": "Weekend around Setsubun in early February (annual)",
+    "date_pattern_en": "Weekend around Setsubun in early February each year (the main festival, the 'Tenka-ichi Tengu Procession,' is held on Saturday; in 2026 it runs as a three-day event from the Jan 30 eve festival through Feb 1, with the main festival on Jan 31).",
     "summary_en": "Held each year around the Setsubun season in the narrow lanes of Shimokitazawa, this festival fuses the youth culture of one of Tokyo's most distinctive neighborhoods with the older mountain-deity beliefs centered on Shingan-ji temple. A towering effigy of a karasu-tengu — the crow-faced sky spirit of esoteric Buddhist legend — is paraded through the shopping arcade by costumed bearers, while officiants in white shozoku attire scatter beans and small charms to passersby. Founded by the Ichibangai shopping district association in the postwar period and elaborated into its present form in the 1990s, the festival presents an unusual case in which the syncretic tengu cult of Mt. Kurama and the local Tokugawa-era Tendoryoson devotion at Shingan-ji are reinterpreted within a thoroughly contemporary urban setting. The result is one of the few examples in metropolitan Tokyo where pre-modern folk belief survives in public space, embedded in the daily commerce of a neighborhood better known internationally for its music venues, vintage shops, and underground theatre.",
     "highlights_en": [
       "Karasu-tengu float procession: a three-meter crow-faced effigy is wheeled through the narrow alleys of Shimokitazawa, its red mask glowing under the arcade lights",
@@ -4714,8 +4714,8 @@
     "city": "廿日市市",
     "lat": 34.295833,
     "lng": 132.319722,
-    "date_pattern": "毎年旧暦6月17日",
-    "date_2026": "2026-07-31",
+    "date_pattern": "毎年旧暦6月17日（2026年は7月30日）",
+    "date_2026": "2026-07-30",
     "date_2026_end": null,
     "summary": "世界遺産・厳島神社で旧暦6月17日に斎行される日本三大船神事の一つ。",
     "highlights": [
@@ -4733,7 +4733,7 @@
     "shrine_en": "Itsukushima Shrine",
     "prefecture_en": "Hiroshima",
     "city_en": "Hatsukaichi City",
-    "date_pattern_en": "Lunar calendar June 17 each year",
+    "date_pattern_en": "The 17th day of the sixth lunar month each year (in 2026, July 30).",
     "summary_en": "On the seventeenth day of the sixth lunar month, the World Heritage shrine of Itsukushima — built upon stilts above the tidal waters of the Seto Inland Sea — conducts one of the three great boat rituals of Japan. The kami of the shrine is transferred to a sacred barge, the gozasen, which is rowed beneath the towering vermilion torii gate and across the bay to the auxiliary shrine of Jigozen on the mainland. Throughout the procession, court musicians aboard the barge perform gagaku — the imperial wind and string ensemble — its mellow tones mingling with the sound of oars on calm summer water. The rite traces its formal structure to the patronage of Taira no Kiyomori in the late twelfth century, who is said to have transplanted the courtly music ceremonies of the Heian palace into Shinto liturgy at Itsukushima. As one of Japan's rare maritime festivals to preserve aristocratic court music in active ritual use, Kangen-sai stands alongside the Tenjin Matsuri of Osaka and the Hōran-enya of Matsue as a foundational example of the boat-borne kami procession.",
     "highlights_en": [
       "Passage of the sacred barge beneath the great torii: the vermilion gate frames the gozasen as it glides through at high tide, the festival's most iconic moment",
