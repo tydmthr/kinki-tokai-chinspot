@@ -7,7 +7,7 @@
 - **連絡手段**: **Gmail下書き作成済**（draft_id: `r-2322111694830023955`／motohiro.toyoda@gmail.com）。Spark で From を bizarrejapan.jp@gmail.com に切替送信予定。
 - **受け手種別**: festival_organizer
 - **連絡先確度**: 5/5
-- **状態**: drafted（Gmail下書き作成済・未送信）
+- **状態**: **sent**（2026-06-15 送信済み・Spark で From=bizarrejapan.jp@gmail.com）
 - **位置付け**: 百景名鑑 一括事後承諾 C層（要優先連絡）。掲載は本番公開済み・出典明記「掲載許諾申請中」。
 
 ## 本文

@@ -20,8 +20,8 @@ TOP直近で「写真なし」が目立つ祭について、会長判断でラ�
 | fest-157 | 木境大物忌神社の虫除け祭り | まいーれ（由利本荘市民俗芸能伝承館 公式サイト） | https://mai-re.jp/matsuri/ken/kizakai/ | 掲載許諾申請中（未連絡） |
 | fest-170 | 古和浦祇園祭 | 観光三重（公益社団法人 三重県観光連盟 公式サイト）取材レポート | https://www.kankomie.or.jp/report/2022 | 掲載許諾申請中（未連絡） |
 | fest-001 | 法界寺 裸踊り（修正会） | ざ・京都（the-kyoto.jp） | https://www.the-kyoto.jp/calendar/january/hokaiji-hadaka/ | 掲載許諾申請中（未連絡） |
-| fest-002 | 四天王寺 どやどや（修正会結願法要） | 和田フォト（Wada Photo） | https://wadaphoto.jp/maturi/kisai_3.htm | 掲載許諾申請中（未連絡） |
-| fest-003 | 西宮神社 開門神事 福男選び | 西宮つーしん（nishi2.jp / 地域メディア） | https://nishi2.jp/283396/ | 掲載許諾申請中（未連絡） |
+| fest-002 | 四天王寺 どやどや（修正会結願法要） | 和田フォト（Wada Photo） | https://wadaphoto.jp/maturi/kisai_3.htm | 掲載許諾申請中（依頼送信済 2026-06-15） |
+| fest-003 | 西宮神社 開門神事 福男選び | 西宮つーしん（nishi2.jp / 地域メディア） | https://nishi2.jp/283396/ | 掲載許諾申請中（依頼送信済 2026-06-15） |
 | fest-005 | 飛鳥坐神社 おんだ祭（田遊び） | 明日香村観光サイト『あすか時間』（明日香村観光開発公社） | https://asukamura.com/sightseeing/onda-matsuri/ | 掲載許諾申請中（未連絡） |
 | fest-007 | 尾鷲ヤーヤ祭り | 尾鷲市公式（おわせ観光ガイド「おわたび」） | https://www.city.owase.lg.jp/owatabi/0000017488.html | 掲載許諾申請中（未連絡） |
 | fest-009 | 砂かけ祭り | オマツリジャパン（omatsurijapan.com） | https://omatsurijapan.com/search/m/1813/ | 掲載許諾申請中（未連絡） |
@@ -49,7 +49,7 @@ TOP直近で「写真なし」が目立つ祭について、会長判断でラ�
 | fest-174 | 高川仁井田神社 早飯食い | ぐるぐるこうち（RKC高知放送） | https://guruguru.rkc-kochi.co.jp/article/goout_173138571528597 | 掲載許諾申請中（未連絡） |
 | fest-178 | あらい祭（大根まつり） | 千葉県（千葉県立中央博物館 デジタルアーカイブ） | https://www.chiba-muse.or.jp/NATURAL/special/150photo1/files/MB00132.html | 掲載許諾申請中（未連絡） |
 | fest-179 | 伊予豆比古命神社 椿まつり | 伊豫豆比古命神社（椿神社） | https://tubaki.or.jp/tsubaki-festival/ | 掲載許諾申請中（未連絡） |
-| fest-180 | 閼伽井嶽薬師 人形供養祭 | コノマレ この指とまれ（人形供養祭 主催） | https://www.konomare.com/event/ningyoukuyousai/ | 掲載許諾申請中（未連絡） |
+| fest-180 | 閼伽井嶽薬師 人形供養祭 | コノマレ この指とまれ（人形供養祭 主催） | https://www.konomare.com/event/ningyoukuyousai/ | 掲載許諾申請中（依頼送信済 2026-06-15） |
 | fest-181 | 水海の田楽能舞 | 福井県池田町（公式） | https://www.town.ikeda.fukui.jp/kurashi/bunka/1446/p001327.html | 掲載許諾申請中（未連絡） |
 | spot-007 | 珍品センター（珍品城） | 珍品センター（公式 / chinpin.biz） | https://chinpin.biz/ | 掲載許諾申請中（未連絡） |
 | spot-047 | 伊豆極楽苑 | 伊豆市観光情報サイト（伊豆市公式） | https://kanko.city.izu.shizuoka.jp/sightseeing/izugokurakuen/ | 掲載許諾申請中（未連絡） |
