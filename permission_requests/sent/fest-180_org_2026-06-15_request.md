@@ -4,7 +4,7 @@
 - **送信元**: bizarrejapan.jp@gmail.com（豊田元洋）
 - **宛先**: ningyokuyo-iwaki@konomare.com
 - **件名**: 【写真使用許諾のお願い】「閼伽井嶽薬師 人形供養祭」掲載写真について（Bizarre Japan / 異界巡礼　fest-180）
-- **連絡手段**: **Gmail下書き作成済**（draft_id: `r1494876201024219929`／motohiro.toyoda@gmail.com）。Spark で From を bizarrejapan.jp@gmail.com に切替送信予定。
+- **連絡手段**: **Gmail下書き作成済**（draft_id: `r-2322111694830023955`／motohiro.toyoda@gmail.com）。Spark で From を bizarrejapan.jp@gmail.com に切替送信予定。
 - **受け手種別**: festival_organizer
 - **連絡先確度**: 5/5
 - **状態**: drafted（Gmail下書き作成済・未送信）
@@ -39,9 +39,6 @@
 ご多忙のところ恐縮ですが、ご確認いただけますと幸いです。何卒よろしくお願い申し上げます。
 
 ────────────────────────────────────
-有限会社豊田衛生 取締役（三重県亀山市）
-亀山商工会議所青年部 2026年度 会長
-※本依頼は個人運営の文化記録プロジェクトとしての依頼であり、所属団体の事業ではありません。
 豊田 元洋 / Toyoda Motohiro
 Bizarre Japan / 異界巡礼 運営　bizarrejapan.jp@gmail.com
 
