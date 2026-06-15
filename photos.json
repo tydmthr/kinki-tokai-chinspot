@@ -1763,5 +1763,240 @@
     "provider": "観光三重（公益社団法人 三重県観光連盟 公式サイト）取材レポート「三重県内・漁獲量No.1のまち『南伊勢町』浦々の夏祭りと海の幸をご紹介‼」",
     "source_url": "https://www.kankomie.or.jp/report/2022",
     "license": "著作権あり（不明〜権利者明示）。撮影者クレジット「種橋マミ」、掲載は観光三重（三重県観光連盟）公式サイト。CC/PD表示は確認できず、明示的な再利用許諾なし。事後承諾運用方針に基づき found=true とするが、本番採用時は観光三重または撮影者へ連絡し許諾取得が必要。問題あれば取り下げ前提。"
+  },
+  "spot-227": {
+    "name": "札幌大仏（金毘羅密寺）",
+    "primary": "https://bizarrejapan.com/photos/spot-227.jpg",
+    "credit": "出典: 札幌大佛 金毘羅密寺（公式サイト）（https://www.sapporodaibutu.com/sapporodaibutu）※掲載許諾申請中",
+    "provider": "札幌大佛 金毘羅密寺（公式サイト）",
+    "source_url": "https://www.sapporodaibutu.com/sapporodaibutu",
+    "license": "著作権あり（金毘羅密寺 公式サイト掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は金毘羅密寺への許諾確認が必要。問題あれば即時差し替え／撤去前提。連絡先=金毘羅密寺（札幌市西区福井423）。",
+    "alt_photos": []
+  },
+  "spot-228": {
+    "name": "恐山菩提寺",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Osorezan_Bodaiji_03.jpg/1280px-Osorezan_Bodaiji_03.jpg",
+    "credit": "Wikimedia Commons / あおもりくま / CC BY-SA 3.0",
+    "alt_photos": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Sacred_Mount_Osorezan_20200601a_stitching9.jpg/1280px-Sacred_Mount_Osorezan_20200601a_stitching9.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Osorezan_somon_Aomori_japan.jpg/1280px-Osorezan_somon_Aomori_japan.jpg"
+    ],
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Osorezan_Bodaiji_03.jpg",
+    "creator": "あおもりくま",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-229": {
+    "name": "昭和大仏（青龍寺）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Shouwa_daibutu_Aomori_city_Seiryuji_PA120439.JPG/1280px-Shouwa_daibutu_Aomori_city_Seiryuji_PA120439.JPG",
+    "credit": "Wikimedia Commons / あおもりくま（Aomorikuma） / CC BY-SA 3.0",
+    "alt_photos": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Shouwa_daibutu_Aomori_city_Seiryuji_PA120443.JPG/1280px-Shouwa_daibutu_Aomori_city_Seiryuji_PA120443.JPG"
+    ],
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Shouwa_daibutu_Aomori_city_Seiryuji_PA120439.JPG",
+    "creator": "あおもりくま（Aomorikuma）",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-230": {
+    "name": "続石",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/c8/%E7%B6%9A%E7%9F%B3.jpg",
+    "credit": "Wikimedia Commons / Ty19080914 / CC BY-SA 4.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%E7%B6%9A%E7%9F%B3.jpg",
+    "creator": "Ty19080914",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-231": {
+    "name": "盛岡大仏（松園寺）",
+    "primary": "https://bizarrejapan.com/photos/spot-231.jpg",
+    "credit": "出典: 松園寺（盛岡大仏）公式サイト（https://syouonnzi.com/moriokadaibutu.html）※掲載許諾申請中",
+    "provider": "松園寺（盛岡大仏）公式サイト",
+    "source_url": "https://syouonnzi.com/moriokadaibutu.html",
+    "license": "著作権あり（松園寺 公式サイト掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は松園寺への許諾確認が必要。問題あれば即時差し替え／撤去前提。連絡先=松園寺（盛岡市）。",
+    "alt_photos": []
+  },
+  "spot-232": {
+    "name": "高柴デコ屋敷道六館",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Miharugoma.JPG",
+    "credit": "Wikimedia Commons / けんち / CC BY-SA 3.0",
+    "alt_photos": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/%E9%AB%98%E6%9F%B4%E3%83%87%E3%82%B3%E5%B1%8B%E6%95%B7_%E5%85%A5%E5%8F%A3%E4%BB%98%E8%BF%91_20170729.jpg/1280px-%E9%AB%98%E6%9F%B4%E3%83%87%E3%82%B3%E5%B1%8B%E6%95%B7_%E5%85%A5%E5%8F%A3%E4%BB%98%E8%BF%91_20170729.jpg"
+    ],
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Miharugoma.JPG",
+    "creator": "けんち (Wikimedia Commons user)",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-233": {
+    "name": "華厳の滝",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Kegon_Taki.jpg/1280px-Kegon_Taki.jpg",
+    "credit": "Wikimedia Commons / Jordy Meow / CC BY-SA 3.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kegon_Taki.jpg",
+    "creator": "Jordy Meow",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-234": {
+    "name": "金山神社（かなまら様）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kanamara_Matsuri_2007_%28phallus_festival%29-crop.jpg/1280px-Kanamara_Matsuri_2007_%28phallus_festival%29-crop.jpg",
+    "credit": "Wikimedia Commons / Saya M. / CC BY-SA 2.0",
+    "alt_photos": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kanamara-matsuri2014.jpg/1280px-Kanamara-matsuri2014.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kanamara-mikoshi1.jpg/1280px-Kanamara-mikoshi1.jpg"
+    ],
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kanamara_Matsuri_2007_(phallus_festival)-crop.jpg",
+    "creator": "Saya M.",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-235": {
+    "name": "鹿野大仏（寳光寺）",
+    "primary": "https://bizarrejapan.com/photos/spot-235.jpg",
+    "credit": "出典: 東京とりっぷ（https://tokyo-trip.org/spot/visiting/tk0549/）※掲載許諾申請中",
+    "provider": "東京とりっぷ（tokyo-trip.org）",
+    "source_url": "https://tokyo-trip.org/spot/visiting/tk0549/",
+    "license": "著作権あり（東京とりっぷ 掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は東京とりっぷ運営者への許諾確認が必要。問題あれば即時差し替え／撤去前提。出典は観光情報メディア（C層）。",
+    "alt_photos": []
+  },
+  "spot-236": {
+    "name": "山寺大仏（立石寺 奥之院・大仏殿）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Risshaku-ji_Okunoin_20130803.jpg/1280px-Risshaku-ji_Okunoin_20130803.jpg",
+    "credit": "Wikimedia Commons / Tak1701d / CC BY-SA 3.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Risshaku-ji_Okunoin_20130803.jpg",
+    "creator": "Tak1701d",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-237": {
+    "name": "越後胎内観音",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tainai_Kannon%2C_Tainai%2C_Niigata%2C_Japan%2C_October_2025.jpg/1280px-Tainai_Kannon%2C_Tainai%2C_Niigata%2C_Japan%2C_October_2025.jpg",
+    "credit": "Wikimedia Commons / Tail furry / CC BY-SA 4.0",
+    "alt_photos": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/10/Tainai_Kannon.jpg"
+    ],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tainai_Kannon,_Tainai,_Niigata,_Japan,_October_2025.jpg",
+    "creator": "Tail furry",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-238": {
+    "name": "白馬大仏",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kuzuhatouge_Hakubadaibutsu.JPG/1280px-Kuzuhatouge_Hakubadaibutsu.JPG",
+    "credit": "Wikimedia Commons / Uenokami / CC BY-SA 3.0",
+    "alt_photos": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Himekawa_and_JR_Oito_line%2C_the_Hakuba_Daibutsu_in_the_center.jpg/1280px-Himekawa_and_JR_Oito_line%2C_the_Hakuba_Daibutsu_in_the_center.jpg"
+    ],
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kuzuhatouge_Hakubadaibutsu.JPG",
+    "creator": "Uenokami (Wikimedia Commons user)",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-239": {
+    "name": "高岡大仏",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Takaoka_Daibutsu_1.jpg/1280px-Takaoka_Daibutsu_1.jpg",
+    "credit": "Wikimedia Commons / Zairon / CC BY-SA 4.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Takaoka_Daibutsu_1.jpg",
+    "creator": "Zairon",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-240": {
+    "name": "万治の石仏",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Manji-no_sekibutsu_%28stone_buddha%29_%2C_%E4%B8%87%E6%B2%BB%E3%81%AE%E7%9F%B3%E4%BB%8F_-_panoramio_%2811%29.jpg/1280px-Manji-no_sekibutsu_%28stone_buddha%29_%2C_%E4%B8%87%E6%B2%BB%E3%81%AE%E7%9F%B3%E4%BB%8F_-_panoramio_%2811%29.jpg",
+    "credit": "Wikimedia Commons / z tanuki (Panoramio) / CC BY 3.0",
+    "alt_photos": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Manji-no_sekibutsu_%28stone_buddha%29_%2C_%E4%B8%87%E6%B2%BB%E3%81%AE%E7%9F%B3%E4%BB%8F_-_panoramio_%289%29.jpg/1280px-Manji-no_sekibutsu_%28stone_buddha%29_%2C_%E4%B8%87%E6%B2%BB%E3%81%AE%E7%9F%B3%E4%BB%8F_-_panoramio_%289%29.jpg"
+    ],
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Manji-no_sekibutsu_(stone_buddha)_,_%E4%B8%87%E6%B2%BB%E3%81%AE%E7%9F%B3%E4%BB%8F_-_panoramio_(11).jpg",
+    "creator": "z tanuki",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-241": {
+    "name": "善久寺（両面宿儺像）",
+    "primary": "https://bizarrejapan.com/photos/spot-241.jpg",
+    "credit": "出典: 飛騨高山観光公式サイト（https://www.hidatakayama.or.jp/spot/detail_5182.html）※掲載許諾申請中",
+    "provider": "飛騨高山観光公式サイト（飛騨・高山観光コンベンション協会）",
+    "source_url": "https://www.hidatakayama.or.jp/spot/detail_5182.html",
+    "license": "著作権あり（飛騨・高山観光コンベンション協会 掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は同協会および善久寺への許諾確認が必要。問題あれば即時差し替え／撤去前提。",
+    "alt_photos": []
+  },
+  "spot-242": {
+    "name": "命と性ミュージアム女神館",
+    "primary": "https://bizarrejapan.com/photos/spot-242.jpg",
+    "credit": "出典: 命と性ミュージアム 女神館 公式サイト（http://inotitosei.jp/）※掲載許諾申請中",
+    "provider": "命と性ミュージアム 女神館（公式サイト inotitosei.jp）",
+    "source_url": "http://inotitosei.jp/002naniwosite.html",
+    "license": "著作権あり（命と性ミュージアム 公式サイト掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は同館への許諾確認が必要（TEL 0279-55-6677）。問題あれば即時差し替え／撤去前提。",
+    "alt_photos": []
+  },
+  "spot-243": {
+    "name": "まぼろし博覧会",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/%E9%AD%94%E7%95%8C%E7%A5%9E%E7%A4%BE_%E7%A5%AD%E7%A4%BC%E3%81%AE%E5%A4%95%E3%81%B9.jpg/1280px-%E9%AD%94%E7%95%8C%E7%A5%9E%E7%A4%BE_%E7%A5%AD%E7%A4%BC%E3%81%AE%E5%A4%95%E3%81%B9.jpg",
+    "credit": "Wikimedia Commons / Nanana-N-mecha / CC BY-SA 4.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%E9%AD%94%E7%95%8C%E7%A5%9E%E7%A4%BE_%E7%A5%AD%E7%A4%BC%E3%81%AE%E5%A4%95%E3%81%B9.jpg",
+    "creator": "Nanana-N-mecha",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-244": {
+    "name": "水木しげる記念館",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/2/29/Yokai_space%2C_Mizuki_Shigeru_Road.jpg",
+    "credit": "Wikimedia Commons / Motokoka / CC BY-SA 4.0",
+    "alt_photos": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mizuki_Shigeru_Museum_-01.jpg/1280px-Mizuki_Shigeru_Museum_-01.jpg"
+    ],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Yokai_space,_Mizuki_Shigeru_Road.jpg",
+    "creator": "Motokoka (Wikimedia Commons user)",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-245": {
+    "name": "南蔵院（釈迦涅槃像）",
+    "primary": "https://bizarrejapan.com/photos/spot-245.jpg",
+    "credit": "出典: 篠栗町観光協会（https://sasagurikanko.com/type-about/涅槃像-2/）※掲載許諾申請中",
+    "provider": "篠栗町観光協会（sasagurikanko.com）",
+    "source_url": "https://sasagurikanko.com/type-about/%E6%B6%85%E6%A7%83%E5%83%8F-2/",
+    "license": "著作権あり（篠栗町観光協会 掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は篠栗町観光協会および南蔵院への許諾確認が必要。問題あれば即時差し替え／撤去前提。",
+    "alt_photos": []
+  },
+  "spot-246": {
+    "name": "日輪寺（山鹿大仏・おびんずる様）",
+    "primary": "https://bizarrejapan.com/photos/spot-246.jpg",
+    "credit": "出典: 九州旅行ナビ（https://www.9navi.jp/obinzuru.html）※掲載許諾申請中",
+    "provider": "九州旅行ナビ（9navi.jp）",
+    "source_url": "https://www.9navi.jp/obinzuru.html",
+    "license": "著作権あり（九州旅行ナビ 掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は九州旅行ナビ運営者および日輪寺への許諾確認が必要。問題あれば即時差し替え／撤去前提。出典は観光情報メディア（C層）。",
+    "alt_photos": []
+  },
+  "spot-248": {
+    "name": "大弁財天（最福寺）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/6/62/Kasoshima-shi-saifukuji-japna-20100101-071.jpg",
+    "credit": "Wikimedia Commons / Hirase / CC BY-SA 3.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kasoshima-shi-saifukuji-japna-20100101-071.jpg",
+    "creator": "Hirase",
+    "provider": "Wikimedia Commons"
   }
 }

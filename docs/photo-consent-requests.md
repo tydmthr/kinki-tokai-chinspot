@@ -8,7 +8,7 @@ TOP直近で「写真なし」が目立つ祭について、会長判断でラ�
 - 配信URL: `https://bizarrejapan.com/photos/<id>.jpg`
 - メタ: 旧リポ `photos.json`（primary / credit / provider / source_url / license）
 
-最終更新: 2026-06-14（百景名鑑 一括事後承諾 43件 追加）
+最終更新: 2026-06-15（新規スポット22件処理・事後承諾7件 追加）
 
 ## 一覧
 
@@ -62,6 +62,13 @@ TOP直近で「写真なし」が目立つ祭について、会長判断でラ�
 | spot-220 | 與止日女神社（川上神社・通称：淀姫さん） | 佐賀県観光連盟『あそぼーさが』（佐賀県公式観光サイト） | https://www.asobo-saga.jp/spots/detail/ab0fdf6a-81ba-433a-b65c-9af76a058634 | 掲載許諾申請中（未連絡） |
 | spot-224 | 迦葉山弥勒護国禅寺 | 群馬県公式観光サイト「ググっとぐんま」（we-love.gunma.jp） | https://we-love.gunma.jp/kanko/kashozanmirokuji | 掲載許諾申請中（未連絡） |
 | spot-226 | カステラ神社 | 9navi（長崎観光ガイド・店舗紹介記事） | https://www.9navi.jp/kasutera01.html | 掲載許諾申請中（未連絡） |
+| spot-227 | 札幌大仏（金毘羅密寺） | 札幌大佛 金毘羅密寺（公式サイト） | https://www.sapporodaibutu.com/sapporodaibutu | 掲載許諾申請中（未連絡） |
+| spot-231 | 盛岡大仏（松園寺） | 松園寺（盛岡大仏）公式サイト | https://syouonnzi.com/moriokadaibutu.html | 掲載許諾申請中（未連絡） |
+| spot-235 | 鹿野大仏（寳光寺） | 東京とりっぷ（tokyo-trip.org） | https://tokyo-trip.org/spot/visiting/tk0549/ | 掲載許諾申請中（未連絡） |
+| spot-241 | 善久寺（両面宿儺像） | 飛騨高山観光公式サイト（飛騨・高山観光コンベンション協会） | https://www.hidatakayama.or.jp/spot/detail_5182.html | 掲載許諾申請中（未連絡） |
+| spot-242 | 命と性ミュージアム女神館 | 命と性ミュージアム 女神館（公式サイト inotitosei.jp） | http://inotitosei.jp/002naniwosite.html | 掲載許諾申請中（未連絡） |
+| spot-245 | 南蔵院（釈迦涅槃像） | 篠栗町観光協会（sasagurikanko.com） | https://sasagurikanko.com/type-about/%E6%B6%85%E6%A7%83%E5%83%8F-2/ | 掲載許諾申請中（未連絡） |
+| spot-246 | 日輪寺（山鹿大仏・おびんずる様） | 九州旅行ナビ（9navi.jp） | https://www.9navi.jp/obinzuru.html | 掲載許諾申請中（未連絡） |
 
 ## 連絡先メモ
 
@@ -127,6 +134,17 @@ TOP直近で「写真なし」が目立つ祭について、会長判断でラ�
 - ⚠️ **spot-226（カステラ神社）**: 9navi（長崎観光ガイド・店舗紹介記事）　/ https://www.9navi.jp/kasutera01.html
 
 > ⚠️ C層（個人サイト・報道・私設施設）は権利者が明確かつ許諾ハードルが高い。会長の許諾連絡はC層を最優先で。
+
+
+### 2026-06-15 新規スポット22件（B型）追加分の事後承諾（7件）
+
+- **spot-227（札幌大仏（金毘羅密寺））**: 札幌大佛 金毘羅密寺（公式サイト）　/ https://www.sapporodaibutu.com/sapporodaibutu
+- **spot-231（盛岡大仏（松園寺））**: 松園寺（盛岡大仏）公式サイト　/ https://syouonnzi.com/moriokadaibutu.html
+- **spot-235（鹿野大仏（寳光寺））**: 東京とりっぷ（tokyo-trip.org）　/ https://tokyo-trip.org/spot/visiting/tk0549/
+- **spot-241（善久寺（両面宿儺像））**: 飛騨高山観光公式サイト（飛騨・高山観光コンベンション協会）　/ https://www.hidatakayama.or.jp/spot/detail_5182.html
+- **spot-242（命と性ミュージアム女神館）**: 命と性ミュージアム 女神館（公式サイト inotitosei.jp）　/ http://inotitosei.jp/002naniwosite.html
+- **spot-245（南蔵院（釈迦涅槃像））**: 篠栗町観光協会（sasagurikanko.com）　/ https://sasagurikanko.com/type-about/%E6%B6%85%E6%A7%83%E5%83%8F-2/
+- **spot-246（日輪寺（山鹿大仏・おびんずる様））**: 九州旅行ナビ（9navi.jp）　/ https://www.9navi.jp/obinzuru.html
 
 ## 運用方針
 

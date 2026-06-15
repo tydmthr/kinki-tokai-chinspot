@@ -9069,5 +9069,766 @@
       "https://www.9navi.jp/kasutera01.html",
       "https://drive.jafnavi.jp/spots/421142X00474/"
     ]
+  },
+  {
+    "id": "spot-227",
+    "name": "札幌大仏（金毘羅密寺）",
+    "name_kana": "さっぽろだいぶつ（こんぴらみつじ）",
+    "category": "bkyu",
+    "prefecture": "北海道",
+    "city": "札幌市西区",
+    "address": "〒063-0051 北海道札幌市西区宮の沢1条5丁目23-21",
+    "lat": 43.095691,
+    "lng": 141.264081,
+    "status": "現存",
+    "fee": "拝観無料（祈祷・供養等は別途）",
+    "hours": "平日9:00〜16:00（最終受付15:30）／要事前確認",
+    "official_url": "https://www.sapporodaibutu.com/",
+    "reference_urls": [
+      "https://www.sapporodaibutu.com/sapporodaibutu",
+      "https://www.sapporodaibutu.com/access",
+      "https://hotokami.jp/area/hokkaido/Htktk/Htktmty/Dagyp/33738/",
+      "https://omairi.club/spots/84714"
+    ],
+    "summary": "高野山真言宗・金毘羅密寺（札幌市西区宮の沢）の本堂内に祀られる、木造の文殊大菩薩坐像。寺は「札幌大仏」の通称で知られ、この文殊像は木仏としては日本最大級とされる。昭和63年（1988年）の原型仏制作から数えて約16年、北海道十三仏霊場の本尊として奈良・東大寺の大仏造立にならった工法で彫り上げられ、平成15年（2003年）に開眼供養が営まれた。屋外の磨崖仏や巨大ブロンズ像とは異なり、近代的な建物の内部に巨大木仏が静かに鎮座する造形が独特で、観光名所というより市民の祈りの場・札幌七福神めぐりの一拠点として機能している。",
+    "highlights": [
+      "近代的な寺院建築の内部に屹立する、木造としては日本最大級の文殊大菩薩坐像",
+      "東大寺大仏の造立法にならい約16年かけて彫り上げられた制作背景",
+      "北海道十三仏霊場・札幌七福神めぐりの巡拝拠点という信仰上の位置づけ"
+    ],
+    "from_kameyama": "亀山市からは新千歳空港経由で空路が現実的。中部国際空港(セントレア)まで車・電車で約1.5時間、空路で新千歳へ約1時間40分、新千歳から札幌市西区まで車・公共交通で約1時間20分（合計半日程度）。",
+    "name_en": "Sapporo Daibutsu (Konpira-mitsuji Temple)",
+    "prefecture_en": "Hokkaido",
+    "city_en": "Nishi Ward, Sapporo",
+    "summary_en": "Hidden inside an unassuming modern building in the Miyanosawa district of Sapporo's Nishi Ward sits one of Japan's largest wooden Buddhas — and almost nobody outside Hokkaido knows it is there. Officially the principal image of Konpira-mitsuji, a Koyasan Shingon temple whose own main deity is the syncretic god Konpira Daigongen, the so-called \"Sapporo Great Buddha\" is in fact a colossal seated statue of Manjushri, the bodhisattva of wisdom. It was carved over roughly sixteen years, beginning from an original model in 1988 and consecrated in 2003, using methods consciously modeled on the construction of the Great Buddha of Todai-ji in Nara. What makes it strange is precisely what makes it ordinary as Buddhist practice: rather than the open-air colossi that dominate Japan's roadside-attraction circuit, this giant was built to be permanently enshrined indoors, protected from Hokkaido's snow. Step through the doors and a towering wooden figure fills the hall in near silence. It is less a tourist spectacle than a working place of prayer — a stop on the Hokkaido Thirteen Buddhas pilgrimage and the Sapporo Seven Lucky Gods circuit — which is exactly why encountering it feels so unexpected.",
+    "highlights_en": [
+      "One of Japan's largest wooden Buddhas — a giant seated Manjushri — standing inside an ordinary-looking modern building rather than out in the open",
+      "Carved over roughly sixteen years using methods modeled on the construction of Nara's Todai-ji Great Buddha",
+      "A genuine pilgrimage site on the Hokkaido Thirteen Buddhas and Sapporo Seven Lucky Gods circuits, not a manufactured attraction"
+    ]
+  },
+  {
+    "id": "spot-228",
+    "name": "恐山菩提寺",
+    "name_kana": "おそれざんぼだいじ",
+    "category": "folk",
+    "prefecture": "青森県",
+    "city": "むつ市",
+    "address": "〒035-0021 青森県むつ市田名部字宇曽利山3-2",
+    "lat": 41.327283,
+    "lng": 141.090204,
+    "status": "現存",
+    "fee": "入山料500円（小中学生200円）",
+    "hours": "5月1日〜10月31日 6:00〜18:00（入山受付16:30まで）、11〜4月は閉山",
+    "official_url": "https://aomori-tourism.com/spot/detail_47.html",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E6%81%90%E5%B1%B1",
+      "https://www.city.mutsu.lg.jp/bunka/spot/reijyouosorezann.html",
+      "https://aomori-tourism.com/spot/detail_47.html"
+    ],
+    "summary": "下北半島の活火山・恐山の火口湖（宇曽利山湖）畔に建つ曹洞宗の霊場寺院。伝承では貞観4年（862年）に天台僧・円仁（慈覚大師）が開いたとされ、現在は本尊に延命地蔵尊を祀る。硫黄を噴く荒涼とした岩肌が広がる境内は古来「賽の河原」「地獄」「極楽浜」になぞらえられ、死者供養と他界観の民俗を凝縮した日本三大霊場の一つとして知られる。境内には湧出する温泉小屋もあり、参拝者は無料で入浴できる。例大祭・秋詣りの折にはイタコによる口寄せが行われることでも有名で、死者と生者の境を意識させる独特の宗教空間を今に伝えている。",
+    "highlights": [
+      "硫黄を噴く白い火山地形が一面に広がる「賽の河原」「極楽浜」の異界的景観",
+      "風車・小石を積む供養の風習が境内のいたるところに見られる死者供養の民俗",
+      "例大祭・秋詣りに行われるイタコの口寄せという口承文化"
+    ],
+    "from_kameyama": "鉄道＋バスで片道約9〜10時間（新幹線で八戸・新青森乗継→大湊線下北駅→恐山行バス約40分）。現実的には飛行機（中部国際空港→三沢/青森空港）利用が一般的。",
+    "name_en": "Osorezan Bodaiji Temple",
+    "prefecture_en": "Aomori Prefecture",
+    "city_en": "Mutsu City",
+    "summary_en": "Deep on the Shimokita Peninsula, in the crater of an active volcano, sits one of Japan's three great sacred grounds — a place that has been understood for over a thousand years as the literal border between this world and the next. Osorezan Bodaiji, a Soto Zen temple founded by tradition in the year 862, stands amid a moonscape of hissing sulphur vents, bleached rock, and a milky-green crater lake. The terrain did the theology for the believers: the rocky flats became Sai-no-Kawara, the children's limbo of Buddhist lore; the pale shore of Lake Usori became Gokuraku-hama, Paradise Beach. Pilgrims still climb here to mourn the dead, stacking small stones and planting pinwheels that spin endlessly in the volcanic wind — offerings for children who died too young. During the summer festival and the autumn pilgrimage, blind female mediums called itako gather to perform kuchiyose, channelling the voices of the deceased for the living who line up to speak one last time with a lost parent or child. There are free hot-spring huts on the grounds where the faithful purify themselves. It is not a horror attraction and should never be treated as one; it is a working landscape of grief, where Japan's folk cosmology of the otherworld is rendered, uncannily, in real geology.",
+    "highlights_en": [
+      "A vast white volcanic moonscape of sulphur vents read for centuries as Sai-no-Kawara and Paradise Beach — the otherworld rendered in real terrain",
+      "Stacked stones and countless spinning pinwheels everywhere, offerings for children who died young: a living folk practice of memorializing the dead",
+      "The itako — blind female mediums who channel the dead during the festivals — preserving one of Japan's most striking oral-religious traditions"
+    ]
+  },
+  {
+    "id": "spot-229",
+    "name": "昭和大仏（青龍寺）",
+    "name_kana": "しょうわだいぶつ（せいりゅうじ）",
+    "category": "bkyu",
+    "prefecture": "青森県",
+    "city": "青森市",
+    "address": "〒030-0935 青森県青森市大字桑原字山崎45",
+    "lat": 40.821944,
+    "lng": 140.818333,
+    "status": "現存",
+    "fee": "大人（大学生以上）400円、小人（小学生以上）200円（15名以上団体割引あり）",
+    "hours": "4〜10月 8:30〜17:00／11〜3月 9:00〜16:00（年中無休）",
+    "official_url": "http://showa-daibutu.com/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E9%9D%92%E9%BE%8D%E5%AF%BA_(%E9%9D%92%E6%A3%AE%E5%B8%82)",
+      "https://aomori-tourism.com/spot/detail_11.html",
+      "https://www.atca.info/detail.html?oid=187"
+    ],
+    "summary": "高野山真言宗・青龍寺の境内にそびえる青銅製の大日如来坐像で、1984年（昭和59年）の建立。仏体のみで21.35メートル、台座を含めると約27メートルに達し、青銅坐像としては国内最大とされる。鎌倉・奈良の大仏を超える高さながら知名度は控えめで、緑青を帯びた巨大な座仏が青森市郊外の山林を背に静かに鎮座する。境内には青森ヒバを用いた高さ39メートルの五重塔や金堂も建ち、現代の大規模仏教造営として戦後日本の信仰と物量の感覚を伝える。亀山市からは遠隔だが、東北の巨大仏を代表する一基。",
+    "highlights": [
+      "青銅坐像で国内最大、仏体だけで21.35メートルという圧倒的スケール",
+      "緑青に覆われた巨躯が山林を背景に座す、人物との対比で実感できる大きさ",
+      "高さ39メートルの五重塔と並び立つ、戦後造営の大規模伽藍の景観"
+    ],
+    "from_kameyama": "公共交通で約8〜9時間（新幹線で新青森へ→青森駅からバス）。現実的には航空機（中部国際→青森）＋路線バス利用が早い。日帰り圏外で遠征前提。",
+    "name_en": "Shōwa Daibutsu (Seiryū-ji Temple)",
+    "prefecture_en": "Aomori Prefecture",
+    "city_en": "Aomori City",
+    "summary_en": "On a wooded hillside on the outskirts of Aomori City sits a colossal bronze Buddha that almost nobody outside the region has heard of — and yet it is, by the numbers, the largest bronze seated Buddha in all of Japan. The Shōwa Daibutsu, completed in 1984 at the Kōyasan Shingon temple of Seiryū-ji, depicts Dainichi Nyorai, the cosmic Buddha at the center of esoteric Buddhism. The figure alone rises 21.35 meters; with its pedestal it reaches some 27 meters, towering well above the famous Great Buddhas of Kamakura and Nara. What makes it quietly strange is the mismatch between scale and fame: this is a record-breaking statue, cast in traditional bronze and already weathered to a deep verdigris green, standing against a backdrop of northern forest with almost no crowds. Beside it rises a 39-meter five-story pagoda built entirely of Aomori hinoki cypress, tall enough to be seen from passing trains. It is less a tourist spectacle than a piece of postwar Japan's appetite for monumental faith, expressed in metal and left to oxidize in the cold northern air.",
+    "highlights_en": [
+      "Japan's largest bronze seated Buddha — 21.35 meters for the figure alone, roughly 27 meters with the pedestal",
+      "A verdigris-green colossus seated against a forested hillside; the surrounding stone figures and visitors reveal the true scale",
+      "Paired with a 39-meter five-story pagoda of Aomori hinoki cypress, forming a large postwar temple complex"
+    ]
+  },
+  {
+    "id": "spot-230",
+    "name": "続石",
+    "name_kana": "つづきいし",
+    "category": "mystery",
+    "prefecture": "岩手県",
+    "city": "遠野市",
+    "address": "〒028-0533 岩手県遠野市綾織町上綾織6地割",
+    "lat": 39.337457,
+    "lng": 141.448365,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "見学自由（日中推奨）",
+    "official_url": "https://tonojikan.jp/tourism/tsuzuki-ishi/",
+    "reference_urls": [
+      "https://tonojikan.jp/tourism/tsuzuki-ishi/",
+      "https://jp.neft.asia/archives/8070",
+      "https://4travel.jp/dm_shisetsu/10009400"
+    ],
+    "summary": "遠野市綾織の山中にある巨石遺構で、二つ並んだ台石の上に幅約7メートル・奥行き約5メートル・厚さ約2メートルとされる巨大な笠石が水平に載り、その下を鳥居のように人が通り抜けられる。笠石は片側の台石にしか接していないように見えるという独特の不安定な造形で知られ、遠野市指定天然記念物に指定されている。柳田國男『遠野物語』第91話には山神が遊ぶ場としての続石が、『遠野物語拾遺』第11話には武蔵坊弁慶が笠石を積んだという伝説とともにドルメン（支石墓）に似た構造であることが記されている。脇には巨岩を載せられるのを嫌って泣いたと伝わる「泣き石」が立ち、磐座（いわくら）信仰と巨石伝承が重なる場として位置づけられている。亀山市からは遠方だが、遠野物語の世界観を体感できる代表的な遺産のひとつ。",
+    "highlights": [
+      "二つの台石に載った巨大な笠石が鳥居状に人を通す、磐座そのものの異形",
+      "笠石が片側の台石にしか接していないように見える不安定で印象的な造形",
+      "脇に立つ「泣き石」と弁慶伝説・ドルメン説が重なる民俗的厚み"
+    ],
+    "from_kameyama": "車＋新幹線で片道約8〜9時間（亀山→名古屋→東北新幹線新花巻→釜石線遠野駅→車で約15分）。日帰りは非現実的で1泊以上推奨。",
+    "name_en": "Tsuzuki-ishi (The Continuing Stones)",
+    "prefecture_en": "Iwate Prefecture",
+    "city_en": "Tono City",
+    "summary_en": "Deep in the wooded hills of Ayaori in Tono City sits a megalith that seems to defy the laws of balance: a colossal capstone—roughly 7 meters wide, 5 deep, and 2 thick—laid horizontally across two upright base stones, with a gap beneath wide enough for an adult to walk through, as if passing under a torii gate. Strikingly, the capstone appears to rest on only one of its two supports, an off-kilter geometry that has unsettled and fascinated visitors for over a century. Tsuzuki-ishi is a city-designated Natural Monument and one of the most famous sites in Yanagita Kunio's 1910 folklore classic \"Tono Monogatari,\" where Tale 91 tells of a falconer killed by the curse of a mountain deity he disturbed here. A supplementary tale ascribes the construction to the warrior-monk Benkei and notes the structure's resemblance to a dolmen. Beside it stands the \"weeping stone,\" said to have wept at the prospect of being crushed beneath the capstone forever. It is a place where megalith worship (iwakura), oral legend, and ambiguous archaeology converge in a single uncanny silhouette in the forest.",
+    "highlights_en": [
+      "A massive capstone bridging two base stones to form a passable torii-like gap — an iwakura sacred rock in its most arresting form",
+      "The capstone appears to touch only one of its supports, an unstable, off-balance geometry that photographs rarely convey",
+      "Layered folklore: the adjacent 'weeping stone,' the Benkei legend, and the dolmen comparison from Tono Monogatari"
+    ]
+  },
+  {
+    "id": "spot-231",
+    "name": "盛岡大仏（松園寺）",
+    "name_kana": "もりおかだいぶつ（しょうおんじ）",
+    "category": "bkyu",
+    "prefecture": "岩手県",
+    "city": "盛岡市",
+    "address": "〒020-0107 岩手県盛岡市上米内字松木平78-57",
+    "lat": 39.747779,
+    "lng": 141.183277,
+    "status": "現存",
+    "fee": "境内自由（拝観無料）・御朱印300円",
+    "hours": "境内随時（積雪期は参道注意）",
+    "official_url": "https://syouonnzi.com/",
+    "reference_urls": [
+      "https://syouonnzi.com/moriokadaibutu.html",
+      "https://hotokami.jp/area/iwate/Htrtk/Htrtktk/Dmasp/36476/",
+      "http://home.384.jp/activekhp/sub1_tab/sub1_d1_d10.html"
+    ],
+    "summary": "盛岡市東郊の丘陵に立つ曹洞宗・松園寺の境内に鎮座する青銅製の大仏。像高は約17メートルにおよび、台座を含めた重量は約170トン、奈良の大仏に匹敵する規模をもつ。1999年（平成11年）7月に開眼供養が営まれた比較的新しい巨像で、平成期に篤志によって建立された現代の大仏として知られる。寺は1987年（昭和62年）落慶の新しい寺院で、境内には宮沢賢治ゆかりの詩碑を含む約500基の石碑群が点在し、巨大な仏像と石碑の森が同居する独特の景観をなす。古都の名刹とは異なる「平成生まれの大仏」という出自そのものが、この場所の珍しさを形づくっている。",
+    "highlights": [
+      "像高約17メートル・重量約170トンの青銅大仏が住宅地に近い丘陵へ忽然と立つスケール感",
+      "1987年開山・1999年開眼という、由緒ではなく現代の篤志で生まれた「新しい大仏」という出自",
+      "境内に約500基の石碑が林立し、宮沢賢治の詩碑も含む巨像と碑林の同居"
+    ],
+    "from_kameyama": "鉄道で約6時間（亀山→名古屋→東北新幹線で盛岡、盛岡駅からバス・タクシーで上米内方面へ約20〜30分）。車なら高速利用で約9時間と遠隔地。",
+    "name_en": "Morioka Daibutsu (Shōon-ji)",
+    "prefecture_en": "Iwate Prefecture",
+    "city_en": "Morioka",
+    "summary_en": "On a wooded hillside on the eastern edge of Morioka stands something most cities save for their ancient capitals: a bronze Great Buddha some 17 meters tall, weighing roughly 170 tons with its granite pedestal — large enough that the temple compares it to the famous Daibutsu of Nara. But this colossus has no medieval pedigree. Shōon-ji, the Sōtō Zen temple that holds it, was only founded in 1987, and the Buddha itself was consecrated in July 1999, cast and installed over about two months with the help of twelve Korean engineers at a cost of roughly 700 million yen. It is, in other words, a Great Buddha born in the Heisei era — a modern act of private devotion rather than a relic of deep history. Around its feet sprawls a second surprise: a forest of some 500 stone monuments, including a poetry stele tied to the beloved Iwate poet Kenji Miyazawa. The effect is uncanny in the gentlest way — a Nara-scale icon rising not over an old capital but over a quiet residential hillside, where a brand-new colossus and a thicket of memorial stones share the same patch of forest.",
+    "highlights_en": [
+      "A bronze Great Buddha roughly 17 meters tall and 170 tons appearing abruptly on a hillside near a residential district",
+      "A 'modern Daibutsu' — founded 1987, consecrated 1999 — born of contemporary private patronage rather than ancient lineage",
+      "Some 500 stone monuments crowding the grounds, including a Kenji Miyazawa poetry stele, the colossus and the stele-forest coexisting"
+    ]
+  },
+  {
+    "id": "spot-232",
+    "name": "高柴デコ屋敷道六館",
+    "name_kana": "たかしばでこやしきどうろくかん",
+    "category": "folk",
+    "prefecture": "福島県",
+    "city": "郡山市",
+    "address": "〒963-0922 福島県郡山市西田町高柴館野169",
+    "lat": 37.460611,
+    "lng": 140.456444,
+    "status": "現存",
+    "fee": "デコ屋敷集落内の見学・絵付け体験は店舗ごと／道六館は入館400円（無人・メダル式）",
+    "hours": "おおむね9:00〜17:00（各工房・道六館とも。要事前確認）",
+    "official_url": "https://www.dekoyashiki.com/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B3%E5%B1%8B%E6%95%B7",
+      "https://www.kanko-koriyama.gr.jp/tourism/detail3-0-66.html",
+      "https://miharukoma.com/experience/248",
+      "https://www.nippon.com/ja/guide-to-japan/gu900146/"
+    ],
+    "summary": "郡山市西田町高柴に約300年続く、三春駒（高柴木馬）と三春張子人形の発祥地として知られる工人集落。旧三春藩士の橋本一族が帰農して縁起物の人形づくりを始めたと伝わり、現在も彦治民芸・橋本広司民芸・本家恵比寿屋・本家大黒屋の四軒が木型に和紙を張り重ねる張子や木彫りの三春駒を制作・販売し、絵付け体験もできる。2001年には環境省「かおり風景100選」に選定された。その一角に建つのが「道六館」で、道祖神信仰・性器崇拝にまつわる玩具や奉納物を集めた無人の小さな性信仰資料館。多産・安産・夫婦円満を願う民間信仰の物的記録として、張子の里に独特の陰影を添えている。",
+    "highlights": [
+      "黒地に赤・金・青で彩色した木彫りの三春駒＝日本初の年賀切手にも採用された郷土玩具の発祥地",
+      "四軒の工房で今も続く張子・だるま・三春駒づくりと絵付け体験",
+      "集落の一角の無人資料館「道六館」が道祖神・性信仰の奉納玩具を展示する稀少さ"
+    ],
+    "from_kameyama": "車で東名阪・新東名・東北道経由で約6時間40分（約560km）。新幹線なら名古屋→東京→郡山で約3時間40分＋郡山駅から車で約25分。日帰りは現実的でなく一泊前提。",
+    "name_en": "Takashiba Dekoyashiki & Dorokukan",
+    "prefecture_en": "Fukushima Prefecture",
+    "city_en": "Koriyama City",
+    "summary_en": "Hidden in the hills of Koriyama, Fukushima, Takashiba Dekoyashiki is a 300-year-old village of doll-makers — the birthplace of the Miharu-goma, a stubby black wooden horse painted in fierce red, gold, and blue, and of Miharu harimono, papier-mâché figures shaped over wooden molds. The craft was begun, tradition holds, by a samurai family who laid down their swords to farm and make auspicious toys, and four workshops still carry it on today, offering paint-your-own sessions amid thatched-roof houses and a horse-shaped shrine. The Miharu-goma was even chosen for Japan's very first New Year postage stamp. But tucked into one corner of this wholesome folk village is something stranger: the Dorokukan, a tiny unmanned museum of fertility worship. Behind a token-operated door sit votive objects shaped like phalluses and vulvae, offerings made in prayer for childbirth, fertility, and marital harmony — relics not of titillation but of dōsojin roadside-deity belief, the earthy faith in the reproduction of life. The juxtaposition is the whole point: festive 'sacred' toys for sale out front, and the oldest of folk prayers enshrined in a shed out back.",
+    "highlights_en": [
+      "The birthplace of the Miharu-goma — a carved black horse in red, gold and blue, chosen for Japan's first-ever New Year postage stamp",
+      "Four working workshops still making papier-mâché Daruma, masks and wooden horses, with paint-your-own experiences",
+      "The Dorokukan: a rare, unmanned fertility-belief museum of dōsojin votive objects tucked into the folk-craft village"
+    ]
+  },
+  {
+    "id": "spot-233",
+    "name": "華厳の滝",
+    "name_kana": "けごんのたき",
+    "category": "mystery",
+    "prefecture": "栃木県",
+    "city": "日光市",
+    "address": "〒321-1661 栃木県日光市中宮祠2479-2",
+    "lat": 36.737917,
+    "lng": 139.501972,
+    "status": "現存",
+    "fee": "観瀑（無料）。華厳滝エレベーターは大人570円・小学生340円・未就学児無料",
+    "hours": "華厳滝エレベーター 8:00〜17:00（3〜11月）／9:00〜16:30（12〜2月）。観瀑台は時間外も無料区域あり",
+    "official_url": "https://www.kegon.jp/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E8%8F%AF%E5%8E%B3%E6%BB%9D",
+      "https://www.kegon.jp/info/",
+      "https://ja.wikipedia.org/wiki/%E8%97%A4%E6%9D%91%E6%93%8D",
+      "https://www.nikko-kankou.org/houjin/spot/1424"
+    ],
+    "summary": "栃木県日光市、中禅寺湖の水が落差97メートルを一気に落ちる滝で、袋田の滝・那智滝とともに「日本三名瀑」に数えられる。中禅寺湖は男体山の噴出物が谷を堰き止めて生まれた堰止湖で、その水が崩れやすい岩盤を浸食して華厳渓谷と滝を形づくった。景勝地としての名声に加え、1903年（明治36年）に一高生・藤村操が滝上の樫の木に遺書「巌頭之感」を刻んで投身した事件で広く知られ、近代日本の煩悶青年・哲学的自死の象徴として文学史・思想史に刻まれた。岩盤を地下100メートル下る観瀑エレベーターから、滝壺をほぼ正面に望むことができる。",
+    "highlights": [
+      "落差97メートルを一条で落下する、日本三名瀑の一つに数えられる直瀑",
+      "岩盤を地下100メートル貫くエレベーターで滝壺正面の観瀑台へ降りられる構造",
+      "1903年の藤村操「巌頭之感」投身に始まる、近代日本の哲学的自死を象徴する場所性"
+    ],
+    "from_kameyama": "亀山市から車で約4時間30分（新名神・東名・北関東道経由でいろは坂を上る）。または鉄道で名古屋→東京→日光（東武）→東武バスで中禅寺湖畔、片道5〜6時間。",
+    "name_en": "Kegon Falls",
+    "prefecture_en": "Tochigi Prefecture",
+    "city_en": "Nikko City",
+    "summary_en": "In the highlands above Nikko, the waters of Lake Chuzenji pour off a 97-meter cliff in a single white column — Kegon Falls, one of the \"Three Great Waterfalls of Japan\" alongside Fukuroda and Nachi. The geology alone is remarkable: Lake Chuzenji exists only because an eruption of Mount Nantai dammed a valley, and the lake's overflow has spent millennia carving the friable rock into this gorge. But Kegon is famous for a darker reason. On May 22, 1903, a brilliant young student named Misao Fujimura carved a final message — \"Gantou no Kan,\" Thoughts from the Cliff's Edge — into an oak above the falls and threw himself in, declaring that \"the true nature of all existence\" could be summed up in a single word: incomprehensible. His death detonated through Meiji society and triggered a wave of copycat plunges, fixing Kegon in the national memory as the place where modern Japan's philosophical despair found its symbol. Today a vertigo-inducing elevator drops a full 100 meters through the bedrock to a viewing platform that faces the plunge pool head-on. We treat this history as intellectual and social record, not as ghost-story spectacle.",
+    "highlights_en": [
+      "A 97-meter single-drop waterfall, one of Japan's three most celebrated falls, fed by a volcanic dammed lake",
+      "An elevator bored 100 meters straight down through bedrock delivers you to a platform directly facing the plunge pool",
+      "The site where Misao Fujimura's 1903 plunge and his note 'Gantou no Kan' made Kegon a lasting symbol of modern Japan's philosophical despair"
+    ]
+  },
+  {
+    "id": "spot-234",
+    "name": "金山神社（かなまら様）",
+    "name_kana": "かなやまじんじゃ",
+    "category": "folk",
+    "prefecture": "神奈川県",
+    "city": "川崎市川崎区",
+    "address": "〒210-0802 神奈川県川崎市川崎区大師駅前2-13-16（若宮八幡宮境内）",
+    "lat": 35.5346,
+    "lng": 139.7249,
+    "status": "現存",
+    "fee": "無料（境内自由）",
+    "hours": "境内自由（社務所対応は日中）",
+    "official_url": "http://www.kanamara-jinja.com/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E9%87%91%E5%B1%B1%E7%A5%9E%E7%A4%BE_(%E5%B7%9D%E5%B4%8E%E5%B8%82)",
+      "https://www.kanagawa-kankou.or.jp/spot/1234",
+      "https://www.kanagawa-jinja.or.jp/shrine/1201005-000/1201005-001/"
+    ],
+    "summary": "川崎大師にほど近い若宮八幡宮の境内社で、鉱山・鍛冶の神である金山比古神・金山比売神を祀る。御神体に金属製の男根を据えることから俗に「かなまら様（金魔羅様）」と呼ばれ、子授け・夫婦和合・安産・下半身の病（とりわけ性病）平癒の守護神として信仰されてきた。両神がイザナミの火傷を看護したという神話に由来し、男根信仰と医療・生殖の祈りが結びついた稀有な性器信仰の社である。毎年4月第1日曜の「かなまら祭」では木製・鉄製・ピンク色の三基の男根神輿が市中を練り歩き、近年は国内外から多くの参拝者を集める奇祭として広く知られる。",
+    "highlights": [
+      "御神体が金属製の男根という直截な性器信仰のかたち",
+      "かなまら祭で担がれる木製・鉄製・ピンク（エリザベス）の三基の男根神輿",
+      "イザナミの火傷看護神話に基づく安産・性病平癒という医療的祈りとの結合"
+    ],
+    "from_kameyama": "鉄道で片道約3時間（新幹線で名古屋→品川、京急で川崎→京急大師線「川崎大師駅」下車徒歩約3分）。",
+    "name_en": "Kanayama Shrine (Kanamara-sama)",
+    "prefecture_en": "Kanagawa Prefecture",
+    "city_en": "Kawasaki-ku, Kawasaki City",
+    "summary_en": "Tucked inside the precincts of Wakamiya Hachimangu, a short walk from the great temple of Kawasaki Daishi, sits one of Japan's most candid surviving examples of phallic worship. Kanayama Shrine enshrines Kanayama-hiko and Kanayama-hime, the gods of mining and the forge, and its object of worship is a metal phallus — earning it the popular name Kanamara-sama. The theology is older and more tender than the festival's reputation suggests: in myth, these two deities nursed the goddess Izanami after she was burned giving birth to the fire god, and so they became protectors of childbirth, fertility, marital harmony, and ailments of the lower body, including venereal disease. In the Edo period, courtesans from the nearby post town are said to have prayed here for protection against illness — a thread that survives in today's rite. Once a year, on the first Sunday of April, that quiet devotion explodes into the Kanamara Matsuri, when three phallus mikoshi — a wooden one, an iron one donated by a shipbuilder, and the unmistakable hot-pink \"Elizabeth\" carried by a cross-dressing club — are paraded through the streets beneath the cherry blossoms. It draws crowds from around the world, and in recent decades the festival has folded in messages of sexual health and gender diversity. Strange, yes — but it is a working shrine, and the laughter is meant to sit alongside genuine prayer, not replace it.",
+    "highlights_en": [
+      "A metal phallus as the literal object of worship — one of Japan's most direct surviving forms of phallic religion",
+      "Three phallus mikoshi paraded at the Kanamara Matsuri: a wooden one, an iron one, and the famous pink 'Elizabeth'",
+      "Rooted in the myth of these gods nursing Izanami's burns, fusing phallic worship with earnest prayers for fertility, safe birth, and recovery from disease"
+    ]
+  },
+  {
+    "id": "spot-235",
+    "name": "鹿野大仏（寳光寺）",
+    "name_kana": "ろくやだいぶつ（ほうこうじ）",
+    "category": "bkyu",
+    "prefecture": "東京都",
+    "city": "西多摩郡日の出町",
+    "address": "〒190-0182 東京都西多摩郡日の出町平井3392地先",
+    "lat": 35.747,
+    "lng": 139.262833,
+    "status": "現存",
+    "fee": "大人（中学生以上）300円、小人（小学生）100円",
+    "hours": "9:00〜16:00（火曜休）",
+    "official_url": "https://entakuzan-houkouji.or.jp/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E9%B9%BF%E9%87%8E%E5%A4%A7%E4%BB%8F",
+      "https://entakuzan-houkouji.or.jp/",
+      "https://www.jalan.net/kankou/spt_guide000000210405/"
+    ],
+    "summary": "東京都日の出町の曹洞宗・寳光寺が、裏山の鹿野山中腹に2018年に完成させた銅造釈迦如来坐像。像高約12メートル、台座を含めると約18メートルで、坐仏としては国内有数の大きさとされる。鎌倉大仏（約11.3メートル）を上回る像高を持つ「平成の大仏」として、完成直後から注目を集めた。歴代住職の発願を世代を超えて受け継ぎ、山形の鋳造業者と翠雲堂が手がけた新しい巨大仏で、伝統的な大仏造立が現代にも継続していることを示す事例である。亀山市からは中央道経由で日帰り遠征も可能な圏内。",
+    "highlights": [
+      "2018年完成の「平成の大仏」、像高12メートル・総高18メートルの新造巨大仏",
+      "鎌倉大仏を上回る像高を持つ金色の銅造釈迦如来坐像",
+      "山中腹に忽然と現れる巨像と、麓の寺・参道からの登りのコントラスト"
+    ],
+    "from_kameyama": "車で約5〜6時間（新名神・東名・圏央道経由）。日帰り強行は可能だが余裕を持つなら一泊推奨。",
+    "name_en": "Rokuya Daibutsu (Hōkō-ji Temple)",
+    "prefecture_en": "Tokyo",
+    "city_en": "Hinode Town, Nishitama District",
+    "summary_en": "Most of Japan's great Buddhas are centuries old — relics of medieval faith or ancient state power. This one was finished in 2018. On the slope of Mount Rokuya behind Hōkō-ji, a Sōtō Zen temple in the mountain town of Hinode just west of central Tokyo, sits a gilded bronze Shakyamuni Buddha about 12 meters tall, roughly 18 meters with its pedestal — tall enough to edge out the famous Great Buddha of Kamakura. It is, in effect, a 21st-century great Buddha, and the strangeness lies in encountering something so monumental and so new at the same time, materializing on a quiet wooded hillside reached by climbing a kilometer of mountain path from the temple below. The project was a vow held across generations: the 32nd abbot pledged to build it, died in 1995, and his successors finally realized it after the 2011 earthquake, using a Yamagata foundry and traditional cast-bronze technique. It is proof that Japan's tradition of building colossal Buddhas never really ended — it just went quiet for a while.",
+    "highlights_en": [
+      "A \"Heisei-era great Buddha\" completed in 2018 — 12 meters for the figure, 18 meters with the pedestal",
+      "A gilded cast-bronze seated Shakyamuni whose figure height exceeds the Great Buddha of Kamakura",
+      "A colossus appearing suddenly on a mountainside, reached by climbing up from the temple and approach path below"
+    ]
+  },
+  {
+    "id": "spot-236",
+    "name": "山寺大仏（立石寺 奥之院・大仏殿）",
+    "name_kana": "やまでらだいぶつ",
+    "category": "folk",
+    "prefecture": "山形県",
+    "city": "山形市",
+    "address": "〒999-3301 山形県山形市山寺4456-1",
+    "lat": 38.315528,
+    "lng": 140.434694,
+    "status": "現存",
+    "fee": "山門（登山口）入山料：大人500円・小人200円（令和7年4月改定）",
+    "hours": "8:00〜16:00（12〜3月は8:30〜15:00）",
+    "official_url": "https://rissyakuji.jp/",
+    "reference_urls": [
+      "https://rissyakuji.jp/",
+      "https://www.yamaderarisyakuji.info/html/tatemono/okunoin.html",
+      "https://yamagatakanko.com/attractions/detail_2352.html"
+    ],
+    "summary": "宝珠山立石寺（通称・山寺）の最奥部、奥之院（如法堂）に隣接する大仏殿に安置される像高約5メートルの金色の阿弥陀如来坐像。立石寺は貞観2年（860年）に慈覚大師円仁が開いた天台宗の古刹で、松尾芭蕉が『おくのほそ道』で「閑さや岩にしみ入る蝉の声」を詠んだ地として名高い。登山口から奇岩怪石の山腹を縫う約1015段の石段を登り切った先に大仏殿があり、堂からはみ出さんばかりの大きさの金色の阿弥陀如来が参拝者を迎える。隣の如法堂は円仁が中国から持ち帰ったと伝わる釈迦如来・多宝如来を本尊とし、正面に日本三大灯籠のひとつとされる金灯籠が立つ。1015段を登り切らないと拝めない「天空の大仏」という所在の特異さが、信仰登山の到達点として強い印象を与える。",
+    "highlights": [
+      "1015段の石段を登り切った最奥でしか拝めない像高約5メートルの金色阿弥陀如来",
+      "堂からはみ出さんばかりの巨像と、隣接する奥之院（如法堂）・金灯籠の荘厳な一画",
+      "慈覚大師円仁開山・芭蕉の聖地という信仰登山の到達点としての文脈"
+    ],
+    "from_kameyama": "車＋新幹線で片道約6〜7時間（亀山→名古屋→山形新幹線山形駅→仙山線山寺駅→徒歩7分で登山口、そこから石段約1時間）。日帰りは厳しく1泊推奨。",
+    "name_en": "Yamadera Daibutsu (Risshaku-ji Okunoin Daibutsuden)",
+    "prefecture_en": "Yamagata Prefecture",
+    "city_en": "Yamagata City",
+    "summary_en": "To reach this Buddha, you must earn it. At the very summit of Yamadera—the mountain temple of Risshaku-ji, founded in 860 by the great master Ennin—1,015 stone steps wind up through a forest of fantastically eroded crags. Climb them all, roughly an hour of breathless ascent, and you arrive at the Daibutsuden, where a golden seated Amida Buddha some 5 meters tall sits filling its hall almost to bursting. It is not Japan's largest Great Buddha, but it may be its most hard-won: a gleaming colossus installed where the mountain runs out of mountain. Beside it stands the Okunoin (Nyohodo), enshrining images of Shaka and Taho that Ennin is said to have carried back from Tang China, fronted by a bronze lantern ranked among Japan's three greatest. This is the place where Matsuo Basho, in 1689, heard the cicadas and wrote one of the most famous haiku ever composed—\"Stillness — sinking into the rocks, the cry of cicadas.\" Faith, asceticism, literature, and a glittering summit Buddha converge in a single rare landscape.",
+    "highlights_en": [
+      "A roughly 5-meter golden Amida Buddha visible only after climbing all 1,015 stone steps to the temple's innermost point",
+      "A colossus that nearly overflows its hall, beside the solemn Okunoin (Nyohodo) and one of Japan's three great bronze lanterns",
+      "Founded by Ennin and immortalized by Basho — the summit of a pilgrimage of ascending worship"
+    ]
+  },
+  {
+    "id": "spot-237",
+    "name": "越後胎内観音",
+    "name_kana": "えちごたいないかんのん",
+    "category": "folk",
+    "prefecture": "新潟県",
+    "city": "胎内市",
+    "address": "〒959-2807 新潟県胎内市下赤谷384-1",
+    "lat": 38.0612,
+    "lng": 139.4555,
+    "status": "現存",
+    "fee": "観音像参拝自由・帰林殿（童女石拝観）有料",
+    "hours": "概ね9:00〜16:00（帰林殿は冬季9:00〜15:00、12〜3月は火・金休の案内あり）",
+    "official_url": "https://tainai.info/recommend/tainaikannon/",
+    "reference_urls": [
+      "https://niigata-kankou.or.jp/spot/7283",
+      "https://www.thr.mlit.go.jp/yamagata/river/uetsu50/about/",
+      "https://japanmystery.com/niigata/tainai.html"
+    ],
+    "summary": "新潟県胎内市、鳥坂山を背に立つ総丈7.3メートル・重量4トンの青銅製観音像。1967年（昭和42年）8月28日の羽越大水害（羽越豪雨）の殉難者を弔い、災害復興と平和を祈念して1970年（昭和45年）8月28日に建立された。八葉の蓮華台に合掌して立つ姿が波の上に乗っているように見えることから「波乗り観音」とも呼ばれる。境内の帰林殿には、水害で犠牲になった子どもの姿が浮かぶと伝えられる「童女石」が安置され、災害の記憶を継承する民俗的な場として機能している。樽ヶ橋・道の駅胎内に近く、水害の慰霊と地域の祈りが重なる場所である。",
+    "highlights": [
+      "羽越大水害の殉難者慰霊として建立された総丈7.3メートルの青銅観音",
+      "蓮華台が波に乗るように見える「波乗り観音」の造形",
+      "水害で亡くなった子どもの顔が浮かぶと伝わる「童女石」を祀る帰林殿"
+    ],
+    "from_kameyama": "鉄道で約6〜7時間（亀山→名古屋→上越新幹線で新潟、羽越本線で中条駅、駅から車・タクシーで約10分）。車なら高速利用で約7時間と遠隔地。",
+    "name_en": "Echigo Tainai Kannon",
+    "prefecture_en": "Niigata Prefecture",
+    "city_en": "Tainai",
+    "summary_en": "Against the wooded flank of Mount Torisaka in Tainai City, a 7.3-meter bronze Kannon stands with palms pressed together atop a lotus throne — and the throne seems to ride on cresting waves, which earned the figure its local name, the 'Wave-Riding Kannon.' Its serenity is rooted in catastrophe. On 28 August 1967, the Uetsu Flood Disaster tore through the Kaetsu region of Niigata and neighboring Yamagata, killing and leaving missing well over a hundred people. Three years later, to the day, the statue was consecrated to console the dead, to pray for recovery, and to ask for future peace — its anniversary deliberately set on the day of the flood. Nearby, in the Kirin-den hall, sits the site's quietest and strangest object: the 'Maiden Stone,' a piece of rock in whose surface mourners say they can make out the faces of children lost to the water. It is less a ghost story than a community's grief pressed into stone — a place where the memory of a disaster, folk belief, and an act of public prayer all meet at the foot of a single bronze figure.",
+    "highlights_en": [
+      "A 7.3-meter bronze Kannon erected as a memorial to the victims of the 1967 Uetsu Flood Disaster",
+      "The 'Wave-Riding Kannon' design, its lotus pedestal seeming to ride atop the waves",
+      "The Kirin-den hall enshrining the 'Maiden Stone,' said to show the faces of children lost in the flood"
+    ]
+  },
+  {
+    "id": "spot-238",
+    "name": "白馬大仏",
+    "name_kana": "はくばだいぶつ",
+    "category": "bkyu",
+    "prefecture": "新潟県",
+    "city": "糸魚川市",
+    "address": "新潟県糸魚川市大字大所989-6",
+    "lat": 36.87458,
+    "lng": 137.87025,
+    "status": "現存（旧白馬観光ホテルは閉館・解体、大仏像は現存）",
+    "fee": "無料（拝観路は山中・通行状況は要確認）",
+    "hours": "屋外・常時（参道・周辺施設の管理状況により制限あり）",
+    "official_url": null,
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%A6%AC%E5%A4%A7%E4%BB%8F",
+      "https://www.week.co.jp/kankou/125392/",
+      "https://small-life.com/archives/10/12/3120.php"
+    ],
+    "summary": "新潟・長野県境に近い糸魚川市大所、姫川沿いの山腹に鎮座する高さ約23.5メートル（台座共）の白い坐像。宗教法人白馬大仏教会の管長で白馬観光ホテル社長でもあった金田義孝が建立し、1969年に開眼、1972年に入魂式が行われた。眼球と眉間の白毫に翡翠、唇に瑪瑙を用いた特異な造作で知られる。母体となった白馬観光ホテルや周辺の温泉施設は既に閉鎖・解体され、1995年の水害後に国道が大仏前から離れて付け替えられたこともあって訪れる人は大きく減った。それでも純白の大仏は今も山中に静かに座り続けている。",
+    "highlights": [
+      "深い山あいの斜面に突如現れる高さ約23.5mの純白の坐像という強い違和感",
+      "眼と白毫に翡翠、唇に瑪瑙を用いた手の込んだ素材使い",
+      "母体だった観光ホテル・温泉が消えても残り続ける『遺された大仏』という佇まい"
+    ],
+    "from_kameyama": "車で東名阪・新名神・北陸道経由、糸魚川IC方面から約4時間30分（約340km）。鉄道はJR大糸線「平岩駅」が最寄りだが本数が少なく、車利用が現実的。",
+    "name_en": "Hakuba Daibutsu (Hakuba Great Buddha)",
+    "prefecture_en": "Niigata Prefecture",
+    "city_en": "Itoigawa City",
+    "summary_en": "Drive the winding valley road along the Himekawa River toward the Niigata–Nagano border and a pure-white Buddha suddenly materializes on the green mountainside above you, 23.5 meters tall and utterly out of place. The Hakuba Daibutsu was raised in the late 1960s by Kaneda Yoshitaka — a man who was simultaneously the head priest of his own religious corporation and the president of the Hakuba Kanko Hotel — and consecrated in 1972. Its details are extravagant: the eyes and the white mark between the brows are carved from jade (a fitting touch in Itoigawa, Japan's famed jade country) and the lips are agate. It was built to draw guests to the hotel and its hot springs, faith and tourism fused into a single colossal figure. But the hotel has since closed and been demolished, a 1995 flood pushed the national highway away from the statue, and the surrounding spa buildings shut down one by one. The visitors drained away. What remains is the strangest and quietest thing of all: a giant white Buddha, abandoned by the resort that built it, still sitting alone on the mountain and watching over an empty valley.",
+    "highlights_en": [
+      "A 23.5-meter pure-white seated Buddha that appears with startling incongruity on a remote mountainside",
+      "Lavish materials — jade eyes and forehead mark, agate lips — echoing Itoigawa's identity as Japan's jade country",
+      "The melancholy of an 'abandoned tourism Buddha' that outlived the hotel and hot springs built around it"
+    ]
+  },
+  {
+    "id": "spot-239",
+    "name": "高岡大仏",
+    "name_kana": "たかおかだいぶつ",
+    "category": "folk",
+    "prefecture": "富山県",
+    "city": "高岡市",
+    "address": "〒933-0039 富山県高岡市大手町11-29（大佛寺）",
+    "lat": 36.745639,
+    "lng": 137.017194,
+    "status": "現存",
+    "fee": "拝観志納（台座回廊含め基本無料）",
+    "hours": "台座回廊 6:00〜18:00（無休）",
+    "official_url": "https://www.takaokadaibutsu.xyz/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%B2%A1%E5%A4%A7%E4%BB%8F",
+      "https://www.takaoka.or.jp/viewpoint/detail_3204.html",
+      "https://www.info-toyama.com/attractions/21108"
+    ],
+    "summary": "富山県高岡市の市街地、大佛寺の境内に鎮座する銅造阿弥陀如来坐像。奈良大仏・鎌倉大仏と並んで「日本三大仏」を称する一尊で、坐像の高さ7.43メートル、台座・光背を含めた全体高は約15.85メートル。源義勝の木造大仏に始まり、移転・焼失と再建を繰り返した末、明治の高岡大火（1900年）で焼失した木造大仏に代わって、銅器鋳造で名高い高岡の職人技を結集し、1907年から26年をかけ1933年に現在の銅像が完成した。台座内部には地獄絵を展示する回廊と、焼失を免れた旧木造大仏の頭部が安置される。歌人・与謝野晶子が「鎌倉大仏より一段と美男」と評したとも伝わる端正な相好で知られる。",
+    "highlights": [
+      "奈良・鎌倉と並ぶ「日本三大仏」を称する、坐高7.43mの銅造阿弥陀如来",
+      "銅器の町・高岡の鋳造技術を結集し26年をかけて完成した近代の大仏",
+      "台座内回廊の地獄絵と、明治の大火で焼失した旧木造大仏の頭部が見られる構造"
+    ],
+    "from_kameyama": "亀山市から車で約3時間（東海北陸道経由）。または鉄道で名古屋→（特急）富山→あいの風とやま鉄道で高岡、駅から徒歩約10分、片道3.5〜4時間。",
+    "name_en": "Takaoka Daibutsu (Great Buddha of Takaoka)",
+    "prefecture_en": "Toyama Prefecture",
+    "city_en": "Takaoka City",
+    "summary_en": "Most of Japan's giant Buddhas sit in temple precincts or on mountainsides; the Takaoka Daibutsu sits, almost casually, in the middle of a working city block. This bronze seated Amida — 7.43 meters in the figure alone, nearly 16 meters with its pedestal and halo — claims a place among the \"Three Great Buddhas of Japan\" beside Nara and Kamakura, though the identity of that third slot has been argued over for centuries. What earns Takaoka its claim is craft. Takaoka has been Japan's foremost copperware town since the Kaga domain nurtured its foundries, and when the city's wooden Great Buddha burned in the catastrophic fire of 1900 — the latest in a long chain of destructions stretching back to a wooden original of 1221 — the townspeople answered with metal. It took 26 years, from 1907 to 1933, to cast the serene figure that stands today, the third Buddha in the lineage. Climb into the corridor inside its pedestal and you find painted scenes of hell and, in a central chamber, the singed head of the previous wooden Buddha, preserved from the flames. The poet Akiko Yosano is said to have judged its face \"even more handsome than the Kamakura Buddha.\"",
+    "highlights_en": [
+      "A bronze Amida claiming a place among Japan's 'Three Great Buddhas' — 7.43 m seated — set incongruously in the middle of a city center",
+      "A monument to Takaoka's copper-casting craft, cast over 26 years after the wooden predecessor burned in the 1900 great fire",
+      "A pedestal corridor displaying hell paintings and preserving the scorched head of the earlier wooden Great Buddha"
+    ]
+  },
+  {
+    "id": "spot-240",
+    "name": "万治の石仏",
+    "name_kana": "まんじのせきぶつ",
+    "category": "folk",
+    "prefecture": "長野県",
+    "city": "諏訪郡下諏訪町",
+    "address": "〒393-0031 長野県諏訪郡下諏訪町東山田字石仏",
+    "lat": 36.082924,
+    "lng": 138.081947,
+    "status": "現存",
+    "fee": "無料（拝観自由）",
+    "hours": "拝観自由（屋外・終日）",
+    "official_url": "https://shimosuwaonsen.jp/tourism/466/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E4%B8%87%E6%B2%BB%E3%81%AE%E7%9F%B3%E4%BB%8F",
+      "https://shimosuwaonsen.jp/tourism/466/",
+      "https://www.nikkei.com/article/DGXZQOCC281MG0Y2A120C2000000/"
+    ],
+    "summary": "諏訪大社下社春宮の近く、砥川を渡った先に鎮座する江戸前期の石仏。巨大な安山岩の自然石をそのまま胴体とし、その上に小ぶりな仏頭を載せた極めて特異な姿で、胴体には阿弥陀如来の坐像と密教的な文様が浅く刻まれる。1660年（万治3年）の造立と伝わり、銘の年号から「万治の石仏」と呼ばれる。丸い巨石の量塊感とちょこんと載った頭部の不均衡が独特の存在感を生み、芸術家・岡本太郎が1974年に「こんなに面白いものは見たことがない」と絶賛したことで全国的に有名になった。下諏訪町指定有形文化財。願い事を唱えながら石仏の周りを回る独特の参拝作法も親しまれている。",
+    "highlights": [
+      "巨大な自然石の胴体に小さな仏頭を載せた、量塊と頭部の不均衡が生む異形のシルエット",
+      "胴体に浅く刻まれた阿弥陀如来坐像と卍・日月・雲などの密教的文様",
+      "願い事を唱えながら石仏の周囲を3周する独特の参拝作法"
+    ],
+    "from_kameyama": "車で約3時間30分（東名阪・中央道経由、岡谷IC／諏訪ICから約20〜30分）。鉄道ならJR中央本線「下諏訪駅」下車徒歩約30分。",
+    "name_en": "Manji Stone Buddha",
+    "prefecture_en": "Nagano Prefecture",
+    "city_en": "Shimosuwa Town, Suwa District",
+    "summary_en": "Across a small river from the spring shrine of Suwa Taisha sits one of Japan's most disarming pieces of folk sculpture: a Buddha that is essentially a boulder wearing a face. In 1657, the story goes, a stonemason set his chisel to a great block of andesite to carve a torii gate — and the stone bled. Spooked, the masons used a different stone and, in penance, turned this one into a seated Amida Buddha instead, finishing it in 1660, the third year of the Manji era, which is how it got its name. They barely touched it. The rounded natural mass of the rock was left as the body, incised only shallowly with a meditating Amida and a scatter of esoteric symbols — a swastika, sun, moon, clouds, lightning. Onto this enormous lump they perched a small, almost comically modest head. The result is a silhouette that shouldn't work and absolutely does: top-heavy in reverse, solemn and slightly funny at the same time. For three centuries it was just a beloved village 'Amida-sama' until 1974, when the artist Taro Okamoto stood in front of it and declared it the most fascinating thing he'd seen anywhere in the world. His enthusiasm — echoed by the novelist Jiro Nitta — made the anonymous wayside Buddha nationally famous overnight. Pilgrims still circle it three times, chanting a wish; it remains a town cultural property and a quietly strange object of real devotion.",
+    "highlights_en": [
+      "A vast natural boulder left as the body, crowned by a tiny Buddha head — a top-heavy-in-reverse silhouette that is solemn and faintly comic at once",
+      "A shallowly carved seated Amida with esoteric symbols — swastika, sun and moon, clouds — incised over the robe of the raw stone",
+      "A distinctive worship rite of circling the Buddha three times while chanting one's wish"
+    ]
+  },
+  {
+    "id": "spot-241",
+    "name": "善久寺（両面宿儺像）",
+    "name_kana": "ぜんきゅうじ（りょうめんすくなぞう）",
+    "category": "folk",
+    "prefecture": "岐阜県",
+    "city": "高山市",
+    "address": "〒506-2256 岐阜県高山市丹生川町日面788",
+    "lat": 36.178307,
+    "lng": 137.411197,
+    "status": "現存",
+    "fee": "拝観志納（御朱印300円）。本堂内拝観は要事前連絡",
+    "hours": "要事前連絡（御朱印は寺務所前の箱で随時）",
+    "official_url": null,
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E5%96%84%E4%B9%85%E5%AF%BA",
+      "https://ja.wikipedia.org/wiki/%E4%B8%A1%E9%9D%A2%E5%AE%BF%E5%84%84",
+      "https://www.hidatakayama.or.jp/spot/detail_5182.html",
+      "https://plaza-gifu.com/2023/10/03/ryoumensukuna1/"
+    ],
+    "summary": "飛騨・高山市丹生川町日面にある曹洞宗の寺院で、山号は普門山、飛騨三十三観音31番札所。境内には飛騨の異形伝説で知られる「両面宿儺」に因んだ両面宿儺像と十一面観音像が祀られ、いずれも高山市の指定文化財となっている。両面宿儺は一つの胴体に前後二つの顔と四本（八本とも）の手足を持つとされる伝承上の存在で、『日本書紀』では朝廷に討たれた賊として、飛騨の在地伝承では毒龍を退治し寺を開いた英雄・豪族として、対照的に語られる。善久寺はその両面宿儺が建立したとも伝わり、食事をとったという「御前石」も残る。円空作の迦楼羅像など文化財も伝わる、飛騨の民俗信仰を体現する寺。",
+    "highlights": [
+      "前後二つの顔と四本の手足を持つ「両面宿儺」を造形化した珍しい仏像（高山市指定文化財）",
+      "賊（日本書紀）と英雄（飛騨伝承）という両義的存在を祀る、民俗的に異色の信仰対象",
+      "両面宿儺が食事をとったと伝わる「御前石」など、伝説の痕跡が境内に残る"
+    ],
+    "from_kameyama": "車で約3時間（東海北陸道・中部縦貫道経由で高山ICへ→丹生川方面）。日帰り可能だが余裕を持つと安心。",
+    "name_en": "Zenkyū-ji Temple (Ryōmen Sukuna Statue)",
+    "prefecture_en": "Gifu Prefecture",
+    "city_en": "Takayama City",
+    "summary_en": "Deep in the mountains of Hida, in the Nyūkawa district of Takayama, stands a small Sōtō Zen temple dedicated to one of Japan's strangest legendary beings. Ryōmen Sukuna — \"the double-faced Sukuna\" — is described in the eighth-century Nihon Shoki as a monstrous figure with a single body, two faces pointing in opposite directions, and four arms, who plundered the people of Hida until a court general struck him down. But the official chronicle is only half the story. In Hida's own oral tradition, the very same being is a hero: a local chieftain who slew a venomous dragon, protected the region from central authority, and founded temples — Zenkyū-ji among them. The temple keeps a carved statue of Ryōmen Sukuna and an Eleven-Faced Kannon, both designated cultural properties, along with a stone called the Gozen-ishi where he is said to have eaten, and a Garuda figure by the wandering monk-sculptor Enkū. To stand before the two-faced image is to stand inside an unresolved argument that is over a thousand years old: was he demon or savior? The villagers of Hida have always known their own answer. (Visiting the statue inside the hall requires contacting the temple in advance.)",
+    "highlights_en": [
+      "A rare Buddhist statue depicting Ryōmen Sukuna with two faces and four limbs (a designated cultural property of Takayama City)",
+      "An unusual object of folk devotion: a being cast simultaneously as villain (Nihon Shoki) and hero (Hida tradition)",
+      "Traces of the legend remain on the grounds, including the Gozen-ishi stone where Ryōmen Sukuna is said to have eaten"
+    ]
+  },
+  {
+    "id": "spot-242",
+    "name": "命と性ミュージアム女神館",
+    "name_kana": "いのちとせいみゅーじあむめがみかん",
+    "category": "bkyu",
+    "prefecture": "群馬県",
+    "city": "北群馬郡吉岡町",
+    "address": "〒370-3606 群馬県北群馬郡吉岡町上野田1256-72",
+    "lat": 36.459138,
+    "lng": 138.978719,
+    "status": "現存",
+    "fee": "大学生・18歳以上 1,000円／中高生 800円／小学生以下 無料",
+    "hours": "9:30〜17:30（年中無休）",
+    "official_url": "http://inotitosei.jp/",
+    "reference_urls": [
+      "http://inotitosei.jp/",
+      "https://www.dan-b.com/mu_inochitosei/",
+      "https://welove.gunma.jp/spot/8033/"
+    ],
+    "summary": "群馬県吉岡町にある、人間の生命の始まりと性をテーマにした成人向けの私設博物館。2002年に開館し、前身は「伊香保女神館」。受胎から誕生に至る生命の仕組みや人体の構造、性を文化現象として扱う展示を、模型・パネル・造形物で時系列に沿って紹介する。性教育・性文化を正面から扱う展示内容から、教育学・社会学・地理学などの分野で大学の研究対象として取り上げられた例もある。一方で露骨な造形やユニークな世界観から、いわゆる「珍スポット」「秘宝館系」の博物館としても知られ、訪問記が数多く残る。成人向け展示を含むため中高生以下は内容に配慮が必要で、入館時の年齢区分が設けられている。関越自動車道渋川伊香保ICから車で十数分とアクセスは比較的容易。",
+    "highlights": [
+      "受胎から誕生までを時系列でたどる、生命の始まりと性をテーマにした大型造形・模型群",
+      "性教育・性文化を正面から扱い大学研究の対象にもなった教育的側面と珍スポット性の同居",
+      "前身「伊香保女神館」から続く、独特の世界観を持つ私設博物館の造形演出"
+    ],
+    "from_kameyama": "車で片道約5時間半（亀山→東名・新東名→圏央道→関越道渋川伊香保IC→約13分）。日帰りは可能だが長距離。",
+    "name_en": "Museum of Life and Sexuality (Megamikan)",
+    "prefecture_en": "Gunma Prefecture",
+    "city_en": "Yoshioka Town, Kitagunma District",
+    "summary_en": "Tucked in the hills near Ikaho Onsen in Gunma, this private museum — opened in 2002 and formerly the Ikaho Goddess Hall — takes on the entire arc of human life and sexuality, from conception to birth, through models, panels, and figures arranged in chronological order. It belongs to the lineage of Japan's now-vanishing \"hihokan\" treasure halls and sex museums, but it sits awkwardly and interestingly between categories: part frank sex-education exhibit, part folk-curio sideshow. The first floor leans educational, walking visitors through human anatomy, the origins of life, conception, pregnancy, childbirth, and genetics; elsewhere the displays turn explicit and surreal in the distinctive register of the genre. That dual character has earned it a paradoxical reputation — cited as a research subject by university scholars in education, sociology, and geography, while also remaining one of Gunma's most reliably documented \"strange spots.\" Admission is age-restricted, and the museum is best approached with that context in mind. Just over ten minutes by car from the Shibukawa-Ikaho expressway interchange, it is an easy add-on to a hot-spring trip.",
+    "highlights_en": [
+      "Large figures and models tracing the beginning of life from conception to birth, themed on life and sexuality",
+      "A rare survivor of Japan's hihokan tradition that is both an explicit oddity and a cited academic subject in education and sociology",
+      "The distinctive worldview and figural staging carried over from its predecessor, the Ikaho Goddess Hall"
+    ]
+  },
+  {
+    "id": "spot-243",
+    "name": "まぼろし博覧会",
+    "name_kana": "まぼろしはくらんかい",
+    "category": "bkyu",
+    "prefecture": "静岡県",
+    "city": "伊東市",
+    "address": "〒413-0231 静岡県伊東市富戸梅木平1310-1",
+    "lat": 34.92201,
+    "lng": 139.11968,
+    "status": "現存",
+    "fee": "大人1,400円・小中学生600円（2024年改定）",
+    "hours": "9:30〜17:00（春分〜秋分は〜17:30、8月は9:00〜17:30）入館は閉館30分前まで・年中無休",
+    "official_url": "https://maboroshi.sakura.ne.jp/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%BC%E3%82%8D%E3%81%97%E5%8D%9A%E8%A6%A7%E4%BC%9A",
+      "https://maboroshi.sakura.ne.jp/access.html",
+      "https://brutus.jp/maboroshi_izu/"
+    ],
+    "summary": "静岡県伊東市富戸の国道135号沿いに立つ、出版社データハウスが運営する私設テーマパーク。閉園した熱帯植物園跡を約1億5000万円かけて改装し、2011年（平成23年）7月に開館した。館長は「セーラちゃん」を名乗る鵜野義嗣で、館内には巨大な聖徳太子像、ピラミッドやモアイなどの古代文明レプリカ、昭和の玩具・人形・ポスターを集めた懐古空間、剥製や秘宝館由来のオブジェを並べた魔界神社など、脈絡のない展示が密林状に詰め込まれている。「説明をあえて付けない」館長の方針のもと、来館者は意味づけの手前で異物の群れに対峙する。B級・珍スポットとしては国内最大級と評されるカオス空間である。",
+    "highlights": [
+      "高さ十数メートルの巨大聖徳太子像をはじめ脈絡なく林立する巨像・古代文明レプリカ",
+      "昭和の玩具・人形・ポスターと秘宝館由来のオブジェが密林状に詰め込まれた展示密度",
+      "「説明を付けない」館長セーラちゃんの方針が生む、意味づけを拒む独特の鑑賞体験"
+    ],
+    "from_kameyama": "車で約4時間（新名神・新東名→東名・伊豆スカイライン等で伊東方面）。鉄道なら約4〜5時間（亀山→名古屋→新幹線で熱海、伊東線で伊東駅、バス約30分）。",
+    "name_en": "Maboroshi Hakurankai (Phantom Exposition)",
+    "prefecture_en": "Shizuoka Prefecture",
+    "city_en": "Itō",
+    "summary_en": "Along Route 135 on the Izu Peninsula, inside the cavernous greenhouses of a long-dead tropical botanical garden, a publisher decided to build a museum to nothing in particular — and that is exactly the point. Maboroshi Hakurankai, the 'Phantom Exposition,' opened in 2011 after Data House bought the abandoned park and spent some 150 million yen turning it into one of Japan's largest and most deliberately incoherent roadside attractions. Its director, a sailor-suited persona called 'Sera-chan' (the company president, Yoshitsugu Uno), follows a single rule: explain nothing. So you walk through a jungle where a giant statue of Prince Shōtoku looms over pyramid and moai replicas; through a Shōwa-era memory chamber packed with old toys, dolls and posters; through 'Makai Shrine,' a dim warren of taxidermy and unsettling figures; and past erotic objects salvaged from a defunct 'secret treasure hall.' Nothing connects, and nothing is captioned. Rather than horror, the experience is closer to outsider art — a place built outside every institution, where the sediment of postwar pop culture piles up at the scale of a temple and hands the job of making meaning back to you. Photography is free; bewilderment is included.",
+    "highlights_en": [
+      "A jungle of unconnected colossi — a towering Prince Shōtoku statue, pyramid and moai replicas — looming with no captions to explain them",
+      "An overwhelming density of Shōwa toys, dolls and posters alongside objects from a former 'secret treasure hall'",
+      "Director Sera-chan's 'no explanation' policy, producing a viewing experience that actively refuses meaning"
+    ]
+  },
+  {
+    "id": "spot-244",
+    "name": "水木しげる記念館",
+    "name_kana": "みずきしげるきねんかん",
+    "category": "bkyu",
+    "prefecture": "鳥取県",
+    "city": "境港市",
+    "address": "〒684-0025 鳥取県境港市本町5番地",
+    "lat": 35.546378,
+    "lng": 133.23124,
+    "status": "現存（2024年4月20日に建て替えリニューアルオープン）",
+    "fee": "一般1,000円／中高生500円／小学生300円（前売・団体は割引。未就学児無料）",
+    "hours": "9:30〜17:00（最終入場16:30）年中無休",
+    "official_url": "https://mizuki.sakaiminato.net/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%9C%A8%E3%81%97%E3%81%92%E3%82%8B%E8%A8%98%E5%BF%B5%E9%A4%A8",
+      "https://mizuki.sakaiminato.net/information/",
+      "https://www.sakaiminato.net/magazine/kinennkann2024/",
+      "https://bijutsutecho.com/magazine/news/exhibition/28832"
+    ],
+    "summary": "『ゲゲゲの鬼太郎』で知られる漫画家・水木しげる（1922〜2015）の生涯と作品、妖怪研究を紹介する記念館。出身地・境港市の妖怪ロード沿いに2003年開館し、老朽化に伴い2023年から建て替え休館、2024年4月20日に同じ本町5番地で新館としてリニューアルオープンした。常設展は「境港のしげる少年」「戦争と水木しげる」「漫画家・水木しげる」「妖怪研究家・水木しげる」などのテーマで構成され、半年ごとに入れ替える企画展も加わった。妖怪ブロンズ像177体が並ぶ「水木しげるロード」の起点的存在として、町全体が妖怪世界に染まる境港観光の核となっている。",
+    "highlights": [
+      "妖怪ブロンズ像が並ぶ「水木しげるロード」の核として町ぐるみで妖怪世界を再現",
+      "2024年新館で『ゲゲゲの鬼太郎』や戦争体験までを6つの章立てで体感できる展示",
+      "目玉おやじ街灯や妖怪オブジェなど、記念館の外まで妖怪が溢れる町並み"
+    ],
+    "from_kameyama": "車で約4時間（亀山IC→新名神・中国道・米子道経由、約330km）。鉄道は名古屋→（新幹線・特急やくも乗継）→米子→JR境線で境港駅、計約5時間。妖怪列車で知られる境線終点が最寄り。",
+    "name_en": "Mizuki Shigeru Memorial Museum",
+    "prefecture_en": "Tottori Prefecture",
+    "city_en": "Sakaiminato City",
+    "summary_en": "In the port town of Sakaiminato, the whole place has been handed over to monsters. This is the hometown of Mizuki Shigeru (1922–2015), the manga artist who made yokai — Japan's traditional spirits, demons and goblins — into postwar pop culture through 'GeGeGe no Kitaro,' and the town has thanked him by lining its main street with 177 bronze yokai statues, running 'Kitaro trains' on the local line, and lighting its lamps with the shape of Medama-oyaji, the walking eyeball. At the heart of it all stands the Mizuki Shigeru Memorial Museum. Opened in 2003 and completely rebuilt on the same site in April 2024, the new museum tells his story in chapters: the boy who grew up here listening to ghost stories; the soldier who lost an arm in the war; the manga artist; and the obsessive yokai researcher who catalogued Japan's spirit world like a naturalist. That last role is the key to the place — Mizuki treated folklore as something to be collected and respected, not just drawn, and the museum (and the entire monster-soaked town around it) is the most complete physical realization of that vision anywhere in Japan. Walk the street, ride the train, and you are walking through a folk imagination made concrete.",
+    "highlights_en": [
+      "The anchor of 'Mizuki Shigeru Road,' where an entire town recreates the yokai world in bronze and streetlamps",
+      "A 2024 new building telling Mizuki's life — from 'GeGeGe no Kitaro' to his war experience — across themed chapters",
+      "Yokai overflow even outside the museum: eyeball-shaped lamps, monster statues, and Kitaro trains on the local line"
+    ]
+  },
+  {
+    "id": "spot-245",
+    "name": "南蔵院（釈迦涅槃像）",
+    "name_kana": "なんぞういん（しゃかねはんぞう）",
+    "category": "folk",
+    "prefecture": "福岡県",
+    "city": "糟屋郡篠栗町",
+    "address": "〒811-2405 福岡県糟屋郡篠栗町大字篠栗1035",
+    "lat": 33.61975,
+    "lng": 130.572833,
+    "status": "現存",
+    "fee": "境内拝観無料。涅槃像の胎内参拝は志納（500円程度）",
+    "hours": "涅槃像周辺 7:00〜16:30（防犯のため夕方施錠）／胎内参拝 9:30〜16:00／寺務所・売店 9:00〜17:00",
+    "official_url": "https://nanzoin.net/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E5%8D%97%E8%94%B5%E9%99%A2_(%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%AF%A0%E6%A0%97%E7%94%BA)",
+      "https://sasagurikanko.com/type-about/%E6%B6%85%E6%A7%83%E5%83%8F-2/",
+      "https://sasagurikanko.com/type-temple/%E5%8D%97%E8%94%B5%E9%99%A2/"
+    ],
+    "summary": "福岡県篠栗町の高野山真言宗・南蔵院に横たわる、全長41メートル・高さ11メートル・重さ約300トンの釈迦涅槃像。ブロンズ製の涅槃像としては世界最大級とされる。南蔵院は篠栗四国八十八箇所霊場の総本寺で、長年ミャンマーやネパールの子どもたちへ医薬品や文房具を支援してきた縁から、1988年にミャンマー仏教会議より仏舎利の贈呈を受けた。この三尊仏舎利を安置する場として、1992年から約3年をかけ1995年に涅槃像が建立された。横臥する巨大ブロンズ仏という造形の異様さに加え、住職が宝くじで1億3000万円の高額当選を重ねたという逸話から「金運の寺」としても広く知られる。",
+    "highlights": [
+      "全長41m・高さ11m・重さ約300トン、ブロンズ製涅槃像として世界最大級の横臥像",
+      "ミャンマーから贈られた仏舎利を安置するために1995年に建立された建立背景",
+      "胎内参拝でき、住職の宝くじ高額当選逸話から『金運の寺』として知られる文脈"
+    ],
+    "from_kameyama": "亀山市からは空路が現実的。中部国際空港(セントレア)から福岡空港へ約1時間20分、福岡空港→（地下鉄・JR）篠栗線で「城戸南蔵院前駅」まで約40分、駅からすぐ。空港アクセス込みで片道半日程度。",
+    "name_en": "Nanzoin Temple (Reclining Buddha)",
+    "prefecture_en": "Fukuoka Prefecture",
+    "city_en": "Sasaguri Town, Kasuya District",
+    "summary_en": "In the wooded hills of Sasaguri, just east of Fukuoka, a bronze Buddha 41 meters long lies on its side — one of the largest reclining Buddhas of its kind in the world, roughly the length of a jumbo jet and weighing some 300 tons. Reclining Buddhas of this scale belong to Thailand and Myanmar, not Japan, and that is precisely the point: Nanzoin's giant exists because of a connection to Myanmar. For years the temple shipped medicine and school supplies to children in Myanmar and Nepal, and in 1988 Myanmar's Buddhist conference repaid the kindness with a gift of sacred relics. The statue, completed in 1995 after three years of work, was built to house them. Nanzoin is also the head temple of the Sasaguri 88-temple pilgrimage, a serious place of faith threaded with Buddhist statuary, a Seven Lucky Gods tunnel, and sand-treading rites. And yet it is best known to many for a single irresistible rumor: its head priest is said to have won the lottery again and again, once to the tune of 130 million yen, making this colossal reclining Buddha an unlikely magnet for visitors praying for a windfall. We present the relic history as documented fact and the fortune legend as exactly that — legend.",
+    "highlights_en": [
+      "A bronze reclining Buddha 41 m long, 11 m high and roughly 300 tons — one of the largest of its kind in the world",
+      "Built in 1995 to enshrine sacred relics gifted by Myanmar in thanks for the temple's aid to children there",
+      "Visitors can enter the statue's interior, and the priest's lottery-win legend has made it a famous 'fortune' temple"
+    ]
+  },
+  {
+    "id": "spot-246",
+    "name": "日輪寺（山鹿大仏・おびんずる様）",
+    "name_kana": "にちりんじ（やまがだいぶつ・おびんずるさま）",
+    "category": "bkyu",
+    "prefecture": "熊本県",
+    "city": "山鹿市",
+    "address": "〒861-0552 熊本県山鹿市杉1607",
+    "lat": 33.039856,
+    "lng": 130.685501,
+    "status": "現存",
+    "fee": "おびんずる様拝観 大人約250円（寺院境内・つつじ公園は無料）",
+    "hours": "日中（つつじ公園は常時開放）",
+    "official_url": "https://yamaga-tanbou.jp/spot/1306/",
+    "reference_urls": [
+      "https://yamaga-tanbou.jp/spot/1306/",
+      "https://kumamoto.guide/spots/detail/11155",
+      "https://fukuhatu.sub.jp/nichirinji/"
+    ],
+    "summary": "熊本県山鹿市の曹洞宗寺院・日輪寺の裏山に立つ巨大仏「おびんずる様（山鹿大仏）」。釈迦の弟子・賓頭盧尊者（びんずる）を、世界に類のない半臥（上を向いて寝た姿）で表した撫で仏で、高さ約30メートル・幅約10メートルにおよぶ。山の斜面に背を預けて全身を斜めに反らせた独特の姿勢から、巨大仏ファンの間で「ロボットのよう」とも評される。像の胸内には御本尊と、寝姿の分身の撫で仏が安置され、自分の患部と像の同じ部分を撫でると病が癒えると伝わる。寺は平安期に天台宗で開かれ鎌倉期に菊池氏が曹洞宗として再興、赤穂義士の遺髪塔やツツジの名所としても知られる。",
+    "highlights": [
+      "高さ約30mの巨大な「おびんずる様」が山の斜面に半臥（寝そべる）で寄りかかる唯一無二の姿勢",
+      "撫で仏（賓頭盧）信仰——自分の患部と像の同じ部位を撫でて病気平癒を願う",
+      "巨大仏でありながら境内に赤穂義士遺髪塔やツツジ園が同居する重層的な寺景"
+    ],
+    "from_kameyama": "車で約8時間（名神・山陽道・九州道経由、植木IC／菊水ICから約30分）。現実的には飛行機（中部国際空港→福岡/熊本空港）＋レンタカーが一般的。",
+    "name_en": "Nichirin-ji Temple (Yamaga Daibutsu / Obinzuru-sama)",
+    "prefecture_en": "Kumamoto Prefecture",
+    "city_en": "Yamaga City",
+    "summary_en": "On the wooded hillside behind a quiet Soto Zen temple in Yamaga, Kumamoto, a roughly 30-meter giant Buddha lies sprawled against the slope like nothing else in Japan. This is Obinzuru-sama — Pindola Bharadvaja, one of the Buddha's ten great disciples — built not seated, not standing, but in a half-reclining, face-up posture its makers describe as 'without parallel in the world.' The effect is genuinely uncanny: a vast figure leaning back into the mountain at an angle, so unexpectedly tilted that giant-Buddha enthusiasts have compared it to a reclining robot. There is sincere devotion underneath the spectacle. Pindola is Japan's classic nade-botoke, the 'rubbing Buddha': you stroke the statue on the same spot where your own body aches, and pray for it to heal. Inside the colossus's chest are enshrined the temple's principal image and a reclining double of the rubbing Buddha. The temple itself is no novelty — founded as a Tendai temple in the Heian period and revived as a Zen temple by the Kikuchi clan in 1316, it is famous for 200 cherry trees, 35,000 azaleas, a hair-relic pagoda of the Ako loyal retainers, and a gate bell counted among Higo's three great temple bells. The giant Obinzuru is the strangest thing on the grounds, but it sits inside a layered, working sacred landscape rather than apart from it.",
+    "highlights_en": [
+      "An approximately 30 m giant 'Obinzuru-sama' reclining face-up against the mountainside — a posture its makers call unparalleled in the world",
+      "The nade-botoke (Pindola) practice: rub the statue where your own body hurts and pray for healing",
+      "A layered temple landscape where the giant Buddha coexists with an Ako-retainers hair-relic pagoda and a vast azalea garden"
+    ]
+  },
+  {
+    "id": "spot-248",
+    "name": "大弁財天（最福寺）",
+    "name_kana": "だいべんざいてん",
+    "category": "folk",
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "address": "〒891-0133 鹿児島県鹿児島市平川町4850-1",
+    "lat": 31.441038,
+    "lng": 130.509846,
+    "status": "現存",
+    "fee": "拝観無料（公式に拝観料の記載なし）",
+    "hours": "拝観時間内（公式サイトに明記なし・要問い合わせ）",
+    "official_url": "https://www.saifukuji.or.jp/",
+    "reference_urls": [
+      "https://www.saifukuji.or.jp/about-saifukuji/daibenzaiten",
+      "https://ja.wikipedia.org/wiki/%E6%9C%80%E7%A6%8F%E5%AF%BA_(%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82)",
+      "https://www.weblio.jp/content/%E6%9C%80%E7%A6%8F%E5%AF%BA+%28%E9%B9%BF%E5%85%90%E5%B3%B6%E5%B8%82%29"
+    ],
+    "summary": "鹿児島市平川町の高野山真言宗・総本山烏帽子山最福寺の四恩殿に安置される、像高18.5メートルの木彫の弁財天坐像。「世界一の木彫弁財天」「世界最大の木彫座佛大弁財天」とされ、京都の仏師・松本明慶（松本工房）が約10年以上をかけて制作し、2000年（平成12年）5月14日に開眼した。寄木造で檜材を用い、総重量は100トン以上にのぼる。これを収める四恩殿は高さ約33メートル・幅約31.5メートル・奥行き約44メートルという巨大な堂で、屋内に18.5メートルの木彫像が座する規模感は他に類を見ない。現代に新造された木彫巨像という点で、伝統技術と現代の発願が結びついた稀有な造形であり、平成期を代表する宗教的モニュメントのひとつといえる。",
+    "highlights": [
+      "屋内に座する像高18.5メートルの「世界一の木彫弁財天」という圧倒的スケール",
+      "仏師・松本明慶が10年以上かけて寄木造・檜材で新造した平成の巨大木彫像",
+      "高さ33メートル級の四恩殿に巨像が収まる、堂と像の規模感の異様さ"
+    ],
+    "from_kameyama": "車＋新幹線で片道約5〜6時間（亀山→名古屋→新幹線鹿児島中央駅→車で約30分）。日帰りは厳しく1泊推奨。",
+    "name_en": "Great Benzaiten of Saifuku-ji",
+    "prefecture_en": "Kagoshima Prefecture",
+    "city_en": "Kagoshima City",
+    "summary_en": "Inside an immense hall in southern Kagoshima sits one of Japan's most improbable colossi: a wooden Benzaiten, 18.5 meters tall, carved entirely from cypress and weighing over 100 tons — billed as the largest wooden carved Benzaiten in the world. Most of Japan's giant Buddhas are cast bronze and centuries old; this one is neither. It is the work of the contemporary Kyoto master sculptor Matsumoto Myokei, who spent more than a decade joining wood into a seated goddess of water, music, eloquence, and wealth, finally consecrated on May 14, 2000. The Shion-den hall built to contain it is itself enormous — roughly 33 meters tall — and the sheer mismatch of scale, a wooden idol the height of a six-story building seated indoors, is what makes the encounter so disorienting. Benzaiten descends from the Hindu goddess Saraswati and merged in Japan with the deity Ugajin as Uga-Benzaiten; here that ancient lineage is rendered in fresh timber by a living workshop, a rare meeting of traditional carving technique and modern devotional ambition, and a signature religious monument of the Heisei era.",
+    "highlights_en": [
+      "An 18.5-meter seated 'world's largest wooden Benzaiten' enshrined indoors — an overwhelming sense of scale",
+      "A Heisei-era colossus newly carved in joined cypress over more than a decade by master sculptor Matsumoto Myokei",
+      "The uncanny scale of a giant statue housed within the 33-meter Shion-den hall"
+    ]
   }
 ]
