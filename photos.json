@@ -3092,5 +3092,108 @@
     "source_url": "https://commons.wikimedia.org/wiki/File:Kinojo_Nishimon.JPG",
     "creator": "Reggaeman",
     "provider": "Wikimedia Commons"
+  },
+  "fest-251": {
+    "name": "大日向の火とぼし",
+    "primary": "https://bizarrejapan.com/photos/fest-251.jpg",
+    "credit": "出典: we-love.gunma（https://we-love.gunma.jp/area/hitobashi）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "we-love.gunma（群馬県観光情報サイト）",
+    "source_url": "https://we-love.gunma.jp/area/hitobashi",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり（CC/PD表記なし）。事後承諾運用。問題あれば即時差し替え/撤去前提。"
+  },
+  "fest-252": {
+    "name": "片品の猿追い祭",
+    "primary": "https://bizarrejapan.com/photos/fest-252.jpg",
+    "credit": "出典: 片品村観光協会 かたしないろ（https://oze-katashina.info/blog/5169/）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "片品村観光協会 かたしないろ",
+    "source_url": "https://oze-katashina.info/blog/5169/",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり（CC/PD表記なし）。事後承諾運用。問題あれば即時差し替え/撤去前提。"
+  },
+  "fest-253": {
+    "name": "放生津八幡宮祭の曳山・築山行事",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hikiyama_kanyamachi.jpg/1280px-Hikiyama_kanyamachi.jpg",
+    "credit": "Wikimedia Commons / D.terai / CC0",
+    "alt_photos": [],
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hikiyama_kanyamachi.jpg",
+    "creator": "D.terai",
+    "provider": "Wikimedia Commons"
+  },
+  "fest-254": {
+    "name": "沼名前神社 お手火神事",
+    "primary": "https://bizarrejapan.com/photos/fest-254.jpg",
+    "credit": "出典: VISIT鞆の浦（https://visittomonoura.com/otebi-ritual/）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "VISIT鞆の浦（鞆の浦観光情報サイト）",
+    "source_url": "https://visittomonoura.com/otebi-ritual/",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり（CC/PD表記なし）。事後承諾運用。問題あれば即時差し替え/撤去前提。"
+  },
+  "fest-255": {
+    "name": "大磯の左義長（セエノカミサン）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/a8/%E5%A4%A7%E7%A3%AF%E3%81%AE%E5%B7%A6%E7%BE%A9%E9%95%B7%EF%BC%882023%E5%B9%B41%E6%9C%88%EF%BC%89_01.jpg",
+    "credit": "Wikimedia Commons / Kinstone / CC BY-SA 4.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E7%A3%AF%E3%81%AE%E5%B7%A6%E7%BE%A9%E9%95%B7%EF%BC%882023%E5%B9%B41%E6%9C%88%EF%BC%89_01.jpg",
+    "creator": "Kinstone",
+    "provider": "Wikimedia Commons"
+  },
+  "fest-256": {
+    "name": "大山祇神社 一人角力",
+    "primary": "https://bizarrejapan.com/photos/fest-256.jpg",
+    "credit": "出典: いよ観ネット（愛媛県公式観光サイト）（https://www.iyokannet.jp/event/1166）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "いよ観ネット（愛媛県観光物産協会）",
+    "source_url": "https://www.iyokannet.jp/event/1166",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり（CC/PD表記なし）。事後承諾運用。問題あれば即時差し替え/撤去前提。"
+  },
+  "fest-257": {
+    "name": "竹崎観世音寺 修正会鬼祭",
+    "primary": "https://bizarrejapan.com/photos/fest-257.jpg",
+    "credit": "出典: 昭ちゃんのブログ（http://shouchan1945.cocolog-nifty.com/shasin/2019/01/index.html）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "昭ちゃんのブログ（個人撮影記録）",
+    "source_url": "http://shouchan1945.cocolog-nifty.com/shasin/2019/01/index.html",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり（CC/PD表記なし）。事後承諾運用。問題あれば即時差し替え/撤去前提。"
+  },
+  "fest-258": {
+    "name": "長崎くんち 龍踊（じゃおどり）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jaodori_of_Nagasaki_Kunchi.jpg/1280px-Jaodori_of_Nagasaki_Kunchi.jpg",
+    "credit": "Wikimedia Commons / Marine-Blue / CC BY-SA 4.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Jaodori_of_Nagasaki_Kunchi.jpg",
+    "creator": "Marine-Blue",
+    "provider": "Wikimedia Commons"
+  },
+  "fest-259": {
+    "name": "本川神楽",
+    "primary": "https://bizarrejapan.com/photos/fest-259.jpg",
+    "credit": "出典: 本川移住ブログ（本川プライベートツアー）（https://honngawa-ijyu.com/2025/08/19/本川神楽：四国山地に響く伝統の夜神楽/）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "本川移住ブログ（honngawa-ijyu.com）",
+    "source_url": "https://honngawa-ijyu.com/2025/08/19/%E6%9C%AC%E5%B7%9D%E7%A5%9E%E6%A5%BD%EF%BC%9A%E5%9B%9B%E5%9B%BD%E5%B1%B1%E5%9C%B0%E3%81%AB%E9%9F%BF%E3%81%8F%E4%BC%9D%E7%B5%B1%E3%81%AE%E5%A4%9C%E7%A5%9E%E6%A5%BD/",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり（CC/PD表記なし）。事後承諾運用。問題あれば即時差し替え/撤去前提。"
+  },
+  "fest-260": {
+    "name": "西祖谷の神代踊",
+    "primary": "https://bizarrejapan.com/photos/fest-260.jpg",
+    "credit": "出典: ユネスコ無形文化遺産【風流踊】公式サイト（https://furyu-odori.com/odori/西祖谷の神代踊/）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "ユネスコ無形文化遺産【風流踊】公式サイト（風流踊協議会）",
+    "source_url": "https://furyu-odori.com/odori/%E8%A5%BF%E7%A5%96%E8%B0%B7%E3%81%AE%E7%A5%9E%E4%BB%A3%E8%B8%8A/",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり（CC/PD表記なし）。事後承諾運用。問題あれば即時差し替え/撤去前提。"
   }
 }
