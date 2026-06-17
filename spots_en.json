@@ -9830,5 +9830,972 @@
       "A Heisei-era colossus newly carved in joined cypress over more than a decade by master sculptor Matsumoto Myokei",
       "The uncanny scale of a giant statue housed within the 33-meter Shion-den hall"
     ]
+  },
+  {
+    "id": "spot-249",
+    "name": "新北神社（石神さん・桃玉）",
+    "name_kana": "にきたじんじゃ",
+    "category": "folk",
+    "prefecture": "佐賀県",
+    "city": "佐賀市",
+    "address": "〒840-2102 佐賀県佐賀市諸富町大字為重1080",
+    "lat": 33.220243,
+    "lng": 130.341258,
+    "status": "現存",
+    "fee": "境内自由（参拝無料）。桃玉は社務所にて授与（初穂料の目安1個300円程度）。",
+    "hours": "境内自由・通年・無休（御祈祷・授与の対応は社務所受付時間内。事前予約推奨。TEL 0952-47-4848）",
+    "official_url": "http://www.nikitajinjya.com/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%8C%97%E7%A5%9E%E7%A4%BE",
+      "https://www.sagabai.com/main/?cont=kanko&fid=59",
+      "https://www.saga-otakara.jp/search/detail.html?cultureId=5254&cityId=1",
+      "https://hotokami.jp/area/saga/Hyktk/Hyktktk/Dymts/131005/"
+    ],
+    "summary": "佐賀市諸富町為重に鎮座する古社で、素盞嗚尊を主祭神とし、用明天皇期（586年）の創建と伝える。境内最大の見どころは樹齢約2200年と伝わる御神木ビャクシン（イブキ）で、不老不死の仙薬を求めて来日した徐福が上陸の証に植えたとの伝説をもち、横へ大きく傾いだ幹を支柱で支える姿から「飛龍木」と呼ばれ、県の天然記念物・名木100選に選ばれている。傍らには樹齢約1600年のクスノキも立つ。本殿背後には宮地嶽神社・恵比寿社・稲荷社・淀姫神社など多数の摂末社と石祠群が並び、その一角に「石神さん」と呼ばれる御神体石が祀られる。厄除・八難祓い・縁結び・安産を願意とする祈祷で知られ、桃を厄祓いの呪具とみなす民俗（古事記の桃の魔除け伝承に連なる）に基づいた「桃玉」を石神さんに投じて願掛けする慣習が伝わる。秋の御神幸祭で奉納される三段継の三重の獅子舞は佐賀県重要無形文化財。",
+    "highlights": [
+      "横倒しに近い角度で這う幹を木の支柱で支える、樹齢約2200年の御神木ビャクシン『飛龍木』の異様な造形",
+      "本殿背後にひしめく石祠群と、その中心に祀られた御神体石『石神さん』",
+      "桃を魔除けの呪具とする民俗に基づき、石神さんへ『桃玉』を投じて願掛けする独特の作法",
+      "樹齢約1600年のクスノキの巨木が御神木のすぐ近くに並び立つ",
+      "県重要無形文化財・三重の獅子舞（曲芸的な三段継ぎ）が秋の大祭で奉納される"
+    ],
+    "from_kameyama": "車で約7時間（名阪国道→新名神・名神→中国道・山陽道→九州道・有明海沿岸道路、諸富ICから約4分／約650km）。鉄道では亀山駅→名古屋駅（JR関西本線・快速で約1時間）→東海道・山陽・九州新幹線で博多経由→佐賀駅（合計約5時間半）、佐賀駅から諸富方面はバス・タクシーで約20〜25分。",
+    "name_en": "Nikita Shrine (Ishigami-san & the Peach-Ball Throwing)",
+    "prefecture_en": "Saga Prefecture",
+    "city_en": "Saga City (Morodomi-cho)",
+    "summary_en": "Nikita Shrine, an ancient shrine in the Morodomi district of Saga City, enshrines Susanoo-no-Mikoto and claims a founding in 586 CE. Its great oddity is the living one: a Chinese juniper said to be roughly 2,200 years old, planted — so legend holds — by Xu Fu, the envoy who sailed to Japan seeking the elixir of immortality and used the tree to mark his landing. The trunk no longer rises; it lunges almost sideways across the earth, propped up on wooden crutches, which is why it is called the \"flying-dragon tree.\" A vermilion placard reading 飛龍木 leans against its base. Beside it stands a 1,600-year-old camphor, and behind the main hall crowds a dense field of small stone shrines, among them a sacred stone known simply as Ishigami-san, \"the stone deity.\" Here the shrine's specialty — purification against all calamity — takes a physical, almost playful form: visitors receive a peach-shaped ball at the shrine office and throw it at the sacred stone to drive off misfortune and fix a wish. The gesture descends from one of Japan's oldest apotropaic images, the Kojiki episode in which the god Izanagi hurls peaches to repel the dead. Giant-tree worship, stone-deity worship, and the magic of the peach all settle into a single precinct, capped each autumn by the acrobatic, three-tier Mie lion dance, a designated prefectural cultural property.",
+    "highlights_en": [
+      "A roughly 2,200-year-old sacred juniper whose near-horizontal trunk creeps across the ground on wooden supports — the so-called 'flying-dragon tree'",
+      "A dense field of stone shrines behind the main hall, centered on the sacred stone Ishigami-san",
+      "The distinctive rite of hurling a 'peach ball' at the stone deity, rooted in the folklore of the peach as a charm against evil",
+      "A roughly 1,600-year-old camphor tree standing right beside the sacred juniper",
+      "The acrobatic three-tier Mie lion dance, a Saga prefectural Important Intangible Cultural Property, offered at the autumn grand festival"
+    ]
+  },
+  {
+    "id": "spot-250",
+    "name": "ゴトゴト石",
+    "name_kana": "ゴトゴトいし",
+    "category": "mystery",
+    "prefecture": "高知県",
+    "city": "高知市",
+    "address": "〒781-3221 高知県高知市土佐山桑尾",
+    "lat": 33.642496,
+    "lng": 133.504106,
+    "status": "現存（2022年11月のいたずら以降は揺れない状態）",
+    "fee": "無料",
+    "hours": "見学自由（通年・常時）",
+    "official_url": "https://www.city.kochi.kochi.jp/site/kanko/gotogotoishi.html",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%88%E3%82%B4%E3%83%88%E7%9F%B3",
+      "https://kochi-tabi.jp/search_spot_sightseeing.html?id=1777",
+      "https://www.mapple.net/spot/39000575/"
+    ],
+    "summary": "高知市土佐山桑尾の杉木立に鎮座する、高さ約1.5〜2m・重さ数トンとされる巨石。下の台石の上に微妙な均衡で乗っており、手で押すと「ゴトゴト」と音を立てて大きく揺れるのに、落ちそうで決して落ちないという奇石として知られる。子どもの力でも揺らせるほど敏感に動くが転倒しない不安定均衡の妙から、「落ちない＝合格する・当選する」と結びつけられ、受験生や選挙を控えた政治家が祈願に訪れる信仰の対象となった。地元桑尾地区では古くから守り神として親しまれ、しめ縄が掛けられ案内板も設置されている。旧土佐山村の広報誌に記載が現れるのは1984年で、それ以前の由来や設置経緯は役場にも記録がなく謎とされる。2022年11月のいたずら行為により現在は揺れなくなっているが、巨石と祈願の場としては変わらず見学できる。",
+    "highlights": [
+      "数トンの巨石が台石の上に絶妙な均衡で乗り、しめ縄を掛けられて杉林に鎮座する異様な造形",
+      "子どもでも揺らせるほど敏感に動くのに決して落ちないという不安定均衡の奇観（本来の状態）",
+      "「落ちない石」の語呂から受験合格・選挙当選を願う絵馬・祈願が集まる民間信仰の現場"
+    ],
+    "from_kameyama": "車で約3時間40分（亀山ICから新名神・伊勢湾岸道・神戸淡路鳴門道・徳島道・高知道経由で高知ICまで約3時間、高知ICから県道44・16・33号で土佐山方面へ約40分の山道）。四国・高知の山間部で亀山からはかなり遠い。",
+    "name_en": "Gotogoto-ishi (the Rocking Stone)",
+    "prefecture_en": "Kochi Prefecture",
+    "city_en": "Kochi City",
+    "summary_en": "Deep in a cedar grove in the mountains of Kuwao, Tosayama, Kochi City, a boulder roughly 1.5 to 2 meters tall and said to weigh several tons rests on a base rock through a single delicate point of contact. Push it and the multi-ton mass rocks back and forth with an audible \"goto-goto,\" tilting as if it must surely topple — and yet it never falls. A child can set it swaying, but nothing can bring it down. From that marvel of unstable equilibrium grew a peculiar folk belief: because the stone \"never falls,\" exam candidates come to pray that they will not \"fall\" their tests, and politicians facing elections come to pray that they will win. The local Kuwao district has long cherished it as a guardian deity, draping it with a sacred straw rope (shimenawa) and tending an information board beside it. The oldest record of its existence is a 1984 village newsletter; how and why such a stone came to balance there is unknown even to the town office, and remains a genuine mystery. In November 2022 an act of vandalism left the stone unable to rock, and it has stood still ever since — but as a great balancing boulder and a place of prayer, it can still be freely visited.",
+    "highlights_en": [
+      "A several-ton boulder balanced on a base rock at an improbable angle, draped with a sacred shimenawa rope and standing in a quiet cedar forest — an uncanny natural sculpture",
+      "The marvel of unstable equilibrium: a stone so sensitive that a child could rock it, yet so balanced it would never topple (in its original state)",
+      "A living site of folk belief, where the pun on the 'stone that never falls' draws prayers and votive offerings for passing exams and winning elections"
+    ]
+  },
+  {
+    "id": "spot-251",
+    "name": "八百比丘尼の塔（賀茂神社石造層塔）",
+    "name_kana": "やおびくにのとう（かもじんじゃせきぞうそうとう）",
+    "category": "mystery",
+    "prefecture": "高知県",
+    "city": "須崎市",
+    "address": "〒785-0009 高知県須崎市多ノ郷甲1780（賀茂神社境内）",
+    "lat": 33.411674,
+    "lng": 133.277258,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "終日参拝可（境内・常時拝観可）",
+    "official_url": "https://www.city.susaki.lg.jp/life/detail.php?hdnKey=182",
+    "reference_urls": [
+      "https://www.city.susaki.lg.jp/life/detail.php?hdnKey=182",
+      "https://okushimanto.jp/tourism/0047",
+      "https://chabon.exblog.jp/33258293/",
+      "https://kochi-tabi.jp/search_spot.html?id=16473"
+    ],
+    "summary": "高知県須崎市多ノ郷の賀茂神社境内、一の鳥居のかたわらに立つ花崗岩製の石造層塔。総高4.3メートル、基礎は縦横48センチの立方体で、種子（梵字）を四面に薬研掘りする。種子の彫りや屋根の反りの特徴から鎌倉後期の造立とされ、高知県内では最古かつ唯一の石造層塔として、平成14年（2002年）に高知県保護有形文化財に指定された。現在は十二重だが、本来は十三重で、上部の双輪・請花・伏鉢・露盤を含む一層を欠くと考えられている。地元では「八百比丘尼の塔」と呼ばれ、人魚の肉を食べて八百歳まで生きたという八百比丘尼伝説と結びつけられるが、伝説は造立後に後付けされたものと考えられている。仏教の供養塔という本来の性格と、不老長寿伝説という民俗的想像力が一基の石塔に重なる点に特色がある。",
+    "highlights": [
+      "鳥居脇に屹立する総高4.3mの花崗岩製層塔（十二重・本来は十三重）",
+      "四面に薬研掘りされた種子（梵字）と、鎌倉後期らしい屋根の緩やかな反り",
+      "高知県下最古かつ唯一の石造層塔という稀少性",
+      "供養塔が「人魚を食べた尼」の八百比丘尼伝説を背負うという民俗的二重性"
+    ],
+    "from_kameyama": "車で約4時間40分（東名阪・新名神→明石海峡大橋経由で四国へ、高知自動車道・須崎東ICから約10分）。公共交通はJR亀山→名古屋→（新幹線・特急乗継）→JR多ノ郷駅、合計約6時間。四国・高知県と遠隔のため車での日帰りは負担が大きく、高知泊が現実的。",
+    "name_en": "Tower of Yao Bikuni (Kamo Shrine Stone Tiered Pagoda)",
+    "prefecture_en": "Kochi Prefecture",
+    "city_en": "Susaki City",
+    "summary_en": "Beside the first torii in the grounds of Kamo Shrine in Tano, Susaki City, Kochi Prefecture, stands a granite tiered stone pagoda 4.3 meters tall, its base a 48 cm cube, with Sanskrit seed-syllables incised into all four faces of the core. The carving of the seed-syllables and the curve of the roofs date it to the late Kamakura period, and as the oldest — and only — stone tiered pagoda in Kochi Prefecture it was designated a Prefecture Protected Tangible Cultural Property in 2002. It now has twelve tiers, but is thought to have originally been thirteen, missing the topmost tier with its finial rings, lotus seat, inverted bowl, and base plate. Locally it is called the \"Tower of Yao Bikuni\" and tied to the legend of a nun who ate mermaid flesh and lived eight hundred years — though scholars consider the legend a later addition to the pagoda. Its appeal lies in the way a single stone tower carries both its original character as a Buddhist memorial pagoda and the folkloric imagination of an immortality legend.",
+    "highlights_en": [
+      "A 4.3 m granite tiered pagoda rising beside the torii (now twelve tiers; originally thirteen)",
+      "Sanskrit seed-syllables incised in yagen-bori on all four faces, with the gentle roof curvature typical of the late Kamakura period",
+      "The rarity of being the oldest and only stone tiered pagoda in Kochi Prefecture",
+      "A folkloric duality in which a Buddhist memorial pagoda carries the Yao Bikuni legend of a 'nun who ate a mermaid'"
+    ]
+  },
+  {
+    "id": "spot-252",
+    "name": "黒神埋没鳥居（腹五社神社）",
+    "name_kana": "くろかみまいぼつとりい はらごしゃじんじゃ",
+    "category": "mystery",
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "address": "〒891-1401 鹿児島県鹿児島市黒神町647（黒神中学校横）",
+    "lat": 31.596286,
+    "lng": 130.7054,
+    "status": "現存（県指定天然記念物）",
+    "fee": "無料",
+    "hours": "常時見学可（屋外・無休）",
+    "official_url": "https://www.city.kagoshima.lg.jp/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E8%85%B9%E4%BA%94%E7%A4%BE%E7%A5%9E%E7%A4%BE",
+      "https://www.city.kagoshima.lg.jp/kankou/kankobunka/kanko/spot/spot/sakurajima/torii.html",
+      "https://kagoweb.net/spot/2773/"
+    ],
+    "summary": "大正3年（1914）の桜島大正噴火で、火山灰と軽石に埋もれた腹五社神社の鳥居。元は高さ約3mの石造鳥居だが、上部約1mを残してほぼ埋没した災害遺構。戦後、発掘せず『記憶の継承』のため現地保存され、1958年に鹿児島県天然記念物に指定された。",
+    "highlights": [
+      "笠木と貫だけを地表に残し、本来3mの鳥居がほぼ埋没した異様な姿",
+      "火山灰・軽石の堆積層に直接立つ、噴火災害の生々しい痕跡",
+      "発掘せず『記憶の継承』のためにあえて埋まったまま保存された判断"
+    ],
+    "from_kameyama": "鉄道＋フェリーで現実的に1日がかり。新幹線で名古屋〜鹿児島中央（約3時間40分）、鹿児島港から桜島フェリー（約15分）、桜島港から車・路線バスで黒神まで約30分。",
+    "name_en": "Kurokami Buried Torii (Haragosha Shrine)",
+    "prefecture_en": "Kagoshima Prefecture",
+    "city_en": "Kagoshima City",
+    "summary_en": "On January 12, 1914, the great Taisho eruption of Sakurajima buried much of the village of Kurokami under pumice and ash within hours. Among the structures swallowed was the stone torii of Haragosha Shrine — originally about three meters tall, now reduced to roughly one meter of visible stone, its lintel and crossbeam resting almost at ground level atop a thick layer of solidified volcanic debris. After the war, residents began to dig it out, but the village head ordered the excavation stopped: the torii, he decided, should remain buried as a permanent reminder of the volcano's power. That choice turned a disaster ruin into one of Japan's earliest examples of deliberate in-place preservation. Designated a Natural Monument of Kagoshima Prefecture in 1958, the gate stands today beside Kurokami Junior High School, where it doubles as a disaster-education landmark. It is a quietly unsettling sight: the threshold to a sacred precinct, half-erased by the earth itself, on an island where the volcano is still very much alive.",
+    "highlights_en": [
+      "A three-meter torii reduced to a one-meter stub — only the lintel and crossbeam remain above the hardened volcanic deposit",
+      "The gate stands directly on the 1914 ashfall layer, a raw and legible trace of the eruption",
+      "Deliberately left buried rather than excavated, as a chosen act of preserving disaster memory"
+    ]
+  },
+  {
+    "id": "spot-253",
+    "name": "糸碕神社",
+    "name_kana": "いとさきじんじゃ",
+    "category": "folk",
+    "prefecture": "広島県",
+    "city": "三原市",
+    "address": "〒729-0324 広島県三原市糸崎8丁目10-1",
+    "lat": 34.384861,
+    "lng": 133.116111,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "境内自由（常時参拝可）",
+    "official_url": "https://itosakijinja.jp/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E7%B3%B8%E7%A2%95%E7%A5%9E%E7%A4%BE",
+      "https://www.mihara-kankou.com/sightseeing/3163",
+      "https://www.sora-michi-minato.jp/spot/315"
+    ],
+    "summary": "伝・天平元年（729）創建と伝わる広島県内有数の古社（旧称・糸崎八幡宮）。神功皇后が船を繋いで水を求めたという『御調井戸』の伝承を持ち、地名『御調』『糸崎』の由来とされる。境内には樹高約30m・幹囲約13m・推定樹齢約500年の大楠がそびえ、広島県内最大級の巨樹として昭和37年に天然記念物に指定されている。",
+    "highlights": [
+      "樹高約30m・幹囲約13m・推定樹齢約500年の広島県最大級の大楠",
+      "神功皇后伝承を伝える『御調井戸』と、地名『御調』『糸崎』の起源",
+      "天平元年（729）創建と伝わる県内有数の古社の社叢"
+    ],
+    "from_kameyama": "車で約4時間（山陽道・本郷IC経由、約330km）。鉄道なら新幹線で名古屋〜三原（約2時間40分）、三原駅から糸崎方面へ約10〜16分。",
+    "name_en": "Itosaki Shrine",
+    "prefecture_en": "Hiroshima Prefecture",
+    "city_en": "Mihara City",
+    "summary_en": "Founded, by tradition, in the year 729, Itosaki Shrine is one of Hiroshima's oldest, set in the Inland Sea port town of Itozaki. Its legend reaches back into Japan's myth-history: Empress Jingu is said to have moored her warships in the bay here and drawn water from a well, and that well — the Mitsugi-i — is held to be the origin of both the old district name 'Mitsugi' and, through 'Idozaki' (well cape), the place name 'Itozaki' itself. The shrine's founding story thus quietly named the land around it. But the unmissable presence in the precinct is the great camphor: roughly 30 meters tall, some 13 meters around at chest height, and estimated at about 500 years old, it is reckoned the largest camphor in Hiroshima Prefecture and the third largest in the entire Chugoku-Shikoku region. Designated a Natural Monument in 1962, the tree stands beside the worship hall like a living monument, its canopy dwarfing the architecture and rooting centuries of legend, sacred-tree worship, and place-name origin in a single shaded courtyard.",
+    "highlights_en": [
+      "A great camphor some 30 m tall and 13 m around — among the largest in Hiroshima Prefecture, beside the worship hall",
+      "The Mitsugi Well, tied to the Empress Jingu legend and to the origin of the names 'Mitsugi' and 'Itozaki'",
+      "The grove of one of Hiroshima's oldest shrines, founded by tradition in 729"
+    ]
+  },
+  {
+    "id": "spot-254",
+    "name": "青峯山正福寺",
+    "name_kana": "あおみねさん しょうふくじ",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "鳥羽市",
+    "address": "三重県鳥羽市松尾町519",
+    "lat": 34.410389,
+    "lng": 136.826528,
+    "status": "現存",
+    "fee": "境内無料",
+    "hours": "境内自由（社務所・授与所は日中）",
+    "official_url": "https://www.toba.gr.jp/sightseeing/2709/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E6%AD%A3%E7%A6%8F%E5%AF%BA_(%E9%B3%A5%E7%BE%BD%E5%B8%82)",
+      "https://www.toba.gr.jp/sightseeing/2709/",
+      "https://www.kankomie.or.jp/event/37663"
+    ],
+    "name_en": "Aominesan Shofukuji",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Toba City",
+    "summary_en": "Perched near the 336-meter summit of Mt. Aomine, this head temple of the Koyasan Shingon school enshrines an Eleven-faced Kannon and has, for centuries, drawn fervent devotion from fishermen and seafarers—not only around Ise-Shima and Ise Bay but from Hokkaido to Kyushu. A belief that \"those who worship at Aomine are spared from storms\" spread far and wide; legend tells of a golden Buddha that appeared riding on the back of a whale from the sea off Osatsu, with a \"whale stone\" said to be its petrified remains. The temple's great event is the Ofuna Matsuri on the 18th day of the first lunar month, when hundreds of brilliantly colored fishing flags dedicated by boats across Japan fill the precincts—a spectacle that turns a deep-mountain temple into something resembling a bustling harbor. Cultural relics such as the Great Gate (1830) and a seven-meter stone perpetual light (1837) attest to the prosperity of the shipping trade at its height.",
+    "highlights_en": [
+      "At the Ofuna Matsuri, hundreds of fishing flags dedicated by boats nationwide fill the grounds in a riot of color",
+      "A maritime-faith sacred site that sits near a 336-meter mountain summit—an unexpected fusion of sea worship and deep-mountain temple",
+      "The legend of a golden Buddha that arrived on a whale's back, and the petrified \"whale stone\"",
+      "The Great Gate of 1830 and a roughly seven-meter perpetual light of the Tenpo era"
+    ]
+  },
+  {
+    "id": "spot-255",
+    "name": "敢國神社",
+    "name_kana": "あえくにじんじゃ",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "伊賀市",
+    "address": "三重県伊賀市一之宮877",
+    "lat": 34.787367,
+    "lng": 136.163939,
+    "status": "現存",
+    "fee": "境内無料",
+    "hours": "境内自由（社務所は日中）",
+    "official_url": "https://www.aekuni.jp/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E6%95%A2%E5%9C%8B%E7%A5%9E%E7%A4%BE",
+      "https://www.kankomie.or.jp/spot/2965",
+      "https://www.igaportal.co.jp/special/24088"
+    ],
+    "name_en": "Aekuni Shrine",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Iga City",
+    "summary_en": "The ichinomiya (first-ranked shrine) of Iga Province, Aekuni Shrine is said by its own tradition to have been founded in 658, and is a Shikinai-taisha listed in the ancient Engishiki. Its chief deity is Obiko-no-mikoto, with Sukunabikona and Kanayamahime as associated deities; behind it rises the conical sacred mountain of Nangu (\"Iga's Little Fuji\"), and sacred stones such as the Momotaro Rock stand in the grounds. Its most distinctive feature is the shishi-kagura (lion sacred-dance), said to originate in the Keicho era (1596–1615) and designated an Intangible Folk Cultural Property of Mie Prefecture as the prototype of lion dances throughout Iga. The repertoire includes \"Hiromae,\" \"Shiho-kagura,\" \"Godan-kagura,\" and \"Ken no Mai,\" and the \"Hanataka\" dance—in which a tengu teases the lion—is known as a humorous piece that draws laughter. The dance is dedicated at the Maizome Festival on January 3, the Maiage Festival on April 17, and the regular festival on December 5. The shrine is open year-round and serves as a base for pilgrimages along the Iga Ninja temple-and-shrine circuit.",
+    "highlights_en": [
+      "Shishi-kagura that preserves the prototype of lion dances across Iga (Mie Intangible Folk Cultural Property)",
+      "The rare and humorous \"Hanataka\" dance, in which a tengu teases the lion",
+      "The conical sacred mountain Nangu (\"Iga's Little Fuji\") behind the shrine and sacred stones such as the Momotaro Rock",
+      "The dignity of an ichinomiya ancient shrine and the worship hall standing atop stone steps"
+    ]
+  },
+  {
+    "id": "spot-256",
+    "name": "荒神山観音寺",
+    "name_kana": "こうじんやま かんのんじ",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "鈴鹿市",
+    "address": "三重県鈴鹿市高塚町1777",
+    "lat": 34.902912,
+    "lng": 136.514938,
+    "status": "現存",
+    "fee": "境内無料（本尊は秘仏）",
+    "hours": "境内自由（寺務所は日中）",
+    "official_url": "https://www.kojinyama.jp/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E8%A6%B3%E9%9F%B3%E5%AF%BA_(%E9%88%B4%E9%B9%BF%E5%B8%82%E9%AB%98%E5%A1%9A%E7%94%BA)",
+      "https://www.kankomie.or.jp/spot/2988",
+      "https://isekannon.jp/otera_list/kouzinyama/",
+      "https://www.kojinyama.jp/"
+    ],
+    "name_en": "Kojinyama Kannonji",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Suzuka City",
+    "summary_en": "An old temple of the Omuro branch of the Shingon school, with the mountain name Kojinyama and a hidden Eleven-faced Kannon as its principal image. Tradition holds it began in 812 when Kobo Daishi enshrined the spirit of Yamato Takeru as a Buddhist image and named the mountain \"Kojiyama,\" and that in 1087 the priest Horyo, following a revelation of the Kannon, found an Eleven-faced Kannon beneath a great cypress and built a hall to house it. It is the 24th station of the Ise Saigoku Thirty-three Kannon Pilgrimage. Popularly, however, it is famous through kodan storytelling, rokyoku ballads, and films as the setting of the \"Kojinyama Quarrel\" of 1866—said to be the largest brawl in yakuza history—in which Kira Nikichi of the Shimizu Jirocho gang took part. Kasuga no Tsubone, wet nurse of the third shogun Iemitsu, is said to have been a devout patron, donating four Buddhist images and a bronze bell engraved with her name and Tokugawa-family posthumous names. A fire-walking rite is held at the spring festival on April 7–8.",
+    "highlights_en": [
+      "An unusual history as the setting of the Kojinyama Quarrel (1866), told as 'the largest brawl in yakuza history'",
+      "A bronze bell said to have been donated by Kasuga no Tsubone, engraved with Tokugawa posthumous names and her own",
+      "The mountain name 'Kojinyama' rooted in Kobo Daishi's enshrinement of Yamato Takeru, and the hidden Eleven-faced Kannon",
+      "The fire-walking rite held at the spring festival (April 7–8)"
+    ]
+  },
+  {
+    "id": "spot-257",
+    "name": "宝珠院（上津不動）",
+    "name_kana": "ほうじゅいん こうづふどう",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "伊賀市",
+    "address": "三重県伊賀市北山1424",
+    "lat": 34.689693,
+    "lng": 136.224701,
+    "status": "現存",
+    "fee": "境内無料（修行・写経等は別途志納）",
+    "hours": "境内自由（行事・受付は日中）",
+    "official_url": "http://www.iga-shikoku88.com/about-20housyuin.html",
+    "reference_urls": [
+      "https://hotokami.jp/area/mie/Hmyty/Hmytytk/Dspa/78087/",
+      "http://www.iga-shikoku88.com/about-20housyuin.html",
+      "https://www.kankomie.or.jp/event/42770",
+      "https://www.chunichi.co.jp/article/978796"
+    ],
+    "name_en": "Hoshuin (Kozu Fudo)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Iga City",
+    "summary_en": "A yamabushi (mountain-ascetic) temple of the Buzan branch of the Shingon school, with the mountain name Kozusan and the Great Sacred Fudo Myoo as its principal image. Affectionately known as \"Kozu Fudo,\" it is the 20th station of the Iga Shikoku Eighty-eight Sacred Sites pilgrimage. Its defining feature is that mountain-ascetic training is still practiced here in living form: at the \"Kozu Fire Festival\" on the fourth Sunday of October each year, ascetics walk barefoot over a blazing goma altar in a fire-walking austerity (saito-goma rite), and ordinary worshippers, too, may dedicate goma sticks and experience the fire-walk. What is unusual is that it also opens various forms of training to the public—sutra-copying on the third Sunday of each month, waterfall austerities in May and October, and more. A procession of ascetics bearing the Fudo Myoo image in its portable shrine parades through the grounds, praying for good health, the dispelling of misfortune, and the fulfillment of wishes. It is a sacred site where, in the mountains of Iga—homeland of the ninja—the tradition of Shugendo is carried on as a present-day experiential event.",
+    "highlights_en": [
+      "At the Kozu Fire Festival, ascetics walk barefoot over blazing flames in a fire-walking austerity (saito-goma rite)",
+      "A procession of ascetics bearing the Fudo Myoo image in its portable shrine through the grounds",
+      "A rare 'open' Shugendo temple offering sutra-copying, waterfall austerities, and fire-walking to the public",
+      "Faith as the 20th station of the Iga Shikoku 88, set in the mountains of the ninja's homeland"
+    ]
+  },
+  {
+    "id": "spot-258",
+    "name": "佐田西出 天王さんのお社塔",
+    "name_kana": "さたにしで てんのうさんのおやしろとう",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "多気郡明和町",
+    "address": "三重県多気郡明和町大字佐田字西出",
+    "lat": 34.563709,
+    "lng": 136.625793,
+    "status": "現存（毎年再建・継承中）",
+    "fee": "無料（屋外・常時見学可）",
+    "hours": "屋外のため見学自由",
+    "official_url": "https://www.town.meiwa.mie.jp/main/soshiki/saikuuato/bunkazaik/shiteibunkazai/1585879681776.html",
+    "reference_urls": [
+      "https://www.town.meiwa.mie.jp/main/soshiki/saikuuato/bunkazaik/shiteibunkazai/1585879681776.html",
+      "https://online.bunka.go.jp/heritages/detail/409255",
+      "https://bunka.nii.ac.jp/heritages/detail/409255"
+    ],
+    "summary": "明和町佐田の西出集落の路傍に立つ、麦藁と竹だけで毎年つくり替えられる小さな祠状の構造物。地元では牛頭天王を祀る「天王さん」と呼ばれ、津島神社の神札を内部に祀る。孟宗竹四本を約六十センチ間隔で地面に据えて柱とし、高さ約二メートル、その上に毎年新しく葺く麦藁屋根を載せる。屋根には三本の鰹木が表され、内部高さ一・三メートルほどに竹を組んだ棚を設けて祠とする。毎年七月十四日の天王祭を前に、集落の男性全員（約三十世帯・三十人）が前年のお社を見本に分解・複製して建て直す。屋根は毎年、竹の柱は二年ごとに新調される。常設の社殿ではなく、一年限りの素材で社を仮設し続けるという更新の作法そのものが信仰の核であり、平成三十一年（二〇一九）に明和町の無形民俗文化財に指定された。",
+    "highlights": [
+      "麦藁と竹だけで組まれた高さ約2メートルの祠状構造物が、住宅地のT字路の突き当たりに忽然と立つ意外性",
+      "毎年葺き替えられる麦藁屋根に三本の鰹木が表され、簡素な素材で神社建築の意匠を写しとっている造形",
+      "前年のお社を分解して見本とし、集落の男性全員で複製・再建するという『一年限りの社』の更新作法"
+    ],
+    "from_kameyama": "車で約45〜55分（名阪国道・伊勢自動車道経由で松阪・明和方面へ、佐田地区へ。最寄りは近鉄山田線で斎宮駅方面）",
+    "name_en": "Sata Nishide Tennō-san no Oyashiro-tō (Tennō-sama's Shrine Tower)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Meiwa Town, Taki District",
+    "summary_en": "Standing by the roadside in the Nishide hamlet of Sata, Meiwa Town, is a small shrine-like structure remade each year entirely from wheat straw and bamboo. Locally called 'Tennō-san,' it enshrines a deity of pestilence-warding (Gozu Tennō) with a talisman from Tsushima Shrine kept inside. Four mōsō bamboo poles, set about 60 cm apart, serve as pillars; the structure stands roughly two meters tall, topped by a wheat-straw roof re-thatched every year and bearing three katsuogi (decorative log ornaments symbolizing shrine architecture). Inside, at about 1.3 meters' height, a shelf of woven bamboo forms the sanctuary. Each year before the Tennō Festival on July 14, all the men of the hamlet — about 30 households, 30 people — dismantle the previous year's structure to use as a model and rebuild it from scratch; the roof is renewed annually and the bamboo pillars every two years. Rather than a permanent shrine, what lies at the heart of the faith is this very act of perpetually re-erecting a shrine from one-year-only materials. It was designated an Intangible Folk Cultural Property of Meiwa Town in 2019.",
+    "highlights_en": [
+      "A roughly two-meter shrine-like structure built only from wheat straw and bamboo, standing unexpectedly at the dead-end of a T-junction in a residential neighborhood",
+      "An annually re-thatched straw roof bearing three katsuogi — reproducing the motifs of shrine architecture from the simplest of materials",
+      "The renewal custom of a 'one-year-only shrine': dismantling the previous year's structure as a model and rebuilding it with all the men of the hamlet"
+    ]
+  },
+  {
+    "id": "spot-259",
+    "name": "波切神社 鯨石",
+    "name_kana": "なきりじんじゃ くじらいし",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "志摩市",
+    "address": "〒517-0603 三重県志摩市大王町波切1 波切神社境内",
+    "lat": 34.277,
+    "lng": 136.8992,
+    "status": "現存",
+    "fee": "無料（境内自由）",
+    "hours": "境内自由（社務所対応は日中）",
+    "official_url": "https://www.kankomie.or.jp/spot/2943",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/spot/2943",
+      "https://ja.wikipedia.org/wiki/%E6%B3%A2%E5%88%87%E7%A5%9E%E7%A4%BE_(%E5%BF%97%E6%91%A9%E5%B8%82)",
+      "https://www.jalan.net/kankou/spt_24522ag2130015304/"
+    ],
+    "summary": "波切神社は、志摩半島の先端・大王崎の漁師町、志摩市大王町波切に鎮座する古社で、その境内の一隅に「鯨石（くじらいし）」と呼ばれる卵型の丸石が祀られている。伝承によれば、かつて波切でも捕鯨が行われていた江戸時代初期、漁師たちが捕らえた鯨を解体していたところ、鯨の体内から大きな卵型の石が現れて漁師たちを驚かせた。神のたたりを恐れた漁師たちは、その石を鯨石として波切神社に祀り、捕鯨の安全と豊漁を祈ったと伝えられる。",
+    "highlights": [
+      "鯨の体内（腹）から出てきたと伝わる、人の頭ほどの卵型の丸石「鯨石」",
+      "神のたたりを恐れて石を祀ったという、捕鯨の畏れと信仰を物語る由来",
+      "境内の一角に台座に据えられ、傍らに「鯨石」と刻んだ標石とともに祀られる姿",
+      "大王崎の巨人伝説に由来する「わらじ祭」（三重県無形民俗文化財）と一体の漁師町信仰"
+    ],
+    "from_kameyama": "車で約2時間（東名阪・伊勢自動車道経由で伊勢西ICまで、その後国道167号・260号で大王町波切へ）。鉄道なら近鉄で鵜方駅まで約2時間、駅からバス・タクシーで大王崎方面へ約20分。",
+    "name_en": "Nakiri Shrine Whale Stone (Kujira-ishi)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Shima City",
+    "summary_en": "Nakiri Shrine stands in the fishing town of Nakiri at Daiosaki, the tip of the Shima Peninsula, in Shima City, Mie Prefecture, and in a corner of its grounds is enshrined an egg-shaped round stone called the \"whale stone\" (kujira-ishi). According to tradition, in the early Edo period—when whaling was still carried out at Nakiri—fishermen butchering a captured whale were astonished when a large egg-shaped stone emerged from inside the whale's body. Fearing divine retribution, they enshrined it at Nakiri Shrine as the whale stone and prayed for safe whaling and an abundant catch. Its very origin—said to have come from a whale's belly—speaks to the awe and faith of people who lived by the sea. The shrine is also known for its Waraji Festival (\"Nakiri no Waraji-biki,\" a Mie Prefecture Intangible Folk Cultural Property), derived from a legend of driving off the giant Dandara Hoshi of Daio Island with a giant straw sandal; together with the whale stone, it carries into the present the religious world of a fishing town that has faced both the threats and the bounty of the sea.",
+    "highlights_en": [
+      "The whale stone, an egg-shaped round stone about the size of a human head, said to have come from inside a whale's body (its belly)",
+      "An origin that speaks of the awe and faith of whaling: the stone was enshrined out of fear of divine retribution",
+      "Enshrined in a corner of the grounds, set on a pedestal beside a marker stone inscribed '鯨石' (whale stone)",
+      "Fishing-town faith inseparable from the Waraji Festival (a Mie Prefecture Intangible Folk Cultural Property), derived from the giant legend of Daiosaki"
+    ]
+  },
+  {
+    "id": "spot-260",
+    "name": "加佐登神社（白鳥塚古墳・ヤマトタケル墓伝承）",
+    "name_kana": "かさどじんじゃ",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "鈴鹿市",
+    "address": "〒513-0809 三重県鈴鹿市加佐登町2010",
+    "lat": 34.9,
+    "lng": 136.523,
+    "status": "現存",
+    "fee": "無料（境内自由）",
+    "hours": "境内自由（社務所対応は日中）",
+    "official_url": "https://www.kasado-jinja.com/",
+    "reference_urls": [
+      "https://www.kasado-jinja.com/",
+      "https://ja.wikipedia.org/wiki/%E5%8A%A0%E4%BD%90%E7%99%BB%E7%A5%9E%E7%A4%BE",
+      "https://www.kankomie.or.jp/spot/1934"
+    ],
+    "summary": "加佐登神社は、鈴鹿市加佐登町に鎮座し、日本武尊（ヤマトタケル）を主祭神とする神社である。古くは「御笠殿社」と称し、尊が能褒野で命を落とす間際まで持っていたと伝わる笠と杖をご神体として祀る点に最大の特色がある。神社の北西に隣接する白鳥塚古墳は、地元では日本武尊の墓と伝えられ、葬られた尊の霊が白鳥となって都へ飛び去ったという白鳥伝説の地とされてきた。宮内庁が治定する正式な能褒野陵（亀山市）とは別に、加佐登一帯には複数の塚が点在し、ヤマトタケル終焉と昇天の物語を民間伝承として今に伝える。",
+    "highlights": [
+      "武器ではなく、旅の笠と杖をご神体として祀るという珍しい祭祀のかたち",
+      "葬られた尊の霊が白鳥となって飛び去ったと伝わる白鳥塚古墳が神社に隣接",
+      "宮内庁治定の能褒野陵とは別に伝わる「もうひとつのヤマトタケルの墓」という民間伝承地",
+      "円墳とされてきた墳丘が発掘で帆立貝式前方後円墳と判明した、伝承と考古の交差"
+    ],
+    "from_kameyama": "車で約20〜25分（国道1号・県道経由、約12km）。鉄道ならJR関西本線で亀山駅から加佐登駅まで約10分、加佐登駅から徒歩・タクシーで約20〜30分。",
+    "name_en": "Kasado Shrine (Shiratorizuka Tumulus / Yamato Takeru Tomb Tradition)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Suzuka City",
+    "summary_en": "Kasado Shrine stands in Kasado-cho, Suzuka City, with Yamato Takeru as its principal deity. Formerly called \"Mikasado-no-sha,\" its most distinctive feature is that it enshrines as its sacred objects the conical hat (kasa) and staff (tsue) said to have been held by Yamato Takeru until the moment of his death at Nobono on his way home from his eastern campaign. The Shiratorizuka (white-bird mound) tumulus adjoining the shrine to the northwest is locally said to be the tomb of Yamato Takeru, and has been regarded as the site of the white-bird legend handed down since the Kojiki and Nihon Shoki, in which the buried hero's spirit flew off to the capital as a white bird. Separate from the official Nobono Mausoleum designated by the Imperial Household Agency (in Kameyama City), the Kasado area is dotted with several mounds—including Shiratorizuka and mounds said to enshrine his robe and crown—carrying into the present, as folk tradition, the story of Yamato Takeru's death and ascent. The humility of enshrining a traveler's hat and staff rather than weapons, and the archaeological fact that a mound once thought to be round proved on excavation to be a scallop-shaped keyhole tomb, give this place a singular field of force at the crossing of legend and history.",
+    "highlights_en": [
+      "A rare form of worship enshrining a traveler's hat and staff rather than weapons as the sacred objects",
+      "The Shiratorizuka tumulus, said to be where the buried hero's spirit flew off as a white bird, adjoins the shrine",
+      "A folk-tradition site of 'another tomb of Yamato Takeru,' standing apart from the Imperial Household Agency's designated Nobono Mausoleum",
+      "The crossing of legend and archaeology: a mound long thought round proved on excavation to be a scallop-shaped keyhole tomb"
+    ]
+  },
+  {
+    "id": "spot-261",
+    "name": "伊奈冨神社（七島池・獅子神楽）",
+    "name_kana": "いのうじんじゃ",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "鈴鹿市",
+    "address": "〒510-0204 三重県鈴鹿市稲生西2-24-20",
+    "lat": 34.840279,
+    "lng": 136.554459,
+    "status": "現存",
+    "fee": "境内無料（七島池・神楽の特別公開は時期により異なる）",
+    "hours": "境内自由（社務所受付 8:30〜17:00）",
+    "official_url": "https://inou-jinja.com/",
+    "reference_urls": [
+      "https://inou-jinja.com/",
+      "https://www.kankomie.or.jp/spot/2776",
+      "https://oniwa.garden/inou-shrine-garden-%E4%BC%8A%E5%A5%88%E5%86%A8%E7%A5%9E%E7%A4%BE%E5%BA%AD%E5%9C%92/",
+      "https://www.ise-oniwakaido.jp/boxa/inoujinja/"
+    ],
+    "summary": "鈴鹿市稲生に鎮座する古社で、稲生大神を祀る。前庭にあたる池泉「七島池」は丘陵裾の谷地形と湧水を活かして築かれた池泉庭園で、弘法大師空海が一夜で造ったとの伝承をもつ。出土したロクロ土師器皿などから少なくとも平安時代末に遡る可能性が指摘され、室町時代以前の庭園として三重県指定名勝となっている。もう一つの見どころが県指定無形民俗文化財「獅子神楽（獅子舞）」で、壬申の乱後に天武天皇が戦勝報賽として獣神を埋納した故事に由来すると伝わり、三年に一度の「舞年」に奉納される。境内にはムラサキツツジが群生し、初夏には花景でも知られる。民俗信仰・庭園史・芸能が一社に重なる、三重屈指の重層的な聖地である。",
+    "highlights": [
+      "黒装束の舞人と長い獅子幕がうねる「獅子神楽」（県指定無形民俗文化財）の奉納風景",
+      "弘法大師伝承をもつ池泉庭園「七島池」――平安末まで遡るとされる三重県指定名勝",
+      "三年に一度の「舞年」にだけ見られる古式の獣神奉納と、群生するムラサキツツジ"
+    ],
+    "from_kameyama": "車で約30分（名阪国道〜国道1号・県道経由、鈴鹿市稲生方面）。鉄道はJR関西本線・近鉄で河曲・玉垣方面へ出てバスまたはタクシー。",
+    "name_en": "Inou Shrine (Nanashima-ike Garden & Lion Kagura)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Suzuka City",
+    "summary_en": "An ancient shrine in the Inou district of Suzuka City, enshrining the deity Inou-no-Okami. Its forecourt pond, Nanashima-ike, is a spring-fed garden built into the valley terrain at the foot of a hill, carrying a legend that the monk Kobo Daishi created it in a single night. Excavated wheel-thrown earthenware suggests the pond dates back at least to the late Heian period, and as a pre-Muromachi work it is designated a Mie Prefectural Place of Scenic Beauty. The shrine's other treasure is its lion kagura (a Mie Prefectural Intangible Folk Cultural Property), said to descend from a post-war rite in which Emperor Tenmu buried a beast deity in thanks for victory, performed only in the \"dance year\" once every three years. Purple azaleas grow in profusion across the precincts, making it known for early-summer blossom as well. Here folk belief, garden history, and performing arts converge within a single sacred site.",
+    "highlights_en": [
+      "The lion kagura (prefectural intangible folk property): black-clad dancers and a long lion cloth surging across the dance ground",
+      "Nanashima-ike, a spring-fed garden with a Kobo Daishi legend — a prefectural Place of Scenic Beauty thought to reach back to the late Heian period",
+      "The archaic beast-deity offering seen only in the once-in-three-years 'dance year,' set among groves of purple azalea"
+    ]
+  },
+  {
+    "id": "spot-262",
+    "name": "都波岐奈加等神社",
+    "name_kana": "つばきなかとじんじゃ",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "鈴鹿市",
+    "address": "〒510-0225 三重県鈴鹿市一ノ宮町1181",
+    "lat": 34.90118,
+    "lng": 136.600479,
+    "status": "現存",
+    "fee": "境内無料",
+    "hours": "境内自由（社務所は日中。御朱印等は要確認）",
+    "official_url": "https://hotokami.jp/area/mie/Hmytm/Hmytmtk/Dmgmg/125159/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E9%83%BD%E6%B3%A2%E5%B2%90%E7%A5%9E%E7%A4%BE%E3%83%BB%E5%A5%88%E5%8A%A0%E7%AD%89%E7%A5%9E%E7%A4%BE",
+      "https://www.kankomie.or.jp/spot/2781",
+      "https://hotokami.jp/area/mie/Hmytm/Hmytmtk/Dmgmg/125159/"
+    ],
+    "summary": "鈴鹿市一ノ宮町に鎮座する古社で、伊勢国一宮を称する「都波岐神社」と式内社「奈加等神社」という本来別個の二社が、一つの社殿に相殿として祀られる極めて珍しい構造をもつ。伝承では雄略天皇23年、伊勢国造・高雄束命が勅を奉じて河曲県中跡里に二社を造営したのが創建とされ、明治期に両社が合併して現在の姿となった。御祭神は都波岐神社が猿田彦大神、奈加等神社が天椹野命・中筒之男命。天長年間には弘法大師（空海）が参籠して獅子頭二頭を奉納し、これが御神体として伝わる。伊勢国一宮の称号は椿大神社との間で「一宮論争」があり、一社のなかに二つの一宮級の信仰が同居する点が学術的にも興味深い。例祭には鈴鹿市無形文化財の中戸流獅子舞が奉納される。",
+    "highlights": [
+      "本来別個の二社（伊勢国一宮の都波岐神社＋式内・奈加等神社）が一つの社殿に同居する相殿構造",
+      "弘法大師が奉納したと伝わる獅子頭二頭を御神体とする由緒",
+      "例祭で奉納される鈴鹿市無形文化財「中戸流獅子舞」"
+    ],
+    "from_kameyama": "車で約25分（国道1号・県道経由、鈴鹿市一ノ宮方面）。鉄道はJR関西本線「河原田駅」が最寄り。",
+    "name_en": "Tsubaki-Nakato Shrine",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Suzuka City",
+    "summary_en": "An ancient shrine in Ichinomiya-cho, Suzuka City, with the rare structure of two originally separate shrines — Tsubaki Shrine, which claims to be the ichinomiya (first shrine) of Ise Province, and the Engishiki-listed Nakato Shrine — enshrined together as joint deities within a single hall. Tradition holds it was founded in the 23rd year of Emperor Yuryaku, when the Ise provincial governor built the two shrines on imperial command; they were merged into the present form in the Meiji era. The deities are Sarutahiko-no-Okami (Tsubaki) and Amenokununo-no-mikoto with Nakatsutsuo-no-mikoto (Nakato). In the Tencho era, Kobo Daishi (Kukai) is said to have made a retreat and dedicated two lion heads, which are handed down as the object of worship. The title of Ise first shrine is contested with Tsubaki Okami Yashiro — the \"ichinomiya dispute\" — making the coexistence of two ichinomiya-class cults in one shrine academically intriguing. The Nakado-ryu lion dance, a Suzuka City Intangible Cultural Property, is dedicated at the annual festival.",
+    "highlights_en": [
+      "Two originally separate shrines (the Ise first shrine Tsubaki and the Engishiki Nakato) coexisting as joint deities in a single hall",
+      "A pedigree centered on two lion heads said to have been dedicated by Kobo Daishi, kept as the object of worship",
+      "The Nakado-ryu lion dance (Suzuka City Intangible Cultural Property) dedicated at the annual festival"
+    ]
+  },
+  {
+    "id": "spot-263",
+    "name": "宇流冨志禰神社（能狂言面コレクション）",
+    "name_kana": "うるふしねじんじゃ",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "名張市",
+    "address": "〒518-0729 三重県名張市平尾3319",
+    "lat": 34.619057,
+    "lng": 136.093842,
+    "status": "現存",
+    "fee": "境内無料（能面の拝観は事前連絡・要相談）",
+    "hours": "境内自由（社務所は日中。能面拝観は要事前連絡）",
+    "official_url": "https://genbu.net/data/iga/urufusine_title.htm",
+    "reference_urls": [
+      "https://genbu.net/data/iga/urufusine_title.htm",
+      "https://www.kankomie.or.jp/spot/2806",
+      "https://jinja-net.jp/uruhusine-jinja/"
+    ],
+    "summary": "名張市平尾に鎮座する名張の総鎮守で、延喜式内社・宇流富志弥神社に比定される古社。主祭神は宇奈根命で、武甕槌命・經津主命ほか多くの神を合わせ祀る。最大の見どころは、神宝として伝来する能・狂言面のコレクションである。これらの面は伊賀上野藩主・藤堂家の藤堂邸から譲り受けたものと伝えられ、三重県の文化財に指定されている。藤堂家の能愛好を背景に城下の名社へと移った面群が、神社に伝わる例は全国的にも珍しい。秋の名張秋祭（10月）には市内各町のだんじりが繰り出し、当社に獅子神楽が奉納される。能面という武家文化の精華と、地域の祭礼が一社に重なる、芸能史・信仰史の両面で貴重な聖地である。",
+    "highlights": [
+      "藤堂家の藤堂邸から伝来した能・狂言面30数面（三重県文化財）という、神社蔵としては稀有なコレクション",
+      "名張の総鎮守としての風格ある社殿と境内",
+      "10月の名張秋祭に奉納される獅子神楽と、市内各町のだんじり"
+    ],
+    "from_kameyama": "車で約1時間（名阪国道〜国道165・368号、名張市街方面）。鉄道は近鉄大阪線「名張駅」が最寄り。",
+    "name_en": "Urufushine Shrine (Noh and Kyogen Mask Collection)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Nabari City",
+    "summary_en": "The tutelary shrine of Nabari, standing in Hirao, Nabari City, and identified with the Engishiki-listed Urufushiya Shrine. The chief deity is Unane-no-mikoto, enshrined together with Takemikazuchi, Futsunushi and many others. Its greatest treasure is a collection of Noh and Kyogen masks handed down as sacred property. These masks are said to have been received from the residence of the Todo family, lords of Iga-Ueno, and are designated cultural properties of Mie Prefecture. A mask collection that moved from a daimyo residence to the leading shrine of a castle town and survives intact at a shrine is rare nationwide. At the Nabari Autumn Festival (October), floats from each town parade and a lion kagura is dedicated here. A site where the refined flower of samurai culture and local festivity overlap within one shrine, it is precious for both performing-arts and religious history.",
+    "highlights_en": [
+      "More than thirty Noh and Kyogen masks (Mie Prefectural cultural property) said to derive from the Todo residence — a rare collection for a shrine to hold",
+      "A dignified worship hall and precincts befitting the tutelary shrine of Nabari",
+      "The lion kagura dedicated at the October Nabari Autumn Festival, with floats from each town"
+    ]
+  },
+  {
+    "id": "spot-264",
+    "name": "新大仏寺（俊乗坊重源・快慶大仏）",
+    "name_kana": "しんだいぶつじ",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "伊賀市",
+    "address": "〒518-1417 三重県伊賀市富永1238",
+    "lat": 34.779091,
+    "lng": 136.264389,
+    "status": "現存",
+    "fee": "宝蔵庫（大仏など）拝観 300円",
+    "hours": "9:00〜16:00",
+    "official_url": "https://www.shindaibutsu.or.jp/",
+    "reference_urls": [
+      "https://www.shindaibutsu.or.jp/",
+      "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%A4%A7%E4%BB%8F%E5%AF%BA",
+      "https://www.igaueno.net/?p=131",
+      "https://www.kankomie.or.jp/event/18166"
+    ],
+    "summary": "伊賀市富永にある真言宗智山派の古刹で、東大寺大仏再建を指揮した俊乗坊重源を開山とする「東大寺伊賀別所」として創建された。1196年、後鳥羽法皇の勅願により源頼朝の協力を得て建立され、東大寺への敬意から寺号に「新」の字を冠する。本尊は仏師・快慶作の盧舎那仏（如来）坐像で、高さ約5メートルの巨像。重要文化財に指定され、鎌倉新様式の力強い造形を今に伝える。重源が東大寺再建のために全国七カ所に設けた別所の一つで、当時の事業の広がりを物語る貴重な遺構である。山あいの静謐な境内に、東大寺大仏に連なる系譜の巨大仏が鎮座する点が、他に類を見ない見どころとなっている。",
+    "highlights": [
+      "仏師・快慶作、高さ約5メートルの盧舎那仏坐像（重要文化財）――東大寺大仏に連なる鎌倉新様式の巨像",
+      "東大寺大仏再建を指揮した俊乗坊重源を開山とする「東大寺伊賀別所」という由緒",
+      "山あいの静かな境内と、紅葉期の彩り"
+    ],
+    "from_kameyama": "車で約40分（名阪国道「中瀬IC」または「上野IC」経由、伊賀市富永方面）。鉄道は伊賀鉄道・近鉄からバス・タクシー。",
+    "name_en": "Shin-Daibutsu-ji Temple (Shunjobo Chogen & Kaikei's Great Buddha)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Iga City",
+    "summary_en": "An old Shingon Chizan-school temple in Tominaga, Iga City, founded as the \"Todai-ji Iga Bessho\" with Shunjobo Chogen — who directed the rebuilding of Todai-ji's Great Buddha — as its founding abbot. Built in 1196 by imperial wish of Cloistered Emperor Go-Toba with the cooperation of Minamoto no Yoritomo, its name carries the character \"shin\" (new) out of respect for Todai-ji. The principal image is a seated Rushana (Nyorai) Buddha by the sculptor Kaikei, a colossus about five meters tall. Designated an Important Cultural Property, it transmits the powerful forms of the Kamakura new style. It is one of seven branch sites Chogen established nationwide to rebuild Todai-ji, a precious relic that speaks to the reach of that undertaking. In the hush of a mountain valley sits a giant Buddha directly in the lineage of the Todai-ji Great Buddha — a sight without parallel in the region.",
+    "highlights_en": [
+      "A seated Rushana Buddha by the sculptor Kaikei, about five meters tall (Important Cultural Property) — a colossus in the Kamakura new style linked to the Todai-ji Great Buddha",
+      "The pedigree of the 'Todai-ji Iga Bessho,' founded by Shunjobo Chogen who led the rebuilding of the Todai-ji Great Buddha",
+      "A quiet valley temple precinct, especially colorful in the autumn-foliage season"
+    ]
+  },
+  {
+    "id": "spot-265",
+    "name": "産田神社",
+    "name_kana": "うぶたじんじゃ",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "熊野市",
+    "address": "〒519-4324 三重県熊野市有馬町1814",
+    "lat": 33.882172,
+    "lng": 136.077606,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "境内自由（社務所対応は不定）",
+    "official_url": "https://kumano-kanko.com/spot/ubuta-jinja/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E7%94%A3%E7%94%B0%E7%A5%9E%E7%A4%BE",
+      "https://www.mikumano.net/meguri/ubuta.html",
+      "https://tabi-mag.jp/me0011/"
+    ],
+    "summary": "三重県熊野市有馬町に鎮座する古社で、伊弉冉尊（いざなみのみこと）が火神・軻遇突智尊（かぐつち）をこの地で産んだとの伝承から「産田（うぶた）」の名をもつ。最大の特徴は本殿両側に残る古代祭祀の場「神籬（ひもろぎ）」の跡で、社殿造営以前の自然神祀りの形をいまに伝える稀少な遺構として、1964年に「産田神社祭祀遺跡」として文化財指定を受けている。社頭には熊野の七里御浜から運ばれた白石が敷かれ、清浄な祭祀空間を形づくる。母神を祀ることから安産・子授け信仰の聖地とされ、参拝時に拾った石の形で生まれる子の性別を占う風習が伝わる。毎年1月10日の大祭では「奉飯（ほうはん）の儀」が行われ、骨付きのさんま寿司が供される。さんま寿司発祥の地ともいわれる。",
+    "highlights": [
+      "本殿左右に残る古代祭祀『神籬（ひもろぎ）』の石組跡 — 社殿以前の神祀りの形をとどめる稀少遺構",
+      "熊野・七里御浜の白石を敷きつめた清浄な社頭の祭祀空間",
+      "拾った石の形（丸=女児／細長=男児）で性別を占う安産信仰の風習",
+      "1月10日大祭『奉飯の儀』で供される骨付きさんま寿司 — さんま寿司発祥伝承"
+    ],
+    "from_kameyama": "車で約2時間30分（東名阪→伊勢道→紀勢道・熊野尾鷲道路 経由、熊野市街から有馬方面へ）。鉄道はJR紀勢本線「熊野市駅」からバス／タクシーで約10分",
+    "name_en": "Ubuta Shrine",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Kumano City",
+    "summary_en": "An ancient shrine in Arima-cho, Kumano City, Mie Prefecture, bearing the name \"Ubuta\" (birth field) from the tradition that the goddess Izanami gave birth here to the fire deity Kagutsuchi. Its most striking feature is the pair of himorogi — ancient ritual sites that predate any shrine building — surviving on both sides of the main hall, a rare remnant preserving the form of nature worship from before shrine architecture existed; it was designated a cultural property as the \"Ubuta Shrine Ritual Site\" in 1964. White stones carried from Shichiri-mihama along the Kumano pilgrimage route are spread across the forecourt, forming a purified ritual space. As a shrine to the mother goddess, it is a sanctuary of belief in safe childbirth and fertility, and a custom survives of divining an unborn child's sex from the shape of a stone picked up while praying. At the grand festival each January 10, the \"Hohan no Gi\" offering-meal rite serves bone-in sanma (Pacific saury) sushi, and the shrine is also called the birthplace of sanma sushi.",
+    "highlights_en": [
+      "Himorogi (ancient stone ritual arrangements) surviving on both sides of the main hall — a rare remnant of worship from before shrine buildings existed",
+      "A purified forecourt spread with white stones carried from Shichiri-mihama on the Kumano Kodo",
+      "A safe-childbirth custom of divining the child's sex by the shape of a picked-up stone (round = girl, long = boy)",
+      "Bone-in sanma sushi served at the January 10 grand festival's offering-meal rite — the legendary birthplace of sanma sushi"
+    ]
+  },
+  {
+    "id": "spot-266",
+    "name": "赤木城跡",
+    "name_kana": "あかぎじょうあと",
+    "category": "mystery",
+    "prefecture": "三重県",
+    "city": "熊野市",
+    "address": "〒519-5413 三重県熊野市紀和町赤木",
+    "lat": 33.895278,
+    "lng": 135.952222,
+    "status": "現存（国指定史跡・石垣遺構保存）",
+    "fee": "無料（見学自由）",
+    "hours": "見学自由（常時開放）。冬季早朝は凍結注意",
+    "official_url": "https://www.city.kumano.lg.jp/tourism/?content=198",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E8%B5%A4%E6%9C%A8%E5%9F%8E",
+      "https://kumano-kanko.com/spot/akagi-castle/",
+      "https://kojodan.jp/castle/317/"
+    ],
+    "summary": "三重県熊野市紀和町、標高約230mの丘陵に築かれた山城跡で、天正17年（1589年）頃に藤堂高虎が縄張りしたと伝わる。豊臣秀長の命で北山一揆の鎮圧と熊野の山林資源確保のために築かれた城で、中世山城の地形を生かしつつ、反りのない野面乱積みの高石垣・整った虎口（門）など近世城郭の要素を併せもつ過渡期の遺構として高い価値をもつ。1989年10月9日に「赤木城跡及び田平子峠刑場跡」として国の史跡に指定。発掘・整備により主郭を中心に三方の尾根と城下に曲輪が広がる縄張りが復元的に保存されている。秋から冬の冷え込んだ早朝には雲海に浮かび「天空の城」と呼ばれるが、その出現は稀である。",
+    "highlights": [
+      "藤堂高虎縄張りと伝わる、反りのない野面乱積みの高石垣（北西角は高さ約5m・四隅は算木積み）",
+      "中世山城の地形に近世城郭の虎口・石垣を重ねた過渡期の縄張りがそのまま残る",
+      "条件の整った晩秋〜冬の早朝に雲海へ浮かぶ『天空の城』の景観（出現は稀）",
+      "城の落成期に一揆残党が処刑された田平子峠刑場跡と一体で史跡指定された歴史的背景"
+    ],
+    "from_kameyama": "車で約2時間40分〜3時間（東名阪→伊勢道→紀勢道・熊野尾鷲道路→熊野市街→国道311号・169号で紀和町赤木へ）。公共交通の便は乏しく車利用が現実的",
+    "name_en": "Akagi Castle Ruins",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Kumano City",
+    "summary_en": "The ruins of a mountain castle built on a hill about 230 m high in Kiwa-cho, Kumano City, Mie Prefecture, said to have been laid out around 1589 (Tensho 17) by Todo Takatora. Built on the orders of Toyotomi Hidenaga to suppress the Kitayama uprising and secure the forest resources of Kumano, the castle holds high value as a transitional ruin: it exploits the terrain of a medieval mountain castle while combining early-modern fortress elements such as unsloped, roughly piled high stone walls and well-formed gateways (koguchi). On October 9, 1989, it was designated a National Historic Site as the \"Akagi Castle Ruins and Tabirako Pass Execution Ground.\" Through excavation and maintenance, the layout — baileys spreading along three ridges and below the castle around a central main bailey — has been preserved in restored form. On cold early mornings from autumn to winter it can float in a sea of clouds and is called a \"sky castle,\" though such appearances are rare.",
+    "highlights_en": [
+      "Unsloped, roughly piled high stone walls said to be laid out by Todo Takatora (the northwest corner about 5 m high, with corner masonry at the four angles)",
+      "A transitional layout that overlays early-modern gateways and stone walls onto medieval mountain-castle terrain, surviving intact",
+      "The \"sky castle\" floating in a sea of clouds on cold early mornings of late autumn to winter (a rare occurrence)",
+      "The historical backdrop of designation as a historic site together with the Tabirako Pass execution ground, where rebels were executed around the castle's completion"
+    ]
+  },
+  {
+    "id": "spot-267",
+    "name": "能褒野神社（ヤマトタケル能褒野陵）",
+    "name_kana": "のぼのじんじゃ",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "亀山市",
+    "address": "〒519-0151 三重県亀山市田村町1409",
+    "lat": 34.885487,
+    "lng": 136.483398,
+    "status": "現存（神社＝現役／隣接の御陵は宮内庁管理）",
+    "fee": "無料",
+    "hours": "境内自由（御陵は柵外からの参拝）",
+    "official_url": "https://www.kankomie.or.jp/spot/3037",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E8%83%BD%E8%A4%92%E9%87%8E%E7%A5%9E%E7%A4%BE",
+      "https://ja.wikipedia.org/wiki/%E8%83%BD%E8%A4%92%E9%87%8E%E7%8E%8B%E5%A1%9A%E5%8F%A4%E5%A2%B3",
+      "http://kameyama-kanko.com/genre/view/%E8%83%BD%E8%A4%92%E9%87%8E%E7%A5%9E%E7%A4%BE/"
+    ],
+    "summary": "三重県亀山市田村町に鎮座し、東征の帰途この地・能褒野で没したと記紀が伝える古代の英雄・日本武尊（やまとたけるのみこと）を祀る神社。隣接する能褒野王塚古墳（全長約90mの前方後円墳、伊勢国北部最大級）は、明治12年（1879年）に内務省により「能褒野墓」＝ヤマトタケルの陵と治定され、現在も宮内庁が管理する。この陵墓の傍らに、英雄の遺徳を偲んで明治期に創建されたのが能褒野神社で、明治28年（1895年）に社殿が竣工した。神話・伝承上の人物の「墓」が近代国家により公式に治定され、その傍らに神社が立つという、古墳・陵墓・近代神社が重層する稀有な場である。御陵は柵越しの参拝で、深い森に包まれた静謐な空間が広がる。",
+    "highlights": [
+      "記紀の英雄ヤマトタケルの『墓』として宮内庁が治定・管理する能褒野墓（柵外参拝）",
+      "伊勢国北部最大級・全長約90mの前方後円墳（能褒野王塚古墳）が陵として神格化されている重層性",
+      "神話上の人物の終焉地に近代に創建された神社という、古墳・陵墓・近代神社の三層構造",
+      "深い社叢に包まれた静謐な参道と、白鳥伝説（ヤマトタケルの魂が白鳥となった伝承）の舞台性"
+    ],
+    "from_kameyama": "車で約10〜15分（亀山市街から田村町方面へ）。亀山市内に立地し、市内起点では最も近いスポットの一つ。鉄道はJR関西本線「亀山駅」からタクシーで約10分",
+    "name_en": "Nobono Shrine (Yamato Takeru's Nobono Mausoleum)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Kameyama City",
+    "summary_en": "A shrine in Tamura-cho, Kameyama City, Mie Prefecture, enshrining the ancient hero Yamato Takeru-no-Mikoto, whom the Kojiki and Nihon Shoki record as having died here at Nobono on his return from the eastern campaign. The adjacent Nobono Otsuka Tumulus — a keyhole-shaped mound about 90 m long, among the largest in northern Ise Province — was designated by the Home Ministry in 1879 as the \"Nobono Tomb,\" the mausoleum of Yamato Takeru, and is still managed by the Imperial Household Agency. Beside this tomb, Nobono Shrine was founded in the Meiji era to honor the hero's virtue, its buildings completed in 1895. It is a rare site where a tumulus, an imperial tomb, and a modern shrine overlap: the \"grave\" of a mythical figure officially designated by the modern state, with a shrine standing alongside it. The tomb is worshipped from outside its fence, and a serene space wrapped in deep forest spreads around it.",
+    "highlights_en": [
+      "The Nobono Tomb, designated and managed by the Imperial Household Agency as the \"grave\" of the Kojiki/Nihon Shoki hero Yamato Takeru (worship from outside the fence)",
+      "The layered meaning of a keyhole-shaped tumulus about 90 m long (Nobono Otsuka), among the largest in northern Ise, deified as an imperial tomb",
+      "A three-layered structure of tumulus, imperial tomb, and modern shrine — a shrine founded in modern times at a mythical figure's dying place",
+      "A serene approach wrapped in deep shrine forest, and the setting of the white-bird legend in which Yamato Takeru's soul became a swan"
+    ]
+  },
+  {
+    "id": "spot-268",
+    "name": "油島千本松締切堤・治水神社",
+    "name_kana": "あぶらじませんぼんまつしめきりつつみ・ちすいじんじゃ",
+    "category": "folk",
+    "prefecture": "岐阜県",
+    "city": "海津市",
+    "address": "〒503-0625 岐阜県海津市海津町油島（治水神社・千本松原一帯）",
+    "lat": 35.144389,
+    "lng": 136.668028,
+    "status": "現存（油島千本松締切堤は国指定史跡、治水神社は現役の神社）",
+    "fee": "無料（参拝・散策自由）",
+    "hours": "終日（千本松原・締切堤は屋外。治水神社社務所は概ね日中）",
+    "official_url": "http://www.chisuijinja.jp/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E6%B2%BB%E6%B0%B4%E7%A5%9E%E7%A4%BE",
+      "https://ja.wikipedia.org/wiki/%E5%8D%83%E6%9C%AC%E6%9D%BE%E5%8E%9F_(%E5%B2%90%E9%98%9C%E7%9C%8C)",
+      "https://www.city.kaizu.lg.jp/kurashi/0000001101.html",
+      "https://www.kankou-gifu.jp/spot/detail_905.html"
+    ],
+    "summary": "木曽三川（木曽川・長良川・揖斐川）が集まる輪中地帯に、堤上約1kmにわたって松並木が続く分流堤が「油島千本松締切堤」である。江戸幕府が薩摩藩に課した宝暦治水（1754〜1755年）で築かれ、工事完了後に薩摩藩士が日向松を植えたと伝わる。1940年に国の史跡に指定された。堤の北端に隣接する治水神社（1938年鎮座）は、平田靱負と薩摩藩士84名を祭神として祀り、毎年4月25日と10月25日に薩摩義士を慰霊する。",
+    "highlights": [
+      "堤上約1kmに続く日向松の並木（千本松原）が河川を分ける分流堤そのものを形づくる",
+      "薩摩藩士84名と総奉行・平田靱負を祀る治水神社が堤の起点に鎮座し、薩摩義士の慰霊空間となっている",
+      "宝暦治水という近世最大級の難工事の現場跡が、国指定史跡として景観ごと保存されている"
+    ],
+    "from_kameyama": "車で約45〜55分（東名阪自動車道・名阪国道→国道258号経由で海津市方面、木曽三川公園センター駐車場利用）。公共交通は乗り継ぎが多く実用的ではない。",
+    "name_en": "Aburajima Senbon-Matsu Embankment & Chisui Shrine",
+    "prefecture_en": "Gifu Prefecture",
+    "city_en": "Kaizu City",
+    "summary_en": "Where the Kiso, Nagara, and Ibi rivers braid together across the flood-prone \"wajū\" lowlands of southern Gifu, a kilometer-long line of pines marches along a man-made dividing embankment — the Aburajima Senbon-Matsu Embankment, a National Historic Site since 1940. Its serenity hides one of the bleakest episodes in Japan's engineering history. In 1754-55 the Tokugawa shogunate ordered the distant Satsuma domain to tame these rivers in a punitive construction levy known as the Horeki water-control project. The work bled the domain of money and lives: dozens of samurai died of illness or took their own lives, and the project's chief commissioner, Hirata Yukie, is said to have killed himself upon completion to answer for the toll. The pines were planted by Satsuma hands; the embankment they line still separates the channels today. At its head stands Chisui Shrine, founded in 1938, where Hirata and 84 of his samurai are enshrined and honored each April 25 and October 25 as the \"Satsuma gishi,\" the righteous samurai of Satsuma. It is a rare place where a flood-control structure, a national monument, and a war-memorial-like shrine occupy the same kilometer of riverbank — solemn history sitting just south of the flower beds and observation tower of the popular Kiso Sansen Park.",
+    "highlights_en": [
+      "A roughly one-kilometer avenue of Hyuga pines forms the actual river-dividing embankment — engineering and landscape fused into one National Historic Site",
+      "Chisui Shrine at the embankment's head enshrines commissioner Hirata Yukie and 84 Satsuma samurai, making it a memorial space for the 'Satsuma gishi'",
+      "The site preserves, landscape and all, the field of the Horeki project — one of the largest and most tragic civil-engineering ordeals of early-modern Japan"
+    ]
+  },
+  {
+    "id": "spot-269",
+    "name": "赤目四十八滝・延寿院不動信仰",
+    "name_kana": "あかめしじゅうはちたき・えんじゅいんふどうしんこう",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "名張市",
+    "address": "〒518-0469 三重県名張市赤目町長坂861-1",
+    "lat": 34.559167,
+    "lng": 136.091667,
+    "status": "現存（渓谷遊歩道・延寿院ともに現役）",
+    "fee": "入山料 大人500円・小中学生250円（赤目滝水族館＝サンショウウオセンター含む）",
+    "hours": "8:30〜17:00（季節変動あり。冬季短縮・荒天時入山規制あり）",
+    "official_url": "https://www.akame48taki.com/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%9B%AE%E5%9B%9B%E5%8D%81%E5%85%AB%E6%BB%9D",
+      "https://www.akame48taki.com/about/",
+      "https://www.jalan.net/kankou/spt_guide000000181097/"
+    ],
+    "summary": "名張市の滝川渓谷約4kmにわたり大小の滝が階段状に連なる名瀑群で、修験道の開祖・役行者が修行した霊地と伝わる。『赤目』の名は、役行者が修行中に赤い目の牛にまたがった不動明王に出会ったという伝説に由来し、渓谷入口の天台宗・延寿院（赤目不動）は日本三大不動の一つに数えられる赤目不動尊を祀る。滝行の行場・忍者修行の里として知られ、不動滝・千手滝・布曳滝・荷担滝・琵琶滝の赤目五瀑を核に信仰・修行・景勝が一体となった山岳信仰の景観を伝える。",
+    "highlights": [
+      "落差約30mの布曳滝をはじめ赤目五瀑が約4kmの渓谷に階段状に連なる",
+      "役行者と赤い目の牛に乗った不動明王の伝説に由来する『赤目』の地名と延寿院・赤目不動尊",
+      "滝行の行場・忍者修行の里という修験／山岳信仰の文脈が景勝と一体化している"
+    ],
+    "from_kameyama": "車で約45〜55分（名阪国道→国道165号・赤目方面）。鉄道は近鉄で名張・赤目口駅へ、赤目口駅から三重交通バス約10分＋徒歩。亀山駅からは関西本線・近鉄乗継で約1時間20分＋バス。",
+    "name_en": "Akame 48 Waterfalls & the Akame Fudo Faith of Enjuin",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Nabari City",
+    "summary_en": "For nearly four kilometers, the Takigawa gorge in Nabari descends in a staircase of waterfalls — the Akame Forty-Eight Falls — though 'forty-eight' is a Buddhist way of saying 'too many to count.' This is sacred ground. En no Gyoja, the Nara-period founder of Japan's mountain-ascetic tradition of Shugendo, is said to have trained here, and the very name 'Akame' ('red eye') comes from a legend in which the ascetic met the wrathful deity Fudo Myo-o riding a red-eyed ox. That deity lives on at Enjuin, the Tendai temple guarding the gorge's mouth, whose Akame Fudo is ranked among the three great Fudo images of Japan. The falls themselves have served as places of waterfall austerity, and — with the ninja country of Iga next door — the gorge also markets itself as a 'village of ninja training,' carrying a double memory of monk and shinobi. Five great cascades anchor the walk: Fudo, Senju, the cloth-like 30-meter Nunobiki, the twin-streamed Ninai, and Biwa. At the entrance, the Japan Giant Salamander Center shelters the protected giant salamander, adding a strange, primeval note to a landscape where faith, training, and scenery have been one for over a thousand years.",
+    "highlights_en": [
+      "Five great falls — including the cloth-like, roughly 30 m Nunobiki Falls — descend in a staircase along a 4 km gorge",
+      "The 'Akame' (red-eye) place name and the Akame Fudo of Enjuin spring from the legend of Fudo Myo-o riding a red-eyed ox",
+      "A landscape where waterfall austerity, Shugendo mountain worship, and 'ninja training village' lore are fused with scenic beauty"
+    ]
+  },
+  {
+    "id": "spot-270",
+    "name": "積田神社（春日大社元社・鹿伝承）",
+    "name_kana": "つみたじんじゃ",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "名張市",
+    "address": "三重県名張市夏見2162",
+    "lat": 34.621389,
+    "lng": 136.108611,
+    "status": "現存（現役の神社）",
+    "fee": "無料（参拝自由）",
+    "hours": "終日（境内自由。社務所は不在の場合あり）",
+    "official_url": "https://www.kankomie.or.jp/spot/23489",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/spot/23489",
+      "https://note.com/yanma_travel/n/n1349e0f055a5",
+      "https://www2.jingu125.info/2014/11/29/20141126_12261719305/",
+      "https://wanko-gurashi.com/sekitajinjya/"
+    ],
+    "summary": "名張市夏見に鎮座する春日信仰の古社で、『南都春日大社奥宮』『春日大社元社』とも称される。社伝では約1250年前（767年）、常陸国鹿島から大和の春日へ鹿島大神（武甕槌命）が遷座する途次にこの夏見の地に立ち寄り鎮座したと伝える。神が白鹿に乗って遷ったとする鹿伝承と結びつき、境内には鹿の像が置かれ、奈良の春日大社とつながる『鹿の道』の起点という物語をもつ。祭神は春日四神。晩秋の大イチョウ・紅葉でも知られる。",
+    "highlights": [
+      "境内に佇む鹿島の鹿伝承にちなんだ鹿の像群（春日大社の神鹿の由来譚を体現）",
+      "『春日大社元社／奥宮』を名乗る朱塗りの社殿と立派な千木",
+      "晩秋に参道を黄金に染める大イチョウと紅葉"
+    ],
+    "from_kameyama": "車で約40〜50分（名阪国道→国道165・368号で名張市夏見方面）。鉄道は近鉄名張駅からタクシー／バス。亀山駅からは乗継で約1時間20分前後＋現地交通。",
+    "name_en": "Sekita Shrine (Original Shrine of Kasuga & the Deer Legend)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Nabari City",
+    "summary_en": "Tucked into the Natsumi district of Nabari is a shrine that claims, quietly, to be the secret origin of one of Japan's most famous sights: the sacred deer of Nara. Sekita Shrine styles itself the 'original shrine' and 'inner sanctuary' of the great Kasuga Taisha. By its own tradition, about 1,250 years ago, in the year 767, the thunder-god Takemikazuchi set out from Kashima in far-eastern Hitachi to take up residence at the new Kasuga shrine in Yamato — and, the story goes, he made the journey on the back of a white deer, pausing here at Natsumi along the way. That single mythic migration is why deer roam freely through Nara Park to this day, and Sekita places itself squarely on the 'deer road' between the two. Statues of deer stand among the trees of its precinct, echoing the legend; a vermilion hall with bold crossed finials presides over the grounds; and a worship site marks the Mirror Pond, where the god is said to have caught his own reflection while fording the river — water that local lore insists is identical to Nara's Sarusawa Pond. Come in late autumn and the approach blazes gold beneath a single great ginkgo, a quiet provincial shrine carrying the weight of a national myth.",
+    "highlights_en": [
+      "Deer statues standing in the precinct, embodying the Kashima deer legend behind Kasuga Taisha's sacred deer",
+      "A vermilion hall with bold crossed finials, claiming the title of Kasuga's 'original shrine / inner sanctuary'",
+      "A single great ginkgo turning the approach gold in late autumn"
+    ]
+  },
+  {
+    "id": "spot-271",
+    "name": "専修寺（高田本山）",
+    "name_kana": "せんじゅじ",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "津市",
+    "address": "〒514-0114 三重県津市一身田町2819",
+    "lat": 34.762329,
+    "lng": 136.503815,
+    "status": "現存",
+    "fee": "無料（御朱印は300円）",
+    "hours": "6:00〜15:30（堂内拝観。御朱印受付は9:00〜16:00）",
+    "official_url": "http://www.senjuji.or.jp/",
+    "reference_urls": [
+      "http://www.senjuji.or.jp/about/",
+      "https://www.kankomie.or.jp/report/253",
+      "https://ja.wikipedia.org/wiki/専修寺",
+      "https://www.info.city.tsu.mie.jp/kosodate_kyouiku/kyouikuiinkai/1004357/1004663/1004603/1009869/1004605.html"
+    ],
+    "name_en": "Senju-ji (Takada Honzan)",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Tsu City",
+    "summary_en": "Senju-ji is the head temple of the Takada branch of Jodo Shinshu Buddhism, and in November 2017 its two great halls — the Mieido (Founder's Hall) and Nyoraido (Amida Hall) — became the first buildings in Mie Prefecture ever designated National Treasures. The Mieido alone is one of the largest wooden structures of the Edo period in Japan: roughly 42 meters wide, floored with 780 tatami mats, with a roof so vast its sheer mass is hard to take in from the approach. But the real marvel is scale upon scale — the temple is the core of the Isshinden jinaicho, an entire moat-ringed temple town that grew up around it, a self-contained religious city of merchant houses, an approach street, and defensive water channels. To stand on the stone path facing two colossal National Treasure halls side by side is to grasp something rare: monumental religious architecture and urban planning fused into a single early-modern statement of faith. Admission to the halls is free, and each January the Oshichiya Hoonko rites fill the town with pilgrims and food stalls.",
+    "highlights_en": [
+      "The National Treasure Mieido is floored with 780 tatami mats with a roughly 25-meter roofline — among the most massive Edo-period wooden buildings in Japan",
+      "Two National Treasure halls (Mieido and Nyoraido) stand side by side, the hallmark of a sect head temple built for mass pilgrimage",
+      "The entire moat-ringed Isshinden temple town survives around it — a rare intact early-modern religious cityscape"
+    ]
+  },
+  {
+    "id": "spot-272",
+    "name": "椋本の大椋",
+    "name_kana": "むくもとのおおむく",
+    "category": "folk",
+    "prefecture": "三重県",
+    "city": "津市",
+    "address": "〒514-2211 三重県津市芸濃町椋本701",
+    "lat": 34.811752,
+    "lng": 136.43248,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "見学自由（屋外・常時）",
+    "official_url": "https://www.kankomie.or.jp/spot/21670",
+    "reference_urls": [
+      "https://www.kankomie.or.jp/spot/21670",
+      "https://tsukanko.jp/spot/s63/",
+      "https://www.begin.or.jp/~marusei/mukumoto-oomuku.htm"
+    ],
+    "name_en": "The Great Muku of Mukumoto",
+    "prefecture_en": "Mie Prefecture",
+    "city_en": "Tsu City",
+    "summary_en": "On the old Ise-betsu highway, in the former post town of Mukumoto in Geino-cho, Tsu City, stands a colossal muku tree (Aphananthe aspera) estimated to be more than 1,500 years old. About 25 meters tall with a root circumference well over ten meters, it is among the largest muku trees in Japan and was designated a National Natural Monument on 22 January 1934. A typhoon in 1871 tore away roughly the northern two-thirds of its trunk — and yet it lives on, the great scarred trunk somehow making its enormous age more vivid rather than less. The tree is said to be the origin of the place name Mukumoto, and it has long been venerated as a sacred tree, girded with a shimenawa rope and protected by a low fence. Here, tree-worship and the history of an old highway post town are concentrated in a single living monument.",
+    "highlights_en": [
+      "An estimated 1,500-year-old muku tree some 25 meters tall — one of the largest of its kind in Japan",
+      "It survives even after a typhoon in 1871 destroyed two-thirds of its trunk; the great scar makes its age palpable",
+      "Venerated as a sacred tree with a shimenawa rope — a fusion of tree-worship and the history of the Mukumoto post town"
+    ]
+  },
+  {
+    "id": "spot-273",
+    "name": "谷汲山華厳寺",
+    "name_kana": "たにぐみさんけごんじ",
+    "category": "folk",
+    "prefecture": "岐阜県",
+    "city": "揖斐郡揖斐川町",
+    "address": "〒501-1311 岐阜県揖斐郡揖斐川町谷汲徳積23",
+    "lat": 35.537377,
+    "lng": 136.607905,
+    "status": "現存",
+    "fee": "本堂参拝無料（戒壇めぐり等は別途／駐車場有料）",
+    "hours": "8:00〜16:30（通年）",
+    "official_url": "http://www.kegonji.or.jp/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E8%8F%AF%E5%8E%B3%E5%AF%BA",
+      "https://www.kankou-gifu.jp/spot/detail_889.html",
+      "https://www.town.ibigawa.lg.jp/kankoujyouhou/0000006543.html"
+    ],
+    "summary": "西国三十三所観音霊場の第三十三番にあたる天台宗の古刹で、巡礼の「満願・結願」を迎える終着の寺として知られる。延暦十七年（798年）に豊然上人が開いたと伝え、本尊は十一面観世音菩薩。最大の特徴は、満願を遂げた巡礼者が本堂向拝の左右の柱に取り付けられた青銅製の鯉に手で触れる「精進落としの鯉」の習俗で、長年にわたる参詣者の手によって鯉は黒光りしている。本堂・笈摺堂・満願堂をめぐって過去・現在・未来の三つの御朱印を受ける作法や、本堂下を暗闇のなか手探りで進む戒壇めぐりも残り、観音信仰の到達点としての民俗的な厚みをもつ。約一キロの門前参道と桜・紅葉の名所としても親しまれている。",
+    "highlights": [
+      "本堂向拝の柱に据えられた青銅の「精進落としの鯉」を撫でて満願を確かめる独特の習俗",
+      "西国三十三所の結願寺として過去・現在・未来の三種の御朱印を授かる巡礼作法",
+      "本堂地下を完全な暗闇のなか手探りで巡る戒壇めぐり",
+      "仁王門から続く約一キロの門前参道（桜・紅葉の名所）"
+    ],
+    "from_kameyama": "車で約1時間40分（名阪国道・東名阪→大垣方面、揖斐川町谷汲）。公共交通なら関西本線・東海道本線で大垣、養老鉄道で揖斐、バス・タクシーで谷汲山へ（合計2時間半以上）。",
+    "name_en": "Tanigumisan Kegonji Temple",
+    "prefecture_en": "Gifu Prefecture",
+    "city_en": "Ibigawa Town, Ibi District",
+    "summary_en": "Kegonji is a Tendai temple founded, by tradition, in 798 and dedicated to the Eleven-Headed Kannon — but its real distinction is that it stands at the end of a journey. As the 33rd and final temple of the Saigoku Pilgrimage, Japan's oldest Kannon circuit, it is where pilgrims complete a vow that may have taken months or years to fulfill. The moment of completion has its own strange, tactile ritual: fulfilled pilgrims reach up and stroke a pair of bronze carp bolted to the columns of the main hall's porch, fish worn black and glossy by centuries of hands. To finish properly you collect three different seals — past, present, and future — at three separate halls, and you can grope your way through a pitch-dark underground passage beneath the main hall, the kaidan-meguri, navigating entirely by touch. The kilometer-long approach, lined with shops and famous for cherry blossoms and autumn maples, makes the arrival feel earned. Locals simply call it 'Tanigumi-san.'",
+    "highlights_en": [
+      "The 'carp of breaking the abstinence' — bronze fish on the main hall's columns, stroked by fulfilled pilgrims and burnished black by centuries of touch",
+      "As the concluding temple of the Saigoku Pilgrimage, it grants three distinct seals representing past, present, and future",
+      "A pitch-dark underground passage (kaidan-meguri) navigated entirely by touch",
+      "A kilometer-long temple-gate approach famed for cherry blossoms and autumn foliage"
+    ]
+  },
+  {
+    "id": "spot-274",
+    "name": "宗祇水（白雲水）",
+    "name_kana": "そうぎすい（はくうんすい）",
+    "category": "folk",
+    "prefecture": "岐阜県",
+    "city": "郡上市",
+    "address": "〒501-4214 岐阜県郡上市八幡町本町",
+    "lat": 35.750309,
+    "lng": 136.956573,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "終日（屋外・常時開放）",
+    "official_url": "https://www.gujohachiman.com/kanko/sougi.htm",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E5%AE%97%E7%A5%87%E6%B0%B4",
+      "https://water-pub.env.go.jp/water-pub/mizu-site/meisui/data/index.asp?info=45",
+      "https://tabitabigujo.com/spots/hachiman/%E5%AE%97%E7%A5%87%E6%B0%B4/"
+    ],
+    "summary": "水の町・郡上八幡を代表する湧水で、白雲水とも呼ばれる。昭和60年（1985年）、環境庁（当時）の名水百選において全国で「第一号」として選定されたことで知られる。小駄良川と吉田川の合流付近、小さな祠を備えた水場から清冽な水が湧き出し、湧き口から順に「飲料水」「米とぎ場」「野菜などの洗い場」「さらし場」へと水を使い分ける段階的な仕切りが設けられている。これは上流の最も清い水を飲用に、下流ほど用途を限定するという、限られた水を皆で大切に共有してきた集落の水利の知恵を今に伝える。名は室町時代の連歌師・宗祇がこの泉のほとりに庵を結び飲用したとの伝承に由来し、信仰・文芸・生活用水が一つの水場に重なる稀有な民俗的景観をなす。",
+    "highlights": [
+      "名水百選の「第一号」に選ばれた由緒ある湧水",
+      "湧き口→飲料水→米とぎ→野菜洗い→さらし場と用途別に仕切られた段階式の水利構造",
+      "水場を見守る小さな祠と石造物が並ぶ路地奥のしっとりした景観",
+      "連歌師・宗祇ゆかりという文芸の記憶を宿す名の由来"
+    ],
+    "from_kameyama": "車で約1時間40分（名阪国道・東名阪→東海北陸自動車道・郡上八幡IC）。公共交通なら長良川鉄道「郡上八幡駅」からバス・タクシーで市街地中心部、徒歩。",
+    "name_en": "Sogisui Spring (Hakuunsui)",
+    "prefecture_en": "Gifu Prefecture",
+    "city_en": "Gujo City",
+    "summary_en": "In the famously waterlogged town of Gujo Hachiman, this spring is the most celebrated of all — and in 1985 it was named the very first entry in Japan's Hundred Famous Waters. What makes it remarkable is not just the water but the architecture of its use. Beneath a small shrine, the spring emerges and is then channeled through a series of partitioned basins, each assigned a strict purpose in descending order of cleanliness: the source water for drinking, then a basin for washing rice, then one for vegetables, and finally a rinsing pool. It is a centuries-old social contract carved into stone — the cleanest water reserved for the most important use, a fair way to share a limited resource among everyone in the neighborhood. The name comes from the Muromachi-era linked-verse poet Sogi, who is said to have built a hermitage beside it. Tucked into a quiet back alley, where literature, devotion, and the daily business of washing rice all converge at a single trickle of water, it is one of the most quietly extraordinary spots in a town built on springs.",
+    "highlights_en": [
+      "Named the very first entry in Japan's Hundred Famous Waters (1985)",
+      "A staged, partitioned water structure: source, drinking water, rice washing, vegetable washing, and a rinsing pool",
+      "A hushed back-alley scene with a small shrine and stone objects watching over the spring",
+      "A name carrying the literary memory of the renga poet Sogi"
+    ]
+  },
+  {
+    "id": "spot-275",
+    "name": "須山浅間神社",
+    "name_kana": "すやませんげんじんじゃ",
+    "category": "folk",
+    "prefecture": "静岡県",
+    "city": "裾野市",
+    "address": "〒410-1231 静岡県裾野市須山722",
+    "lat": 35.278183,
+    "lng": 138.782913,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "境内自由（社務所対応は日中）",
+    "official_url": "https://suyamasengen.jp/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E9%A0%88%E5%B1%B1%E6%B5%85%E9%96%93%E7%A5%9E%E7%A4%BE",
+      "http://www.city.susono.shizuoka.jp/soshiki/4/5/3/2/1/2124.html",
+      "https://www.fujisan223.com/reason/kouseishisan/00500.html"
+    ],
+    "summary": "富士山の南東麓・裾野市須山に鎮座する浅間神社で、富士山に四方から登る古道のうち「須山口登山道」の起点として知られる。社伝では日本武尊の東征に際する創建を伝え、欽明天皇13年（552年）に蘇我稲目が再興したとする伝承をもつ古社で、大永4年（1524年）の棟札によって少なくとも戦国期にはこの地にあったことが確認できる。社殿を取り囲む社叢には樹齢400〜500年以上とされる杉の巨木が約20本そびえ、なかには周囲約7メートルに達するものもあり、登拝者がここで禊を行い登山の安全を祈った起点の神域にふさわしい荘厳な空間をつくっている。富士山信仰の顕著な普遍的価値を裏づける資産として、平成23年（2011年）2月7日に境内地と社叢が国の史跡に指定され、世界文化遺産「富士山—信仰の対象と芸術の源泉」の構成資産となっている。",
+    "highlights": [
+      "樹齢400〜500年超・周囲約7mに達する杉の巨木が約20本そびえる社叢",
+      "富士山「須山口登山道」の起点で、登拝者が禊を行った神域という歴史的文脈",
+      "宝永噴火（1707年）で被災し文政6年（1823年）再建の本殿など、富士山噴火史を刻む社殿",
+      "灯籠や社殿に潜むハート型の「猪目（いのめ）」を探せる意匠",
+      "世界文化遺産・富士山の構成資産（国史跡）という公的価値づけ"
+    ],
+    "from_kameyama": "車で約3時間（東名高速・亀山IC→裾野IC経由、約230km）。鉄道なら新幹線で三島駅へ出て路線バス・タクシーで須山へ。",
+    "name_en": "Suyama Sengen Shrine",
+    "prefecture_en": "Shizuoka Prefecture",
+    "city_en": "Susono City",
+    "summary_en": "Standing at the southeastern foot of Mt. Fuji in Suyama, Susono City, this Sengen shrine is known as the starting point of the Suyamaguchi, one of the ancient trails that climb Mt. Fuji from all four directions. Its shrine tradition tells of a founding at the time of Yamato Takeru's eastern campaign and a restoration in 552 by Soga no Iname; a ridge tablet of 1524 confirms it stood here by at least the Warring States period. The sacred grove enclosing the hall is crowded with some twenty giant cedars said to be over 400-500 years old, a few reaching about seven meters in girth, creating a solemn space fitting for a trailhead where pilgrims once performed purification and prayed for a safe ascent. As evidence of the outstanding universal value of Mt. Fuji worship, the precincts and grove were designated a National Historic Site on February 7, 2011, and the site is a component asset of the World Cultural Heritage \"Fujisan, sacred place and source of artistic inspiration.\"",
+    "highlights_en": [
+      "A sacred grove of some 20 giant cedars over 400-500 years old, a few reaching about 7m in girth",
+      "The starting point of Mt. Fuji's Suyamaguchi trail—a sacred precinct where pilgrims performed purification",
+      "Buildings inscribed with Mt. Fuji's eruption history, including a main hall rebuilt in 1823 after damage in the Hoei eruption of 1707",
+      "Heart-shaped 'inome' motifs hidden in the lanterns and hall designs to discover",
+      "The public valuation of a World Heritage Mt. Fuji component asset and National Historic Site"
+    ]
   }
 ]
