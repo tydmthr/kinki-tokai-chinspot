@@ -2983,5 +2983,114 @@
     "source_url": "https://commons.wikimedia.org/wiki/File:Suyama_Sengen-jinja_Shrine.jpg",
     "creator": "Sablier de Verrie",
     "provider": "Wikimedia Commons"
+  },
+  "spot-276": {
+    "name": "大石林山",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/AsimuiRockyMountain.jpg/1280px-AsimuiRockyMountain.jpg",
+    "credit": "Wikimedia Commons / Yanbaru917 / CC BY-SA 4.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:AsimuiRockyMountain.jpg",
+    "creator": "Yanbaru917",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-277": {
+    "name": "猿橋",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/SaruHashi2005-8a.jpg/1280px-SaruHashi2005-8a.jpg",
+    "credit": "Wikimedia Commons / Kinori / Public domain",
+    "alt_photos": [],
+    "license": "Public domain",
+    "license_url": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "source_url": "https://commons.wikimedia.org/wiki/File:SaruHashi2005-8a.jpg",
+    "creator": "Kinori",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-278": {
+    "name": "忍野八海",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/231028_Waku-ike_Oshino_Hakkai_springs_Oshino_Yamanashi_pref_Japan01s3.jpg/1280px-231028_Waku-ike_Oshino_Hakkai_springs_Oshino_Yamanashi_pref_Japan01s3.jpg",
+    "credit": "Wikimedia Commons / 663highland / CC BY-SA 4.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:231028_Waku-ike_Oshino_Hakkai_springs_Oshino_Yamanashi_pref_Japan01s3.jpg",
+    "creator": "663highland",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-279": {
+    "name": "たつこ像",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/%E6%BD%9F%E5%B0%BB%E3%81%9F%E3%81%A4%E3%81%93%E5%83%8F20220702-P1000462.jpg/1280px-%E6%BD%9F%E5%B0%BB%E3%81%9F%E3%81%A4%E3%81%93%E5%83%8F20220702-P1000462.jpg",
+    "credit": "Wikimedia Commons / くろふね (Jranar) / CC BY 4.0",
+    "alt_photos": [],
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%E6%BD%9F%E5%B0%BB%E3%81%9F%E3%81%A4%E3%81%93%E5%83%8F20220702-P1000462.jpg",
+    "creator": "くろふね (Jranar)",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-280": {
+    "name": "会津さざえ堂（旧正宗寺三匝堂）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sazaedou_Aidu_Japan01.jpg/1280px-Sazaedou_Aidu_Japan01.jpg",
+    "credit": "Wikimedia Commons / Kounosu / CC BY-SA 3.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sazaedou_Aidu_Japan01.jpg",
+    "creator": "Kounosu",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-281": {
+    "name": "道の駅大歩危（妖怪屋敷と石の博物館）",
+    "primary": "https://bizarrejapan.com/photos/spot-281.jpg",
+    "credit": "出典: 道の駅大歩危 妖怪屋敷 公式サイト（https://yamashiro-info.jp/?page_id=71）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "道の駅大歩危 妖怪屋敷（公式サイト）",
+    "source_url": "https://yamashiro-info.jp/?page_id=71",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり（CC/PD表記なし）。事後承諾運用。問題あれば即時差し替え/撤去前提。"
+  },
+  "spot-282": {
+    "name": "芝山仁王尊 観音教寺 仁王門",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kannonkyo-ji_Nio-mon.JPG/1280px-Kannonkyo-ji_Nio-mon.JPG",
+    "credit": "Wikimedia Commons / Abasaa / Public domain",
+    "alt_photos": [],
+    "license": "Public domain",
+    "license_url": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kannonkyo-ji_Nio-mon.JPG",
+    "creator": "Abasaa",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-283": {
+    "name": "大巌寺 山門",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Daiganji20110804.jpg",
+    "credit": "Wikimedia Commons / 三人日 / CC BY-SA 3.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Daiganji20110804.jpg",
+    "creator": "三人日",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-284": {
+    "name": "タウシュベツ川橋梁（めがね橋）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Taushubetsu-River-Bridge.jpg/1280px-Taushubetsu-River-Bridge.jpg",
+    "credit": "Wikimedia Commons / MaedaAkihiko / CC BY-SA 4.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Taushubetsu-River-Bridge.jpg",
+    "creator": "MaedaAkihiko",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-285": {
+    "name": "鬼ノ城 復元西門",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kinojo_Nishimon.JPG/1280px-Kinojo_Nishimon.JPG",
+    "credit": "Wikimedia Commons / Reggaeman / CC BY-SA 3.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kinojo_Nishimon.JPG",
+    "creator": "Reggaeman",
+    "provider": "Wikimedia Commons"
   }
 }

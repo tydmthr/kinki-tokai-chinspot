@@ -10797,5 +10797,336 @@
       "Heart-shaped 'inome' motifs hidden in the lanterns and hall designs to discover",
       "The public valuation of a World Heritage Mt. Fuji component asset and National Historic Site"
     ]
+  },
+  {
+    "id": "spot-276",
+    "name": "大石林山",
+    "name_kana": "だいせきりんざん",
+    "category": "folk",
+    "prefecture": "沖縄県",
+    "city": "国頭郡国頭村",
+    "address": "〒905-1422 沖縄県国頭郡国頭村宜名真1241",
+    "lat": 26.861944,
+    "lng": 128.255139,
+    "status": "現存（2024年12月「ASMUI Spiritual Hikes／アスムイハイクス」へ改称）",
+    "fee": "大人（15歳以上）2,500円／小人（6〜14歳）1,000円（2024年12月改称後・税込）",
+    "hours": "9:30〜16:00受付（17:30閉園）年中無休",
+    "official_url": "https://www.sekirinzan.com/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%9F%B3%E6%9E%97%E5%B1%B1",
+      "https://kunigami-kanko.com/sightseeing-spots/%E5%A4%A7%E7%9F%B3%E6%9E%97%E5%B1%B1/",
+      "https://www.okinawastory.jp/spot/1363"
+    ],
+    "name_en": "Daisekirinzan (ASMUI Spiritual Hikes)",
+    "prefecture_en": "Okinawa Prefecture",
+    "city_en": "Kunigami Village, Kunigami District",
+    "summary_en": "At the very northern tip of Okinawa's main island, where the East China Sea meets a tangle of subtropical jungle, the ground itself begins to behave strangely. Limestone laid down some 250 million years ago has been dissolved by rain over unimaginable stretches of time into a forest of blade-like grey pinnacles — a karst landscape said to be the northernmost of its tropical kind anywhere on Earth. The rocks rise like petrified swords through the green canopy, and walking the trails among them feels less like a hike than a passage through deep geological time. But Daisekirinzan is more than rock. The whole area overlaps with Asumui, the sacred ground where, in Ryukyuan creation myth, the ancestral deity Amamikyo is said to have first descended to begin the making of the islands. Particular stones and ancient banyans here are objects of prayer, and the site sits squarely within Okinawa's living utaki tradition, in which the land itself is holy. The park lies within Yanbaru National Park and beside a World Natural Heritage zone, and in December 2024 it was renamed \"ASMUI Spiritual Hikes\" to foreground exactly this fusion of rare geology and sacred landscape.",
+    "highlights_en": [
+      "A forest of sword-like grey limestone pinnacles rising out of the subtropical jungle — a karst landscape of startling scale",
+      "Geologically rare: regarded as the northernmost tropical/subtropical karst in the world",
+      "Overlapping the sacred site of Asumui, where the Ryukyuan creator deity Amamikyo is said to have first descended, the rocks themselves are objects of prayer",
+      "Giant banyans and cycad colonies coexisting with the karst, forming a distinctive subtropical flora"
+    ]
+  },
+  {
+    "id": "spot-277",
+    "name": "猿橋",
+    "name_kana": "さるはし",
+    "category": "mystery",
+    "prefecture": "山梨県",
+    "city": "大月市",
+    "address": "〒409-0614 山梨県大月市猿橋町猿橋",
+    "lat": 35.615722,
+    "lng": 138.980222,
+    "status": "現存（国指定名勝）",
+    "fee": "無料（見学自由）",
+    "hours": "見学自由（24時間・外観）",
+    "official_url": "https://www.city.otsuki.yamanashi.jp/kanko/highlight/saruhashi.html",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E7%8C%BF%E6%A9%8B",
+      "https://otsuki-kanko.info/category/content-page/view/31",
+      "https://www.yamanashi-kankou.jp/kankou/spot/p1_4533.html"
+    ],
+    "name_en": "Saruhashi Bridge",
+    "prefecture_en": "Yamanashi Prefecture",
+    "city_en": "Otsuki City",
+    "summary_en": "Spanning the deep gorge of the Katsura River in Otsuki, Yamanashi, the Saruhashi is a bridge that does the seemingly impossible: it crosses more than thirty meters of empty air without a single pier touching the water below. The gorge is too deep for conventional supports, so its builders solved the problem from the banks inward — stacking timber cantilever beams, the hanegi, in four projecting layers out from the bedrock of each side until they nearly meet, then laying the deck across the gap. The result hangs some 31 meters above the river, about 30.9 meters long, and seen from below the layered beams fan out like a wooden staircase reaching into the void. It is counted as one of the \"Three Unusual Bridges of Japan,\" alongside the Kintai Bridge and the Kazura Bridge, and was designated a National Place of Scenic Beauty in 1932. Legend credits its design to Shirako, an immigrant garden master who is said to have watched monkeys link their bodies to form a living bridge across the chasm — hence the name, which means \"monkey bridge.\" Hiroshige and other ukiyo-e masters painted it, and for centuries it has been admired as both an engineering marvel and a scenic wonder.",
+    "highlights_en": [
+      "No piers at all: four stacked layers of cantilever beams project from each bank to span a gorge over 30 m wide",
+      "Hanging roughly 31 m above the river — seen from below, the layered beams fan out like a wooden staircase into the void",
+      "One of the rare \"Three Unusual Bridges of Japan,\" a landmark in the history of bridge engineering",
+      "A cultural depth reaching back to the Edo period, painted by Hiroshige and admired as both marvel and scenic spot"
+    ]
+  },
+  {
+    "id": "spot-278",
+    "name": "忍野八海",
+    "name_kana": "おしのはっかい",
+    "category": "folk",
+    "prefecture": "山梨県",
+    "city": "南都留郡忍野村",
+    "address": "〒401-0511 山梨県南都留郡忍野村忍草",
+    "lat": 35.459722,
+    "lng": 138.833611,
+    "status": "現存（国指定天然記念物・世界文化遺産構成資産）",
+    "fee": "無料（八海の散策は自由。底抜池のある『榛の木林資料館』のみ有料）",
+    "hours": "散策自由（資料館等は施設ごとに営業時間あり）",
+    "official_url": "https://www.vill.oshino.lg.jp/docs/2013071200017/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E5%BF%8D%E9%87%8E%E5%85%AB%E6%B5%B7",
+      "https://www.vill.oshino.lg.jp/page/1168.html",
+      "https://www.yamanashi-kankou.jp/kankou/spot/p1_4910.html"
+    ],
+    "name_en": "Oshino Hakkai (Eight Springs of Oshino)",
+    "prefecture_en": "Yamanashi Prefecture",
+    "city_en": "Oshino Village, Minamitsuru District",
+    "summary_en": "At the northern foot of Mount Fuji, in the village of Oshino, water that fell as rain and snow on the great volcano resurfaces — but only after a journey of some twenty years filtering down through layer upon layer of lava. What emerges is water of almost unreal clarity, pooling into eight springs whose names carry their own histories: Deguchi, Okama, Sokonuke, Choshi, Waku, Nigori, Kagami, and Shobu. Peer into Waku-ike, the most famous, and the surface seems to vanish: you look straight down into a deep emerald shaft where a lava cave descends into the earth, the water so transparent it scarcely registers as water at all. These are not ordinary ponds. Designated a National Natural Monument in 1934 and inscribed in 2013 as part of the World Cultural Heritage of Mount Fuji, the eight springs were a sacred circuit where Fuji-ko pilgrims purified themselves before ascending the mountain. By tradition, the distant Deguchi-ike represents Polaris and the remaining seven the Big Dipper — a constellation laid out in water. Here the hydrology of Mount Fuji and centuries of mountain worship are fused into a single, luminous landscape.",
+    "highlights_en": [
+      "Springwater filtered through Mount Fuji's lava: clarity so complete you can see straight to the bottom, glowing emerald",
+      "Looking into Waku-ike reveals a lava cave descending into the earth beneath the transparent surface",
+      "A constellation in water: distant Deguchi-ike as Polaris and the seven others as the Big Dipper, marking it as a sacred site",
+      "The context of the 'eight-springs circuit,' where Fuji-ko pilgrims purified themselves before climbing the sacred mountain"
+    ]
+  },
+  {
+    "id": "spot-279",
+    "name": "たつこ像",
+    "name_kana": "たつこぞう",
+    "category": "folk",
+    "prefecture": "秋田県",
+    "city": "仙北市",
+    "address": "〒014-1206 秋田県仙北市西木町西明寺字潟尻",
+    "lat": 39.71,
+    "lng": 140.66,
+    "status": "現存",
+    "fee": "無料（見学自由）",
+    "hours": "見学自由（24時間・屋外）",
+    "official_url": "https://www.city.semboku.akita.jp/sightseeing/spot/04_tatsukozou.html",
+    "reference_urls": [
+      "https://akijin.jp/culture-history/623/",
+      "https://www.asahi-mullion.com/column/article/artrip/2732",
+      "https://tabi-mag.jp/ak0028/"
+    ],
+    "name_en": "Tatsuko Statue",
+    "prefecture_en": "Akita Prefecture",
+    "city_en": "Semboku City",
+    "summary_en": "On the western shore of Lake Tazawa — at 423.4 meters the deepest lake in Japan — a golden figure stands ankle-deep at the water's edge, gazing out over an expanse of impossibly blue water. This is the Tatsuko statue, cast in bronze by the sculptor Funakoshi Yasutake and erected in 1968. The gold is no mere flourish: Lake Tazawa's water is strongly acidic, and the figure was finished in gold leaf and lacquer to shield the bronze from corrosion — a practical decision that produced one of the most striking color contrasts in the Tohoku landscape, a gleaming golden body against deep cobalt blue. The statue gives form to a local legend. A young woman named Tatsuko, desperate to keep her beauty and youth forever, prayed for a hundred days and nights and was told to drink from a spring to the north; she drank, and drank, until she transformed into a great dragon and sank to the bottom of the lake to become its eternal master. The figure stands on a pedestal that juts slightly into the water, so that statue and lake seem to merge — a princess paused at the threshold between her human form and the depths that took her.",
+    "highlights_en": [
+      "A full-length golden bronze figure blazing against the cobalt-blue lake — an intense color contrast",
+      "Set on a pedestal jutting into the water at the lake's edge, so that statue and lake appear as one",
+      "The gold is born of function: a gold-leaf-and-lacquer finish to resist the acidic lake water",
+      "A statue that gives form to the legend of Princess Tatsuko, who became the dragon-master of the lake"
+    ]
+  },
+  {
+    "id": "spot-280",
+    "name": "会津さざえ堂（旧正宗寺三匝堂）",
+    "name_kana": "あいづさざえどう",
+    "category": "bkyu",
+    "prefecture": "福島県",
+    "city": "会津若松市",
+    "address": "〒965-0003 福島県会津若松市一箕町大字八幡字弁天下1404",
+    "lat": 37.504528,
+    "lng": 139.953972,
+    "status": "現存（国指定重要文化財）",
+    "fee": "大人400円／高校生300円／小中学生200円",
+    "hours": "8:15〜日没（4〜12月）、9:00〜16:00（1〜3月）年中無休",
+    "official_url": "https://www.aizukanko.com/spot/138",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E6%A0%84%E8%9E%BA%E5%A0%82",
+      "https://www.city.aizuwakamatsu.fukushima.jp/docs/2012110900017/",
+      "https://japan-heritage.bunka.go.jp/ja/culturalproperties/result/1716/"
+    ],
+    "name_en": "Aizu Sazaedo (former Shosoji Sansodo)",
+    "prefecture_en": "Fukushima Prefecture",
+    "city_en": "Aizuwakamatsu City",
+    "summary_en": "On the slopes of Mount Iimori in Aizuwakamatsu stands a building that looks as though it is mid-collapse, or mid-spin — a hexagonal wooden tower of three tiers, about 16.5 meters tall, its timberwork twisting upward like a conch shell. Built in 1796 and formally named Entsu Sansodo, it is universally known as Sazaedo, the \"turban-shell hall,\" and its strangeness is not skin-deep. Inside is one of the rarest architectural feats in Japan: a double-helix ramp on which visitors going up and visitors coming down travel entirely separate spiral paths and never once meet. A worshipper enters, walks a continuous slope clockwise to the top, then descends a different slope without ever retracing a step or passing another pilgrim. The design had a devotional purpose — thirty-three Kannon images once lined the spiral, so that a single circuit counted as completing the entire Saigoku thirty-three-Kannon pilgrimage. Conceived by the priest Ikudo, this corkscrew of a building is a pre-modern wooden anticipation of the double-helix, and it was designated a National Important Cultural Property in 1995. Mount Iimori is also remembered as the place where the young Byakkotai warriors took their lives, lending the spiral hall a quiet weight beyond its architectural oddity.",
+    "highlights_en": [
+      "A double-helix ramp on which ascending and descending visitors never cross — an exceptionally rare wooden structure worldwide",
+      "The twisted hexagonal three-tiered exterior itself suggests a turban shell (sazae), an arresting oddity",
+      "Designed as a pilgrimage device: a single circuit of the hall counted as a full thirty-three-Kannon pilgrimage",
+      "A distinctive, almost tilting silhouette and timberwork that give it a powerful visual presence"
+    ]
+  },
+  {
+    "id": "spot-281",
+    "name": "道の駅大歩危（妖怪屋敷と石の博物館）",
+    "name_kana": "みちのえきおおぼけ ようかいやしきといしのはくぶつかん",
+    "category": "bkyu",
+    "prefecture": "徳島県",
+    "city": "三好市",
+    "address": "〒779-5452 徳島県三好市山城町上名1553-1",
+    "lat": 33.9015,
+    "lng": 133.7858,
+    "status": "現存",
+    "fee": "大人600円・小中学生300円・幼児無料（妖怪屋敷と石の博物館はセット）",
+    "hours": "9:00〜17:00（入館は16:30まで）／3〜11月は無休、12〜2月は月曜休館（祝日の場合は翌日）",
+    "official_url": "https://yamashiro-info.jp/",
+    "reference_urls": [
+      "https://www.awanavi.jp/archives/spot/2887",
+      "https://miyoshi-city.jp/spot/%E9%81%93%E3%81%AE%E9%A7%85%E5%A4%A7%E6%AD%A9%E5%8D%91%E5%A6%96%E6%80%AA%E5%B1%8B%E6%95%B7%E3%81%A8%E7%9F%B3%E3%81%AE%E5%8D%9A%E7%89%A9%E9%A4%A8/",
+      "https://www.michi-no-eki.jp/stations/views/19625"
+    ],
+    "summary": "国の名勝・天然記念物に指定された大歩危峡をのぞむ国道32号沿いの道の駅に併設された、二つの異色ミュージアム。一階「妖怪屋敷」は、山城町に古くから伝わる「児啼爺（こなきじじい）」をはじめとする地元伝承の妖怪約70体を立体展示し、当地が「妖怪の里」を名乗る根拠となっている。二階「石の博物館」には天然記念物の含礫片岩のほか、火星由来とされる隕石、地球最古級の岩石、世界の貴石原石などが並ぶ。妖怪民俗と地質標本という脈絡の異なる二つを一棟に同居させた構成自体が珍しく、観光ドライブの途上で地域の口承文化に触れられる場として機能している。",
+    "highlights": [
+      "地元伝承の妖怪約70体を立体造形で並べた一階「妖怪屋敷」",
+      "児啼爺（こなきじじい）発祥地を掲げる山城町ならではの妖怪コレクション",
+      "妖怪民俗と火星隕石・地球最古級岩石を同じ建物で見せる脈絡のなさ"
+    ],
+    "from_kameyama": "車で約3時間（名阪国道→新名神→徳島道井川池田ICから国道32号南下）。鉄道はJR関西本線・近鉄で名古屋経由、岡山から特急南風でJR大歩危駅下車、駅から車約10分。",
+    "name_en": "Oboke Roadside Station (Yokai Yashiki and Museum of Stones)",
+    "prefecture_en": "Tokushima Prefecture",
+    "city_en": "Miyoshi City",
+    "summary_en": "Deep in the mountainous heart of Shikoku, where the Yoshino River carves the steep Oboke Gorge, sits a roadside station hiding one of Japan's stranger pairings of exhibits. Climb to the first floor and you enter the Yokai Yashiki — a Monster House where some seventy folk demons from the surrounding Yamashiro district stand frozen in dim light: pot-bellied river imps, a skeletal apparition with a lolling red tongue, the crouching Konaki-jiji whose cry, legend says, drove travelers mad on these very mountain paths. This valley markets itself as a \"village of yokai,\" and these figures are the proof: living oral tradition, made of plaster and shadow. Then, with no transition whatsoever, the second floor becomes the Museum of Stones — conglomerate schist designated a natural monument, a purported fragment of Mars, rocks counted among the oldest on Earth. Folklore and geology, the land's ghosts and the land's bones, sharing a single building beside a parking lot. It is the kind of place you stumble into between hairpin turns and never quite forget.",
+    "highlights_en": [
+      "A first-floor Monster House displaying around seventy three-dimensional yokai handed down in local Yamashiro folklore",
+      "A yokai collection unique to Yamashiro, which claims to be a birthplace of the Konaki-jiji",
+      "The sheer non-sequitur of housing yokai folklore alongside a Mars meteorite and some of Earth's oldest rocks in one building"
+    ]
+  },
+  {
+    "id": "spot-282",
+    "name": "芝山仁王尊 観音教寺",
+    "name_kana": "しばやまにおうそん かんのんきょうじ",
+    "category": "folk",
+    "prefecture": "千葉県",
+    "city": "山武郡芝山町",
+    "address": "〒289-1622 千葉県山武郡芝山町芝山298",
+    "lat": 35.682,
+    "lng": 140.418,
+    "status": "現存",
+    "fee": "境内自由（はにわ博物館は有料・拝観料別途）",
+    "hours": "開堂8:30〜16:00",
+    "official_url": "http://niouson.or.jp/",
+    "reference_urls": [
+      "https://maruchiba.jp/spot/detail_10579.html",
+      "https://ja.wikipedia.org/wiki/%E8%A6%B3%E9%9F%B3%E6%95%99%E5%AF%BA",
+      "https://www.town.shibayama.lg.jp/0000001835.html",
+      "https://www.town.shibayama.lg.jp/0000001839.html"
+    ],
+    "summary": "天応山観音教寺福聚院と号する天台宗の古刹で、寺伝では奈良時代の天応元年（781年）に藤原継縄により創建されたと伝える。本尊は十一面観世音菩薩。江戸期には「火事除け・泥棒除け」の仁王尊として大江戸の庶民信仰を集め、「芝山の仁王さま」として親しまれてきた。最大の特色は、周辺の芝山古墳群から出土した埴輪・副葬品を二百余体収蔵・展示する「芝山はにわ博物館」を境内に併設する点で、寺院と古墳考古資料が一体化した全国でも珍しい「はにわの寺」となっている。県指定有形文化財の三重塔や、嘉慶2年（1388年）銘をもつ仁王尊像も伝わる。",
+    "highlights": [
+      "境内に「芝山はにわ博物館」を併設し古墳出土埴輪二百余体を収蔵する『はにわの寺』",
+      "石段上にそびえる仁王門と、火事除け・泥棒除けで信仰を集めた仁王尊像（嘉慶2年=1388年銘）",
+      "県指定有形文化財の三重塔が建つ天台宗古刹の荘厳な伽藍"
+    ],
+    "from_kameyama": "車で約4時間（東名阪・新東名・首都圏中央連絡道経由、成田空港至近）。鉄道はJRで東京経由、JR総武本線「松尾駅」または成田空港駅からタクシー・バス利用。",
+    "name_en": "Shibayama Nioson Kannonkyo-ji Temple",
+    "prefecture_en": "Chiba Prefecture",
+    "city_en": "Shibayama Town, Sanbu District",
+    "summary_en": "A short drive from the runways of Narita Airport stands a Tendai temple that quietly breaks the rules of what a temple is. Kannonkyo-ji, founded by tradition in 781, is famous in Edo lore as the home of fierce guardian kings — the Nio whose efficacy against fire and theft drew the common people of old Edo, earning the temple its popular name, \"Shibayama Nioson.\" Climb the long stone stairway and the towering Nio gate looms overhead, the two muscular guardians glaring from niches in its flanks. But the true strangeness lies just beside the main hall: the temple runs its own archaeological museum, the Shibayama Haniwa Museum, holding over two hundred haniwa — the hollow clay figures of warriors, horses, and houses unearthed from the burial mounds that ring the village. Founded by the temple back in 1957, it makes this a \"temple of haniwa,\" where Buddhist devotion and the silent ceramic faces of the dead from fifteen centuries ago share the same sacred ground. A prefecturally designated three-story pagoda rises among the trees, completing one of Japan's most unusual fusions of living faith and ancient archaeology.",
+    "highlights_en": [
+      "A \"temple of haniwa\" — its on-site Shibayama Haniwa Museum holds over two hundred clay figures excavated from nearby burial mounds",
+      "An imposing Nio gate atop a stone stairway, with guardian-king statues (inscribed 1388) once revered against fire and theft",
+      "A solemn Tendai temple complex crowned by a prefecturally designated three-story pagoda"
+    ]
+  },
+  {
+    "id": "spot-283",
+    "name": "大巌寺（七不思議）",
+    "name_kana": "だいがんじ ななふしぎ",
+    "category": "mystery",
+    "prefecture": "千葉県",
+    "city": "千葉市中央区",
+    "address": "〒260-0813 千葉県千葉市中央区大巌寺町180",
+    "lat": 35.601,
+    "lng": 140.123,
+    "status": "現存",
+    "fee": "境内自由（宝物殿は開館日のみ・拝観要確認）",
+    "hours": "境内随時／宝物殿は月2回程度の開館",
+    "official_url": "https://tesshow.jp/chiba/chiba/temple_chuo_daiganji.html",
+    "reference_urls": [
+      "https://chiicomi.com/press/140003/",
+      "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B7%8C%E5%AF%BA",
+      "https://www.shukutoku.ac.jp/news/nid00005604.html"
+    ],
+    "summary": "龍澤山大巌寺玄忠院と号する浄土宗の大刹で、天文20年（1551年）に道誉貞把上人が学問寺として開いた。江戸時代には朱印地100石を受け、関東十八檀林（浄土宗の学問所）の一つとして全国から百人を超える学僧が集まる名刹となった。徳川家康の帰依を受け、将軍家の位牌所として葵紋を多数留める。古くから境内に「七不思議」の伝承が伝わり、念仏で蛙が鳴きやんだ「不鳴の池」、雨乞いに霊験あらたかな「雨降り井戸」、罪人をかくまったという「開かずの間」など、学問寺・霊場としての歴史が物語化された口承群が今も語り継がれている。",
+    "highlights": [
+      "朱塗りの二重門（山門）がそびえる関東十八檀林の浄土宗大刹",
+      "念仏で蛙が鳴きやんだ「不鳴の池」など学問寺の七不思議伝承",
+      "徳川家康の帰依を受けた将軍家位牌所で境内に葵紋が点在"
+    ],
+    "from_kameyama": "車で約4時間（東名阪・新東名・東京湾アクアライン経由）。鉄道はJRで東京経由、JR外房線・京成千原線「大森台駅」からバス・徒歩、またはJR「蘇我駅」からバス利用。",
+    "name_en": "Daiganji Temple (The Seven Mysteries)",
+    "prefecture_en": "Chiba Prefecture",
+    "city_en": "Chuo Ward, Chiba City",
+    "summary_en": "Behind a striking vermilion two-story gate in a quiet corner of Chiba City stands one of the great Pure Land temples of eastern Japan — and one wrapped in a web of strange old stories. Founded in 1551 by the renowned scholar-monk Doyo Teiha as a place of learning, Daiganji drew more than a hundred young monks from across the country and, under the patronage of Tokugawa Ieyasu, became one of the Eighteen Danrin of Kanto, the elite Jodo-sect seminaries of the Edo age. Tokugawa hollyhock crests still mark the grounds where shogunal mortuary tablets once rested. But what visitors come whispering about are the Seven Mysteries: the Pond of No Croaking, where frogs are said to have fallen silent the moment the monks' study hours began, hushed by the founder's chanting; the Rain-falling Well that answered prayers in times of drought; the Room That Never Opens, which once hid fugitives and the accused. Two of the original seven — a plum and a two-thousand-year-old sacred tree — have long since withered away, leaving five for the curious to seek out. Read not as ghost stories but as folk memory, they preserve the rhythms of a vanished world of prayer and scholarship.",
+    "highlights_en": [
+      "A great Pure Land temple of the Eighteen Danrin of Kanto, fronted by a soaring vermilion two-story gate",
+      "Learning-temple legends such as the 'Pond of No Croaking,' where frogs are said to have gone silent during study hours",
+      "A shogunal mortuary site favored by Tokugawa Ieyasu, with hollyhock crests scattered through the grounds"
+    ]
+  },
+  {
+    "id": "spot-284",
+    "name": "タウシュベツ川橋梁（めがね橋）",
+    "name_kana": "たうしゅべつがわきょうりょう めがねばし",
+    "category": "mystery",
+    "prefecture": "北海道",
+    "city": "河東郡上士幌町",
+    "address": "北海道河東郡上士幌町字ぬかびら源泉郷（糠平湖内）",
+    "lat": 43.4156,
+    "lng": 143.1892,
+    "status": "現存（崩落進行中・季節により水没）",
+    "fee": "無料（展望台見学）／橋への接近はツアー・徒歩のみ",
+    "hours": "展望台は終日（冬期積雪・ヒグマ注意）",
+    "official_url": "https://www.kamishihoro.jp/place/00000072",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A6%E3%82%B7%E3%83%A5%E3%83%99%E3%83%84%E5%B7%9D%E6%A9%8B%E6%A2%81",
+      "https://www.visit-hokkaido.jp/spot/detail_10178.html",
+      "https://kamishihoro.info/sg_detail.php?id=30"
+    ],
+    "summary": "旧国鉄士幌線のコンクリート製アーチ橋で、1937年に完成、長さ約130メートル・11連アーチからなる。1955年、糠平ダム建設に伴う路線付け替えで廃止され、ダム湖（糠平湖）の中に取り残された。湖の水位が低い1月頃に氷上に姿を現し、6月頃から沈み始め、8〜10月には湖底に没するため「幻の橋」と呼ばれる。風のない晴天時に水面へ橋が映ると眼鏡のように見えることから「めがね橋」の別名をもつ。凍結融解の繰り返しと水圧で崩落が進み、刻一刻と姿を変える儚さそのものが見どころとなっている、北海道遺産の近代化遺産。",
+    "highlights": [
+      "ダム湖に取り残された11連コンクリートアーチ橋",
+      "水位で見え隠れする「幻の橋」と水面に映る「めがね橋」の景",
+      "凍結融解と水圧で崩落が進み毎年姿を変える、消えゆく遺構の儚さ"
+    ],
+    "from_kameyama": "車＋フェリーや空路で半日以上。現実的には鉄道・空路で帯広へ（名古屋→とかち帯広空港 約1時間40分）、帯広から車で約1時間20分（国道273号・ぬかびら源泉郷方面）。",
+    "name_en": "Taushubetsu River Bridge (The Eyeglass Bridge)",
+    "prefecture_en": "Hokkaido",
+    "city_en": "Kamishihoro Town, Kato District",
+    "summary_en": "Stranded in the middle of a man-made lake in eastern Hokkaido lies a bridge that is slowly dissolving back into the earth. Built in 1937 as part of the old national railway's Shihoro Line, the Taushubetsu River Bridge is a graceful run of eleven concrete arches, about 130 meters long. When the line was rerouted for a dam in 1955, the bridge was simply abandoned to the reservoir that rose around it — and ever since it has performed an eerie annual disappearing act. In deep winter, when the dam is drawn down, it surfaces from the frozen lakebed; by June it begins to sink; and from late summer it vanishes completely beneath the water. Locals call it the \"phantom bridge.\" On a still, clear day its reflection completes a perfect circle on the water, giving it its other name — the \"eyeglass bridge.\" Every freeze-thaw cycle gnaws at the concrete: an earthquake in 2003 brought down part of a sidewall, and engineers warn it could collapse entirely at any time. To stand at the lookout and watch it is to watch a human structure being patiently un-made by ice, water, and time — a ruin whose whole beauty lies in the certainty of its disappearance.",
+    "highlights_en": [
+      "Eleven concrete arches stranded in the middle of a dam reservoir",
+      "A 'phantom bridge' that appears and vanishes with the water level, and an 'eyeglass' reflection on still water",
+      "An ever-changing, collapsing relic — the poignancy of a structure being slowly reclaimed by nature"
+    ]
+  },
+  {
+    "id": "spot-285",
+    "name": "鬼ノ城（鬼城山）",
+    "name_kana": "きのじょう きのじょうざん",
+    "category": "mystery",
+    "prefecture": "岡山県",
+    "city": "総社市",
+    "address": "〒719-1101 岡山県総社市奥坂",
+    "lat": 34.7255,
+    "lng": 133.7624,
+    "status": "現存（国史跡・西門等を復元整備）",
+    "fee": "無料（鬼城山ビジターセンター・見学とも無料）",
+    "hours": "ビジターセンター9:00〜17:00（月曜・祝日の翌日・年末年始休）／城跡は終日見学可",
+    "official_url": "https://www.city.soja.okayama.jp/bunka/kanko/shitei_bunkazai/kuni/kuni_11.html",
+    "reference_urls": [
+      "https://www.okayama-kanko.jp/spot/10755",
+      "https://japan-heritage.bunka.go.jp/ja/culturalproperties/result/3933/",
+      "https://www.pref.okayama.jp/site/kodai/996216.html"
+    ],
+    "summary": "総社平野の北にそびえる標高約400mの鬼城山の山頂部を、約2.8kmの城壁がぐるりと取り巻く古代山城。城門4か所と水門6か所を備え、発掘調査から7世紀後半の築造と推定されるが、『日本書紀』など正史に記録がなく、誰が何のために築いたのかが判然としない「謎の城」として知られる。最大の特色は、復元された壮大な西門と、白く版築された城壁が稜線に連なる景観で、古代山城でこれらの防御施設をまとまって復元している例は全国でも珍しい。地元では、百済の王子とされる鬼「温羅（うら）」が籠もり吉備津彦命に討たれたという伝説の舞台とされ、桃太郎伝説の源流に位置づけられる。",
+    "highlights": [
+      "稜線を約2.8kmの城壁が取り巻く古代山城の威容",
+      "版築土塁の上に復元された壮大な西門と眼下に広がるパノラマ",
+      "桃太郎伝説の源流とされる鬼『温羅（うら）』伝説の舞台"
+    ],
+    "from_kameyama": "車で約2時間40分（名阪国道→新名神→山陽道、岡山総社IC経由）。鉄道はJRで岡山経由、JR吉備線「服部駅」からタクシー、または総社駅から車で麓へ。山上の西門まで駐車場から徒歩約15分。",
+    "name_en": "Kinojo (Mt. Kinojo / Ogre Castle)",
+    "prefecture_en": "Okayama Prefecture",
+    "city_en": "Soja City",
+    "summary_en": "On a 400-meter peak above the Soja Plain stands a castle that history forgot to record. For some 2.8 kilometers, a band of rammed-earth wall and stone rings the summit of Mt. Kinojo, pierced by four great gates and six water gates — yet not a single line about its building survives in the Nihon Shoki or any other chronicle. Excavations point to the late 7th century, most likely raised by the Yamato court to guard against a feared invasion after Japan's catastrophic defeat at the Battle of Baekgang in 663. But it is the legend, not the archaeology, that gives the place its name and its chill: this was the lair of Ura, an ogre said to be a Baekje prince, who terrorized the land of Kibi until the hero Kibitsu-hiko cut him down — a story scholars read as the memory of Korean ironworking immigrants clashing with central power, and the very seed from which the tale of Momotaro grew. Today the reconstructed west gate rises white and stark on its rammed-earth platform, banners of red and white along its eaves, the plain spread out far below. Few ancient mountain castles in Japan let you walk this fully restored line of walls — and fewer still come haunted by an ogre.",
+    "highlights_en": [
+      "The imposing sweep of an ancient mountain castle, walls ringing the ridge for some 2.8 km",
+      "A grand restored west gate atop a rammed-earth rampart, with a panorama over the plain below",
+      "The stage of the ogre 'Ura' legend, regarded as the source of the Momotaro tale"
+    ]
   }
 ]
