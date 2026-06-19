@@ -12619,5 +12619,110 @@
     "origin_en": "The Jindai Dance of Nishi-Iya is a furyu folk dance of Nishi-Iya-yama village in the rugged Iya valley, which preserves legends of surviving Heike clansmen. Its origin is said to lie in a dance performed to pray for rain during a drought when Sugawara no Michizane was governor of Sanuki; the flower hats trimmed with paper ornaments representing rain are held to symbolize this rain-praying origin. A historical record that the lord of Tokushima domain viewed it in 1828 (Bunsei 11) shows it was already an established old dance by the late Edo period. Performed at the summer and autumn festivals in prayer for a good harvest and good health, it is a national Important Intangible Folk Cultural Property, and in 2022 was registered as one element of the UNESCO Intangible Cultural Heritage 'Furyu-odori.'",
     "viewing_notes_en": "Traditionally dedicated on the 25th day of the 6th lunar month (August 7 in 2026) at Tenman Shrine (Zentoku Tenmangu) in the Zentoku district, and around the 11th day of the 9th lunar month (about October 21 in 2026) at Arimiya Shrine in the Tokuzen district. In recent years, however, it has often been held on a Sunday during the summer festival season for the convenience of performers and attendees (July 30 in 2024, July 19 in 2025). Viewing is free. Because the date varies by year, always confirm the latest date via the Miyoshi City Board of Education's announcements. The venue is a narrow mountain site reached by Iya valley roads; take heat precautions for the summer offering.",
     "date_pattern_en": "Annually on the 25th day of the 6th lunar month (Tenman Shrine, Zentoku) and around the 11th day of the 9th lunar month (Arimiya Shrine, Tokuzen); in recent years often held on a Sunday during the summer festival season"
+  },
+  {
+    "id": "fest-261",
+    "name": "祐徳稲荷神社 秋季大祭（お火たき）",
+    "name_kana": "ゆうとくいなりじんじゃ しゅうきたいさい おひたき",
+    "shrine": "祐徳稲荷神社",
+    "category": "fire",
+    "prefecture": "佐賀県",
+    "city": "鹿島市",
+    "lat": 33.073539,
+    "lng": 130.108242,
+    "date_pattern": "毎年12月8日固定（日没から夜にかけて）",
+    "date_2026": "2026-12-08",
+    "date_2026_end": null,
+    "summary": "日本三大稲荷の一つに数えられる祐徳稲荷神社で、師走の夜に営まれる火の神事。秋の収穫感謝の意を込めた新嘗祭の系譜に連なる行事で、宮司が祝詞を奏上したのち、神前の浄火を松明に移し、境内に組み上げた木々を青竹で囲んだ「お山」に点火する。乾いた青竹が爆ぜながら一気に燃え上がり、高さ十数メートルに達する御神火の柱が夜空を焦がす。火にあたると一年の罪穢れが祓われ、無病息災が得られると信じられ、その場に立てない者は肌着や写真を代理人に翳してもらい、消し炭を持ち帰る慣わしも残る。約350年続くとされ、新米で醸した甘酒が参拝者にふるまわれるのも特徴である。",
+    "highlights": [
+      "青竹が爆ぜながら一気に燃え上がる、高さ十数メートルの御神火の柱",
+      "浄火を松明に移し「お山」へ点火する宮司の所作と荘厳な炎",
+      "火にあたって罪穢れを祓い、消し炭を持ち帰る民俗的な火の信仰",
+      "炎を取り巻く参拝者と、新米で醸した甘酒のふるまい"
+    ],
+    "origin": "祐徳稲荷神社は貞享4年（1687年）、肥前鹿島藩主夫人・萬子媛が朝廷の勅願所であった稲荷大神の分霊を勧請して創建したと伝わる稲荷信仰の大社である。お火たきは、春の祈年祭に対する秋の収穫感謝の祭祀に連なる火の神事で、山から田へ降りて稲を実らせた神霊に感謝し、その働きを終えて再び山へ昇っていただくための「火送り」の意味を担うとされる。あわせて、一年でもっとも日の弱まる師走に火を焚き、太陽の復活と新春の到来を願う冬至前後の火祭りの性格も色濃い。新嘗祭の夜の行事として位置づけられ、約350年にわたり受け継がれてきた。",
+    "official_url": "https://www.yutokusan.jp/event/annual/autumn/",
+    "reference_urls": [
+      "https://www.yutokusan.jp/event/annual/autumn/",
+      "https://saga-kashima-kankou.com/feature/5859",
+      "https://www.city.saga-kashima.lg.jp/kanko/main/?cont=kanko&fid=53",
+      "https://www.asobo-saga.jp/events/detail/a3034d4a-50a6-4bea-9b05-f457967e0be9"
+    ],
+    "viewing_notes": "毎年12月8日、日没後から夜にかけて境内で執り行われる。観覧は無料。火柱が高く立ち上がるため、火の粉や煙、風向きに注意し、火元からは一定の距離を取ること。冬の夜間で冷え込むため防寒は必須。JR肥前鹿島駅からバス約10分・タクシー約10分、長崎自動車道武雄北方ICまたは嬉野ICから車で約35分。大型駐車場あり。点火後は混雑するため早めの到着が安心。",
+    "deepdive": {
+      "history_jp": "祐徳稲荷神社は、貞享4年（1687年）に肥前鹿島藩主・鍋島直朝の夫人である萬子媛が、京都・稲荷大神の御分霊を勧請して創建したと伝えられる稲荷信仰の大社で、衣食住・産業の守護神として崇敬を集めてきた。[祐徳稲荷神社公式](https://www.yutokusan.jp/)。お火たきは秋季大祭に連なる師走の火の神事で、公式の説明によれば、春の祈年祭に相対する秋の祭として「山から田へお降り願った神霊に、秋の収穫と共にその働きを終え、再び山へお昇り願う為の感謝の祭」と位置づけられ、あわせて冬至前後の太陽の復活と春の到来を願う信仰が込められている。[祐徳稲荷神社公式・年中行事](https://www.yutokusan.jp/event/annual/autumn/)。鹿島市観光協会の記録では、毎年12月8日の日没から夜にかけて行われ、神前の浄火を松明に移して境内の「お山」に点火し、十数メートルの火柱が立ち上がる様子が伝えられている。[鹿島市観光協会](https://saga-kashima-kankou.com/feature/5859)。",
+      "cultural_context_jp": "お火たきは、稲作儀礼における「火」と「収穫」「再生」の連関を可視化した火祭りとして理解できる。山の神（田の神）が秋に山へ還るのを火で送り、同時に一年でもっとも陽の弱まる師走に大火を焚いて太陽の復活を祈る点で、新嘗祭と冬至の火祭りの性格が重なる。[祐徳稲荷神社公式・年中行事](https://www.yutokusan.jp/event/annual/autumn/)。火にあたって罪穢れを祓い無病息災を願う、消し炭を持ち帰るといった習俗は、火を浄化と更新の媒体ととらえる日本の民俗信仰に広く共通する観念であり、稲荷信仰の大社で大規模に営まれる点に特色がある。[鹿島市観光協会](https://saga-kashima-kankou.com/feature/5859)。",
+      "local_perspective_jp": "鹿島市にとって祐徳稲荷神社は年間数百万人が訪れる屈指の観光・信仰の拠点であり、お火たきは歳末の風物詩として地域に根づいている。鹿島市は観光情報として本行事を公式に紹介し、約350年続く師走の伝統行事として位置づけている。[鹿島市公式・観光](https://www.city.saga-kashima.lg.jp/kanko/main/?cont=kanko&fid=53)。新米で醸した甘酒が参拝者にふるまわれるなど、収穫感謝の地域共同体的な側面も保たれており、観光化しつつも氏子・崇敬者によって支えられている。[佐賀県観光連盟 あそぼーさが](https://www.asobo-saga.jp/events/detail/a3034d4a-50a6-4bea-9b05-f457967e0be9)。",
+      "best_visit_time": "毎年12月8日、日没後から点火・火柱が最も高く上がる時間帯（おおむね夜）が見どころ。混雑前に明るいうちに到着し、参道や境内の位置取りを確保しておくとよい。",
+      "photo_tips": "火柱が立ち上がる瞬間を縦構図で捉えると迫力が出る。火の粉が舞うため広角で炎と参拝者を入れると規模感が伝わる。夜間・高コントラストの被写体なので露出は炎に合わせ、三脚使用時も通路や参拝者を塞がないこと。神事中は係員の指示と立入制限に従う。",
+      "warnings_extra": "大規模な火を扱う夜間の神事のため、火元には近づきすぎず、火の粉・煙・風向きに常に注意する。子ども連れは特に火元から距離を取る。防寒対策を十分に。撮影は神事や参拝者の妨げにならないよう配慮し、フラッシュや無断の接写は控える。",
+      "sources": "[祐徳稲荷神社公式サイト](https://www.yutokusan.jp/), [祐徳稲荷神社公式・年中行事（秋季大祭・お火たき）](https://www.yutokusan.jp/event/annual/autumn/), [鹿島市観光協会・お火たき体験レポート](https://saga-kashima-kankou.com/feature/5859), [鹿島市公式・観光（お火たき）](https://www.city.saga-kashima.lg.jp/kanko/main/?cont=kanko&fid=53), [佐賀県観光連盟 あそぼーさが](https://www.asobo-saga.jp/events/detail/a3034d4a-50a6-4bea-9b05-f457967e0be9)"
+    },
+    "name_en": "Yutoku Inari Shrine Autumn Grand Festival (Ohitaki Fire Ritual)",
+    "shrine_en": "Yutoku Inari Shrine",
+    "prefecture_en": "Saga Prefecture",
+    "city_en": "Kashima City",
+    "date_pattern_en": "Annually on December 8 (from sunset into the night)",
+    "summary_en": "At Yutoku Inari Shrine — counted among Japan's three great Inari shrines — the Ohitaki is a fire ritual held on a December night as part of the Autumn Grand Festival. Descended from the Niiname-sai harvest-thanksgiving tradition, the rite begins with the chief priest reciting a norito invocation, after which a purified flame from the altar is transferred to a torch and used to ignite the \"oyama\" — a mound of stacked wood encircled by green bamboo. The dried bamboo bursts and crackles as the pile roars into a pillar of sacred fire reaching some ten-odd meters into the night sky. Standing in the glow of the flames is believed to purge a year's worth of sin and defilement and to grant freedom from illness; those who cannot reach the fire have a proxy hold up their undergarments or a photograph, and many carry home a piece of the cooled charcoal. Said to be roughly 350 years old, the festival also features amazake brewed from the new rice crop, served to worshippers.",
+    "highlights_en": [
+      "A pillar of sacred fire over ten meters tall, roaring up as green bamboo bursts and crackles",
+      "The chief priest transferring the purified flame by torch to ignite the \"oyama\" amid solemn fire",
+      "A folk fire-faith of purging defilement by standing in the flames and carrying home the charcoal",
+      "Worshippers ringing the blaze, and amazake brewed from the new rice crop"
+    ],
+    "origin_en": "Yutoku Inari Shrine is a major center of Inari worship said to have been founded in 1687 (Jokyo 4) when Lady Manko, wife of the lord of Hizen-Kashima domain, enshrined a branch spirit of the Inari deity. The Ohitaki is a fire rite belonging to the autumn harvest-thanksgiving cycle that mirrors the spring Kinen-sai. It is understood as a \"fire send-off\" thanking the deity who descended from the mountain to the rice fields to ripen the grain, and seeing that deity back up to the mountain once its work is done. It also carries the strong character of a winter-solstice fire festival: a great blaze kindled in the darkest days of the twelfth month to pray for the sun's return and the coming of the new year. Positioned as a night observance of the Niiname-sai, it has been handed down for roughly 350 years.",
+    "viewing_notes_en": "Held in the shrine precincts on December 8 each year, from after sunset into the night; viewing is free. Because the column of fire rises high, beware of sparks, smoke and wind direction, and keep a safe distance from the source. Warm winter clothing is essential for the night cold. About 10 minutes by bus or taxi from JR Hizen-Kashima Station; about 35 minutes by car from the Takeo-Kitagata or Ureshino IC on the Nagasaki Expressway. A large parking lot is available. The grounds grow crowded after ignition, so arriving early is advisable."
+  },
+  {
+    "id": "fest-262",
+    "name": "愛宕社の火祭り（魚津）",
+    "name_kana": "あたごしゃ の ひまつり",
+    "shrine": "愛宕社（魚津神社・八幡宮・諏訪神社が分担して運営）",
+    "category": "fire",
+    "prefecture": "富山県",
+    "city": "魚津市",
+    "lat": 36.818094,
+    "lng": 137.397972,
+    "date_pattern": "毎年1月26日固定（見ごろは午前11時ごろ）",
+    "date_2026": "2026-01-26",
+    "date_2026_end": null,
+    "summary": "富山県魚津市の中心市街地で営まれる火伏せの祭礼。江戸時代に魚津で大火が続いたことを受け、火防の神・軻遇突智命を祀る愛宕社へ、火消しの纏（まとい）に似せた巨大な御幣を奉納したことに始まると伝わる。高さ5〜6メートルの青竹の竿頭に榊・神籬、天狗とおかめの面、扇に麻をかけたものを取り付け、金銀白の長い紙を垂らした「大御幣」約30本が町内ごとに作られ、各家の戸口に差し入れて囃しながら町を練り歩く。最後に愛宕社前へ集合して大御幣を林立させ、火祭祈祷ののち焼納する。「全く同じ形の大御幣は一つもない」とされ、町ごとに意匠を競った独特の造形が見どころである。",
+    "highlights": [
+      "高さ5〜6mの竿頭に天狗・おかめの面と金銀白の紙を垂らした大御幣約30本",
+      "大御幣を各家の戸口に差し入れて囃しながら町内を練り歩く所作",
+      "愛宕社前で大御幣を林立させ、火祭祈祷ののち一斉に焼納する火伏せの神事",
+      "町ごとに意匠を競い「全く同じ形は一つもない」御幣の個性"
+    ],
+    "origin": "江戸時代の中頃、魚津の町で大火が相次いだため、住民が防火意識を高めようと、火伏せ（火防）の神である軻遇突智命を祀る愛宕社に対し、火消しの纏に似せた大御幣を奉納したことが祭りの始まりと伝えられる。以後、町内ごとに大御幣を作って奉じ、火災除けと町内安全を祈る年中行事として定着した。戦前にはその出来栄えを競い合う気風があり、現在も同じ形の大御幣は一つとして無いとされる。魚津神社・八幡宮・諏訪神社の三社が町内を分担し、それぞれ大御幣の立つ場所を巡って祈祷を行う体制が受け継がれている。",
+    "official_url": "https://uozu-kanko.jp/library/atagono-himaturi/",
+    "reference_urls": [
+      "https://uozu-kanko.jp/library/atagono-himaturi/",
+      "https://www.info-toyama.com/events/50053",
+      "https://uozu-kanko.jp/library/uozu_shrine/"
+    ],
+    "viewing_notes": "毎年1月26日に魚津市中心市街地（中央通り周辺・愛宕社前）で行われる。見ごろは午前11時ごろ、大御幣が町を練り歩く時間帯と、午後に愛宕社前で御幣を焼納する場面。観覧は無料。真冬の北陸で積雪・路面凍結の可能性が高く、防寒・滑りにくい靴が必須。御幣の焼納時は火と煙に近づきすぎないこと。あいの風とやま鉄道「魚津駅」から徒歩圏。",
+    "deepdive": {
+      "history_jp": "愛宕社の火祭りは、富山県魚津市の中心市街地で毎年1月26日に営まれる火伏せの祭礼である。魚津市観光協会の記録によれば、江戸時代中頃に魚津の町で大火が続いたため、防火意識を高めようと、火伏せの神・軻遇突智命を祀る愛宕社へ火消しの纏に似せた大御幣を奉納したのが始まりとされる。[魚津市観光協会・愛宕社の火祭り](https://uozu-kanko.jp/library/atagono-himaturi/)。富山県公式観光サイト「とやま観光ナビ」も、魚津伝統の火祭りとして本行事を紹介している。[とやま観光ナビ](https://www.info-toyama.com/events/50053)。現在は火祭り当日の数日〜10日前（土・日曜が多い）に各町内が大御幣を作って街中に立て、当日は御幣を担いで町内を巡り、午後に愛宕社前で約30本を林立させて火祭祈祷を行い焼納する。[魚津市観光協会](https://uozu-kanko.jp/library/atagono-himaturi/)。",
+      "cultural_context_jp": "本祭は、木造家屋が密集し大火に苦しんだ近世の町場が、火防の神への信仰を共同体行事に結晶させた典型例として理解できる。高さ5〜6メートルの竿頭に榊・神籬、天狗とおかめの面、扇に麻をかけたものを付け、金銀白の長い紙を垂らした大御幣は、火消しの纏を神事の依代へと転化させた造形であり、町内ごとに意匠を競って「全く同じ形は一つもない」と言われる点に、競争的・装飾的な民俗芸能の性格がうかがえる。[魚津市観光協会・愛宕社の火祭り](https://uozu-kanko.jp/library/atagono-himaturi/)。魚津神社・八幡宮・諏訪神社の三社が町内を分担して巡る運営形態も、複数の氏神圏が一つの市街地を支える地域構造を反映している。[魚津市観光協会・魚津神社](https://uozu-kanko.jp/library/uozu_shrine/)。",
+      "local_perspective_jp": "魚津市にとって本祭は、真冬の市街地を彩る伝統行事として観光協会が公式に発信し続けている地域の財産である。各家の戸口に大御幣を差し入れて囃す所作は、火災除けと町内安全への素朴な祈りを住民の生活圏のなかで結ぶもので、見世物というより町内共同体の務めとして担われてきた。[魚津市観光協会・愛宕社の火祭り](https://uozu-kanko.jp/library/atagono-himaturi/)。なお運営の中核を担う魚津神社は、昭和31年（1956年）の魚津大火後に市街地の複数社を合祀して成立した経緯を持ち、火と深い縁のある神社として知られる。[魚津市観光協会・魚津神社](https://uozu-kanko.jp/library/uozu_shrine/)。",
+      "best_visit_time": "毎年1月26日。見ごろは大御幣が町を練り歩く午前11時ごろと、午後に愛宕社前で御幣を焼納する場面。日中の行事のため夜の火祭りとは異なり、明るいうちに巡行と焼納の両方を見られる。",
+      "photo_tips": "天狗・おかめの面や金銀の紙が揺れる大御幣の竿頭を見上げる構図で個性が際立つ。各家の戸口に御幣を差し入れる所作や、雪景色の市街地を巡行する場面は物語性が出る。焼納時は炎と御幣を一画面に収めつつ火元から距離を取る。",
+      "warnings_extra": "真冬の北陸で積雪・路面凍結の可能性が高いため、防寒と滑りにくい靴が必須。御幣の焼納時は火と煙、火の粉に注意し近づきすぎない。巡行の妨げにならないよう配慮し、住民宅の戸口での所作を撮る際は節度を保つ。",
+      "sources": "[魚津市観光協会・愛宕社の火祭り](https://uozu-kanko.jp/library/atagono-himaturi/), [とやま観光ナビ・愛宕社の火祭り](https://www.info-toyama.com/events/50053), [魚津市観光協会・魚津神社](https://uozu-kanko.jp/library/uozu_shrine/)"
+    },
+    "name_en": "Atago Shrine Fire Festival (Uozu)",
+    "shrine_en": "Atago Shrine (organized in turns by Uozu Shrine, Hachimangu and Suwa Shrine)",
+    "prefecture_en": "Toyama Prefecture",
+    "city_en": "Uozu City",
+    "date_pattern_en": "Annually on January 26 (peak viewing around 11 a.m.)",
+    "summary_en": "A fire-prevention rite held in the central district of Uozu, Toyama. Tradition holds that after repeated conflagrations struck the town in the Edo period, residents offered giant gohei (paper-and-bamboo ritual wands) shaped like firefighters' matoi standards to Atago Shrine, which enshrines Kagutsuchi-no-Mikoto, the deity of fire prevention. Each neighborhood builds an \"o-gohei\" some 5–6 meters tall: green bamboo poles topped with sakaki and a himorogi spirit-vessel, masks of a tengu and an Okame, and a fan draped with hemp, with long streamers of gold, silver and white paper hanging below. About thirty of these are carried through town, thrust into the doorways of each house to chants, and finally gathered before Atago Shrine, where they are stood up in a forest of wands, blessed in a fire ritual, and burned. Said to be such that \"no two o-gohei are ever exactly alike,\" the festival is famous for the distinctive forms the neighborhoods compete to create.",
+    "highlights_en": [
+      "About thirty o-gohei 5–6 m tall, topped with tengu and Okame masks and gold-silver-white streamers",
+      "The act of thrusting the o-gohei into each house's doorway to chants while parading the neighborhoods",
+      "Standing the o-gohei in a forest before Atago Shrine, then burning them together after a fire-prevention blessing",
+      "The individuality of wands the neighborhoods compete over, so that \"no two are exactly alike\""
+    ],
+    "origin_en": "It is said that around the middle of the Edo period, after a series of great fires struck the town of Uozu, residents — seeking to heighten fire awareness — offered large gohei shaped like firefighters' matoi standards to Atago Shrine, which enshrines Kagutsuchi-no-Mikoto, the deity of fire prevention; this is held to be the festival's origin. Thereafter each neighborhood came to make and dedicate its own o-gohei, and the event took root as an annual rite praying for protection from fire and for neighborhood safety. Before the war there was a spirit of competing over the wands' craftsmanship, and even today it is said that no two o-gohei share the same form. The framework in which three shrines — Uozu Shrine, Hachimangu and Suwa Shrine — divide the neighborhoods among themselves and visit each site where an o-gohei stands to perform blessings has been carried down to the present.",
+    "viewing_notes_en": "Held on January 26 each year in central Uozu (around Chuo-dori and in front of Atago Shrine). The best viewing is around 11 a.m. as the o-gohei are paraded through town, and in the afternoon when the wands are burned before Atago Shrine. Viewing is free. As deep-winter Hokuriku, snowfall and icy roads are very likely, so warm clothing and non-slip footwear are essential. During the burning, do not approach the fire or smoke too closely. Within walking distance of Uozu Station on the Ainokaze Toyama Railway."
   }
 ]

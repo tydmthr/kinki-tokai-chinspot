@@ -13133,5 +13133,214 @@
       "One of a cluster of abandoned inns along the river, telling the rise and decline of the ancient Sakakibara hot spring",
       "Located right next to this site's existing entry, Shihōkaku—a distinctive spa-town landscape of consecutive ruined inns"
     ]
+  },
+  {
+    "id": "spot-344",
+    "name": "日原鍾乳洞",
+    "name_kana": "にっぱらしょうにゅうどう",
+    "category": "mystery",
+    "prefecture": "東京都",
+    "city": "奥多摩町",
+    "address": "〒198-0211 東京都西多摩郡奥多摩町日原1052",
+    "lat": 35.852583,
+    "lng": 139.040861,
+    "status": "現存",
+    "fee": "大人（高校生以上）900円、中学生700円、小学生600円（25人以上で1人100円割引）",
+    "hours": "4月1日〜11月30日 9:00〜17:00／12月1日〜3月31日 9:00〜16:30（12月30日〜1月3日休業）",
+    "official_url": "https://www.gotokyo.org/jp/spot/525/index.html",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E6%97%A5%E5%8E%9F%E9%8D%BE%E4%B9%B3%E6%B4%9E",
+      "https://www.gotokyo.org/jp/spot/525/index.html",
+      "https://shonyudokyokai.com/spot-list/nippara/"
+    ],
+    "summary": "東京都西多摩郡奥多摩町、秩父多摩甲斐国立公園の山中にある関東地方最大級の鍾乳洞。総延長は約1,270メートル、高低差は約134メートルに及び、観光コースだけでも数百メートルを巡る規模を誇る。江戸時代以前から知られ、かつては山岳信仰の聖地として修験者や行者が籠もったと伝わり、洞内には白い観音像が安置されるなど宗教的痕跡を今に残す。長い年月をかけて形成された鍾乳石や石筍が連なる地下空間に、近年はカラフルな照明や水琴窟の演出も加わり、都心から日帰り圏とは思えない別世界の景観をつくり出す。真夏でも洞内は概ね11度前後と冷涼で、避暑地としても知られる。",
+    "highlights": [
+      "総延長約1,270m・高低差約134mに及ぶ関東地方最大級の地下空間",
+      "数百年をかけて成長した鍾乳石・石筍が連なる巨大ホールと奇岩",
+      "山岳信仰の名残として洞内に安置された白い観音像",
+      "色とりどりの照明と水琴窟が演出する非日常の地下景観",
+      "真夏でも約11度前後と冷涼で避暑地としても知られる環境"
+    ],
+    "from_kameyama": "鉄道なら亀山駅からJR関西本線・東海道新幹線・中央線等を乗り継ぎ青梅線「奥多摩駅」へ約5〜6時間、さらに西東京バス「東日原」下車徒歩約30分。車なら東名阪・新東名・圏央道経由で青梅方面へ約6時間、奥多摩の狭隘な山道に注意。",
+    "name_en": "Nippara Limestone Cave",
+    "prefecture_en": "Tokyo",
+    "city_en": "Okutama Town",
+    "summary_en": "Deep in the mountains of Okutama, within Chichibu-Tama-Kai National Park on Tokyo's far western edge, Nippara Limestone Cave is one of the largest caverns in the entire Kanto region. With a total length of about 1,270 meters and a vertical drop of around 134 meters, the visitor route alone winds for hundreds of meters through a vast underground world. Known since before the Edo period, the cave was once a sacred site of mountain worship where ascetics and pilgrims secluded themselves, and it still bears traces of that devotion — a white Kannon statue stands enshrined within. Stalactites and stalagmites built up over centuries crowd the great halls, and in recent years colorful lighting and a suikinkutsu water chime have been added, conjuring a landscape that feels impossibly remote for somewhere within a day trip of central Tokyo. Even at the height of summer the interior hovers around 11 degrees Celsius, making it a celebrated retreat from the heat.",
+    "highlights_en": [
+      "One of Kanto's largest underground spaces, about 1,270 m long with a 134 m vertical difference",
+      "Great halls lined with stalactites and stalagmites grown over hundreds of years, and strange rock formations",
+      "A white Kannon statue enshrined inside as a vestige of mountain worship",
+      "An otherworldly subterranean landscape staged with colored lighting and a suikinkutsu water chime",
+      "An environment that stays around 11°C even in midsummer, known as a cool-off retreat"
+    ]
+  },
+  {
+    "id": "spot-345",
+    "name": "大船観音寺",
+    "name_kana": "おおふなかんのんじ",
+    "category": "folk",
+    "prefecture": "神奈川県",
+    "city": "鎌倉市",
+    "address": "〒247-0072 神奈川県鎌倉市岡本1-5-3",
+    "lat": 35.353486,
+    "lng": 139.528698,
+    "status": "現存",
+    "fee": "大人（高校生以上）300円、小・中学生100円、団体（20名以上）200円、未就学児無料",
+    "hours": "9:00〜16:00",
+    "official_url": "https://oofuna-kannon.or.jp/",
+    "reference_urls": [
+      "https://oofuna-kannon.or.jp/",
+      "https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%88%B9%E8%A6%B3%E9%9F%B3%E5%AF%BA",
+      "https://www.trip-kamakura.com/article/12993.html"
+    ],
+    "summary": "神奈川県鎌倉市岡本、大船駅西口の高台にそびえる曹洞宗の寺院で、全高約25メートルの巨大な白衣観音像で知られる。特徴的なのは、この観音像が全身像ではなく上半身（胸像）であること。丘の上から穏やかに街を見下ろす真っ白な観音の顔と肩だけが、駅のホームや市街地のいたるところから忽然と姿を現し、その独特のシルエットは大船のシンボルとなっている。昭和初期に建立が始まり、戦争で中断したのち昭和35年（1960年）に完成した近代の大造仏で、像内（胎内）に入って拝観することもできる。曹洞宗大本山總持寺の直末で、本尊は聖観世音菩薩。平和を祈る巨像として親しまれている。",
+    "highlights": [
+      "全高約25mの巨大な白衣観音像が「胸像（上半身のみ）」という珍しい造形",
+      "丘の上から街を見下ろす真っ白な顔と肩だけが各所から忽然と現れるシルエット",
+      "像内（胎内）に入って拝観できる近代の大造仏",
+      "昭和初期着工・戦争中断を経て1960年完成という建立の歴史",
+      "大船駅ホームや市街地から見上げられる大船のランドマーク"
+    ],
+    "from_kameyama": "鉄道なら亀山駅からJR・東海道新幹線で「新横浜」または「小田原」経由、JR東海道線・横須賀線「大船駅」へ約2時間半〜3時間、西口から徒歩約10分（坂・階段あり）。車なら新名神・新東名・圏央道・横浜横須賀道路経由で約4時間半。",
+    "name_en": "Ofuna Kannonji Temple (Ofuna Kannon)",
+    "prefecture_en": "Kanagawa Prefecture",
+    "city_en": "Kamakura City",
+    "summary_en": "Rising from a hilltop just west of Ofuna Station in Kamakura, Kanagawa, this Soto Zen temple is famous for its colossal white-robed Kannon statue standing about 25 meters tall. What makes it remarkable is that the figure is not a full body but only the upper half — a bust. From the hill, only the gleaming white face and shoulders of the bodhisattva gaze gently down over the town, appearing without warning from train platforms and street corners all across the city, a singular silhouette that has become the symbol of Ofuna. Construction began in the early Showa era, was interrupted by the war, and was finally completed in 1960 — a modern colossal Buddhist image that visitors can even enter and view from within. A direct branch of the great Soto Zen temple Sojiji, its principal object of worship is the Sho-Kannon Bodhisattva, beloved as a giant statue praying for peace.",
+    "highlights_en": [
+      "A colossal white-robed Kannon about 25 m tall, rendered in the unusual form of a bust (upper body only)",
+      "A silhouette in which only the gleaming white face and shoulders appear from points all over town, gazing down from the hill",
+      "A modern colossal Buddhist image that visitors can enter and view from within",
+      "A construction history of early-Showa groundbreaking, wartime interruption, and completion in 1960",
+      "A landmark of Ofuna, looked up to from the station platforms and across the town"
+    ]
+  },
+  {
+    "id": "spot-346",
+    "name": "大沢鍾乳洞",
+    "name_en": "Osawa Limestone Cave (Osawa Shonyudo)",
+    "name_kana": "おおさわしょうにゅうどう",
+    "category": "mystery",
+    "prefecture": "新潟県",
+    "prefecture_en": "Niigata Prefecture",
+    "city": "五泉市",
+    "city_en": "Gosen City",
+    "lat": 37.682692,
+    "lng": 139.100978,
+    "address": "新潟県五泉市刈羽字大沢乙1195外",
+    "summary_en": "Osawa Cave is a 145.9-meter-long cave in the mountains near Osawa Pass in Gosen City, Niigata. Unlike most Japanese caves, which form in hard, ancient limestone, this one developed within soft Neogene sandstone (ca. 24-1.8 million years old), a nationally rare occurrence that earned it designation as a city Natural Monument in 1993. The interior has no lighting at all, with narrow, slippery passages, so a flashlight and boots are essential. Stone statues of Inari and Kannon are enshrined deep inside, and bats inhabit the cool, dark space. Admission is free and the cave is open year-round, though heavy snow may block entry in winter, offering a raw, unimproved caving experience far removed from a developed show cave.",
+    "highlights": [
+      "石灰岩ではなく軟らかい砂岩層に形成された全国的に珍しい鍾乳洞",
+      "照明が一切なく懐中電灯必携の、整備されていない天然のままの洞内",
+      "総延長145.9m・高低差17mを縫う狭く滑りやすい通路（要長靴）",
+      "洞奥に祀られた稲荷・観音の石像と、コウモリの生息する暗闇",
+      "市指定天然記念物でありながら入場無料・常時開放という稀な公開形態"
+    ],
+    "highlights_en": [
+      "A nationally rare cave formed in soft sandstone rather than limestone",
+      "A completely unlit, unimproved interior where a flashlight is essential",
+      "Narrow, slippery passages winding 145.9 m with a 17 m elevation change (boots needed)",
+      "Stone statues of Inari and Kannon deep inside, and a bat-inhabited darkness",
+      "Free, year-round open access despite being a designated Natural Monument"
+    ],
+    "reference_urls": []
+  },
+  {
+    "id": "spot-347",
+    "name": "高松市石の民俗資料館",
+    "name_en": "Takamatsu City Stone Museum",
+    "name_kana": "たかまつしいしのみんぞくしりょうかん",
+    "category": "folk",
+    "prefecture": "香川県",
+    "prefecture_en": "Kagawa Prefecture",
+    "city": "高松市",
+    "city_en": "Takamatsu City",
+    "lat": 34.352981,
+    "lng": 134.13402,
+    "address": "香川県高松市牟礼町牟礼1810",
+    "summary_en": "The Takamatsu City Stone Museum, opened in 1995 in Mure, the heartland of the world-famous Aji stone, is a municipal museum tracing the long history and culture of stone and the skills of its stonemasons. Near Yakuriji Temple in a district built on the stone industry, it re-creates early-Showa quarrying and workshops in dioramas and displays many stonemasons' tools such as chisels and hammers. Above all, its collection of 791 'Mure-Aji stonemason's tools' was designated an Important Tangible Folk Cultural Property in 1996, giving it high scholarly value as a systematic record of a community whose livelihood was stone. Set on terraced, stone-walled grounds that themselves embody the quarrying landscape, it is a nationally rare museum devoted entirely to stone, illuminating the roots of Japan's stone-carving culture through tools and craft.",
+    "highlights": [
+      "世界的銘石「庵治石」の産地に建つ、全国的にも珍しい石専門の民俗資料館",
+      "国の重要有形民俗文化財「牟礼・庵治の石工用具」791点を収蔵・展示",
+      "昭和初期の石切り・石引き・石工の仕事場を再現したジオラマ",
+      "ノミ・金槌など石工道具を多数並べた、職人の手仕事を伝える展示構成",
+      "石垣に囲まれた段状の敷地そのものが銘石産地の景観を体現"
+    ],
+    "highlights_en": [
+      "A nationally rare museum devoted entirely to stone, in the home of world-famous Aji stone",
+      "Holds and displays 791 'Mure-Aji stonemason's tools,' a designated Important Tangible Folk Cultural Property",
+      "Dioramas re-creating early-Showa quarrying, hauling, and a stonemason's workshop",
+      "Displays of chisels, hammers, and many other tools conveying the craft of the stonemasons",
+      "Terraced, stone-walled grounds that themselves embody the quarrying landscape"
+    ],
+    "reference_urls": []
+  },
+  {
+    "id": "spot-348",
+    "name": "牛久阿弥陀大佛（牛久大仏）",
+    "name_en": "Ushiku Daibutsu (Ushiku Great Buddha)",
+    "name_kana": "うしくあみだだいぶつ",
+    "category": "bkyu",
+    "prefecture": "茨城県",
+    "prefecture_en": "Ibaraki Prefecture",
+    "city": "牛久市",
+    "city_en": "Ushiku City",
+    "lat": 35.982696,
+    "lng": 140.220289,
+    "address": "茨城県牛久市久野町2083",
+    "summary_en": "Ushiku Daibutsu in Ushiku City, Ibaraki, is a colossal standing statue of Amida Buddha 120 meters tall (a 100 m figure on a 20 m pedestal). Built by Higashi Honganji of the Jodo Shinshu sect in a region tied to its founder Shinran, it was begun in 1986 and completed in 1993. Clad in over 6,000 bronze plates and weighing about 4,000 tons, it is recognized by Guinness World Records as the world's tallest bronze Buddha. Its defining feature is overwhelming scale-the Great Buddha of Nara would fit in its palm. The interior is a five-story pilgrimage facility, with an elevator rising to a chest-level observation deck at 85 meters; the 480 curls on its head are each 1 m wide and weigh some 200 kg. Surrounded by an expansive garden with a petting zoo and seasonal flower fields, it stands as an icon of modern Japan's monumental-Buddha landscape.",
+    "highlights": [
+      "全高120m、ブロンズ立像として世界最大（ギネス世界記録認定）",
+      "奈良の大仏が掌に乗るほどの圧倒的スケールの阿弥陀如来立像",
+      "青銅板6000枚以上・総重量約4000トン・螺髪480個（1個約200kg）",
+      "地上85mの胸部展望台までエレベーターで上れる5階構造の胎内拝観",
+      "ふれあい動物公園や季節の花畑を擁する広大な庭園との対比"
+    ],
+    "highlights_en": [
+      "120 m tall, the world's largest bronze standing statue (Guinness World Record)",
+      "An Amida Buddha of overwhelming scale-the Nara Great Buddha would fit in its palm",
+      "Over 6,000 bronze plates, about 4,000 tons, and 480 head curls (about 200 kg each)",
+      "A five-story interior pilgrimage with an elevator to an 85 m chest-level observation deck",
+      "A striking contrast with the vast garden's petting zoo and seasonal flower fields"
+    ],
+    "reference_urls": []
+  },
+  {
+    "id": "spot-349",
+    "name": "立岩（しあわせ祈岩）",
+    "name_kana": "たていわ（しあわせきがん）",
+    "category": "folk",
+    "prefecture": "山口県",
+    "city": "大島郡周防大島町",
+    "address": "山口県大島郡周防大島町鹿家（立岩ヶ浜）",
+    "lat": 33.895833,
+    "lng": 132.302554,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "見学自由（海岸沿い・常時開放）",
+    "official_url": "https://yamaguchi-tourism.jp/spot/detail_15545.html",
+    "reference_urls": [
+      "https://www.town.suo-oshima.lg.jp/soshiki/7/1787.html",
+      "https://www.town.suo-oshima.lg.jp/soshiki/7/1773.html",
+      "https://suo-oshima-kanko.net/spot/shiawase-kigan",
+      "https://yamaguchichigaku.sakura.ne.jp/geo-phototour/e-3.html"
+    ],
+    "summary": "瀬戸内海・周防大島（屋代島）の海岸に、高さ約40mの安山岩が一本の塔のようにそそり立つ奇岩。古くから男性を象徴する「男岩（夫岩）」と崇められ、岩の下部には農耕の守り神・馬頭観音がまつられる。雄立岩・雌立岩と呼ばれる一対の岩塔のうち背の高い方で、約1300万年前の瀬戸内火山活動で生まれた硬い高マグネシア安山岩が周囲の風化に耐えて残った自然の造形物。周防大島には立岩・巌門・帯石・岩屋の四つの奇岩があり、これらを巡って夫婦和合・家庭円満・子孫繁栄・健康長寿を願う「仕合わせ祈願（しあわせ祈岩めぐり）」の信仰が伝わる。性象徴と石への信仰、観音信仰が重なった、瀬戸内の素朴な民俗世界の核心を体感できる場所。",
+    "highlights": [
+      "海岸から垂直に立ち上がる高さ約40mの巨大な一枚岩・男岩（夫岩）",
+      "雄立岩・雌立岩の一対構成で、男女・夫婦和合を象徴する性信仰の岩",
+      "岩の下部に農耕の守り神・馬頭観音がまつられる石＋観音の重層信仰",
+      "立岩・巌門・帯石・岩屋を巡る『仕合わせ祈願』四奇岩めぐりの一番札"
+    ],
+    "from_kameyama": "車で約4時間（亀山IC→新名神・山陽道で玖珂IC、国道437号で大島大橋を渡り周防大島へ／約330km）。鉄道はJR関西本線・東海道新幹線等で広島方面、JR山陽本線「大畠駅」下車後はバス・タクシーで島内へ（公共交通は便数が少なく車が現実的）。",
+    "name_en": "Tateiwa Rock (Shiawase Kigan, the Lucky Prayer Rock)",
+    "prefecture_en": "Yamaguchi Prefecture",
+    "city_en": "Suo-Oshima Town, Oshima District",
+    "summary_en": "On the coast of Suo-Oshima (Yashiro Island) in the Seto Inland Sea, a roughly 40-meter-tall andesite rock soars upward like a single tower. Long venerated as the \"male rock\" (otto-iwa, the husband rock) symbolizing the masculine, it has a Bato Kannon — the Horse-Headed Kannon, guardian deity of agriculture — enshrined at its base. It is the taller of a pair of pinnacles known as the male Tateiwa and the female Tateiwa, a natural sculpture of hard high-magnesia andesite born of Setouchi volcanic activity about 13 million years ago that survived while the surrounding rock weathered away. Suo-Oshima has four curious rocks — Tateiwa, Ganmon, Obiishi, and Iwaya — and a folk belief called \"Shiawase Kigan\" (the pilgrimage of the lucky prayer rocks) survives, in which people circuit them to pray for marital harmony, household peace, prosperity of descendants, and good health and longevity. It is a place where one can feel the heart of the Seto Inland Sea's unpretentious folk world, in which sexual symbolism, stone worship, and Kannon devotion overlap.",
+    "highlights_en": [
+      "A massive single rock, the male rock (husband rock), rising vertically about 40 m from the coast",
+      "Paired as male Tateiwa and female Tateiwa, a rock of fertility belief symbolizing the harmony of the sexes and of married couples",
+      "Layered devotion of stone and Kannon, with the agricultural guardian Bato Kannon enshrined at the rock's base",
+      "The first stop of the 'Shiawase Kigan' four-curious-rock pilgrimage of Tateiwa, Ganmon, Obiishi, and Iwaya"
+    ]
   }
 ]

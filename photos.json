@@ -3808,5 +3808,89 @@
     "credit": null,
     "alt_photos": [],
     "note": "画像なし（Wikimedia CommonsにCC画像なし。出典の廃墟記録サイトの建物写真は『提供画像 転載禁止』と明記され、事後承諾運用でも流用不可。心霊煽り回避の観点からも外観写真は採用見送り）"
+  },
+  "fest-261": {
+    "name": "祐徳稲荷神社 秋季大祭（お火たき）",
+    "primary": "https://bizarrejapan.com/photos/fest-261.jpg",
+    "credit": "出典: 鹿島市観光協会（https://saga-kashima-kankou.com/feature/5859）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "鹿島市観光協会",
+    "source_url": "https://saga-kashima-kankou.com/feature/5859",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり（CC/PD表記なし）。事後承諾運用。問題あれば即時差し替え/撤去前提。"
+  },
+  "fest-262": {
+    "name": "愛宕社の火祭り（魚津）",
+    "primary": "https://bizarrejapan.com/photos/fest-262.jpg",
+    "credit": "出典: 魚津市観光協会（https://uozu-kanko.jp/library/atagono-himaturi/）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "魚津市観光協会",
+    "source_url": "https://uozu-kanko.jp/library/atagono-himaturi/",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり（CC/PD表記なし）。事後承諾運用。問題あれば即時差し替え/撤去前提。"
+  },
+  "spot-344": {
+    "name": "日原鍾乳洞",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Nippara_Limestone_Cave_%2815504098295%29.jpg/1280px-Nippara_Limestone_Cave_%2815504098295%29.jpg",
+    "credit": "Wikimedia Commons / Dick Thomas Johnson / CC BY 2.0",
+    "alt_photos": [],
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nippara_Limestone_Cave_(15504098295).jpg",
+    "creator": "Dick Thomas Johnson",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-345": {
+    "name": "大船観音寺",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ofuna-Kannon.jpg/1280px-Ofuna-Kannon.jpg",
+    "credit": "Wikimedia Commons / Urashimataro / Public domain",
+    "alt_photos": [],
+    "license": "Public domain",
+    "license_url": "https://commons.wikimedia.org/wiki/File:Ofuna-Kannon.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ofuna-Kannon.jpg",
+    "creator": "Urashimataro",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-346": {
+    "name": "大沢鍾乳洞",
+    "primary": "https://bizarrejapan.com/photos/spot-346.jpg",
+    "credit": "出典: 五泉市公式ホームページ（https://www.city.gosen.lg.jp/organization/13/7/3/1/1710.html）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "五泉市公式ホームページ",
+    "source_url": "https://www.city.gosen.lg.jp/organization/13/7/3/1/1710.html",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり（CC/PD表記なし）。事後承諾運用。問題あれば即時差し替え/撤去前提。"
+  },
+  "spot-347": {
+    "name": "高松市石の民俗資料館",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/3/3b/I%E7%9F%B3%E3%81%AE%E6%B0%91%E6%97%8F%E8%B3%87%E6%96%99%E9%A4%A81007.jpg",
+    "credit": "Wikimedia Commons / osami / Public domain",
+    "alt_photos": [],
+    "license": "Public domain (PD-self)",
+    "license_url": "https://commons.wikimedia.org/wiki/Template:PD-self",
+    "source_url": "https://commons.wikimedia.org/wiki/File:I%E7%9F%B3%E3%81%AE%E6%B0%91%E6%97%8F%E8%B3%87%E6%96%99%E9%A4%A81007.jpg",
+    "creator": "osami",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-348": {
+    "name": "牛久阿弥陀大佛（牛久大仏）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ushiku_Daibutsu_-_Great_Buddha_in_Japan.jpg/1280px-Ushiku_Daibutsu_-_Great_Buddha_in_Japan.jpg",
+    "credit": "Wikimedia Commons / Manish Prabhune / CC BY 4.0",
+    "alt_photos": [],
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ushiku_Daibutsu_-_Great_Buddha_in_Japan.jpg",
+    "creator": "Manish Prabhune",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-349": {
+    "name": "立岩（しあわせ祈岩）",
+    "primary": "https://bizarrejapan.com/photos/spot-349.jpg",
+    "credit": "出典: おいでませ山口へ（山口県観光連盟）（https://yamaguchi-tourism.jp/spot/detail_15545.html）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "おいでませ山口へ（山口県観光連盟）",
+    "source_url": "https://yamaguchi-tourism.jp/spot/detail_15545.html",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり（CC/PD表記なし）。事後承諾運用。問題あれば即時差し替え/撤去前提。"
   }
 }
