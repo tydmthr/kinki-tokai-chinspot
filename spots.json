@@ -106,7 +106,7 @@
     "status": "現存",
     "fee": "無料",
     "hours": "8:00〜17:00",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://glglnisshin.jp/special01/"
     ],
@@ -388,7 +388,7 @@
     "status": "現存",
     "fee": "1,100円（現金のみ）",
     "hours": "9:30〜17:00・年中無休",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://www.jalan.net/kankou/spt_guide000000190621/"
     ],
@@ -435,7 +435,7 @@
     "status": "廃墟化",
     "fee": "遊歩道から観察可（無料）",
     "hours": "遊歩道は年中",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://news.yahoo.co.jp/articles/1869a414b3209863063baeee4684a501c463a381"
     ],
@@ -621,7 +621,7 @@
     "status": "現存",
     "fee": "ホテル宿泊・見学ツアー参加で体験可",
     "hours": "見学ツアー開催日による",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://www.instagram.com/reel/DXyeGFJzqMJ/"
     ],
@@ -809,7 +809,7 @@
     "status": "立入禁止",
     "fee": "（立入禁止・来訪非推奨）",
     "hours": "（来訪非推奨）",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://toba-osatsu.jp/2026/03/12/ghostrank/"
     ],
@@ -856,7 +856,7 @@
     "status": "廃墟化",
     "fee": "（旧道通行不可）",
     "hours": "（来訪非推奨）",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://toba-osatsu.jp/2026/03/12/ghostrank/"
     ],
@@ -903,7 +903,7 @@
     "status": "廃墟化",
     "fee": "公式ホラーツアー参加（要事前申込）",
     "hours": "特定ツアー開催日のみ",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://haikutu.hatenablog.com/entry/2024/01/17/201228",
       "https://www.fashion-press.net/news/139756"
@@ -998,7 +998,7 @@
     "status": "現存",
     "fee": "無料",
     "hours": "参拝自由",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://japanmystery.com/z_miyako/rakusai/kubizuka.html",
       "https://www.hozugawakudari.jp/blog/"
@@ -1046,7 +1046,7 @@
     "status": "現存",
     "fee": "無料（境内散策）",
     "hours": "年中",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [],
     "summary": "平安京から江戸時代まで「死体の棄て場」だった地域。東山の清水寺周辺から阿弥陀ヶ峰にかけての一帯は、死者の遺体が風葬・野葬された古代葬送地「鳥辺野」の中心。現在は観光地化されているが、その土の下には無数の骨が眠るとされ、地名・地域伝承に「死」の記憶が刻みこまれている。源氏物語など日本文学にも頻繁に登場する「あの世の入口」として、六道珍皇寺・六道の辻という冥界の入口が現存する。",
     "highlights": [
@@ -1091,7 +1091,7 @@
     "status": "現存",
     "fee": "（来訪非推奨）",
     "hours": "（来訪非推奨）",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://ghostmap.jp/spotdetail.php?spotcd=1382"
     ],
@@ -1138,7 +1138,7 @@
     "status": "現存",
     "fee": "無料",
     "hours": "年中",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [],
     "summary": "源頼政が退治した怪物「鵺（ぬえ）」の死骸が流れ着いたとされる塚が大阪の各地に点在する。鵺は「頭が猿、胴が狸、尾が蛇、足が虎」という合成怪物で、「正体不明なもの」の代名詞として現代語にも残る。都市開発で場所が不明確になりながらも「鵺の呪い」として伝承が続く。大阪の繁華街の足元に沈んだ「怪物の骨」という都市伝説の重みが一生忘れられない体験を提供する。",
     "highlights": [
@@ -1183,7 +1183,7 @@
     "status": "廃墟化",
     "fee": "無料（自由参拝・自己責任）",
     "hours": "年中",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://ameblo.jp/pompadourpink/entry-12835905673.html"
     ],
@@ -1230,7 +1230,7 @@
     "status": "廃墟化",
     "fee": "通常立入禁止（特定ガイドツアーで内部見学可）",
     "hours": "ガイドツアー開催日のみ",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://www.departure-ruins.com/mayakankou-hotel/",
       "https://www.cri.co.jp/news/004244.html"
@@ -1417,7 +1417,7 @@
     "status": "現存",
     "fee": "協力金300円",
     "hours": "9:00〜17:00",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://ja.wikipedia.org/wiki/%E9%A0%AD%E5%A1%94"
     ],
@@ -1464,7 +1464,7 @@
     "status": "現存",
     "fee": "亀形石造物見学300円",
     "hours": "8:30〜17:00",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://ja.wikipedia.org/wiki/%E9%85%92%E8%88%B9%E7%9F%B3%E9%81%BA%E8%B7%A1"
     ],
@@ -1511,7 +1511,7 @@
     "status": "現存",
     "fee": "無料",
     "hours": "年中",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "http://yamatoji.nara-kankou.or.jp/03history/04stone/03east_area/masudaiwafune/"
     ],
@@ -1968,7 +1968,7 @@
     "status": "現存",
     "fee": "無料",
     "hours": "24時間",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://www.kankomie.or.jp/"
     ],
@@ -2201,7 +2201,7 @@
     "status": "現存",
     "fee": "無料",
     "hours": "24時間（海の状況による）",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://ameblo.jp/gabacho0710/entry-12607574335.html"
     ],
@@ -2248,7 +2248,7 @@
     "status": "現存",
     "fee": "無料",
     "hours": "年中（屋外展示）",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://shigatoco.com/toco/tobitakun2020/"
     ],
@@ -6856,7 +6856,8 @@
       "http://www.komainu.org/aomori/hirosaki/akakura/akakura.html",
       "https://www.city.hirosaki.aomori.jp/jouhou/seido/renkei/kenkyu25_3.pdf",
       "https://www2.kokugakuin.ac.jp/21coe/modules/wfsection/article.php@articleid=198.html"
-    ]
+    ],
+    "official_url": ""
   },
   {
     "id": "spot-161",
@@ -9026,7 +9027,7 @@
     "status": "営業中（参拝自由）",
     "fee": "無料（不確かな情報：賽銭・志納は任意）",
     "hours": "境内参拝自由（明確な開閉門時刻の公式情報なし）",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://chindera.com/kano.html",
       "https://shikano-dream.jp/pages/64/",
@@ -9367,7 +9368,7 @@
     "status": "営業中（散策自由）",
     "fee": "無料",
     "hours": "散策自由（24時間）",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://ja.wikipedia.org/wiki/%E7%AB%8B%E4%B9%85%E6%81%B5%E5%B3%A1",
       "https://rurubu.jp/andmore/spot/80033264",
@@ -9601,7 +9602,7 @@
     "status": "営業中（参拝自由・通年）",
     "fee": "無料",
     "hours": "参拝自由（24時間）",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://kiyosato.gr.jp/introduce/saikouchiten/",
       "https://hotokami.jp/area/nagano/Hmttr/Hmttrtr/Daazk/145923/",
@@ -9714,7 +9715,7 @@
     "status": "廃線跡（遺構が散在・一部のみ見学可）",
     "fee": "無料（見学ポイントまでの駐車は布引温泉駐車場等を利用）",
     "hours": "見学自由（川岸・私有地への立ち入りは不可）",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://ja.wikipedia.org/wiki/%E5%B8%83%E5%BC%95%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
       "http://haisentn.blog41.fc2.com/blog-entry-1998.html"
@@ -9770,7 +9771,7 @@
     "status": "廃線跡（遺構が点在・一部のみ見学可）",
     "fee": "無料",
     "hours": "見学自由（私有地への立ち入り不可）",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E9%9B%BB%E9%89%84%E6%B2%B3%E6%9D%B1%E7%B7%9A",
       "https://www.hotetu.net/haisen/HokurikuShinetu/110403naganodentetukijimasen.html"
@@ -9829,7 +9830,7 @@
     "status": "閉山中（資料館は冬季閉館・通年見学は限定的）",
     "fee": "神岡鉱山資料館：有料（詳細は飛騨市教育委員会に要確認）/ スーパーカミオカンデ一般公開：3,500円（抽選制）",
     "hours": "神岡鉱山資料館9:00〜16:30（12〜3月冬季閉館）/ スーパーカミオカンデ一般公開は年1回11月の特定日のみ",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://www-sk.icrr.u-tokyo.ac.jp/sk/",
       "https://www.city.hida.gifu.jp/site/kamiokalab/75656.html",
@@ -10809,7 +10810,7 @@
     "status": "現存（旧白馬観光ホテルは閉館・解体、大仏像は現存）",
     "fee": "無料（拝観路は山中・通行状況は要確認）",
     "hours": "屋外・常時（参道・周辺施設の管理状況により制限あり）",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://ja.wikipedia.org/wiki/%E7%99%BD%E9%A6%AC%E5%A4%A7%E4%BB%8F",
       "https://www.week.co.jp/kankou/125392/",
@@ -10956,7 +10957,7 @@
     "status": "現存",
     "fee": "拝観志納（御朱印300円）。本堂内拝観は要事前連絡",
     "hours": "要事前連絡（御朱印は寺務所前の箱で随時）",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://ja.wikipedia.org/wiki/%E5%96%84%E4%B9%85%E5%AF%BA",
       "https://ja.wikipedia.org/wiki/%E4%B8%A1%E9%9D%A2%E5%AE%BF%E5%84%84",
@@ -13299,7 +13300,7 @@
     "status": "現存（現役の集合住宅・居住中）",
     "fee": "無料（外観・1階通路の見学のみ。住民の生活空間につき配慮必須）",
     "hours": "見学時間の定めなし（常識的な日中・住民配慮の範囲で）",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://ja.wikipedia.org/wiki/%E6%B2%A2%E7%94%B0%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3",
       "https://deepannai.info/sawada-mansion/",
@@ -15709,7 +15710,7 @@
     "status": "現存",
     "fee": "無料（公道沿いの広告看板・外観のみ）",
     "hours": "常時（屋外）",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://j-town.net/2023/03/25344341.html?p=all"
     ],
@@ -16000,7 +16001,7 @@
     "status": "現存（廃旅館。外観のみ視認可・敷地内立入不可）",
     "fee": "—（外観のみ・公道から）",
     "hours": "—（建物は閉鎖。見学する場合は昼間に公道から外観のみ）",
-    "official_url": null,
+    "official_url": "",
     "reference_urls": [
       "https://haikyo.info/s/9163.html",
       "https://haikyo.info/s/16023.html",
@@ -16181,7 +16182,13 @@
       "trivia_en": "The cave is 145.9 m long with a 17 m elevation difference, developed in geologically 'young' Neogene strata (ca. 24 million-1.8 million years old), and is home to bats. Free admission with permanent open access despite being a designated Natural Monument is itself unusual nationwide.",
       "warnings_extra_en": "There is no lighting; a flashlight (ideally a spare), a headlamp, and non-slip boots or hiking shoes are essential. Passages are narrow and slippery when wet. Avoid going alone. Winter snow and ice may close the cave, so check conditions with Gosen City beforehand. Move quietly to avoid disturbing the bats.",
       "sources_en": "[[Gosen City Official Site](https://www.city.gosen.lg.jp/organization/13/7/3/1/1710.html)] / [[Niigata Tourism Navi (Niigata Pref.)](https://niigata-kankou.or.jp/spot/5650)] / [[Komachi Web](https://www.week.co.jp/kankou/31530/)]"
-    }
+    },
+    "reference_urls": [
+      "https://www.city.gosen.lg.jp/organization/13/7/3/1/1710.html",
+      "https://niigata-kankou.or.jp/spot/5650",
+      "https://www.week.co.jp/kankou/31530/"
+    ],
+    "official_url": "https://www.city.gosen.lg.jp/organization/13/7/3/1/1710.html"
   },
   {
     "id": "spot-347",
@@ -16226,7 +16233,13 @@
       "trivia_en": "Its 791 'Mure-Aji stonemason's tools' are a nationally designated Important Tangible Folk Cultural Property. Aji stone is a top-grade gravestone granite called the 'diamond of granite.' The nearest station is Yakuri on the Kotoden Shido Line, near the gate of Yakuriji, the 85th temple of the Shikoku pilgrimage.",
       "warnings_extra_en": "Closed Mondays (the next day if a holiday) and over New Year; last entry 16:30. The walk from Yakuri Station is variously given as 15-30 minutes, so prepare for summer heat. As exhibits and holdings include a cultural property, check at reception whether photography and flash are permitted.",
       "sources_en": "[[Takamatsu City Stone Museum | Udon-ken Tabinet (Kagawa Tourism Assoc.)](https://www.my-kagawa.jp/point/283/)] / [[Wikipedia (Japanese)](https://ja.wikipedia.org/wiki/石の民俗資料館)] / [[Takamatsu City Official Site](https://www.city.takamatsu.kagawa.jp/kurashi/kosodate/bunka/ishimin/index.html)]"
-    }
+    },
+    "reference_urls": [
+      "https://www.my-kagawa.jp/point/283/",
+      "https://ja.wikipedia.org/wiki/石の民俗資料館",
+      "https://www.city.takamatsu.kagawa.jp/kurashi/kosodate/bunka/ishimin/index.html"
+    ],
+    "official_url": "https://www.my-kagawa.jp/point/283/"
   },
   {
     "id": "spot-348",
@@ -16271,7 +16284,13 @@
       "trivia_en": "Total height 120 m (100 m figure + 20 m pedestal), over 6,000 bronze plates, about 4,000 tons. The 480 curls (rahotsu) are each 1 m in diameter and weigh about 200 kg. The Great Buddha of Nara would fit in its palm, and it is recognized by Guinness World Records as the world's tallest bronze Buddha.",
       "warnings_extra_en": "Note the interior's final-entry time (varies by season). The observation deck uses an elevator, which may involve a wait when crowded. The grounds are large with much walking, so wear comfortable shoes, and observe the etiquette of a religious site (incense, offerings).",
       "sources_en": "[[Wikipedia (Japanese)](https://ja.wikipedia.org/wiki/牛久大仏)] / [[Ushiku Daibutsu | Ibaraki Tourism Guide (Ibaraki Pref.)](https://www.ibarakiguide.jp/spot.php?mode=detail&code=1468)] / [[asoview note](https://www.asoview.com/note/1835/)]"
-    }
+    },
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/牛久大仏",
+      "https://www.ibarakiguide.jp/spot.php?mode=detail&code=1468",
+      "https://www.asoview.com/note/1835/"
+    ],
+    "official_url": "https://ja.wikipedia.org/wiki/牛久大仏"
   },
   {
     "id": "spot-349",
