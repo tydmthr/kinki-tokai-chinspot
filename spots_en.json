@@ -2060,41 +2060,6 @@
     ]
   },
   {
-    "id": "spot-062",
-    "name": "磨洞温泉 涼風荘 洞窟座敷",
-    "name_kana": "まどうおんせん りょうふうそう どうくつざしき",
-    "category": "bkyu",
-    "prefecture": "三重県",
-    "city": "津市",
-    "address": "三重県津市半田2860-1",
-    "lat": 34.712638,
-    "lng": 136.509422,
-    "status": "candidate",
-    "fee": "宿泊・日帰りプランによる",
-    "hours": "受付10:00-19:00、日帰り食事時間は要確認",
-    "official_url": "https://www.ryoufu.com",
-    "reference_urls": [
-      "https://www.ryoufu.com/cave",
-      "https://www.ryoufu.com/lodging"
-    ],
-    "summary": "津市半田の温泉宿にある洞窟座敷。宿泊・宴会・食事空間として地下感が強い。",
-    "highlights": [
-      "洞窟座敷・温泉宿",
-      "津市半田の温泉宿にある洞窟座敷",
-      "三重県内の訪問記候補として面白い"
-    ],
-    "from_kameyama": "車で約35分（伊勢道→津方面）",
-    "name_en": "Madō Onsen Ryōfū-sō Cave Tatami Rooms",
-    "prefecture_en": "Mie Prefecture",
-    "city_en": "Tsu City",
-    "summary_en": "On a quiet road in Handa, Tsu City, an ordinary-looking hot spring inn called Ryōfū-sō hides one of the more idiosyncratic dining and lodging experiences in central Japan: tatami-floored banquet rooms set inside an actual cave. The cavity is a former quarry, dug into the local stone over decades and later converted by the inn into private rooms where guests can eat traditional kaiseki dinners — or in some packages, sleep on futons — surrounded by raw rock walls and the natural temperature regulation of underground space (around 16°C year-round). The cave rooms can be reserved for groups or, in lower-demand periods, by individual diners; the inn's hot spring is conventional but warm and clean. The atmosphere is not theatrical — there are no special-effect lights or hokey signage — just rock, lanterns, tatami, and the strange luxurious quiet of eating dinner inside a hillside. Reservations are essential, and photography inside should be confirmed with the staff. For those who treat unusual hospitality as its own attraction, Ryōfū-sō is one of Mie's quietest pieces of regional eccentricity.",
-    "highlights_en": [
-      "Tatami banquet rooms set inside a former quarry — diners eat kaiseki dinners surrounded by raw rock walls and natural 16°C cooling",
-      "An onsen ryokan that doubles as one of central Japan's strangest dining spaces, with no theatrical staging and no hokey signage",
-      "Reservations essential; the cave rooms work as both a dinner venue and an overnight option for those who like to sleep underground"
-    ]
-  },
-  {
     "id": "spot-063",
     "name": "松阪飯南 稲わらモニュメント",
     "name_kana": "まつさかいいなん いなわらもにゅめんと",

@@ -1516,19 +1516,6 @@
     "best_season": "通年（公式要確認）",
     "time_required": "30〜60分"
   },
-  "spot-062": {
-    "name": "磨洞温泉 涼風荘 洞窟座敷",
-    "nearest_station": null,
-    "walking_minutes": null,
-    "bus_info": null,
-    "parking": "駐車場あり（詳細は公式要確認）",
-    "difficulty": 3,
-    "warnings": [
-      "宿泊・食事利用条件、予約要否、洞窟座敷の撮影可否を事前確認"
-    ],
-    "best_season": "通年（公式要確認）",
-    "time_required": "60〜90分"
-  },
   "spot-063": {
     "name": "松阪飯南 稲わらモニュメント",
     "nearest_station": null,

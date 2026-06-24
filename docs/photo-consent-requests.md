@@ -55,7 +55,6 @@ TOP直近で「写真なし」が目立つ祭について、会長判断でラ�
 | spot-047 | 伊豆極楽苑 | 伊豆市観光情報サイト（伊豆市公式） | https://kanko.city.izu.shizuoka.jp/sightseeing/izugokurakuen/ | 掲載許諾申請中（未連絡） |
 | spot-059 | 頭之宮四方神社 | 頭之宮四方神社（公式サイト「境内のご案内」） | https://koubenomiya.or.jp/keidai/ | 掲載許諾申請中（未連絡） |
 | spot-061 | 白瀧大明神 | 公益社団法人 三重県観光連盟（観光三重） | https://www.kankomie.or.jp/spot/22166 | 掲載許諾申請中（未連絡） |
-| spot-062 | 磨洞温泉 涼風荘 洞窟座敷 | 中伊勢温泉郷 磨洞温泉 旅人宿 涼風荘（公式） | https://www.nakaise.com/ryoufu | 掲載許諾申請中（未連絡） |
 | spot-063 | 松阪飯南 稲わらモニュメント | 観光三重（三重県観光連盟 公式サイト） | https://www.kankomie.or.jp/event/41599 | 掲載許諾申請中（未連絡） |
 | spot-085 | B宝館 | B宝館（公式サイト） | https://bhoukan.com/collection/ | 掲載許諾申請中（未連絡） |
 | spot-094 | 照円寺 地獄極楽絵図ご開帳 | 照円寺（金沢市笠市町・公式 / syouenji.jp） | https://syouenji.jp/ | 掲載許諾申請中（未連絡） |
@@ -129,7 +128,6 @@ TOP直近で「写真なし」が目立つ祭について、会長判断でラ�
 - ⚠️ **fest-174（高川仁井田神社 早飯食い）**: ぐるぐるこうち（RKC高知放送）　/ https://guruguru.rkc-kochi.co.jp/article/goout_173138571528597
 - ⚠️ **fest-180（閼伽井嶽薬師 人形供養祭）**: コノマレ この指とまれ（人形供養祭 主催）　/ https://www.konomare.com/event/ningyoukuyousai/
 - ⚠️ **spot-007（珍品センター（珍品城））**: 珍品センター（公式 / chinpin.biz）　/ https://chinpin.biz/
-- ⚠️ **spot-062（磨洞温泉 涼風荘 洞窟座敷）**: 中伊勢温泉郷 磨洞温泉 旅人宿 涼風荘（公式）　/ https://www.nakaise.com/ryoufu
 - ⚠️ **spot-085（B宝館）**: B宝館（公式サイト）　/ https://bhoukan.com/collection/
 - ⚠️ **spot-226（カステラ神社）**: 9navi（長崎観光ガイド・店舗紹介記事）　/ https://www.9navi.jp/kasutera01.html
 
