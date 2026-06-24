@@ -3883,5 +3883,99 @@
     "source_url": "https://yamaguchi-tourism.jp/spot/detail_15545.html",
     "jigosyoudaku": true,
     "license_note": "著作権あり（CC/PD表記なし）。事後承諾運用。問題あれば即時差し替え/撤去前提。"
+  },
+  "fest-263": {
+    "name": "加茂大祭",
+    "primary": "https://bizarrejapan.com/photos/fest-263.jpg",
+    "credit": "出典: 岡山観光WEB（https://www.okayama-kanko.jp/event/12690）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "岡山観光WEB（岡山県観光連盟）",
+    "source_url": "https://www.okayama-kanko.jp/event/12690",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり。事後承諾運用。問題あれば即時差替/撤去前提。"
+  },
+  "fest-264": {
+    "name": "江波の火祭（オットーラン祭）",
+    "primary": "https://bizarrejapan.com/photos/fest-264.jpg",
+    "credit": "出典: 南の風EBA（江波地区地域運営委員会）（https://ebalmo.net/culture/shrine_summer_festival/）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "南の風EBA（江波地区地域運営委員会）",
+    "source_url": "https://ebalmo.net/culture/shrine_summer_festival/",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり。事後承諾運用。問題あれば即時差替/撤去前提。"
+  },
+  "fest-265": {
+    "name": "青島神社 裸まいり",
+    "primary": "https://bizarrejapan.com/photos/fest-265.jpg",
+    "credit": "出典: オマツリジャパン（https://omatsurijapan.com/blog/aoshima-hadakamairi-2019/）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "オマツリジャパン",
+    "source_url": "https://omatsurijapan.com/blog/aoshima-hadakamairi-2019/",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり。事後承諾運用。問題あれば即時差替/撤去前提。"
+  },
+  "spot-350": {
+    "name": "神戸岩",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kanotoiwa_landscape.jpg/1280px-Kanotoiwa_landscape.jpg",
+    "credit": "Wikimedia Commons / Osumi Akari / CC BY-SA 4.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kanotoiwa_landscape.jpg",
+    "creator": "Osumi Akari",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-351": {
+    "name": "さきたま古墳公園（丸墓山古墳）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Maruhakayama_Kofun%2C_funkyu-1.jpg/1280px-Maruhakayama_Kofun%2C_funkyu-1.jpg",
+    "credit": "Wikimedia Commons / Saigen Jiro / CC0",
+    "alt_photos": [],
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Maruhakayama_Kofun,_funkyu-1.jpg",
+    "creator": "Saigen Jiro",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-352": {
+    "name": "鵜戸神宮",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Udo-jingu_Main-shrine.jpg/1280px-Udo-jingu_Main-shrine.jpg",
+    "credit": "Wikimedia Commons / MaedaAkihiko / CC BY-SA 4.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Udo-jingu_Main-shrine.jpg",
+    "creator": "MaedaAkihiko",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-353": {
+    "name": "秋芳洞",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Stalactite_at_Akiyoshi_Cave.jpg",
+    "credit": "Wikimedia Commons / pastaitaken / CC BY 3.0",
+    "alt_photos": [],
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Stalactite_at_Akiyoshi_Cave.jpg",
+    "creator": "pastaitaken",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-354": {
+    "name": "大迫磨崖大日如来坐像",
+    "primary": "https://bizarrejapan.com/photos/spot-354.jpg",
+    "credit": "出典: おおいた文化財ずかん（https://oita-digitalzukan.jp/cultural_property/%E5%A4%A7%E8%BF%AB%E7%A3%A8%E5%B4%96%E5%A4%A7%E6%97%A5%E5%A6%82%E6%9D%A5%E5%9D%90%E5%83%8F/）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "おおいた文化財ずかん（大分県）",
+    "source_url": "https://oita-digitalzukan.jp/cultural_property/%E5%A4%A7%E8%BF%AB%E7%A3%A8%E5%B4%96%E5%A4%A7%E6%97%A5%E5%A6%82%E6%9D%A5%E5%9D%90%E5%83%8F/",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり。事後承諾運用。問題あれば即時差替/撤去前提。"
+  },
+  "spot-355": {
+    "name": "香山昇龍大観音",
+    "primary": "https://bizarrejapan.com/photos/spot-355.jpg",
+    "credit": "出典: クロスロードふくおか（https://www.crossroadfukuoka.jp/spot/12712）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "クロスロードふくおか（福岡県観光連盟）",
+    "source_url": "https://www.crossroadfukuoka.jp/spot/12712",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり。事後承諾運用。問題あれば即時差替/撤去前提。"
   }
 }

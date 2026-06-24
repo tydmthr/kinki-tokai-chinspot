@@ -13330,5 +13330,200 @@
       "Layered devotion of stone and Kannon, with the agricultural guardian Bato Kannon enshrined at the rock's base",
       "The first stop of the 'Shiawase Kigan' four-curious-rock pilgrimage of Tateiwa, Ganmon, Obiishi, and Iwaya"
     ]
+  },
+  {
+    "id": "spot-350",
+    "name": "神戸岩",
+    "name_kana": "かのといわ",
+    "category": "mystery",
+    "prefecture": "東京都",
+    "city": "西多摩郡檜原村",
+    "address": "東京都西多摩郡檜原村神戸8020",
+    "lat": 35.756037,
+    "lng": 139.114436,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "見学自由（日中推奨）",
+    "official_url": "https://hinohara-kankou.jp/spot/kanotoiwa/",
+    "reference_urls": [
+      "https://hinohara-kankou.jp/spot/kanotoiwa/",
+      "https://hinohara-kankou.jp/articles/007/"
+    ],
+    "summary": "神戸岩（かのといわ）は、東京都檜原村の北秋川支流・赤井沢にある小渓谷で、両岸に高さ約100mの岩盤が屏風のように切り立つ奇勝である。約2億5千万年前のジュラ紀の硬質なチャート（火打ち石）層からなり、川水や風雨の浸食に耐えて、わずか数メートルの狭い谷と垂直の岸壁を残した。扉のように開きかけて見える岩の延長線上に大嶽神社があることから、ここを神域への入口とみなし「神の戸（かみのと）」と呼んだのが名の由来とされる。東京都にありながら秘境然とした景観で、1960年に東京都の天然記念物に指定された。岩壁沿いには鎖場やはしご、木橋が設けられ、スリリングな渓谷散策ができるパワースポットとして知られる。",
+    "highlights": [
+      "両岸に約100mの高さでそそり立つチャートの垂直岸壁と、扉状に切れ込んだ狭隘な谷",
+      "約2億5千万年前のジュラ紀チャート層が浸食に耐えて残した地質学的奇景",
+      "鎖場・はしご・木橋を伝って岩壁の間を進むスリリングな渓谷散策路"
+    ],
+    "from_kameyama": "車で約6時間（新東名・首都圏中央連絡道経由、あきる野ICから檜原村方面）。日帰りは現実的でなく東京観光と組み合わせる前提。",
+    "name_en": "Kanotoiwa (Rock of the God's Door)",
+    "prefecture_en": "Tokyo",
+    "city_en": "Hinohara Village, Nishitama District",
+    "summary_en": "Two hours west of central Tokyo, where the suburbs surrender to mountains, a stream called Akaisawa has carved a slot so narrow you can almost touch both walls at once — and those walls rise about 100 meters straight up. This is Kanotoiwa, a gorge cut into Jurassic chert laid down some 250 million years ago from the silica skeletons of deep-sea plankton. Chert is brutally hard, and where softer rock all around it was ground away by water and weather, this slab held its ground, leaving a vertical-walled corridor of stone that feels less like geology than architecture. Local belief reads the cleft as a doorway: a shrine, Ootake Jinja, stands along the line where the rock seems to be swinging open, so the place was named the \"door of the god\" — the threshold to a sacred realm. Designated a Tokyo Natural Monument in 1960, Kanotoiwa is improbably wild for a site inside the metropolis: chains, ladders and a wooden bridge let you thread the gorge itself, scrambling between cliffs in a slot of shadow, water and 250-million-year-old stone.",
+    "highlights_en": [
+      "Vertical chert walls rising roughly 100 meters on both sides, framing a slot-narrow gorge that looks like a door cut into the mountain",
+      "A geological curiosity where 250-million-year-old Jurassic chert resisted erosion to leave a sheer-walled corridor",
+      "A thrilling gorge walk threading between the cliffs by chains, ladders and a wooden bridge"
+    ]
+  },
+  {
+    "id": "spot-351",
+    "name": "さきたま古墳公園",
+    "name_kana": "さきたまこふんこうえん",
+    "category": "folk",
+    "prefecture": "埼玉県",
+    "city": "行田市",
+    "address": "埼玉県行田市大字埼玉4834（県立さきたま史跡の博物館）",
+    "lat": 36.127504,
+    "lng": 139.477008,
+    "status": "現存",
+    "fee": "公園入園無料（県立さきたま史跡の博物館は有料：一般200円ほか）",
+    "hours": "公園は終日開放（博物館9:00〜16:30、月曜休ほか）",
+    "official_url": "https://sakitama-muse.spec.ed.jp/",
+    "reference_urls": [
+      "https://sakitama-muse.spec.ed.jp/%E3%81%95%E3%81%8D%E3%81%9F%E3%81%BE%E5%8F%A4%E5%A2%B3%E5%85%AC%E5%9C%92",
+      "https://www.city.gyoda.lg.jp/soshiki/shougaigakusyubu/bunkazaihogo/gyomu/rekishi_bunkazai/1/2336.html",
+      "https://ja.wikipedia.org/wiki/%E5%9F%BC%E7%8E%89%E5%8F%A4%E5%A2%B3%E7%BE%A4"
+    ],
+    "summary": "さきたま古墳公園は、埼玉県名（さきたま）発祥の地・行田市にある国指定特別史跡「埼玉古墳群」を保存・公開する約30haの史跡公園である。5世紀後半から7世紀初頭にかけて築かれた9基の大型古墳が群集し、なかでも直径約105mの丸墓山古墳は日本最大級の円墳として、緑の芝に覆われた巨大な墳丘が平野にこんもりと盛り上がる異様な存在感を放つ。前方後円墳の稲荷山古墳からは国宝「金錯銘鉄剣」が出土し、115文字の金象嵌銘文は古代国家成立の謎を解く超一級史料として知られる。墳頂や墳丘の上に登れる古墳もあり、巨大な土の構造物を間近に体感できる。園内には県立さきたま史跡の博物館やはにわの館があり、令和2年に国の特別史跡に指定された。",
+    "highlights": [
+      "直径約105m・日本最大級の円墳「丸墓山古墳」の、平野に盛り上がる巨大な緑の墳丘",
+      "国宝「金錯銘鉄剣」（115文字の金象嵌銘）を出土した稲荷山古墳",
+      "墳頂・墳丘に登れる古墳があり、1500年前の巨大な土の構造物を間近に体感できる"
+    ],
+    "from_kameyama": "車で約5時間半（新東名・圏央道経由、東北道羽生IC・加須ICから行田市方面）。日帰りは難しく関東観光と組み合わせる前提。",
+    "name_en": "Sakitama Kofun Park (Saitama Ancient Tumuli Park)",
+    "prefecture_en": "Saitama Prefecture",
+    "city_en": "Gyoda City",
+    "summary_en": "In the flat rice country of Gyoda — the place that gave Saitama Prefecture its very name — nine colossal earthen mounds rise from the plain, built between the late 400s and early 600s by chieftains who could command the labor of thousands. This is the Saitama Kofun Group, a 30-hectare archaeological park and National Special Historic Site, and its centerpiece is Maruhakayama Kofun: at roughly 105 meters across, one of the largest round burial mounds in all of Japan, a grass-skinned hill so smoothly enormous it reads more like landscape than tomb. You can climb the stone steps to its summit, the same vantage where, a thousand years after it was raised, the warlord Ishida Mitsunari is said to have pitched his command post for the water siege of nearby Oshi Castle. Nearby, the keyhole-shaped Inariyama Kofun gave up Japan's most famous archaeological object: the Gold-Inlaid Iron Sword, its blade carrying 115 gold characters that name a fifth-century great king and a date read as 471 — a National Treasure that rewrote the textbooks on how the Japanese state was born. To stand among these mounds is to feel the sheer earthmoving scale of power fifteen centuries gone.",
+    "highlights_en": [
+      "The giant green mound of Maruhakayama Kofun — about 105 m across, one of Japan's largest round tumuli — swelling out of the flat plain",
+      "Inariyama Kofun, source of the National Treasure Gold-Inlaid Iron Sword with its 115-character gold inscription",
+      "Climbable mounds that let you stand atop 1,500-year-old earthen monuments and feel their scale firsthand"
+    ]
+  },
+  {
+    "id": "spot-352",
+    "name": "鵜戸神宮",
+    "name_kana": "うどじんぐう",
+    "category": "folk",
+    "prefecture": "宮崎県",
+    "city": "日南市",
+    "address": "〒887-0101 宮崎県日南市大字宮浦3232",
+    "lat": 31.650278,
+    "lng": 131.466667,
+    "status": "現存",
+    "fee": "無料（参拝自由）",
+    "hours": "開門6:00〜閉門18:00（通年）",
+    "official_url": "https://www.udojingu.or.jp/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E9%B5%9C%E6%88%B8%E7%A5%9E%E5%AE%AE",
+      "https://www.kankou-nichinan.jp/tourisms/209/",
+      "https://www.udojingu.or.jp/keidai/"
+    ],
+    "from_kameyama": "車＋フェリー等で片道おおむね半日以上（亀山から大阪南港・神戸等経由で宮崎港へ、宮崎ICから国道220号で約50分）。航空機利用なら宮崎空港から路線バスで約60分が現実的。",
+    "name_en": "Udo Jingu (Udo Shrine)",
+    "prefecture_en": "Miyazaki Prefecture",
+    "city_en": "Nichinan City",
+    "summary_en": "On the cliffs of the Nichinan coast in Miyazaki, where the Hyuga Sea hammers the rock, the shrine of Udo Jingu does something almost no other shrine in Japan does: it hides. To reach the vermillion main hall you do not climb toward the gods — you descend, down a stone stairway cut into the cliff face, into the mouth of a vast sea cave (38 meters east-to-west, 8.5 meters high) where the lacquered building sits tucked beneath a ceiling of raw rock. This is a 'kudari-miya,' a descending shrine, and the effect is uncanny: the architecture of worship swallowed into the body of the earth. Behind the hall, two breast-shaped protrusions called the 'milk rocks' (ochichi-iwa) drip 'milk water,' and legend holds the shrine's deity — said to be the father of Japan's first emperor — was nursed on candy made from that water. Out on the rocks, pilgrims hurl small clay 'fortune balls' (untama) at a hollow in the Turtle Stone: men with the left hand, women with the right. Cave, breast-rocks, and the strange throwing rite fuse into one of Kyushu's most visually arresting sites of folk belief.",
+    "highlights_en": [
+      "A vermillion main hall set inside an enormous sea-eroded cave, 38 m wide and 8.5 m high",
+      "A rare 'descending shrine' (kudari-miya): you go down stone steps to worship rather than up",
+      "The breast-shaped 'milk rocks' and dripping 'milk water' tied to a legend of nursing the infant deity",
+      "The untama rite — flinging clay fortune balls into a hollow in the Turtle Stone for a wish"
+    ]
+  },
+  {
+    "id": "spot-353",
+    "name": "秋芳洞",
+    "name_kana": "あきよしどう",
+    "category": "mystery",
+    "prefecture": "山口県",
+    "city": "美祢市",
+    "address": "〒754-0511 山口県美祢市秋芳町秋吉3449-1",
+    "lat": 34.227778,
+    "lng": 131.303889,
+    "status": "現存",
+    "fee": "大人（高校生以上）1,600円／中学生1,300円／小学生850円（2026年4月1日改定・団体割引あり）",
+    "hours": "通常期9:00〜16:30／繁忙期（7〜9月）9:00〜17:30",
+    "official_url": "https://karusuto.com/spot/akiyoshido/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E7%A7%8B%E8%8A%B3%E6%B4%9E",
+      "https://www2.city.mine.lg.jp/soshiki/kyoiku/hogoka/bunkazai/bunkazai/kunishitei/tokubetsu/1537.html",
+      "https://yamaguchi-tourism.jp/spot/detail_14475.html"
+    ],
+    "from_kameyama": "亀山から名神・中国自動車道経由で約7〜8時間。小郡萩道路『秋吉台IC』から車で約5分。遠方のため一泊以上の旅程が現実的。",
+    "name_en": "Akiyoshido Cave",
+    "prefecture_en": "Yamaguchi Prefecture",
+    "city_en": "Mine City",
+    "summary_en": "Beneath the rolling karst grassland of Akiyoshidai — Japan's largest limestone plateau — lies a void that water spent eons hollowing out. Akiyoshido runs 10,300 meters in total, the third-longest cave in the country, and about a kilometer of it is opened to visitors as a path that plunges 100 to 200 meters below daylight. What you walk into does not feel like a single room; it feels like a geology that has gone strange. The signature sight is the 'Hundred Plates' (Hyakumai-zara), a vast cascade of rimstone pools terraced like flooded rice paddies, on a scale almost unmatched anywhere in the world. Above the path rises the 'Golden Pillar' (Ogon-bashira), a 15-meter flowstone column built grain by grain from dripping calcite, the cave's emblem. Add the 5-meter 'Cave Fuji' and a procession of forms too large to read as anything but otherworldly. The cave was once known by the plain name 'Takiana,' the waterfall hole, until the future Emperor Showa visited in 1926 and it was rechristened Akiyoshido. It is a National Special Natural Monument — and one of those rare places where a single photograph tells you exactly why it belongs among the strange.",
+    "highlights_en": [
+      "A giant limestone cave over 10 km long, third-largest in Japan, designated a National Special Natural Monument",
+      "The world-renowned 'Hundred Plates' — terraced rimstone pools cascading like rice paddies",
+      "The 'Golden Pillar,' a roughly 15-meter flowstone column that is the cave's symbol",
+      "A procession of uncanny underground forms including the 5-meter 'Cave Fuji' pillar"
+    ]
+  },
+  {
+    "id": "spot-354",
+    "name": "大迫磨崖大日如来坐像",
+    "name_kana": "おおさこまがいだいにちにょらいざぞう",
+    "category": "mystery",
+    "prefecture": "大分県",
+    "city": "豊後大野市",
+    "address": "〒879-7404 大分県豊後大野市千歳町長峰（大迫磨崖仏）",
+    "lat": 32.900889,
+    "lng": 131.429778,
+    "status": "現存",
+    "fee": "無料（拝観自由）",
+    "hours": "見学自由（日中推奨）",
+    "official_url": "https://sato-no-tabi.jp/introduce/%E5%A4%A7%E8%BF%AB%E7%A3%A8%E5%B4%96%E5%A4%A7%E6%97%A5%E5%A6%82%E6%9D%A5%E5%9D%90%E5%83%8F/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%BF%AB%E7%A3%A8%E5%B4%96%E5%A4%A7%E6%97%A5%E5%A6%82%E6%9D%A5%E5%9D%90%E5%83%8F",
+      "https://oita-digitalzukan.jp/cultural_property/%E5%A4%A7%E8%BF%AB%E7%A3%A8%E5%B4%96%E5%A4%A7%E6%97%A5%E5%A6%82%E6%9D%A5%E5%9D%90%E5%83%8F/",
+      "https://www.visit-oita.jp/spots/detail/6506"
+    ],
+    "from_kameyama": "亀山から大分県豊後大野市まで車・フェリー等で片道おおむね半日以上。大分自動車道・大分米良IC等から車でアクセス、現地は田園の中の史跡で駐車後に徒歩。",
+    "name_en": "Osako Magai Dainichi Nyorai Seated Statue",
+    "prefecture_en": "Oita Prefecture",
+    "city_en": "Bungo-ono City",
+    "summary_en": "In the farm country of Bungo-ono, Oita — a region so thick with cliff-carved Buddhas it is nicknamed 'the mecca of magaibutsu' — one figure stands apart for how it was made. Set into a rock grotto five meters high and six wide, sheltered under a tiled wooden roof, the Osako Dainichi sits over three meters tall, hands folded on the knees in the gesture of the Womb-Realm Mahavairocana. But it is not simply carved. The sculptors first hacked a rough body out of the volcanic rock, then troweled clay laced with hemp fiber over it, fifteen to twenty centimeters thick, and modeled the surface by hand — a hybrid technique called sekishin-sozo, the 'stone-core clay statue,' with almost no parallels in Japan. The result is a Buddha with the heavy, swollen volume of something half-grown out of the cliff and a face that is blunt, naive, and oddly arresting. After the local Ogata clan fell, the statue is said to have taken on the character of a spirit-pacifying deity. It has been a Tangible Cultural Property of Oita Prefecture since 1976.",
+    "highlights_en": [
+      "A 3.2–3.3 m seated Dainichi Nyorai of heavy volume, set in a 6 m rock grotto",
+      "The rare 'stone-core clay statue' method: rock carved, then clay 15–20 cm thick troweled over it",
+      "The only magaibutsu in Bungo-ono carved into the Chida pyroclastic-flow deposit",
+      "A local tradition that, after the Ogata clan's fall, the statue became a spirit-pacifying deity"
+    ]
+  },
+  {
+    "id": "spot-355",
+    "name": "香山昇龍大観音",
+    "name_kana": "こうやましょうりゅうだいかんのん",
+    "category": "bkyu",
+    "prefecture": "福岡県",
+    "city": "朝倉市",
+    "address": "〒838-1521 福岡県朝倉市杷木志波871-4",
+    "lat": 33.360104,
+    "lng": 130.784863,
+    "status": "現存",
+    "fee": "無料（拝観自由）",
+    "hours": "8:30〜17:00（目安）",
+    "official_url": "https://amagiasakura.net/sightseeing_post/%E9%A6%99%E5%B1%B1%E6%98%87%E9%BE%8D%E5%A4%A7%E8%A6%B3%E9%9F%B3/",
+    "reference_urls": [
+      "https://amagiasakura.net/sightseeing_post/%E9%A6%99%E5%B1%B1%E6%98%87%E9%BE%8D%E5%A4%A7%E8%A6%B3%E9%9F%B3/",
+      "https://www.crossroadfukuoka.jp/spot/12712",
+      "https://www.tabirai.net/sightseeing/column/0008288.aspx"
+    ],
+    "from_kameyama": "亀山から福岡県朝倉市まで車で片道おおむね9〜10時間（名神・山陽・九州道経由）。現地は西鉄バス『杷木』から車で約10分の山上。遠方のため一泊以上の旅程が現実的。",
+    "name_en": "Koyama Shoryu Dai-Kannon (Koyama Ascending-Dragon Great Kannon)",
+    "prefecture_en": "Fukuoka Prefecture",
+    "city_en": "Asakura City",
+    "summary_en": "On a hilltop above Haki in Asakura, Fukuoka, a 28-meter goddess of mercy rises from the back of a coiling dragon — and the whole improbable thing exists because of a dream. Hayashi Hifumi ran the inn Taisenkaku at Harazuru hot spring and served four terms as mayor of Haki town, and he credited his fortune in business and politics to a Kannon who appeared to him in his sleep and told him what to do. In thanks, at the age of 75, he spent his own money to raise this colossus, completed in August 1987. It claims to be the largest 'ascending-dragon Kannon' in Japan: the bodhisattva standing serene atop a dragon spiraling toward heaven, verdigris-green against the sky. People come to pray for money and prosperity, and the statue is marketed locally as 'Asakura's power spot.' But strip away the brochure language and what you have is purer and stranger — a single man's gratitude and success, cast in concrete at monumental scale and parked on a mountain, the kind of place where one photograph tells the whole story.",
+    "highlights_en": [
+      "A 28-meter giant Kannon billed as Japan's largest 'ascending-dragon Kannon'",
+      "The unusual form of the bodhisattva standing atop a heaven-bound coiling dragon",
+      "Built with the private funds of a hot-spring innkeeper who followed a Kannon's dream revelation",
+      "Venerated as a 'power spot' for blessings of wealth and prosperity"
+    ]
   }
 ]
