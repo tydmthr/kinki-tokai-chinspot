@@ -13525,5 +13525,46 @@
       "Built with the private funds of a hot-spring innkeeper who followed a Kannon's dream revelation",
       "Venerated as a 'power spot' for blessings of wealth and prosperity"
     ]
+  },
+  {
+    "id": "spot-356",
+    "name": "サウナ発達",
+    "name_kana": "さうなはったつ",
+    "category": "bkyu",
+    "prefecture": "福島県",
+    "city": "南相馬市",
+    "address": "〒975-0008 福島県南相馬市原町区本町3-21",
+    "lat": 37.643404,
+    "lng": 140.958936,
+    "status": "現存",
+    "fee": "日帰りプラン11,700円〜／1泊2食付23,400円〜（税・サ込・1日1組貸切。予約時に要確認）",
+    "hours": "月15:00〜20:00／火9:00〜17:00／水〜日9:00〜20:30（曜日別・完全予約制。日帰りは14:00〜17:00または18:00〜21:00枠）",
+    "official_url": "https://hattatsu.jp/",
+    "reference_urls": [
+      "https://sauna-ikitai.com/saunas/12419",
+      "https://www.e-aidem.com/ch/jimocoro/entry/kakijiro65",
+      "https://discoverjapan-web.com/article/122994",
+      "https://mirai-work.life/magazine/7247/"
+    ],
+    "summary": "サウナ発達は、福島県南相馬市原町区の市街地に建つ、1日1組完全予約制の体験型サウナ施設。元お笑い芸人で実家の米穀店「川口商店」を継いだ川口雄大が、土嚢を積み上げて土壁を築く「アースバッグ工法」で自ら建てた洞窟状のサウナを核とする。サウナ室は土の蓄熱による高湿・岩盤浴的な熱環境を持ち、地元海岸に漂着した流木なども建材に用いられる。隣接する水風呂は、壁一面を世界各国の仮面で埋め尽くした異様な空間で、地下水を掛け流す。同一敷地には飲食の川口商店、宿泊棟「宿巣」、建物内を継ぎ足しで装飾していく“継ぎ足し美術館”が一体化し、2025年からは建物全体を「神社（神社発達）」として登録する構想が進む。施設名の「発達」は、発達障害と『地域とともに発達する』という二重の意味を込めたもの。",
+    "highlights": [
+      "土嚢を積んで築いたアースバッグ工法の洞窟サウナ（土壁・高湿・蓄熱で岩盤浴的な熱環境）",
+      "壁一面を世界各国の仮面で埋め尽くした異形の水風呂（地下水掛け流し）",
+      "1日1組完全予約制で施設をまるごと貸し切る、珍しい運営形態",
+      "飲食(川口商店)・宿泊(宿巣)・継ぎ足し美術館が一体化した、オーナー自作の複合施設",
+      "2025年から建物全体を『神社（神社発達）』として登録する進行中の構想"
+    ],
+    "from_kameyama": "車で約8時間（約650km・新東名〜首都高〜常磐自動車道、南相馬IC経由）。公共交通なら新幹線で東京・仙台経由、JR常磐線「原ノ町駅」下車で約6〜7時間。",
+    "name_en": "Sauna Hattatsu",
+    "prefecture_en": "Fukushima Prefecture",
+    "city_en": "Minamisoma City",
+    "summary_en": "In a quiet block of central Minamisoma — a city on Fukushima's Hamadori coast that the world came to know only through disaster — a former stand-up comedian has spent a decade building, by hand, one of the strangest bathhouses in Japan. Sauna Hattatsu is the work of Takehiro Kawaguchi, who took over his family's earthquake-shuttered rice shop in 2014 and, after his teenage son announced he wanted to build his own house, taught himself the earthbag construction method: stacking soil-filled sacks into walls. The result is a genuine cave sauna of packed earth and local driftwood — humid, radiant, storing heat like a kiln — that owes more to the steam baths of ancient cave-dwellers than to any Finnish blueprint. Step from the heat into the cold bath and you are watched: every wall is crammed with carved masks from around the world, a wooden congregation staring down at the 13°C groundwater. The whole compound is a single self-built organism — an eatery (Kawaguchi Shoten), a lodging wing (Suka), and a 'keep-adding museum' whose toilets are wallpapered with manga clippings that guests are invited to extend. It runs for exactly one group per day, by reservation only, so the entire bizarre world is yours alone. And from 2025, Kawaguchi intends to register the entire building as a Shinto shrine — 'Jinja Hattatsu' — turning a homemade sauna into a place of worship still very much under construction.",
+    "highlights_en": [
+      "A genuine earthbag cave sauna built by hand from soil-filled sacks and local driftwood — humid, radiant, kiln-like heat unlike any dry sauna",
+      "A cold bath whose every wall is covered with carved masks from around the world, watching over 13°C flowing groundwater",
+      "Booked one group per day, by reservation only — you rent the entire bizarre compound to yourselves",
+      "A single owner-built organism fusing an eatery (Kawaguchi Shoten), a lodging wing (Suka), and an ever-growing 'keep-adding museum'",
+      "From 2025, an in-progress plan to register the whole building as a Shinto shrine ('Jinja Hattatsu')"
+    ]
   }
 ]
