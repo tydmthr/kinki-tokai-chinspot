@@ -3987,5 +3987,91 @@
     "source_url": "https://hattatsu.jp/wp-content/uploads/2025/06/service_sauna_001.png",
     "jigosyoudaku": true,
     "license_note": "著作権あり。事後承諾運用。問題あれば即時差替/撤去前提。"
+  },
+  "spot-357": {
+    "name": "西福寺開山堂",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/SaifukujiKaizandou.jpg/1280px-SaifukujiKaizandou.jpg",
+    "credit": "Wikimedia Commons / Fwataru / CC BY-SA 4.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:SaifukujiKaizandou.jpg",
+    "creator": "Fwataru",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-358": {
+    "name": "中山仙境（夷耶馬）の岩稜",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Nakayamasenkyo_%28Ebisudani%29.png/1280px-Nakayamasenkyo_%28Ebisudani%29.png",
+    "credit": "Wikimedia Commons / Bpcon98 / CC0",
+    "alt_photos": [],
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nakayamasenkyo_(Ebisudani).png",
+    "creator": "Bpcon98",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-359": {
+    "name": "義経神社（平取町）",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Yoshitsune_Shrine%2C_Biratori%2C_2024.jpg/1280px-Yoshitsune_Shrine%2C_Biratori%2C_2024.jpg",
+    "credit": "Wikimedia Commons / Underbar dk / CC BY-SA 4.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Yoshitsune_Shrine,_Biratori,_2024.jpg",
+    "creator": "Underbar dk",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-360": {
+    "name": "太郎坊宮 夫婦岩",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Aga-Shrine%EF%BC%88Tarobogu%EF%BC%89-Meoto-Rock01.jpg/1280px-Aga-Shrine%EF%BC%88Tarobogu%EF%BC%89-Meoto-Rock01.jpg",
+    "credit": "Wikimedia Commons / Naokijp / CC BY-SA 4.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Aga-Shrine%EF%BC%88Tarobogu%EF%BC%89-Meoto-Rock01.jpg",
+    "creator": "Naokijp",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-361": {
+    "name": "吉見百穴",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Yoshimi_Yoshimi-hyakuana_from_afar.jpg/1280px-Yoshimi_Yoshimi-hyakuana_from_afar.jpg",
+    "credit": "Wikimedia Commons / 京浜にけ / CC BY-SA 3.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Yoshimi_Yoshimi-hyakuana_from_afar.jpg",
+    "creator": "京浜にけ",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-362": {
+    "name": "安神山の烏帽子岩",
+    "primary": "https://bizarrejapan.com/photos/spot-362.jpg",
+    "credit": "出典: megalithtrek（巨石巡礼）（https://megalithtrek.web.fc2.com/Shikoku/ehime/anjin/anjin.html）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "megalithtrek（巨石巡礼）",
+    "source_url": "https://megalithtrek.web.fc2.com/Shikoku/ehime/anjin/anjin.html",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり。事後承諾運用。問題あれば即時差替/撤去前提。"
+  },
+  "spot-363": {
+    "name": "奇絶峡 磨崖三尊大石仏",
+    "primary": "https://bizarrejapan.com/photos/spot-363.jpg",
+    "credit": "出典: 田辺市観光協会（https://www.tanabe-kanko.jp/view/sizen/kizekkyo/）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "田辺市観光協会",
+    "source_url": "https://www.tanabe-kanko.jp/view/sizen/kizekkyo/",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり。事後承諾運用。問題あれば即時差替/撤去前提。"
+  },
+  "spot-364": {
+    "name": "大池のオヒルギ群落",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/b/bd/%E5%A4%A7%E6%B1%A0%E3%81%AE%E3%82%AA%E3%83%92%E3%83%AB%E3%82%AE%E7%BE%A4%E8%90%BD_-_panoramio.jpg",
+    "credit": "Wikimedia Commons / yujisan / CC BY 3.0",
+    "alt_photos": [],
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%B1%A0%E3%81%AE%E3%82%AA%E3%83%92%E3%83%AB%E3%82%AE%E7%BE%A4%E8%90%BD_-_panoramio.jpg",
+    "creator": "yujisan",
+    "provider": "Wikimedia Commons"
   }
 }
