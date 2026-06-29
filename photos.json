@@ -58,7 +58,7 @@
   "spot-007": {
     "name": "珍品センター（珍品城）",
     "primary": "https://bizarrejapan.com/photos/spot-007.jpg",
-    "credit": "出典: 珍品センター（公式）（https://chinpin.biz/）※掲載許諾申請中",
+    "credit": "出典: 珍品センター（公式）（https://chinpin.biz/）",
     "alt_photos": [],
     "provider": "珍品センター（公式 / chinpin.biz）",
     "source_url": "https://chinpin.biz/",
@@ -333,7 +333,7 @@
   "spot-047": {
     "name": "伊豆極楽苑",
     "primary": "https://bizarrejapan.com/photos/spot-047.jpg",
-    "credit": "出典: 伊豆市観光情報サイト（https://kanko.city.izu.shizuoka.jp/sightseeing/izugokurakuen/）※掲載許諾申請中",
+    "credit": "出典: 伊豆市観光情報サイト（https://kanko.city.izu.shizuoka.jp/sightseeing/izugokurakuen/）",
     "alt_photos": [],
     "provider": "伊豆市観光情報サイト（伊豆市公式）",
     "source_url": "https://kanko.city.izu.shizuoka.jp/sightseeing/izugokurakuen/",
@@ -362,7 +362,7 @@
   "fest-001": {
     "name": "法界寺 裸踊り（修正会）",
     "primary": "https://bizarrejapan.com/photos/fest-001.jpg",
-    "credit": "出典: ざ・京都（https://www.the-kyoto.jp/calendar/january/hokaiji-hadaka/）※掲載許諾申請中",
+    "credit": "出典: ざ・京都（https://www.the-kyoto.jp/calendar/january/hokaiji-hadaka/）",
     "alt_photos": [],
     "provider": "ざ・京都（the-kyoto.jp）",
     "source_url": "https://www.the-kyoto.jp/calendar/january/hokaiji-hadaka/",
@@ -371,7 +371,7 @@
   "fest-002": {
     "name": "四天王寺 どやどや（修正会結願法要）",
     "primary": "https://bizarrejapan.com/photos/fest-002.jpg",
-    "credit": "出典: 和田フォト（https://wadaphoto.jp/maturi/kisai_3.htm）※掲載許諾申請中",
+    "credit": "出典: 和田フォト（https://wadaphoto.jp/maturi/kisai_3.htm）",
     "alt_photos": [],
     "provider": "和田フォト（Wada Photo）",
     "source_url": "https://wadaphoto.jp/maturi/kisai_3.htm",
@@ -380,7 +380,7 @@
   "fest-003": {
     "name": "西宮神社 開門神事 福男選び",
     "primary": "https://bizarrejapan.com/photos/fest-003.jpg",
-    "credit": "出典: 西宮つーしん（https://nishi2.jp/283396/）※掲載許諾申請中",
+    "credit": "出典: 西宮つーしん（https://nishi2.jp/283396/）",
     "alt_photos": [],
     "provider": "西宮つーしん（nishi2.jp / 地域メディア）",
     "source_url": "https://nishi2.jp/283396/",
@@ -395,7 +395,7 @@
   "fest-005": {
     "name": "飛鳥坐神社 おんだ祭（田遊び）",
     "primary": "https://bizarrejapan.com/photos/fest-005.jpg",
-    "credit": "出典: 明日香村観光サイト『あすか時間』（https://asukamura.com/sightseeing/onda-matsuri/）※掲載許諾申請中",
+    "credit": "出典: 明日香村観光サイト『あすか時間』（https://asukamura.com/sightseeing/onda-matsuri/）",
     "alt_photos": [],
     "provider": "明日香村観光サイト『あすか時間』（明日香村観光開発公社）",
     "source_url": "https://asukamura.com/sightseeing/onda-matsuri/",
@@ -410,7 +410,7 @@
   "fest-007": {
     "name": "尾鷲ヤーヤ祭り",
     "primary": "https://bizarrejapan.com/photos/fest-007.jpg",
-    "credit": "出典: 尾鷲市公式（おわせ観光ガイド）（https://www.city.owase.lg.jp/owatabi/0000017488.html）※掲載許諾申請中",
+    "credit": "出典: 尾鷲市公式（おわせ観光ガイド）（https://www.city.owase.lg.jp/owatabi/0000017488.html）",
     "alt_photos": [],
     "provider": "尾鷲市公式（おわせ観光ガイド「おわたび」）",
     "source_url": "https://www.city.owase.lg.jp/owatabi/0000017488.html",
@@ -425,7 +425,7 @@
   "fest-009": {
     "name": "砂かけ祭り",
     "primary": "https://bizarrejapan.com/photos/fest-009.jpg",
-    "credit": "出典: オマツリジャパン（https://omatsurijapan.com/search/m/1813/）※掲載許諾申請中",
+    "credit": "出典: オマツリジャパン（https://omatsurijapan.com/search/m/1813/）",
     "alt_photos": [],
     "provider": "オマツリジャパン（omatsurijapan.com）",
     "source_url": "https://omatsurijapan.com/search/m/1813/",
@@ -452,7 +452,7 @@
   "fest-013": {
     "name": "嵯峨お松明式（清凉寺）",
     "primary": "https://bizarrejapan.com/photos/fest-013.jpg",
-    "credit": "出典: ざ・京都（https://www.the-kyoto.jp/calendar/march/seiryoji-nehan/）※掲載許諾申請中",
+    "credit": "出典: ざ・京都（https://www.the-kyoto.jp/calendar/march/seiryoji-nehan/）",
     "alt_photos": [],
     "provider": "ざ・京都（the-kyoto.jp）",
     "source_url": "https://www.the-kyoto.jp/calendar/march/seiryoji-nehan/",
@@ -472,7 +472,7 @@
   "fest-015": {
     "name": "大瀬まつり（内浦漁港祭）",
     "primary": "https://bizarrejapan.com/photos/fest-015.jpg",
-    "credit": "出典: Izu Letters（https://izu-letters.jp/column/detail.php?c=314）※掲載許諾申請中",
+    "credit": "出典: Izu Letters（https://izu-letters.jp/column/detail.php?c=314）",
     "alt_photos": [],
     "provider": "Izu Letters（izu-letters.jp）",
     "source_url": "https://izu-letters.jp/column/detail.php?c=314",
@@ -534,7 +534,7 @@
   "fest-024": {
     "name": "熊野那智大社 那智の扇祭り（那智の火祭）",
     "primary": "https://bizarrejapan.com/photos/fest-024.jpg",
-    "credit": "出典: 和歌山県公式観光サイト「わかやま観光情報」（和歌山県観光連盟）（https://www.wakayama-kanko.or.jp/events/detail_79.html）※掲載許諾申請中",
+    "credit": "出典: 和歌山県公式観光サイト「わかやま観光情報」（和歌山県観光連盟）（https://www.wakayama-kanko.or.jp/events/detail_79.html）",
     "alt_photos": [],
     "provider": "和歌山県公式観光サイト「わかやま観光情報」（和歌山県観光連盟）",
     "source_url": "https://www.wakayama-kanko.or.jp/events/detail_79.html",
@@ -585,7 +585,7 @@
   "fest-032": {
     "name": "大阪 セルフ祭（七宮詣り）",
     "primary": "https://bizarrejapan.com/photos/fest-032.jpg",
-    "credit": "出典: オマツリジャパン（https://omatsurijapan.com/blog/selfmatsuri-2018/）※掲載許諾申請中",
+    "credit": "出典: オマツリジャパン（https://omatsurijapan.com/blog/selfmatsuri-2018/）",
     "alt_photos": [],
     "provider": "オマツリジャパン（omatsurijapan.com）",
     "source_url": "https://omatsurijapan.com/blog/selfmatsuri-2018/",
@@ -612,7 +612,7 @@
   "fest-036": {
     "name": "丹生祭（笑い祭）",
     "primary": "https://bizarrejapan.com/photos/fest-036.jpg",
-    "credit": "出典: 和歌山県公式観光サイト（https://www.wakayama-kanko.or.jp/events/detail_3893.html）※掲載許諾申請中",
+    "credit": "出典: 和歌山県公式観光サイト（https://www.wakayama-kanko.or.jp/events/detail_3893.html）",
     "alt_photos": [],
     "provider": "和歌山県公式観光サイト（公益社団法人 和歌山県観光連盟）",
     "source_url": "https://www.wakayama-kanko.or.jp/events/detail_3893.html",
@@ -674,7 +674,7 @@
   "fest-045": {
     "name": "鈴鹿の御頭神事（三重・椿大神社）",
     "primary": "https://bizarrejapan.com/photos/fest-045.jpg",
-    "credit": "出典: 椿大神社（https://tsubaki.or.jp/saiji/saiji_dentou.html）※掲載許諾申請中",
+    "credit": "出典: 椿大神社（https://tsubaki.or.jp/saiji/saiji_dentou.html）",
     "alt_photos": [],
     "provider": "椿大神社（公式サイト）",
     "source_url": "https://tsubaki.or.jp/saiji/saiji_dentou.html",
@@ -758,7 +758,7 @@
   "spot-059": {
     "name": "頭之宮四方神社",
     "primary": "https://bizarrejapan.com/photos/spot-059.jpg",
-    "credit": "出典: 頭之宮四方神社 公式サイト（https://koubenomiya.or.jp/keidai/）※掲載許諾申請中",
+    "credit": "出典: 頭之宮四方神社 公式サイト（https://koubenomiya.or.jp/keidai/）",
     "alt_photos": [],
     "provider": "頭之宮四方神社（公式サイト「境内のご案内」）",
     "source_url": "https://koubenomiya.or.jp/keidai/",
@@ -780,7 +780,7 @@
   "spot-061": {
     "name": "白瀧大明神",
     "primary": "https://bizarrejapan.com/photos/spot-061.jpg",
-    "credit": "出典: 観光三重（公益社団法人三重県観光連盟）（https://www.kankomie.or.jp/spot/22166）※掲載許諾申請中",
+    "credit": "出典: 観光三重（公益社団法人三重県観光連盟）（https://www.kankomie.or.jp/spot/22166）",
     "alt_photos": [],
     "provider": "公益社団法人 三重県観光連盟（観光三重）",
     "source_url": "https://www.kankomie.or.jp/spot/22166",
@@ -789,7 +789,7 @@
   "spot-063": {
     "name": "松阪飯南 稲わらモニュメント",
     "primary": "https://bizarrejapan.com/photos/spot-063.jpg",
-    "credit": "出典: 観光三重（三重県観光連盟）（https://www.kankomie.or.jp/event/41599）※掲載許諾申請中",
+    "credit": "出典: 観光三重（三重県観光連盟）（https://www.kankomie.or.jp/event/41599）",
     "alt_photos": [],
     "provider": "観光三重（三重県観光連盟 公式サイト）",
     "source_url": "https://www.kankomie.or.jp/event/41599",
@@ -943,7 +943,7 @@
   "spot-085": {
     "name": "B宝館",
     "primary": "https://bizarrejapan.com/photos/spot-085.jpg",
-    "credit": "出典: B宝館（https://bhoukan.com/collection/）※掲載許諾申請中",
+    "credit": "出典: B宝館（https://bhoukan.com/collection/）",
     "alt_photos": [],
     "provider": "B宝館（公式サイト）",
     "source_url": "https://bhoukan.com/collection/",
@@ -1010,7 +1010,7 @@
   "spot-094": {
     "name": "照円寺 地獄極楽絵図ご開帳",
     "primary": "https://bizarrejapan.com/photos/spot-094.jpg",
-    "credit": "出典: 照円寺（金沢市笠市町）（https://syouenji.jp/）※掲載許諾申請中",
+    "credit": "出典: 照円寺（金沢市笠市町）（https://syouenji.jp/）",
     "alt_photos": [],
     "provider": "照円寺（金沢市笠市町・公式 / syouenji.jp）",
     "source_url": "https://syouenji.jp/",
@@ -1113,7 +1113,7 @@
   "fest-098": {
     "name": "真清田神社 桃花祭",
     "primary": "https://bizarrejapan.com/photos/fest-098.jpg",
-    "credit": "出典: UMATO（https://umato.jp/event/shrines-and-temples/4600/）※掲載許諾申請中",
+    "credit": "出典: UMATO（https://umato.jp/event/shrines-and-temples/4600/）",
     "alt_photos": [],
     "provider": "UMATO（うまと／馬の総合情報メディア）",
     "source_url": "https://umato.jp/event/shrines-and-temples/4600/",
@@ -1128,7 +1128,7 @@
   "fest-100": {
     "name": "早池峰神社 蘇民祭",
     "primary": "https://bizarrejapan.com/photos/fest-100.jpg",
-    "credit": "出典: 花巻観光協会（https://www.kanko-hanamaki.ne.jp/event/event_detail.php?id=57）※掲載許諾申請中",
+    "credit": "出典: 花巻観光協会（https://www.kanko-hanamaki.ne.jp/event/event_detail.php?id=57）",
     "alt_photos": [],
     "provider": "花巻観光協会（公式観光サイト）",
     "source_url": "https://www.kanko-hanamaki.ne.jp/event/event_detail.php?id=57",
@@ -1149,7 +1149,7 @@
   "fest-103": {
     "name": "しもきた天狗まつり",
     "primary": "https://bizarrejapan.com/photos/fest-103.jpg",
-    "credit": "出典: 下北沢一番街商店街振興組合（https://shimokita1ban.com/tengufestival94/）※掲載許諾申請中",
+    "credit": "出典: 下北沢一番街商店街振興組合（https://shimokita1ban.com/tengufestival94/）",
     "alt_photos": [],
     "provider": "下北沢一番街商店街振興組合（しもきた天狗まつり公式）",
     "source_url": "https://shimokita1ban.com/tengufestival94/",
@@ -1158,7 +1158,7 @@
   "fest-104": {
     "name": "總願寺 節分会 鬼追い豆撒き式",
     "primary": "https://bizarrejapan.com/photos/fest-104.jpg",
-    "credit": "出典: 加須市公式サイト（https://www.city.kazo.lg.jp/soshiki/shougyou_kankou/event/15525.html）※掲載許諾申請中",
+    "credit": "出典: 加須市公式サイト（https://www.city.kazo.lg.jp/soshiki/shougyou_kankou/event/15525.html）",
     "alt_photos": [],
     "provider": "加須市（公式サイト・商業観光課）",
     "source_url": "https://www.city.kazo.lg.jp/soshiki/shougyou_kankou/event/15525.html",
@@ -1167,7 +1167,7 @@
   "fest-105": {
     "name": "鬼怒川温泉 招福鬼まつり",
     "primary": "https://bizarrejapan.com/photos/fest-105.jpg",
-    "credit": "出典: 日光旅ナビ（日光市観光協会）（https://www.nikko-kankou.org/spot/572）※掲載許諾申請中",
+    "credit": "出典: 日光旅ナビ（日光市観光協会）（https://www.nikko-kankou.org/spot/572）",
     "alt_photos": [],
     "provider": "日光旅ナビ（日光市観光協会）",
     "source_url": "https://www.nikko-kankou.org/spot/572",
@@ -1256,7 +1256,7 @@
   "fest-048": {
     "name": "国崎のノット正月",
     "primary": "https://bizarrejapan.com/photos/fest-048.jpg",
-    "credit": "出典: 国崎町内会（http://www.kuzaki.net/festival/notsyogatsu.html）※掲載許諾申請中",
+    "credit": "出典: 国崎町内会（http://www.kuzaki.net/festival/notsyogatsu.html）",
     "alt_photos": [],
     "provider": "国崎町内会（鳥羽市国崎町・公式）",
     "source_url": "http://www.kuzaki.net/festival/notsyogatsu.html",
@@ -1265,7 +1265,7 @@
   "fest-049": {
     "name": "梶賀ハラソ祭り",
     "primary": "https://bizarrejapan.com/photos/fest-049.jpg",
-    "credit": "出典: VISIT HIGASHI KISHU（東紀州地域振興公社）（https://kumanokodo-iseji.jp/en/feature/haraso/）※掲載許諾申請中",
+    "credit": "出典: VISIT HIGASHI KISHU（東紀州地域振興公社）（https://kumanokodo-iseji.jp/en/feature/haraso/）",
     "alt_photos": [],
     "provider": "VISIT HIGASHI KISHU（東紀州地域振興公社）",
     "source_url": "https://kumanokodo-iseji.jp/en/feature/haraso/",
@@ -1274,7 +1274,7 @@
   "fest-052": {
     "name": "忍山神社のキッカケ祭り",
     "primary": "https://bizarrejapan.com/photos/fest-052.jpg",
-    "credit": "出典: 観光三重（https://www.kankomie.or.jp/event/5310）※掲載許諾申請中",
+    "credit": "出典: 観光三重（https://www.kankomie.or.jp/event/5310）",
     "alt_photos": [],
     "provider": "観光三重（公益社団法人三重県観光連盟）",
     "source_url": "https://www.kankomie.or.jp/event/5310",
@@ -1313,7 +1313,7 @@
   "fest-061": {
     "name": "黒石寺蘇民祭",
     "primary": "https://bizarrejapan.com/photos/fest-061.jpg",
-    "credit": "出典: 妙見山 黒石寺（公式）（https://kokusekiji.jp/蘇民祭/）※掲載許諾申請中",
+    "credit": "出典: 妙見山 黒石寺（公式）（https://kokusekiji.jp/蘇民祭/）",
     "alt_photos": [],
     "provider": "妙見山 黒石寺（公式）",
     "source_url": "https://kokusekiji.jp/%E8%98%87%E6%B0%91%E7%A5%AD/",
@@ -1328,7 +1328,7 @@
   "fest-067": {
     "name": "浦佐毘沙門堂裸押合大祭",
     "primary": "https://bizarrejapan.com/photos/fest-067.jpg",
-    "credit": "出典: 南魚沼市観光協会（https://m-uonuma.jp/events/event/浦佐毘沙門堂裸押合大祭/）※掲載許諾申請中",
+    "credit": "出典: 南魚沼市観光協会（https://m-uonuma.jp/events/event/浦佐毘沙門堂裸押合大祭/）",
     "alt_photos": [],
     "provider": "南魚沼市観光協会（公式）",
     "source_url": "https://m-uonuma.jp/events/event/浦佐毘沙門堂裸押合大祭/",
@@ -1337,7 +1337,7 @@
   "fest-068": {
     "name": "高知 どろんこ祭り",
     "primary": "https://bizarrejapan.com/photos/fest-068.jpg",
-    "credit": "出典: 高知市公式ホームページ（https://www.city.kochi.kochi.jp/site/kanko/doronko.html）※掲載許諾申請中",
+    "credit": "出典: 高知市公式ホームページ（https://www.city.kochi.kochi.jp/site/kanko/doronko.html）",
     "alt_photos": [],
     "provider": "高知市公式ホームページ（観光・どろんこ祭り）",
     "source_url": "https://www.city.kochi.kochi.jp/site/kanko/doronko.html",
@@ -1364,7 +1364,7 @@
   "fest-073": {
     "name": "鬼来迎（広済寺の鬼舞）",
     "primary": "https://bizarrejapan.com/photos/fest-073.jpg",
-    "credit": "出典: ちば観光ナビ（https://maruchiba.jp/event/detail_10863.html）※掲載許諾申請中",
+    "credit": "出典: ちば観光ナビ（https://maruchiba.jp/event/detail_10863.html）",
     "alt_photos": [],
     "provider": "ちば観光ナビ（千葉県公式観光物産サイト／公益社団法人千葉県観光物産協会）",
     "source_url": "https://maruchiba.jp/event/detail_10863.html",
@@ -1373,7 +1373,7 @@
   "fest-074": {
     "name": "見付天神裸祭",
     "primary": "https://bizarrejapan.com/photos/fest-074.jpg",
-    "credit": "出典: 磐田市観光協会（https://kanko-iwata.jp/tanoshimu/tanoshimu-859/）※掲載許諾申請中",
+    "credit": "出典: 磐田市観光協会（https://kanko-iwata.jp/tanoshimu/tanoshimu-859/）",
     "alt_photos": [],
     "provider": "磐田市観光協会",
     "source_url": "https://kanko-iwata.jp/tanoshimu/tanoshimu-859/",
@@ -1431,7 +1431,7 @@
   "fest-114": {
     "name": "アマメハギ",
     "primary": "https://bizarrejapan.com/photos/fest-114.jpg",
-    "credit": "出典: 輪島たび結び（輪島市観光課・観光協会 公式）（https://wajimanavi.jp/event/amamehagi）※掲載許諾申請中",
+    "credit": "出典: 輪島たび結び（輪島市観光課・観光協会 公式）（https://wajimanavi.jp/event/amamehagi）",
     "alt_photos": [],
     "provider": "輪島たび結び（輪島市観光課・観光協会 公式）",
     "source_url": "https://wajimanavi.jp/event/amamehagi",
@@ -1496,7 +1496,7 @@
   "fest-118": {
     "name": "御陣乗太鼓",
     "primary": "https://bizarrejapan.com/photos/fest-118.jpg",
-    "credit": "出典: ほっと石川旅ねっと（https://www.hot-ishikawa.jp/spot/detail_6009.html）※掲載許諾申請中",
+    "credit": "出典: ほっと石川旅ねっと（https://www.hot-ishikawa.jp/spot/detail_6009.html）",
     "alt_photos": [],
     "provider": "ほっと石川旅ねっと（石川県観光連盟 公式観光サイト）",
     "source_url": "https://www.hot-ishikawa.jp/spot/detail_6009.html",
@@ -1544,7 +1544,7 @@
   "spot-220": {
     "name": "與止日女神社（川上神社・通称：淀姫さん）",
     "primary": "https://bizarrejapan.com/photos/spot-220.jpg",
-    "credit": "出典: 佐賀県公式観光サイト『あそぼーさが』（https://www.asobo-saga.jp/spots/detail/ab0fdf6a-81ba-433a-b65c-9af76a058634）※掲載許諾申請中",
+    "credit": "出典: 佐賀県公式観光サイト『あそぼーさが』（https://www.asobo-saga.jp/spots/detail/ab0fdf6a-81ba-433a-b65c-9af76a058634）",
     "alt_photos": [],
     "provider": "佐賀県観光連盟『あそぼーさが』（佐賀県公式観光サイト）",
     "source_url": "https://www.asobo-saga.jp/spots/detail/ab0fdf6a-81ba-433a-b65c-9af76a058634",
@@ -1585,7 +1585,7 @@
   "fest-173": {
     "name": "佐陀神能",
     "primary": "https://bizarrejapan.com/photos/fest-173.jpg",
-    "credit": "出典: しまね観光ナビ（島根県公式観光情報サイト）（https://www.kankou-shimane.com/destination/20308）※掲載許諾申請中",
+    "credit": "出典: しまね観光ナビ（島根県公式観光情報サイト）（https://www.kankou-shimane.com/destination/20308）",
     "alt_photos": [],
     "license": "著作権あり（しまね観光ナビ＝公益社団法人島根県観光連盟 掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は島根県観光連盟への許諾確認が必要。問題あれば即時差し替え／撤去前提。",
     "source_url": "https://www.kankou-shimane.com/destination/20308",
@@ -1594,7 +1594,7 @@
   "spot-224": {
     "name": "迦葉山弥勒護国禅寺",
     "primary": "https://bizarrejapan.com/photos/spot-224.jpg",
-    "credit": "出典: 群馬県公式観光サイト ググっとぐんま（https://we-love.gunma.jp/kanko/kashozanmirokuji）※掲載許諾申請中",
+    "credit": "出典: 群馬県公式観光サイト ググっとぐんま（https://we-love.gunma.jp/kanko/kashozanmirokuji）",
     "alt_photos": [],
     "license": "著作権あり（群馬県公式観光サイト掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は群馬県観光物産国際協会（または撮影者・弥勒寺）への許諾確認が必要。問題あれば即時差し替え／撤去前提。",
     "source_url": "https://we-love.gunma.jp/kanko/kashozanmirokuji",
@@ -1603,7 +1603,7 @@
   "fest-174": {
     "name": "高川仁井田神社 早飯食い",
     "primary": "https://bizarrejapan.com/photos/fest-174.jpg",
-    "credit": "出典: ぐるぐるこうち／RKC高知放送（https://guruguru.rkc-kochi.co.jp/article/goout_173138571528597）※掲載許諾申請中",
+    "credit": "出典: ぐるぐるこうち／RKC高知放送（https://guruguru.rkc-kochi.co.jp/article/goout_173138571528597）",
     "alt_photos": [],
     "license": "著作権あり（RKC高知放送『ぐるぐるこうち』掲載写真、CC/PD表記なし）。報道・放送局制作のため権利はRKC高知放送に帰属。事後承諾運用のため掲載するが、本番前/商用時はRKC高知放送への許諾確認が必須。問題あれば即時差し替え／撤去前提。",
     "source_url": "https://guruguru.rkc-kochi.co.jp/article/goout_173138571528597",
@@ -1677,7 +1677,7 @@
   "spot-226": {
     "name": "カステラ神社",
     "primary": "https://bizarrejapan.com/photos/spot-226.jpg",
-    "credit": "出典: 9navi（https://www.9navi.jp/kasutera01.html）※掲載許諾申請中",
+    "credit": "出典: 9navi（https://www.9navi.jp/kasutera01.html）",
     "alt_photos": [],
     "license": "著作権あり（9navi掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は9navi運営者および店舗『もみの木コア』への許諾確認が必要。問題あれば即時差し替え／撤去前提。",
     "source_url": "https://www.9navi.jp/kasutera01.html",
@@ -1686,7 +1686,7 @@
   "fest-178": {
     "name": "あらい祭（大根まつり）",
     "primary": "https://bizarrejapan.com/photos/fest-178.jpg",
-    "credit": "出典: 千葉県立中央博物館デジタルアーカイブ（https://www.chiba-muse.or.jp/NATURAL/special/150photo1/files/MB00132.html）※掲載許諾申請中",
+    "credit": "出典: 千葉県立中央博物館デジタルアーカイブ（https://www.chiba-muse.or.jp/NATURAL/special/150photo1/files/MB00132.html）",
     "alt_photos": [],
     "license": "著作権あり（千葉県立中央博物館デジタルアーカイブ掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は千葉県立中央博物館への許諾確認が必要。問題あれば即時差し替え／撤去前提。",
     "source_url": "https://www.chiba-muse.or.jp/NATURAL/special/150photo1/files/MB00132.html",
@@ -1695,7 +1695,7 @@
   "fest-179": {
     "name": "伊予豆比古命神社 椿まつり",
     "primary": "https://bizarrejapan.com/photos/fest-179.jpg",
-    "credit": "出典: 伊豫豆比古命神社（椿神社）（https://tubaki.or.jp/tsubaki-festival/）※掲載許諾申請中",
+    "credit": "出典: 伊豫豆比古命神社（椿神社）（https://tubaki.or.jp/tsubaki-festival/）",
     "alt_photos": [],
     "license": "著作権あり（伊豫豆比古命神社 公式サイト掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は伊豫豆比古命神社への許諾確認が必要。問題あれば即時差し替え／撤去前提。webp配信のためsipsでjpeg変換のうえ保存。",
     "source_url": "https://tubaki.or.jp/tsubaki-festival/",
@@ -1704,7 +1704,7 @@
   "fest-180": {
     "name": "閼伽井嶽薬師 人形供養祭",
     "primary": "https://bizarrejapan.com/photos/fest-180.jpg",
-    "credit": "出典: コノマレ この指とまれ（人形供養祭 主催）（https://www.konomare.com/event/ningyoukuyousai/）※掲載許諾申請中",
+    "credit": "出典: コノマレ この指とまれ（人形供養祭 主催）（https://www.konomare.com/event/ningyoukuyousai/）",
     "alt_photos": [],
     "license": "著作権あり（コノマレ この指とまれ 掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は主催『コノマレ この指とまれ』への許諾確認が必要。問題あれば即時差し替え／撤去前提。撮影者表記なし。",
     "source_url": "https://www.konomare.com/event/ningyoukuyousai/",
@@ -1713,7 +1713,7 @@
   "fest-181": {
     "name": "水海の田楽能舞",
     "primary": "https://bizarrejapan.com/photos/fest-181.jpg",
-    "credit": "出典: 福井県池田町（https://www.town.ikeda.fukui.jp/kurashi/bunka/1446/p001327.html）※掲載許諾申請中",
+    "credit": "出典: 福井県池田町（https://www.town.ikeda.fukui.jp/kurashi/bunka/1446/p001327.html）",
     "alt_photos": [],
     "license": "著作権あり（福井県池田町 掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は池田町への許諾確認が必要。問題あれば即時差し替え／撤去前提。",
     "source_url": "https://www.town.ikeda.fukui.jp/kurashi/bunka/1446/p001327.html",
@@ -1722,7 +1722,7 @@
   "fest-149": {
     "name": "サバー送り",
     "primary": "https://bizarrejapan.com/photos/fest-149.jpg",
-    "credit": "出典: 長門市公式ホームページ（長門の話題「伝統のサバー送り」2017年）（https://www.city.nagato.yamaguchi.jp/wadairoot/wadai/20170701sabahokuri.html）※掲載許諾申請中",
+    "credit": "出典: 長門市公式ホームページ（長門の話題「伝統のサバー送り」2017年）（https://www.city.nagato.yamaguchi.jp/wadairoot/wadai/20170701sabahokuri.html）",
     "alt_photos": [],
     "provider": "長門市公式ホームページ（長門の話題「伝統のサバー送り」2017年）",
     "source_url": "https://www.city.nagato.yamaguchi.jp/wadairoot/wadai/20170701sabahokuri.html",
@@ -1731,7 +1731,7 @@
   "fest-156": {
     "name": "甚目の虫送り",
     "primary": "https://bizarrejapan.com/photos/fest-156.jpg",
-    "credit": "出典: 松阪市公式ホームページ（文化情報「甚目の虫送り」）（https://www.city.matsusaka.mie.jp/site/culture-info/hadame-mushiokuri.html）※掲載許諾申請中",
+    "credit": "出典: 松阪市公式ホームページ（文化情報「甚目の虫送り」）（https://www.city.matsusaka.mie.jp/site/culture-info/hadame-mushiokuri.html）",
     "alt_photos": [],
     "provider": "松阪市公式ホームページ（文化情報「甚目の虫送り」）",
     "source_url": "https://www.city.matsusaka.mie.jp/site/culture-info/hadame-mushiokuri.html",
@@ -1740,7 +1740,7 @@
   "fest-157": {
     "name": "木境大物忌神社の虫除け祭り",
     "primary": "https://bizarrejapan.com/photos/fest-157.jpg",
-    "credit": "出典: まいーれ（由利本荘市民俗芸能伝承館 公式サイト）（https://mai-re.jp/matsuri/ken/kizakai/）※掲載許諾申請中",
+    "credit": "出典: まいーれ（由利本荘市民俗芸能伝承館 公式サイト）（https://mai-re.jp/matsuri/ken/kizakai/）",
     "alt_photos": [],
     "provider": "まいーれ（由利本荘市民俗芸能伝承館 公式サイト）",
     "source_url": "https://mai-re.jp/matsuri/ken/kizakai/",
@@ -1749,7 +1749,7 @@
   "fest-170": {
     "name": "古和浦祇園祭",
     "primary": "https://bizarrejapan.com/photos/fest-170.jpg",
-    "credit": "出典: 観光三重（公益社団法人 三重県観光連盟 公式サイト）取材レポート（撮影: 種橋マミ）（https://www.kankomie.or.jp/report/2022）※掲載許諾申請中",
+    "credit": "出典: 観光三重（公益社団法人 三重県観光連盟 公式サイト）取材レポート（撮影: 種橋マミ）（https://www.kankomie.or.jp/report/2022）",
     "alt_photos": [],
     "provider": "観光三重（公益社団法人 三重県観光連盟 公式サイト）取材レポート「三重県内・漁獲量No.1のまち『南伊勢町』浦々の夏祭りと海の幸をご紹介‼」",
     "source_url": "https://www.kankomie.or.jp/report/2022",
@@ -1758,7 +1758,7 @@
   "spot-227": {
     "name": "札幌大仏（金毘羅密寺）",
     "primary": "https://bizarrejapan.com/photos/spot-227.jpg",
-    "credit": "出典: 札幌大佛 金毘羅密寺（公式サイト）（https://www.sapporodaibutu.com/sapporodaibutu）※掲載許諾申請中",
+    "credit": "出典: 札幌大佛 金毘羅密寺（公式サイト）（https://www.sapporodaibutu.com/sapporodaibutu）",
     "provider": "札幌大佛 金毘羅密寺（公式サイト）",
     "source_url": "https://www.sapporodaibutu.com/sapporodaibutu",
     "license": "著作権あり（金毘羅密寺 公式サイト掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は金毘羅密寺への許諾確認が必要。問題あれば即時差し替え／撤去前提。連絡先=金毘羅密寺（札幌市西区福井423）。",
@@ -1805,7 +1805,7 @@
   "spot-231": {
     "name": "盛岡大仏（松園寺）",
     "primary": "https://bizarrejapan.com/photos/spot-231.jpg",
-    "credit": "出典: 松園寺（盛岡大仏）公式サイト（https://syouonnzi.com/moriokadaibutu.html）※掲載許諾申請中",
+    "credit": "出典: 松園寺（盛岡大仏）公式サイト（https://syouonnzi.com/moriokadaibutu.html）",
     "provider": "松園寺（盛岡大仏）公式サイト",
     "source_url": "https://syouonnzi.com/moriokadaibutu.html",
     "license": "著作権あり（松園寺 公式サイト掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は松園寺への許諾確認が必要。問題あれば即時差し替え／撤去前提。連絡先=松園寺（盛岡市）。",
@@ -1852,7 +1852,7 @@
   "spot-235": {
     "name": "鹿野大仏（寳光寺）",
     "primary": "https://bizarrejapan.com/photos/spot-235.jpg",
-    "credit": "出典: 東京とりっぷ（https://tokyo-trip.org/spot/visiting/tk0549/）※掲載許諾申請中",
+    "credit": "出典: 東京とりっぷ（https://tokyo-trip.org/spot/visiting/tk0549/）",
     "provider": "東京とりっぷ（tokyo-trip.org）",
     "source_url": "https://tokyo-trip.org/spot/visiting/tk0549/",
     "license": "著作権あり（東京とりっぷ 掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は東京とりっぷ運営者への許諾確認が必要。問題あれば即時差し替え／撤去前提。出典は観光情報メディア（C層）。",
@@ -1922,7 +1922,7 @@
   "spot-241": {
     "name": "善久寺（両面宿儺像）",
     "primary": "https://bizarrejapan.com/photos/spot-241.jpg",
-    "credit": "出典: 飛騨高山観光公式サイト（https://www.hidatakayama.or.jp/spot/detail_5182.html）※掲載許諾申請中",
+    "credit": "出典: 飛騨高山観光公式サイト（https://www.hidatakayama.or.jp/spot/detail_5182.html）",
     "provider": "飛騨高山観光公式サイト（飛騨・高山観光コンベンション協会）",
     "source_url": "https://www.hidatakayama.or.jp/spot/detail_5182.html",
     "license": "著作権あり（飛騨・高山観光コンベンション協会 掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は同協会および善久寺への許諾確認が必要。問題あれば即時差し替え／撤去前提。",
@@ -1931,7 +1931,7 @@
   "spot-242": {
     "name": "命と性ミュージアム女神館",
     "primary": "https://bizarrejapan.com/photos/spot-242.jpg",
-    "credit": "出典: 命と性ミュージアム 女神館 公式サイト（http://inotitosei.jp/）※掲載許諾申請中",
+    "credit": "出典: 命と性ミュージアム 女神館 公式サイト（http://inotitosei.jp/）",
     "provider": "命と性ミュージアム 女神館（公式サイト inotitosei.jp）",
     "source_url": "http://inotitosei.jp/002naniwosite.html",
     "license": "著作権あり（命と性ミュージアム 公式サイト掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は同館への許諾確認が必要（TEL 0279-55-6677）。問題あれば即時差し替え／撤去前提。",
@@ -1964,7 +1964,7 @@
   "spot-245": {
     "name": "南蔵院（釈迦涅槃像）",
     "primary": "https://bizarrejapan.com/photos/spot-245.jpg",
-    "credit": "出典: 篠栗町観光協会（https://sasagurikanko.com/type-about/涅槃像-2/）※掲載許諾申請中",
+    "credit": "出典: 篠栗町観光協会（https://sasagurikanko.com/type-about/涅槃像-2/）",
     "provider": "篠栗町観光協会（sasagurikanko.com）",
     "source_url": "https://sasagurikanko.com/type-about/%E6%B6%85%E6%A7%83%E5%83%8F-2/",
     "license": "著作権あり（篠栗町観光協会 掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は篠栗町観光協会および南蔵院への許諾確認が必要。問題あれば即時差し替え／撤去前提。",
@@ -1973,7 +1973,7 @@
   "spot-246": {
     "name": "日輪寺（山鹿大仏・おびんずる様）",
     "primary": "https://bizarrejapan.com/photos/spot-246.jpg",
-    "credit": "出典: 九州旅行ナビ（https://www.9navi.jp/obinzuru.html）※掲載許諾申請中",
+    "credit": "出典: 九州旅行ナビ（https://www.9navi.jp/obinzuru.html）",
     "provider": "九州旅行ナビ（9navi.jp）",
     "source_url": "https://www.9navi.jp/obinzuru.html",
     "license": "著作権あり（九州旅行ナビ 掲載写真、CC/PD表記なし）。事後承諾運用のため掲載するが、本番前/商用時は九州旅行ナビ運営者および日輪寺への許諾確認が必要。問題あれば即時差し替え／撤去前提。出典は観光情報メディア（C層）。",
@@ -2004,7 +2004,7 @@
   "fest-182": {
     "name": "切込の裸カセドリ",
     "primary": "https://bizarrejapan.com/photos/fest-182.jpg",
-    "credit": "出典: 仙台人が仙台観光をしているブログ（https://tanji-sendai.blog.jp/article/kirikome-no-hadaka-kasedori-strange-naked-festival-kami-machi-miyagi-japan-blog-sendai-yohei.html）※掲載許諾申請中",
+    "credit": "出典: 仙台人が仙台観光をしているブログ（https://tanji-sendai.blog.jp/article/kirikome-no-hadaka-kasedori-strange-naked-festival-kami-machi-miyagi-japan-blog-sendai-yohei.html）",
     "alt_photos": [],
     "provider": "仙台人が仙台観光をしているブログ",
     "source_url": "https://tanji-sendai.blog.jp/article/kirikome-no-hadaka-kasedori-strange-naked-festival-kami-machi-miyagi-japan-blog-sendai-yohei.html",
@@ -2014,7 +2014,7 @@
   "spot-250": {
     "name": "ゴトゴト石",
     "primary": "https://bizarrejapan.com/photos/spot-250.jpg",
-    "credit": "出典: 高知市公式観光情報サイト（https://www.city.kochi.kochi.jp/site/kanko/gotogotoishi.html）※掲載許諾申請中",
+    "credit": "出典: 高知市公式観光情報サイト（https://www.city.kochi.kochi.jp/site/kanko/gotogotoishi.html）",
     "alt_photos": [],
     "provider": "高知市（観光魅力創造課）",
     "source_url": "https://www.city.kochi.kochi.jp/site/kanko/gotogotoishi.html",
@@ -2024,7 +2024,7 @@
   "spot-251": {
     "name": "八百比丘尼の塔（賀茂神社石造層塔）",
     "primary": "https://bizarrejapan.com/photos/spot-251.jpg",
-    "credit": "出典: 奥四万十時間（高知県奥四万十エリア観光ガイド）（https://okushimanto.jp/tourism/0047）※掲載許諾申請中",
+    "credit": "出典: 奥四万十時間（高知県奥四万十エリア観光ガイド）（https://okushimanto.jp/tourism/0047）",
     "alt_photos": [],
     "provider": "奥四万十時間（高知県奥四万十エリア観光ガイド）",
     "source_url": "https://okushimanto.jp/tourism/0047",
@@ -2067,7 +2067,7 @@
   "fest-184": {
     "name": "白鳥神社 おみかん焼き",
     "primary": "https://bizarrejapan.com/photos/fest-184.jpg",
-    "credit": "出典: 工房和葉（https://ameblo.jp/koubou-kazuha/entry-12642909692.html）※掲載許諾申請中",
+    "credit": "出典: 工房和葉（https://ameblo.jp/koubou-kazuha/entry-12642909692.html）",
     "alt_photos": [],
     "provider": "工房和葉（アメブロ）",
     "source_url": "https://ameblo.jp/koubou-kazuha/entry-12642909692.html",
@@ -2077,7 +2077,7 @@
   "fest-185": {
     "name": "宮内の嫐打ち神事（高杉神社・夜の神事）",
     "primary": "https://bizarrejapan.com/photos/fest-185.jpg",
-    "credit": "出典: 山陰百貨店（https://ameblo.jp/sanin-department-store/entry-12210225130.html）※掲載許諾申請中",
+    "credit": "出典: 山陰百貨店（https://ameblo.jp/sanin-department-store/entry-12210225130.html）",
     "alt_photos": [],
     "provider": "山陰百貨店（アメブロ）",
     "source_url": "https://ameblo.jp/sanin-department-store/entry-12210225130.html",
@@ -2094,7 +2094,7 @@
   "fest-187": {
     "name": "滝宮の念仏踊",
     "primary": "https://bizarrejapan.com/photos/fest-187.jpg",
-    "credit": "出典: 綾川町（滝宮の念仏踊 公式サイト）（https://www.town.ayagawa.lg.jp/nenbutsuodori/）※掲載許諾申請中",
+    "credit": "出典: 綾川町（滝宮の念仏踊 公式サイト）（https://www.town.ayagawa.lg.jp/nenbutsuodori/）",
     "alt_photos": [],
     "provider": "綾川町（公式サイト「滝宮の念仏踊」）",
     "source_url": "https://www.town.ayagawa.lg.jp/nenbutsuodori/",
@@ -2115,7 +2115,7 @@
   "fest-189": {
     "name": "太郎太郎祭（田打ちの神事）",
     "primary": "https://bizarrejapan.com/photos/fest-189.jpg",
-    "credit": "出典: 鹿児島県（http://www.pref.kagoshima.jp/ab10/kyoiku-bunka/bunka/museum/shichoson/ichikikushikino/tarou.html）※掲載許諾申請中",
+    "credit": "出典: 鹿児島県（http://www.pref.kagoshima.jp/ab10/kyoiku-bunka/bunka/museum/shichoson/ichikikushikino/tarou.html）",
     "alt_photos": [],
     "provider": "鹿児島県（鹿児島県教育委員会 文化財）",
     "source_url": "http://www.pref.kagoshima.jp/ab10/kyoiku-bunka/bunka/museum/shichoson/ichikikushikino/tarou.html",
@@ -2125,7 +2125,7 @@
   "fest-190": {
     "name": "ガウンガウン祭（深田神社）",
     "primary": "https://bizarrejapan.com/photos/fest-190.jpg",
-    "credit": "出典: じゃらんnet（https://www.jalan.net/event/evt_338909/）※掲載許諾申請中",
+    "credit": "出典: じゃらんnet（https://www.jalan.net/event/evt_338909/）",
     "alt_photos": [],
     "provider": "じゃらんnet",
     "source_url": "https://www.jalan.net/event/evt_338909/",
@@ -2146,7 +2146,7 @@
   "fest-192": {
     "name": "高岩神社裸参り",
     "primary": "https://bizarrejapan.com/photos/fest-192.jpg",
-    "credit": "出典: 旅東北（東北観光推進機構）（https://www.tohokukanko.jp/attractions/detail_1006765.html）※掲載許諾申請中",
+    "credit": "出典: 旅東北（東北観光推進機構）（https://www.tohokukanko.jp/attractions/detail_1006765.html）",
     "alt_photos": [],
     "provider": "旅東北（東北観光推進機構）",
     "source_url": "https://www.tohokukanko.jp/attractions/detail_1006765.html",
@@ -2156,7 +2156,7 @@
   "fest-193": {
     "name": "七久里神社秋季祭典 裸祭り",
     "primary": "https://bizarrejapan.com/photos/fest-193.jpg",
-    "credit": "出典: NPO日本の祭りネットワーク（https://www.nippon-matsuri.net/report/nanakuri/）※掲載許諾申請中",
+    "credit": "出典: NPO日本の祭りネットワーク（https://www.nippon-matsuri.net/report/nanakuri/）",
     "alt_photos": [],
     "provider": "NPO日本の祭りネットワーク",
     "source_url": "https://www.nippon-matsuri.net/report/nanakuri/",
@@ -2166,7 +2166,7 @@
   "fest-194": {
     "name": "鶴岡天神祭 化けものまつり",
     "primary": "https://bizarrejapan.com/photos/fest-194.jpg",
-    "credit": "出典: つるおか観光ナビ（鶴岡市観光連盟）（https://www.tsuruokakanko.com/spot/2066）※掲載許諾申請中",
+    "credit": "出典: つるおか観光ナビ（鶴岡市観光連盟）（https://www.tsuruokakanko.com/spot/2066）",
     "alt_photos": [],
     "provider": "つるおか観光ナビ（鶴岡市観光連盟）",
     "source_url": "https://www.tsuruokakanko.com/spot/2066",
@@ -2176,7 +2176,7 @@
   "fest-195": {
     "name": "長谷寺 だだおし",
     "primary": "https://bizarrejapan.com/photos/fest-195.jpg",
-    "credit": "出典: オマツリジャパン（https://omatsurijapan.com/blog/dadaoshi/）※掲載許諾申請中",
+    "credit": "出典: オマツリジャパン（https://omatsurijapan.com/blog/dadaoshi/）",
     "alt_photos": [],
     "provider": "オマツリジャパン",
     "source_url": "https://omatsurijapan.com/blog/dadaoshi/",
@@ -2186,7 +2186,7 @@
   "fest-196": {
     "name": "栗田祭（住吉神社の喧嘩神輿）",
     "primary": "https://bizarrejapan.com/photos/fest-196.jpg",
-    "credit": "出典: 宮津市公式ホームページ（https://www.city.miyazu.kyoto.jp/site/citypro/12383.html）※掲載許諾申請中",
+    "credit": "出典: 宮津市公式ホームページ（https://www.city.miyazu.kyoto.jp/site/citypro/12383.html）",
     "alt_photos": [],
     "provider": "宮津市公式ホームページ",
     "source_url": "https://www.city.miyazu.kyoto.jp/site/citypro/12383.html",
@@ -2196,7 +2196,7 @@
   "fest-197": {
     "name": "火渉祭（火渡り）",
     "primary": "https://bizarrejapan.com/photos/fest-197.jpg",
-    "credit": "出典: 桜川市観光協会（http://www.kankou-sakuragawa.jp/page/page000049.html）※掲載許諾申請中",
+    "credit": "出典: 桜川市観光協会（http://www.kankou-sakuragawa.jp/page/page000049.html）",
     "alt_photos": [],
     "provider": "桜川市観光協会",
     "source_url": "http://www.kankou-sakuragawa.jp/page/page000049.html",
@@ -2206,7 +2206,7 @@
   "fest-198": {
     "name": "圓教寺 修正会 鬼追い会式",
     "primary": "https://bizarrejapan.com/photos/fest-198.jpg",
-    "credit": "出典: 姫路市（https://www.city.himeji.lg.jp/kanko/0000002085.html）※掲載許諾申請中",
+    "credit": "出典: 姫路市（https://www.city.himeji.lg.jp/kanko/0000002085.html）",
     "alt_photos": [],
     "provider": "姫路市",
     "source_url": "https://www.city.himeji.lg.jp/kanko/0000002085.html",
@@ -2216,7 +2216,7 @@
   "fest-199": {
     "name": "神明宮 あぶりもち神事",
     "primary": "https://bizarrejapan.com/photos/fest-199.jpg",
-    "credit": "出典: 中日新聞（https://www.chunichi.co.jp/article/1067732）※掲載許諾申請中",
+    "credit": "出典: 中日新聞（https://www.chunichi.co.jp/article/1067732）",
     "alt_photos": [],
     "provider": "中日新聞",
     "source_url": "https://www.chunichi.co.jp/article/1067732",
@@ -2226,7 +2226,7 @@
   "fest-200": {
     "name": "小浜放生祭",
     "primary": "https://bizarrejapan.com/photos/fest-200.jpg",
-    "credit": "出典: 小浜放生祭公式サイト（https://hoze-matsuri.jp/）※掲載許諾申請中",
+    "credit": "出典: 小浜放生祭公式サイト（https://hoze-matsuri.jp/）",
     "alt_photos": [],
     "provider": "小浜放生祭公式サイト",
     "source_url": "https://hoze-matsuri.jp/introduction",
@@ -2247,7 +2247,7 @@
   "fest-202": {
     "name": "東湖八坂神社祭 牛乗り・くも舞",
     "primary": "https://bizarrejapan.com/photos/fest-202.jpg",
-    "credit": "出典: 旅行ガイド「日本の祭り・歳時記 旅×航空券=旅×旅」（tabi-mag.jp）（https://tabi-mag.jp/tpukoyasaka-reitaisai/）※掲載許諾申請中",
+    "credit": "出典: 旅行ガイド「日本の祭り・歳時記 旅×航空券=旅×旅」（tabi-mag.jp）（https://tabi-mag.jp/tpukoyasaka-reitaisai/）",
     "alt_photos": [],
     "provider": "tabi-mag.jp（日本の祭り・旅情報サイト）",
     "source_url": "https://tabi-mag.jp/tpukoyasaka-reitaisai/",
@@ -2257,7 +2257,7 @@
   "fest-203": {
     "name": "風浪宮大祭 裸ん行",
     "primary": "https://bizarrejapan.com/photos/fest-203.jpg",
-    "credit": "出典: クロスロードふくおか（福岡県観光連盟 公式サイト crossroadfukuoka.jp）（https://www.crossroadfukuoka.jp/event/11109）※掲載許諾申請中",
+    "credit": "出典: クロスロードふくおか（福岡県観光連盟 公式サイト crossroadfukuoka.jp）（https://www.crossroadfukuoka.jp/event/11109）",
     "alt_photos": [],
     "provider": "クロスロードふくおか（福岡県観光連盟）",
     "source_url": "https://www.crossroadfukuoka.jp/event/11109",
@@ -2267,7 +2267,7 @@
   "fest-204": {
     "name": "若葉祭（うなごうじ祭）",
     "primary": "https://bizarrejapan.com/photos/fest-204.jpg",
-    "credit": "出典: 東愛知新聞（higashiaichi.jp）（https://higashiaichi.jp/news/detail.php?id=24572）※掲載許諾申請中",
+    "credit": "出典: 東愛知新聞（higashiaichi.jp）（https://higashiaichi.jp/news/detail.php?id=24572）",
     "alt_photos": [],
     "provider": "東愛知新聞社",
     "source_url": "https://higashiaichi.jp/news/detail.php?id=24572",
@@ -2277,7 +2277,7 @@
   "fest-205": {
     "name": "千国諏訪神社例祭 ささらすり",
     "primary": "https://bizarrejapan.com/photos/fest-205.jpg",
-    "credit": "出典: 旅ネット（tabinet-jp.com「ささらすり」紹介ページ）（http://www.tabinet-jp.com/maturi/sasarasuri.htm）※掲載許諾申請中",
+    "credit": "出典: 旅ネット（tabinet-jp.com「ささらすり」紹介ページ）（http://www.tabinet-jp.com/maturi/sasarasuri.htm）",
     "alt_photos": [],
     "provider": "旅ネット（tabinet-jp.com）",
     "source_url": "http://www.tabinet-jp.com/maturi/sasarasuri.htm",
@@ -2309,7 +2309,7 @@
   "fest-208": {
     "name": "勝田の獅子舞",
     "primary": "https://bizarrejapan.com/photos/fest-208.jpg",
-    "credit": "出典: ぐるり房総（http://fshima.my.coocan.jp/gallery/ycy01.html）※掲載許諾申請中",
+    "credit": "出典: ぐるり房総（http://fshima.my.coocan.jp/gallery/ycy01.html）",
     "alt_photos": [],
     "provider": "ぐるり房総（fshima.my.coocan.jp）",
     "source_url": "http://fshima.my.coocan.jp/gallery/ycy01.html",
@@ -2319,7 +2319,7 @@
   "fest-209": {
     "name": "那須御神火祭",
     "primary": "https://bizarrejapan.com/photos/fest-209.jpg",
-    "credit": "出典: STRAIGHT PRESS（https://straightpress.jp/20260529/1623382）※掲載許諾申請中",
+    "credit": "出典: STRAIGHT PRESS（https://straightpress.jp/20260529/1623382）",
     "alt_photos": [],
     "provider": "STRAIGHT PRESS",
     "source_url": "https://straightpress.jp/20260529/1623382",
@@ -2329,7 +2329,7 @@
   "fest-210": {
     "name": "悪口まつり（あくたいまつり）",
     "primary": "https://bizarrejapan.com/photos/fest-210.jpg",
-    "credit": "出典: 大岩山毘沙門天 最勝寺（https://www.oiwasan.or.jp/bishamonten-odd-festival.html）※掲載許諾申請中",
+    "credit": "出典: 大岩山毘沙門天 最勝寺（https://www.oiwasan.or.jp/bishamonten-odd-festival.html）",
     "alt_photos": [],
     "provider": "大岩山毘沙門天 最勝寺（oiwasan.or.jp）",
     "source_url": "https://www.oiwasan.or.jp/bishamonten-odd-festival.html",
@@ -2350,7 +2350,7 @@
   "fest-212": {
     "name": "上州白久保のお茶講（一ノ茶・二ノ茶・三ノ茶・客の茶包み）",
     "primary": "https://bizarrejapan.com/photos/fest-212.jpg",
-    "credit": "出典: 中之条ビエンナーレ（https://nakanojo-biennale.com/blog/13272）※掲載許諾申請中",
+    "credit": "出典: 中之条ビエンナーレ（https://nakanojo-biennale.com/blog/13272）",
     "alt_photos": [],
     "provider": "中之条ビエンナーレ 国際現代芸術祭（NAKANOJO BIENNALE）",
     "source_url": "https://nakanojo-biennale.com/blog/13272",
@@ -2360,7 +2360,7 @@
   "fest-213": {
     "name": "新野の雪祭り（雪の降る夜に舞う仮面神）",
     "primary": "https://bizarrejapan.com/photos/fest-213.jpg",
-    "credit": "出典: DeepJapan 新野高原（https://deepjapan-niino.info/yukimatsuri/）※掲載許諾申請中",
+    "credit": "出典: DeepJapan 新野高原（https://deepjapan-niino.info/yukimatsuri/）",
     "alt_photos": [],
     "provider": "DeepJapan 新野高原",
     "source_url": "https://deepjapan-niino.info/yukimatsuri/",
@@ -2370,7 +2370,7 @@
   "fest-214": {
     "name": "利賀の初午（馬の幕をまとって舞う子供たち）",
     "primary": "https://bizarrejapan.com/photos/fest-214.jpg",
-    "credit": "出典: とやま観光ナビ（https://www.info-toyama.com/events/40044）※掲載許諾申請中",
+    "credit": "出典: とやま観光ナビ（https://www.info-toyama.com/events/40044）",
     "alt_photos": [],
     "provider": "とやま観光ナビ（公益社団法人 とやま観光推進機構）",
     "source_url": "https://www.info-toyama.com/events/40044",
@@ -2380,7 +2380,7 @@
   "fest-215": {
     "name": "然別湖白蛇姫まつり（夜霧に浮かぶ親子の白蛇と白蛇姫）",
     "primary": "https://bizarrejapan.com/photos/fest-215.jpg",
-    "credit": "出典: JAPAN 47 GO（https://www.japan47go.travel/ja/detail/503ea8f6-e91e-4826-be82-facfbfc3bc08）※掲載許諾申請中",
+    "credit": "出典: JAPAN 47 GO（https://www.japan47go.travel/ja/detail/503ea8f6-e91e-4826-be82-facfbfc3bc08）",
     "alt_photos": [],
     "provider": "JAPAN 47 GO（日本観光振興協会）",
     "source_url": "https://www.japan47go.travel/ja/detail/503ea8f6-e91e-4826-be82-facfbfc3bc08",
@@ -2390,7 +2390,7 @@
   "fest-216": {
     "name": "防府天満宮御神幸祭（裸坊祭）",
     "primary": "https://bizarrejapan.com/photos/fest-216.jpg",
-    "credit": "出典: まつりと（https://matsurito.jp/matsuri/houfuten/index.html）※掲載許諾申請中",
+    "credit": "出典: まつりと（https://matsurito.jp/matsuri/houfuten/index.html）",
     "alt_photos": [],
     "provider": "まつりと（matsurito）",
     "source_url": "https://matsurito.jp/matsuri/houfuten/index.html",
@@ -2400,7 +2400,7 @@
   "fest-217": {
     "name": "麓山の火祭り",
     "primary": "https://bizarrejapan.com/photos/fest-217.jpg",
-    "credit": "出典: ふくしまの旅（公益財団法人福島県観光物産交流協会）（https://www.tif.ne.jp/jp/entry/article.html?spot=7251）※掲載許諾申請中",
+    "credit": "出典: ふくしまの旅（公益財団法人福島県観光物産交流協会）（https://www.tif.ne.jp/jp/entry/article.html?spot=7251）",
     "alt_photos": [],
     "provider": "ふくしまの旅（公益財団法人福島県観光物産交流協会）",
     "source_url": "https://www.tif.ne.jp/jp/entry/article.html?spot=7251",
@@ -2421,7 +2421,7 @@
   "fest-219": {
     "name": "柳沢の焼け八幡",
     "primary": "https://bizarrejapan.com/photos/fest-219.jpg",
-    "credit": "出典: 河北新報（https://kahoku.news/articles/20210110khn000017.html）※掲載許諾申請中",
+    "credit": "出典: 河北新報（https://kahoku.news/articles/20210110khn000017.html）",
     "alt_photos": [],
     "provider": "河北新報社（河北新報オンライン）",
     "source_url": "https://kahoku.news/articles/20210110khn000017.html",
@@ -2431,7 +2431,7 @@
   "fest-220": {
     "name": "道明寺天満宮うそかえ祭",
     "primary": "https://bizarrejapan.com/photos/fest-220.jpg",
-    "credit": "出典: 道明寺天満宮 公式サイト（https://www.domyojitenmangu.com/usokae.html）※掲載許諾申請中",
+    "credit": "出典: 道明寺天満宮 公式サイト（https://www.domyojitenmangu.com/usokae.html）",
     "alt_photos": [],
     "provider": "道明寺天満宮",
     "source_url": "https://www.domyojitenmangu.com/usokae.html",
@@ -2441,7 +2441,7 @@
   "fest-221": {
     "name": "長田神社 古式追儺式",
     "primary": "https://bizarrejapan.com/photos/fest-221.jpg",
-    "credit": "出典: おまつりジャパン（https://omatsurijapan.com/blog/nagatajinja-tsuina/）※掲載許諾申請中",
+    "credit": "出典: おまつりジャパン（https://omatsurijapan.com/blog/nagatajinja-tsuina/）",
     "alt_photos": [],
     "provider": "おまつりジャパン",
     "source_url": "https://omatsurijapan.com/blog/nagatajinja-tsuina/",
@@ -2462,7 +2462,7 @@
   "fest-223": {
     "name": "破魔弓祭（的ばかい）",
     "primary": "https://bizarrejapan.com/photos/fest-223.jpg",
-    "credit": "出典: るるぶ&more.（https://rurubu.jp/andmore/spot/20000969）※掲載許諾申請中",
+    "credit": "出典: るるぶ&more.（https://rurubu.jp/andmore/spot/20000969）",
     "alt_photos": [],
     "provider": "るるぶ&more.（JTBパブリッシング）",
     "source_url": "https://rurubu.jp/andmore/spot/20000969",
@@ -2472,7 +2472,7 @@
   "fest-224": {
     "name": "上津深江八坂神社 裸まつり",
     "primary": "https://bizarrejapan.com/photos/fest-224.jpg",
-    "credit": "出典: 天草Now（https://www.amakusa-now.com/reihoku-town/11-yasakajinjya.htm）※掲載許諾申請中",
+    "credit": "出典: 天草Now（https://www.amakusa-now.com/reihoku-town/11-yasakajinjya.htm）",
     "alt_photos": [],
     "provider": "天草Now（amakusa-now.com）",
     "source_url": "https://www.amakusa-now.com/reihoku-town/11-yasakajinjya.htm",
@@ -2482,7 +2482,7 @@
   "fest-225": {
     "name": "有氏神社の盤台祭り",
     "primary": "https://bizarrejapan.com/photos/fest-225.jpg",
-    "credit": "出典: 本庄経済新聞（https://honjo.keizai.biz/headline/929/）※掲載許諾申請中",
+    "credit": "出典: 本庄経済新聞（https://honjo.keizai.biz/headline/929/）",
     "alt_photos": [],
     "provider": "本庄経済新聞（honjo.keizai.biz）",
     "source_url": "https://honjo.keizai.biz/headline/929/",
@@ -2492,7 +2492,7 @@
   "fest-226": {
     "name": "甲斐国一宮浅間神社 大神幸祭（おみゆきさん）",
     "primary": "https://bizarrejapan.com/photos/fest-226.jpg",
-    "credit": "出典: おまつりジャパン（https://omatsurijapan.com/blog/omiyukisan-2019/）※掲載許諾申請中",
+    "credit": "出典: おまつりジャパン（https://omatsurijapan.com/blog/omiyukisan-2019/）",
     "alt_photos": [],
     "provider": "おまつりジャパン（omatsurijapan.com）",
     "source_url": "https://omatsurijapan.com/blog/omiyukisan-2019/",
@@ -2502,7 +2502,7 @@
   "fest-227": {
     "name": "阿月の神明祭",
     "primary": "https://bizarrejapan.com/photos/fest-227.jpg",
-    "credit": "出典: おいでませ山口へ（山口県観光連盟）（https://yamaguchi-tourism.jp/event/detail_15082.html）※掲載許諾申請中",
+    "credit": "出典: おいでませ山口へ（山口県観光連盟）（https://yamaguchi-tourism.jp/event/detail_15082.html）",
     "alt_photos": [],
     "provider": "おいでませ山口へ（山口県観光連盟）",
     "source_url": "https://yamaguchi-tourism.jp/event/detail_15082.html",
@@ -2524,7 +2524,7 @@
   "fest-229": {
     "name": "岩国行波の神舞",
     "primary": "https://bizarrejapan.com/photos/fest-229.jpg",
-    "credit": "出典: NPO日本の祭りネットワーク（https://www.nippon-matsuri.net/report/iwakuni/）※掲載許諾申請中",
+    "credit": "出典: NPO日本の祭りネットワーク（https://www.nippon-matsuri.net/report/iwakuni/）",
     "alt_photos": [],
     "provider": "NPO日本の祭りネットワーク（nippon-matsuri.net）",
     "source_url": "https://www.nippon-matsuri.net/report/iwakuni/",
@@ -2541,7 +2541,7 @@
   "spot-254": {
     "name": "青峯山正福寺",
     "primary": "https://bizarrejapan.com/photos/spot-254.jpg",
-    "credit": "出典: 観光三重（https://www.kankomie.or.jp/event/37663）※掲載許諾申請中",
+    "credit": "出典: 観光三重（https://www.kankomie.or.jp/event/37663）",
     "alt_photos": [],
     "provider": "観光三重（公益社団法人三重県観光連盟）",
     "source_url": "https://www.kankomie.or.jp/event/37663",
@@ -2573,7 +2573,7 @@
   "spot-257": {
     "name": "宝珠院（上津不動）",
     "primary": "https://bizarrejapan.com/photos/spot-257.jpg",
-    "credit": "出典: 観光三重（https://www.kankomie.or.jp/event/42770）※掲載許諾申請中",
+    "credit": "出典: 観光三重（https://www.kankomie.or.jp/event/42770）",
     "alt_photos": [],
     "provider": "観光三重（公益社団法人三重県観光連盟）",
     "source_url": "https://www.kankomie.or.jp/event/42770",
@@ -2583,7 +2583,7 @@
   "fest-231": {
     "name": "しろんご祭",
     "primary": "https://bizarrejapan.com/photos/fest-231.jpg",
-    "credit": "出典: 観光三重（https://www.kankomie.or.jp/event/5131）※掲載許諾申請中",
+    "credit": "出典: 観光三重（https://www.kankomie.or.jp/event/5131）",
     "alt_photos": [],
     "provider": "観光三重（公益社団法人三重県観光連盟）",
     "source_url": "https://www.kankomie.or.jp/event/5131",
@@ -2593,7 +2593,7 @@
   "fest-232": {
     "name": "観菩提寺正月堂 修正会・大餅会式",
     "primary": "https://bizarrejapan.com/photos/fest-232.jpg",
-    "credit": "出典: 伊賀タウン情報YOU（https://www.iga-younet.co.jp/2026/02/09/111682/）※掲載許諾申請中",
+    "credit": "出典: 伊賀タウン情報YOU（https://www.iga-younet.co.jp/2026/02/09/111682/）",
     "alt_photos": [],
     "provider": "伊賀タウン情報YOU",
     "source_url": "https://www.iga-younet.co.jp/2026/02/09/111682/",
@@ -2603,7 +2603,7 @@
   "fest-233": {
     "name": "矢浜山の神祭り",
     "primary": "https://bizarrejapan.com/photos/fest-233.jpg",
-    "credit": "出典: 中日新聞Web（https://www.chunichi.co.jp/article/1022659）※掲載許諾申請中",
+    "credit": "出典: 中日新聞Web（https://www.chunichi.co.jp/article/1022659）",
     "alt_photos": [],
     "provider": "中日新聞Web",
     "source_url": "https://www.chunichi.co.jp/article/1022659",
@@ -2613,7 +2613,7 @@
   "fest-234": {
     "name": "蓑村の虫送り",
     "primary": "https://bizarrejapan.com/photos/fest-234.jpg",
-    "credit": "出典: 三重のお祭りアーカイブ みえお祭り特集（三重県教育委員会）（https://www.mie-c.ed.jp/omatsuri/festival/%E8%93%91%E6%9D%91%E8%99%AB%E9%80%81%E3%82%8A/）※掲載許諾申請中",
+    "credit": "出典: 三重のお祭りアーカイブ みえお祭り特集（三重県教育委員会）（https://www.mie-c.ed.jp/omatsuri/festival/%E8%93%91%E6%9D%91%E8%99%AB%E9%80%81%E3%82%8A/）",
     "alt_photos": [],
     "provider": "三重のお祭りアーカイブ みえお祭り特集（三重県教育委員会）",
     "source_url": "https://www.mie-c.ed.jp/omatsuri/festival/%E8%93%91%E6%9D%91%E8%99%AB%E9%80%81%E3%82%8A/",
@@ -2623,7 +2623,7 @@
   "fest-235": {
     "name": "布施田 小島まつり",
     "primary": "https://bizarrejapan.com/photos/fest-235.jpg",
-    "credit": "出典: AMA DIVERS（鳥羽・志摩の海女）（https://ama-divers.com/sairei/）※掲載許諾申請中",
+    "credit": "出典: AMA DIVERS（鳥羽・志摩の海女）（https://ama-divers.com/sairei/）",
     "alt_photos": [],
     "provider": "AMA DIVERS（鳥羽・志摩の海女）",
     "source_url": "https://ama-divers.com/sairei/",
@@ -2633,7 +2633,7 @@
   "fest-236": {
     "name": "陽夫多神社 願之山行事",
     "primary": "https://bizarrejapan.com/photos/fest-236.jpg",
-    "credit": "出典: 三重のお祭りアーカイブ みえお祭り特集（三重県教育委員会）（https://www.mie-c.ed.jp/omatsuri/festival/%E9%99%BD%E5%A4%AB%E5%A4%9A%E7%A5%9E%E7%A4%BE%E7%A5%97%E5%9C%92%E7%A5%AD%E3%81%AE%E9%A1%98%E4%B9%8B%E5%B1%B1%E8%A1%8C%E4%BA%8B/）※掲載許諾申請中",
+    "credit": "出典: 三重のお祭りアーカイブ みえお祭り特集（三重県教育委員会）（https://www.mie-c.ed.jp/omatsuri/festival/%E9%99%BD%E5%A4%AB%E5%A4%9A%E7%A5%9E%E7%A4%BE%E7%A5%97%E5%9C%92%E7%A5%AD%E3%81%AE%E9%A1%98%E4%B9%8B%E5%B1%B1%E8%A1%8C%E4%BA%8B/）",
     "alt_photos": [],
     "provider": "三重のお祭りアーカイブ みえお祭り特集（三重県教育委員会）",
     "source_url": "https://www.mie-c.ed.jp/omatsuri/festival/%E9%99%BD%E5%A4%AB%E5%A4%9A%E7%A5%9E%E7%A4%BE%E7%A5%97%E5%9C%92%E7%A5%AD%E3%81%AE%E9%A1%98%E4%B9%8B%E5%B1%B1%E8%A1%8C%E4%BA%8B/",
@@ -2643,7 +2643,7 @@
   "fest-237": {
     "name": "赤崎祭（ゆかたまつり）",
     "primary": "https://bizarrejapan.com/photos/fest-237.jpg",
-    "credit": "出典: 伊勢志摩観光ナビ（https://www.iseshima-kanko.jp/spot/1615）※掲載許諾申請中",
+    "credit": "出典: 伊勢志摩観光ナビ（https://www.iseshima-kanko.jp/spot/1615）",
     "alt_photos": [],
     "provider": "伊勢志摩観光ナビ（伊勢志摩観光コンベンション機構）",
     "source_url": "https://www.iseshima-kanko.jp/spot/1615",
@@ -2653,7 +2653,7 @@
   "spot-258": {
     "name": "佐田西出 天王さんのお社塔",
     "primary": "https://bizarrejapan.com/photos/spot-258.jpg",
-    "credit": "出典: 文化遺産オンライン（文化庁）（https://online.bunka.go.jp/heritages/detail/409255）※掲載許諾申請中",
+    "credit": "出典: 文化遺産オンライン（文化庁）（https://online.bunka.go.jp/heritages/detail/409255）",
     "alt_photos": [],
     "provider": "文化遺産オンライン（文化庁）",
     "source_url": "https://online.bunka.go.jp/heritages/detail/409255",
@@ -2663,7 +2663,7 @@
   "fest-238": {
     "name": "植木神社祇園祭（くねり御輿）",
     "primary": "https://bizarrejapan.com/photos/fest-238.jpg",
-    "credit": "出典: 伊賀上野観光協会（https://www.igaueno.net/?p=1280）※掲載許諾申請中",
+    "credit": "出典: 伊賀上野観光協会（https://www.igaueno.net/?p=1280）",
     "alt_photos": [],
     "provider": "伊賀上野観光協会",
     "source_url": "https://www.igaueno.net/?p=1280",
@@ -2680,7 +2680,7 @@
   "fest-240": {
     "name": "種まき権兵衛祭り（権兵衛踊り）",
     "primary": "https://bizarrejapan.com/photos/fest-240.jpg",
-    "credit": "出典: きほくのたび（紀北町観光協会）（https://kihoku-kanko.com/see/577/）※掲載許諾申請中",
+    "credit": "出典: きほくのたび（紀北町観光協会）（https://kihoku-kanko.com/see/577/）",
     "alt_photos": [],
     "provider": "きほくのたび（紀北町観光協会）",
     "source_url": "https://kihoku-kanko.com/see/577/",
@@ -2690,7 +2690,7 @@
   "fest-241": {
     "name": "船だんじり",
     "primary": "https://bizarrejapan.com/photos/fest-241.jpg",
-    "credit": "出典: きほくのたび（紀北町観光協会）（https://kihoku-kanko.com/see/838/）※掲載許諾申請中",
+    "credit": "出典: きほくのたび（紀北町観光協会）（https://kihoku-kanko.com/see/838/）",
     "alt_photos": [],
     "provider": "きほくのたび（紀北町観光協会）",
     "source_url": "https://kihoku-kanko.com/see/838/",
@@ -2700,7 +2700,7 @@
   "fest-242": {
     "name": "池村のしめ縄掛け替え（道切りの注連縄）",
     "primary": "https://bizarrejapan.com/photos/fest-242.jpg",
-    "credit": "出典: 明和町（公式サイト 上村・池村の道切り行事ページ）（https://www.town.meiwa.mie.jp/main/soshiki/saikuuato/bunkazaik/shiteibunkazai/1585879969494.html）※掲載許諾申請中",
+    "credit": "出典: 明和町（公式サイト 上村・池村の道切り行事ページ）（https://www.town.meiwa.mie.jp/main/soshiki/saikuuato/bunkazaik/shiteibunkazai/1585879969494.html）",
     "alt_photos": [],
     "provider": "明和町（三重県多気郡明和町）",
     "source_url": "https://www.town.meiwa.mie.jp/main/soshiki/saikuuato/bunkazaik/shiteibunkazai/1585879969494.html",
@@ -2710,7 +2710,7 @@
   "spot-259": {
     "name": "波切神社 鯨石",
     "primary": "https://bizarrejapan.com/photos/spot-259.jpg",
-    "credit": "出典: トリップアドバイザー 利用者投稿（波切神社）（https://www.tripadvisor.jp/Attraction_Review-g1019679-d1369655-Reviews-Nakiri_Shrine-Shima_Mie_Prefecture_Tokai_Chubu.html）※掲載許諾申請中",
+    "credit": "出典: トリップアドバイザー 利用者投稿（波切神社）（https://www.tripadvisor.jp/Attraction_Review-g1019679-d1369655-Reviews-Nakiri_Shrine-Shima_Mie_Prefecture_Tokai_Chubu.html）",
     "alt_photos": [],
     "provider": "Tripadvisor（利用者投稿写真）",
     "source_url": "https://www.tripadvisor.jp/Attraction_Review-g1019679-d1369655-Reviews-Nakiri_Shrine-Shima_Mie_Prefecture_Tokai_Chubu.html",
@@ -2731,7 +2731,7 @@
   "spot-261": {
     "name": "伊奈冨神社 獅子神楽",
     "primary": "https://bizarrejapan.com/photos/spot-261.jpg",
-    "credit": "出典: 伊勢國お庭街道（三重ガーデンツーリズム協議会）（https://www.ise-oniwakaido.jp/boxa/inoujinja/）※掲載許諾申請中",
+    "credit": "出典: 伊勢國お庭街道（三重ガーデンツーリズム協議会）（https://www.ise-oniwakaido.jp/boxa/inoujinja/）",
     "alt_photos": [],
     "provider": "伊勢國お庭街道（三重ガーデンツーリズム協議会）",
     "source_url": "https://www.ise-oniwakaido.jp/boxa/inoujinja/",
@@ -2741,7 +2741,7 @@
   "spot-262": {
     "name": "都波岐奈加等神社 拝殿",
     "primary": "https://bizarrejapan.com/photos/spot-262.jpg",
-    "credit": "出典: yossy.main.jp（http://yossy.main.jp/post-15183-15183.html）※掲載許諾申請中",
+    "credit": "出典: yossy.main.jp（http://yossy.main.jp/post-15183-15183.html）",
     "alt_photos": [],
     "provider": "yossy.main.jp（神社参拝記）",
     "source_url": "http://yossy.main.jp/post-15183-15183.html",
@@ -2773,7 +2773,7 @@
   "fest-243": {
     "name": "木本祭（暴れ神輿）",
     "primary": "https://bizarrejapan.com/photos/fest-243.jpg",
-    "credit": "出典: 中日新聞Web（https://www.chunichi.co.jp/article/1147514）※掲載許諾申請中",
+    "credit": "出典: 中日新聞Web（https://www.chunichi.co.jp/article/1147514）",
     "alt_photos": [],
     "provider": "中日新聞Web",
     "source_url": "https://www.chunichi.co.jp/article/1147514",
@@ -2849,7 +2849,7 @@
   "fest-244": {
     "name": "答志島 八幡祭（神祭）",
     "primary": "https://bizarrejapan.com/photos/fest-244.jpg",
-    "credit": "出典: 観光三重（公益社団法人三重県観光連盟）（https://www.kankomie.or.jp/event/41608）※掲載許諾申請中",
+    "credit": "出典: 観光三重（公益社団法人三重県観光連盟）（https://www.kankomie.or.jp/event/41608）",
     "alt_photos": [],
     "provider": "観光三重（公益社団法人三重県観光連盟）",
     "source_url": "https://www.kankomie.or.jp/event/41608",
@@ -2881,7 +2881,7 @@
   "fest-245": {
     "name": "射和祇園まつり 神輿（屋根の意匠）",
     "primary": "https://bizarrejapan.com/photos/fest-245.jpg",
-    "credit": "出典: 射和祇園まつり公式サイト（https://izawagionmatsuri.jp/）※掲載許諾申請中",
+    "credit": "出典: 射和祇園まつり公式サイト（https://izawagionmatsuri.jp/）",
     "alt_photos": [],
     "provider": "射和祇園まつり公式サイト",
     "source_url": "https://izawagionmatsuri.jp/",
@@ -2935,7 +2935,7 @@
   "fest-248": {
     "name": "滝沢の放歌踊り",
     "primary": "https://bizarrejapan.com/photos/fest-248.jpg",
-    "credit": "出典: 浜松市（https://www.city.hamamatsu.shizuoka.jp/bunkazai/shitei/hamatsu/hamatsu/hoka.html）※掲載許諾申請中",
+    "credit": "出典: 浜松市（https://www.city.hamamatsu.shizuoka.jp/bunkazai/shitei/hamatsu/hamatsu/hoka.html）",
     "alt_photos": [],
     "provider": "浜松市（文化財課）",
     "source_url": "https://www.city.hamamatsu.shizuoka.jp/bunkazai/shitei/hamatsu/hamatsu/hoka.html",
@@ -3033,7 +3033,7 @@
   "spot-281": {
     "name": "道の駅大歩危（妖怪屋敷と石の博物館）",
     "primary": "https://bizarrejapan.com/photos/spot-281.jpg",
-    "credit": "出典: 道の駅大歩危 妖怪屋敷 公式サイト（https://yamashiro-info.jp/?page_id=71）※掲載許諾申請中",
+    "credit": "出典: 道の駅大歩危 妖怪屋敷 公式サイト（https://yamashiro-info.jp/?page_id=71）",
     "alt_photos": [],
     "provider": "道の駅大歩危 妖怪屋敷（公式サイト）",
     "source_url": "https://yamashiro-info.jp/?page_id=71",
@@ -3087,7 +3087,7 @@
   "fest-251": {
     "name": "大日向の火とぼし",
     "primary": "https://bizarrejapan.com/photos/fest-251.jpg",
-    "credit": "出典: we-love.gunma（https://we-love.gunma.jp/area/hitobashi）※掲載許諾申請中",
+    "credit": "出典: we-love.gunma（https://we-love.gunma.jp/area/hitobashi）",
     "alt_photos": [],
     "provider": "we-love.gunma（群馬県観光情報サイト）",
     "source_url": "https://we-love.gunma.jp/area/hitobashi",
@@ -3097,7 +3097,7 @@
   "fest-252": {
     "name": "片品の猿追い祭",
     "primary": "https://bizarrejapan.com/photos/fest-252.jpg",
-    "credit": "出典: 片品村観光協会 かたしないろ（https://oze-katashina.info/blog/5169/）※掲載許諾申請中",
+    "credit": "出典: 片品村観光協会 かたしないろ（https://oze-katashina.info/blog/5169/）",
     "alt_photos": [],
     "provider": "片品村観光協会 かたしないろ",
     "source_url": "https://oze-katashina.info/blog/5169/",
@@ -3118,7 +3118,7 @@
   "fest-254": {
     "name": "沼名前神社 お手火神事",
     "primary": "https://bizarrejapan.com/photos/fest-254.jpg",
-    "credit": "出典: VISIT鞆の浦（https://visittomonoura.com/otebi-ritual/）※掲載許諾申請中",
+    "credit": "出典: VISIT鞆の浦（https://visittomonoura.com/otebi-ritual/）",
     "alt_photos": [],
     "provider": "VISIT鞆の浦（鞆の浦観光情報サイト）",
     "source_url": "https://visittomonoura.com/otebi-ritual/",
@@ -3139,7 +3139,7 @@
   "fest-256": {
     "name": "大山祇神社 一人角力",
     "primary": "https://bizarrejapan.com/photos/fest-256.jpg",
-    "credit": "出典: いよ観ネット（愛媛県公式観光サイト）（https://www.iyokannet.jp/event/1166）※掲載許諾申請中",
+    "credit": "出典: いよ観ネット（愛媛県公式観光サイト）（https://www.iyokannet.jp/event/1166）",
     "alt_photos": [],
     "provider": "いよ観ネット（愛媛県観光物産協会）",
     "source_url": "https://www.iyokannet.jp/event/1166",
@@ -3149,7 +3149,7 @@
   "fest-257": {
     "name": "竹崎観世音寺 修正会鬼祭",
     "primary": "https://bizarrejapan.com/photos/fest-257.jpg",
-    "credit": "出典: 昭ちゃんのブログ（http://shouchan1945.cocolog-nifty.com/shasin/2019/01/index.html）※掲載許諾申請中",
+    "credit": "出典: 昭ちゃんのブログ（http://shouchan1945.cocolog-nifty.com/shasin/2019/01/index.html）",
     "alt_photos": [],
     "provider": "昭ちゃんのブログ（個人撮影記録）",
     "source_url": "http://shouchan1945.cocolog-nifty.com/shasin/2019/01/index.html",
@@ -3170,7 +3170,7 @@
   "fest-259": {
     "name": "本川神楽",
     "primary": "https://bizarrejapan.com/photos/fest-259.jpg",
-    "credit": "出典: 本川移住ブログ（本川プライベートツアー）（https://honngawa-ijyu.com/2025/08/19/本川神楽：四国山地に響く伝統の夜神楽/）※掲載許諾申請中",
+    "credit": "出典: 本川移住ブログ（本川プライベートツアー）（https://honngawa-ijyu.com/2025/08/19/本川神楽：四国山地に響く伝統の夜神楽/）",
     "alt_photos": [],
     "provider": "本川移住ブログ（honngawa-ijyu.com）",
     "source_url": "https://honngawa-ijyu.com/2025/08/19/%E6%9C%AC%E5%B7%9D%E7%A5%9E%E6%A5%BD%EF%BC%9A%E5%9B%9B%E5%9B%BD%E5%B1%B1%E5%9C%B0%E3%81%AB%E9%9F%BF%E3%81%8F%E4%BC%9D%E7%B5%B1%E3%81%AE%E5%A4%9C%E7%A5%9E%E6%A5%BD/",
@@ -3180,7 +3180,7 @@
   "fest-260": {
     "name": "西祖谷の神代踊",
     "primary": "https://bizarrejapan.com/photos/fest-260.jpg",
-    "credit": "出典: ユネスコ無形文化遺産【風流踊】公式サイト（https://furyu-odori.com/odori/西祖谷の神代踊/）※掲載許諾申請中",
+    "credit": "出典: ユネスコ無形文化遺産【風流踊】公式サイト（https://furyu-odori.com/odori/西祖谷の神代踊/）",
     "alt_photos": [],
     "provider": "ユネスコ無形文化遺産【風流踊】公式サイト（風流踊協議会）",
     "source_url": "https://furyu-odori.com/odori/%E8%A5%BF%E7%A5%96%E8%B0%B7%E3%81%AE%E7%A5%9E%E4%BB%A3%E8%B8%8A/",
@@ -3201,7 +3201,7 @@
   "spot-287": {
     "name": "マタギ資料館",
     "primary": "https://bizarrejapan.com/photos/spot-287.jpg",
-    "credit": "出典: ニッポン旅マガジン（https://tabi-mag.jp/ak0114/）※掲載許諾申請中",
+    "credit": "出典: ニッポン旅マガジン（https://tabi-mag.jp/ak0114/）",
     "alt_photos": [],
     "provider": "ニッポン旅マガジン",
     "source_url": "https://tabi-mag.jp/ak0114/",
@@ -3233,7 +3233,7 @@
   "spot-290": {
     "name": "押戸石の丘",
     "primary": "https://bizarrejapan.com/photos/spot-290.jpg",
-    "credit": "出典: ニッポン旅マガジン（https://tabi-mag.jp/ku0201/）※掲載許諾申請中",
+    "credit": "出典: ニッポン旅マガジン（https://tabi-mag.jp/ku0201/）",
     "alt_photos": [],
     "provider": "ニッポン旅マガジン",
     "source_url": "https://tabi-mag.jp/ku0201/",
@@ -3485,7 +3485,7 @@
   "spot-313": {
     "name": "大石神ピラミッド",
     "primary": "https://bizarrejapan.com/photos/spot-313.jpg",
-    "credit": "出典: ニッポン旅マガジン（https://tabi-mag.jp/ao0031/）※掲載許諾申請中",
+    "credit": "出典: ニッポン旅マガジン（https://tabi-mag.jp/ao0031/）",
     "alt_photos": [],
     "provider": "ニッポン旅マガジン",
     "source_url": "https://tabi-mag.jp/ao0031/",
@@ -3495,7 +3495,7 @@
   "spot-314": {
     "name": "葦嶽山",
     "primary": "https://bizarrejapan.com/photos/spot-314.jpg",
-    "credit": "出典: 庄原観光ナビ（庄原市観光協会）（https://www.shobara-info.com/spot/450）※掲載許諾申請中",
+    "credit": "出典: 庄原観光ナビ（庄原市観光協会）（https://www.shobara-info.com/spot/450）",
     "alt_photos": [],
     "provider": "庄原観光ナビ（庄原市観光協会）",
     "source_url": "https://www.shobara-info.com/spot/450",
@@ -3505,7 +3505,7 @@
   "spot-315": {
     "name": "お花大権現（林下寺）",
     "primary": "https://bizarrejapan.com/photos/spot-315.jpg",
-    "credit": "出典: 日本珍スポット100景（https://bqspot.com/shikoku/tokushima/567）※掲載許諾申請中",
+    "credit": "出典: 日本珍スポット100景（https://bqspot.com/shikoku/tokushima/567）",
     "alt_photos": [],
     "provider": "日本珍スポット100景（bqspot.com）",
     "source_url": "https://bqspot.com/shikoku/tokushima/567",
@@ -3636,7 +3636,7 @@
   "spot-327": {
     "name": "筑波山ガマ石",
     "primary": "https://bizarrejapan.com/photos/spot-327.jpg",
-    "credit": "出典: 旅マガジン（https://tabi-mag.jp/ib0026/）※掲載許諾申請中",
+    "credit": "出典: 旅マガジン（https://tabi-mag.jp/ib0026/）",
     "alt_photos": [],
     "provider": "旅マガジン（タビマガ）",
     "source_url": "https://tabi-mag.jp/ib0026/",
@@ -3646,7 +3646,7 @@
   "spot-328": {
     "name": "ダイダラ坊の背負い石",
     "primary": "https://bizarrejapan.com/photos/spot-328.jpg",
-    "credit": "出典: うらつくば（https://uratsukuba.hatenablog.jp/entry/2022/04/10/000000_6）※掲載許諾申請中",
+    "credit": "出典: うらつくば（https://uratsukuba.hatenablog.jp/entry/2022/04/10/000000_6）",
     "alt_photos": [],
     "provider": "うらつくば（はてなブログ）",
     "source_url": "https://uratsukuba.hatenablog.jp/entry/2022/04/10/000000_6",
@@ -3678,7 +3678,7 @@
   "spot-331": {
     "name": "源宗坊寺",
     "primary": "https://bizarrejapan.com/photos/spot-331.jpg",
-    "credit": "出典: 岩松山源宗坊寺 公式サイト（https://gensouboji.localinfo.jp/）※掲載許諾申請中",
+    "credit": "出典: 岩松山源宗坊寺 公式サイト（https://gensouboji.localinfo.jp/）",
     "alt_photos": [],
     "provider": "岩松山源宗坊寺 公式サイト",
     "source_url": "https://gensouboji.localinfo.jp/",
@@ -3688,7 +3688,7 @@
   "spot-332": {
     "name": "鼓岩（ポンポン岩）",
     "primary": "https://bizarrejapan.com/photos/spot-332.jpg",
-    "credit": "出典: 尾道 千光寺 公式サイト（https://www.senkouji.jp/discovery/detail.php?id=14）※掲載許諾申請中",
+    "credit": "出典: 尾道 千光寺 公式サイト（https://www.senkouji.jp/discovery/detail.php?id=14）",
     "alt_photos": [],
     "provider": "尾道 千光寺 公式サイト",
     "source_url": "https://www.senkouji.jp/discovery/detail.php?id=14",
@@ -3709,7 +3709,7 @@
   "spot-334": {
     "name": "定義如来 西方寺（五重塔）",
     "primary": "https://bizarrejapan.com/photos/spot-334.jpg",
-    "credit": "出典: 定義如来 西方寺 公式サイト（https://jogi.jp/）※掲載許諾申請中",
+    "credit": "出典: 定義如来 西方寺 公式サイト（https://jogi.jp/）",
     "alt_photos": [],
     "provider": "定義如来 西方寺 公式サイト",
     "source_url": "https://jogi.jp/meguru/",
@@ -3741,7 +3741,7 @@
   "spot-337": {
     "name": "「ん！」看板（国道42号沿い）",
     "primary": "https://bizarrejapan.com/photos/spot-337.jpg",
-    "credit": "出典: Jタウンネット（株式会社ジェイ・キャスト）／画像提供：株式会社小川（https://j-town.net/2023/03/25344341.html?p=all）※掲載許諾申請中",
+    "credit": "出典: Jタウンネット（株式会社ジェイ・キャスト）／画像提供：株式会社小川（https://j-town.net/2023/03/25344341.html?p=all）",
     "alt_photos": [],
     "provider": "Jタウンネット（株式会社ジェイ・キャスト）",
     "source_url": "https://j-town.net/2023/03/25344341.html?p=all",
@@ -3758,7 +3758,7 @@
   "spot-339": {
     "name": "花の木三尊磨崖仏",
     "primary": "https://bizarrejapan.com/photos/spot-339.jpg",
-    "credit": "出典: 三重の石仏をめぐる冒険（https://blog1.hessroom.com/2014/10/17/%e5%b2%a9%e6%a0%b9%e3%81%ae%e7%a3%a8%e5%b4%96%e4%bb%8f%e8%8a%b1%e3%81%ae%e6%9c%a8%e4%b8%89%e5%b0%8a%e7%a3%a8%e5%b4%96%e4%bb%8f%e3%80%80%e4%bc%8a%e8%b3%80%e5%b8%82%e5%a4%a7%e5%86%85/）※掲載許諾申請中",
+    "credit": "出典: 三重の石仏をめぐる冒険（https://blog1.hessroom.com/2014/10/17/%e5%b2%a9%e6%a0%b9%e3%81%ae%e7%a3%a8%e5%b4%96%e4%bb%8f%e8%8a%b1%e3%81%ae%e6%9c%a8%e4%b8%89%e5%b0%8a%e7%a3%a8%e5%b4%96%e4%bb%8f%e3%80%80%e4%bc%8a%e8%b3%80%e5%b8%82%e5%a4%a7%e5%86%85/）",
     "alt_photos": [],
     "provider": "三重の石仏をめぐる冒険（個人ブログ）",
     "source_url": "https://blog1.hessroom.com/2014/10/17/%e5%b2%a9%e6%a0%b9%e3%81%ae%e7%a3%a8%e5%b4%96%e4%bb%8f%e8%8a%b1%e3%81%ae%e6%9c%a8%e4%b8%89%e5%b0%8a%e7%a3%a8%e5%b4%96%e4%bb%8f%e3%80%80%e4%bc%8a%e8%b3%80%e5%b8%82%e5%a4%a7%e5%86%85/",
@@ -3786,7 +3786,7 @@
   "spot-342": {
     "name": "ジャンボ干支（辰水神社）",
     "primary": "https://bizarrejapan.com/photos/spot-342.jpg",
-    "credit": "出典: 観光三重（公益社団法人三重県観光連盟）（https://www.kankomie.or.jp/report/1223）※掲載許諾申請中",
+    "credit": "出典: 観光三重（公益社団法人三重県観光連盟）（https://www.kankomie.or.jp/report/1223）",
     "alt_photos": [],
     "provider": "観光三重（公益社団法人三重県観光連盟）",
     "source_url": "https://www.kankomie.or.jp/report/1223",
@@ -3803,7 +3803,7 @@
   "fest-261": {
     "name": "祐徳稲荷神社 秋季大祭（お火たき）",
     "primary": "https://bizarrejapan.com/photos/fest-261.jpg",
-    "credit": "出典: 鹿島市観光協会（https://saga-kashima-kankou.com/feature/5859）※掲載許諾申請中",
+    "credit": "出典: 鹿島市観光協会（https://saga-kashima-kankou.com/feature/5859）",
     "alt_photos": [],
     "provider": "鹿島市観光協会",
     "source_url": "https://saga-kashima-kankou.com/feature/5859",
@@ -3813,7 +3813,7 @@
   "fest-262": {
     "name": "愛宕社の火祭り（魚津）",
     "primary": "https://bizarrejapan.com/photos/fest-262.jpg",
-    "credit": "出典: 魚津市観光協会（https://uozu-kanko.jp/library/atagono-himaturi/）※掲載許諾申請中",
+    "credit": "出典: 魚津市観光協会（https://uozu-kanko.jp/library/atagono-himaturi/）",
     "alt_photos": [],
     "provider": "魚津市観光協会",
     "source_url": "https://uozu-kanko.jp/library/atagono-himaturi/",
@@ -3845,7 +3845,7 @@
   "spot-346": {
     "name": "大沢鍾乳洞",
     "primary": "https://bizarrejapan.com/photos/spot-346.jpg",
-    "credit": "出典: 五泉市公式ホームページ（https://www.city.gosen.lg.jp/organization/13/7/3/1/1710.html）※掲載許諾申請中",
+    "credit": "出典: 五泉市公式ホームページ（https://www.city.gosen.lg.jp/organization/13/7/3/1/1710.html）",
     "alt_photos": [],
     "provider": "五泉市公式ホームページ",
     "source_url": "https://www.city.gosen.lg.jp/organization/13/7/3/1/1710.html",
@@ -3877,7 +3877,7 @@
   "spot-349": {
     "name": "立岩（しあわせ祈岩）",
     "primary": "https://bizarrejapan.com/photos/spot-349.jpg",
-    "credit": "出典: おいでませ山口へ（山口県観光連盟）（https://yamaguchi-tourism.jp/spot/detail_15545.html）※掲載許諾申請中",
+    "credit": "出典: おいでませ山口へ（山口県観光連盟）（https://yamaguchi-tourism.jp/spot/detail_15545.html）",
     "alt_photos": [],
     "provider": "おいでませ山口へ（山口県観光連盟）",
     "source_url": "https://yamaguchi-tourism.jp/spot/detail_15545.html",
@@ -3887,7 +3887,7 @@
   "fest-263": {
     "name": "加茂大祭",
     "primary": "https://bizarrejapan.com/photos/fest-263.jpg",
-    "credit": "出典: 岡山観光WEB（https://www.okayama-kanko.jp/event/12690）※掲載許諾申請中",
+    "credit": "出典: 岡山観光WEB（https://www.okayama-kanko.jp/event/12690）",
     "alt_photos": [],
     "provider": "岡山観光WEB（岡山県観光連盟）",
     "source_url": "https://www.okayama-kanko.jp/event/12690",
@@ -3897,7 +3897,7 @@
   "fest-264": {
     "name": "江波の火祭（オットーラン祭）",
     "primary": "https://bizarrejapan.com/photos/fest-264.jpg",
-    "credit": "出典: 南の風EBA（江波地区地域運営委員会）（https://ebalmo.net/culture/shrine_summer_festival/）※掲載許諾申請中",
+    "credit": "出典: 南の風EBA（江波地区地域運営委員会）（https://ebalmo.net/culture/shrine_summer_festival/）",
     "alt_photos": [],
     "provider": "南の風EBA（江波地区地域運営委員会）",
     "source_url": "https://ebalmo.net/culture/shrine_summer_festival/",
@@ -3907,7 +3907,7 @@
   "fest-265": {
     "name": "青島神社 裸まいり",
     "primary": "https://bizarrejapan.com/photos/fest-265.jpg",
-    "credit": "出典: オマツリジャパン（https://omatsurijapan.com/blog/aoshima-hadakamairi-2019/）※掲載許諾申請中",
+    "credit": "出典: オマツリジャパン（https://omatsurijapan.com/blog/aoshima-hadakamairi-2019/）",
     "alt_photos": [],
     "provider": "オマツリジャパン",
     "source_url": "https://omatsurijapan.com/blog/aoshima-hadakamairi-2019/",
@@ -3961,7 +3961,7 @@
   "spot-354": {
     "name": "大迫磨崖大日如来坐像",
     "primary": "https://bizarrejapan.com/photos/spot-354.jpg",
-    "credit": "出典: おおいた文化財ずかん（https://oita-digitalzukan.jp/cultural_property/%E5%A4%A7%E8%BF%AB%E7%A3%A8%E5%B4%96%E5%A4%A7%E6%97%A5%E5%A6%82%E6%9D%A5%E5%9D%90%E5%83%8F/）※掲載許諾申請中",
+    "credit": "出典: おおいた文化財ずかん（https://oita-digitalzukan.jp/cultural_property/%E5%A4%A7%E8%BF%AB%E7%A3%A8%E5%B4%96%E5%A4%A7%E6%97%A5%E5%A6%82%E6%9D%A5%E5%9D%90%E5%83%8F/）",
     "alt_photos": [],
     "provider": "おおいた文化財ずかん（大分県）",
     "source_url": "https://oita-digitalzukan.jp/cultural_property/%E5%A4%A7%E8%BF%AB%E7%A3%A8%E5%B4%96%E5%A4%A7%E6%97%A5%E5%A6%82%E6%9D%A5%E5%9D%90%E5%83%8F/",
@@ -3971,7 +3971,7 @@
   "spot-355": {
     "name": "香山昇龍大観音",
     "primary": "https://bizarrejapan.com/photos/spot-355.jpg",
-    "credit": "出典: クロスロードふくおか（https://www.crossroadfukuoka.jp/spot/12712）※掲載許諾申請中",
+    "credit": "出典: クロスロードふくおか（https://www.crossroadfukuoka.jp/spot/12712）",
     "alt_photos": [],
     "provider": "クロスロードふくおか（福岡県観光連盟）",
     "source_url": "https://www.crossroadfukuoka.jp/spot/12712",
@@ -3981,7 +3981,7 @@
   "spot-356": {
     "name": "サウナ発達",
     "primary": "https://bizarrejapan.com/photos/spot-356.jpg",
-    "credit": "出典: サウナ発達 公式サイト（hattatsu.jp）（https://hattatsu.jp/wp-content/uploads/2025/06/service_sauna_001.png）※掲載許諾申請中",
+    "credit": "出典: サウナ発達 公式サイト（hattatsu.jp）（https://hattatsu.jp/wp-content/uploads/2025/06/service_sauna_001.png）",
     "alt_photos": [],
     "provider": "サウナ発達 公式サイト（hattatsu.jp）",
     "source_url": "https://hattatsu.jp/wp-content/uploads/2025/06/service_sauna_001.png",
