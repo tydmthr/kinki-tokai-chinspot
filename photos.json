@@ -4073,5 +4073,69 @@
     "source_url": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%B1%A0%E3%81%AE%E3%82%AA%E3%83%92%E3%83%AB%E3%82%AE%E7%BE%A4%E8%90%BD_-_panoramio.jpg",
     "creator": "yujisan",
     "provider": "Wikimedia Commons"
+  },
+  "spot-365": {
+    "name": "釣石神社",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/%E9%87%A3%E7%9F%B3%E7%A5%9E%E7%A4%BE.jpg/1280px-%E9%87%A3%E7%9F%B3%E7%A5%9E%E7%A4%BE.jpg",
+    "credit": "Wikimedia Commons / Msawamoto / CC BY-SA 4.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%E9%87%A3%E7%9F%B3%E7%A5%9E%E7%A4%BE.jpg",
+    "creator": "Msawamoto",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-366": {
+    "name": "立石",
+    "primary": "https://bizarrejapan.com/photos/spot-366.jpg",
+    "credit": "出典: 旅で出会った石（瑞雲寺）（https://zuiunzi.net/igu/bsrisuto1/5.html）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "旅で出会った石（瑞雲寺）",
+    "source_url": "https://zuiunzi.net/igu/bsrisuto1/5.html",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり。事後承諾運用。問題あれば即時差替/撤去前提。"
+  },
+  "spot-367": {
+    "name": "越前がにミュージアム",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Echizengani_museum.JPG/1280px-Echizengani_museum.JPG",
+    "credit": "Wikimedia Commons / Opqr / CC BY-SA 4.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Echizengani_museum.JPG",
+    "creator": "Opqr",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-368": {
+    "name": "めがねミュージアム",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Megane_museum_sabae.jpg/1280px-Megane_museum_sabae.jpg",
+    "credit": "Wikimedia Commons / Opqr / CC BY-SA 4.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Megane_museum_sabae.jpg",
+    "creator": "Opqr",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-369": {
+    "name": "勝山城博物館",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Katsuyama_Castle_Museum_2002-06-10.jpg/1280px-Katsuyama_Castle_Museum_2002-06-10.jpg",
+    "credit": "Wikimedia Commons / Alpsdake / CC BY-SA 3.0",
+    "alt_photos": [],
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Katsuyama_Castle_Museum_2002-06-10.jpg",
+    "creator": "Alpsdake",
+    "provider": "Wikimedia Commons"
+  },
+  "spot-370": {
+    "name": "みなとつるが山車会館",
+    "primary": "https://bizarrejapan.com/photos/spot-370.jpg",
+    "credit": "出典: 旅する港町つるが 敦賀観光公式サイト（https://tsuruga-kanko.jp/spot/history_culture/yama-museum/）※掲載許諾申請中",
+    "alt_photos": [],
+    "provider": "旅する港町つるが 敦賀観光公式サイト",
+    "source_url": "https://tsuruga-kanko.jp/spot/history_culture/yama-museum/",
+    "jigosyoudaku": true,
+    "license_note": "著作権あり。事後承諾運用。問題あれば即時差替/撤去前提。"
   }
 }

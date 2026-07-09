@@ -13850,5 +13850,213 @@
       "Trees stranded inland ~8,000 years ago by the uplift of coral reefs that built the island",
       "Oike: a karst lake of dissolved limestone, the largest freshwater lake on a remote Pacific atoll"
     ]
+  },
+  {
+    "id": "spot-365",
+    "name": "釣石神社",
+    "name_kana": "つりいしじんじゃ",
+    "category": "mystery",
+    "prefecture": "宮城県",
+    "city": "石巻市",
+    "address": "〒986-0201 宮城県石巻市北上町十三浜字菖蒲田305",
+    "lat": 38.569631,
+    "lng": 141.434997,
+    "status": "現存",
+    "fee": "無料（参拝自由）",
+    "hours": "境内自由（社務所は概ね日中）",
+    "official_url": "https://www.1380.jp/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E9%87%A3%E7%9F%B3%E7%A5%9E%E7%A4%BE",
+      "https://www.city.ishinomaki.lg.jp/cont/10250000/-map/001/20130225111648.html",
+      "https://www.i-kanko.com/local_info/%E9%87%A3%E7%9F%B3%E7%A5%9E%E7%A4%BE/"
+    ],
+    "from_kameyama": "車＋新幹線で片道およそ8〜9時間（名阪国道→東名・新東名で東京、東北新幹線で仙台、在来線＋三陸道で石巻・北上町）。日帰りは非現実的で、仙台・石巻泊が前提。",
+    "name_en": "Tsuriishi Shrine",
+    "prefecture_en": "Miyagi Prefecture",
+    "city_en": "Ishinomaki City",
+    "summary_en": "On a wooded slope near the mouth of the Kitakami River in northeastern Miyagi, a single enormous boulder juts out of the cliff face and hangs there, girded by a thick sacred straw rope, looking for all the world like it is about to crash down onto the worshippers below. It never does. That is the entire premise of Tsuriishi Shrine — the name literally means \"suspended stone.\" The upper boulder, roughly 14 meters around, is the male deity; a second stone below, about 8 by 4 meters, is the female deity; and the shrine itself is dedicated to Amenokoyane no Mikoto, the god of wisdom and learning. What turned a local rock into a nationally known pilgrimage site was catastrophe. In 1978 a magnitude-7.4 earthquake struck offshore and the boulder did not move. In 2011 the Great East Japan Earthquake sent a tsunami up the estuary that erased the surrounding village and swept away the shrine's office, its torii gate, and its ema hall — and still the stone did not fall. From that came its title: \"the exam-passing god that looks about to fall but never does.\" The lower boulder is now armored in thousands of wooden votive tablets left by students, and a flight of 174 stone steps climbs past the rock to an inner sanctuary rebuilt in 1914. It is at once a place of ancient rock worship and a very modern engine of test anxiety.",
+    "highlights_en": [
+      "A ~14-meter-circumference boulder juts from the cliff, roped like it is 'suspended,' looking perpetually about to fall — and never does",
+      "Having survived two great earthquakes and a tsunami, it became 'the exam-passing god'; the lower stone is buried under thousands of votive tablets",
+      "174 stone steps climb from directly beneath the boulder to a 1914 inner sanctuary, a living site of iwakura sacred-rock worship overlooking the Kitakami estuary"
+    ]
+  },
+  {
+    "id": "spot-366",
+    "name": "立石",
+    "name_kana": "たていし",
+    "category": "folk",
+    "prefecture": "宮城県",
+    "city": "伊具郡丸森町",
+    "address": "〒981-2321 宮城県伊具郡丸森町字泉（羽入地区）",
+    "lat": 37.9106,
+    "lng": 140.7616,
+    "status": "現存",
+    "fee": "無料",
+    "hours": "見学自由（山道・日中推奨）",
+    "official_url": "https://marumori.jp/spot/tachiishi/",
+    "reference_urls": [
+      "https://www.town.marumori.miyagi.jp/education/detail.php?content=69",
+      "https://marumori.jp/blog/2020121337462/",
+      "https://www.sendaimiyagicp.jp/spot/spot-9097/"
+    ],
+    "summary": "宮城県丸森町羽入地区の山中に屹立する、高さ約12.5メートル・周囲約25メートルの巨大な花崗岩の一枚岩。丸森町指定の天然記念物で、地元では「日本一の道祖神」とも呼ばれる。木立の中を登山道でたどると、墓標のように空へ突き上がる黒い岩壁が突如として現れ、根元の人の背丈ほどの巨石を従えて立つ姿は圧巻である。周辺からは弥生土器の破片が出土しており、古代から自然崇拝の対象とされてきたと考えられている。安倍貞任がこの石の頂に立ったという伝承や、八幡太郎義家が立石から松掛の的石へ矢を射たという弓の逸話も残り、東北の巨石信仰と武将伝説が重なる稀有な磐座である。",
+    "highlights": [
+      "高さ約12.5m・周囲約25mの花崗岩の一枚岩が墓標のように屹立する異形",
+      "根元の巨石を従えて空へ突き上がる、写真一枚で伝わる圧倒的なスケール感",
+      "弥生土器が出土する古代自然崇拝の磐座であり『日本一の道祖神』とも呼ばれる"
+    ],
+    "from_kameyama": "三重県亀山市から車で約9時間（新名神→伊勢湾岸→東名→常磐道・相馬ICまで約8時間＋一般道約1時間）。現実的には東北新幹線で白石蔵王駅・福島駅経由でレンタカー利用が便利。",
+    "name_en": "Tateishi (The Standing Stone of Marumori)",
+    "prefecture_en": "Miyagi Prefecture",
+    "city_en": "Marumori Town, Igu District",
+    "summary_en": "Deep in the wooded hills of the Hanyu district of Marumori, in southern Miyagi, a single slab of granite rises out of the forest like a black gravestone thrown up by the earth — roughly 12.5 meters tall and 25 meters around. Locals call it Tateishi, the \"standing stone,\" and, with a straight face, \"Japan's greatest dosojin\" — the roadside guardian deity usually represented by a small stone figure at a village boundary, here inflated to the size of a five-story building. Follow the mountain trail up from the Hanyu community hall and the monolith appears suddenly through the trees, dwarfing a boulder the size of a person crouched at its foot. This is no mere geological curiosity. Pottery fragments scattered around its base — some said to be Yayoi-period — mark it as an iwakura, a sacred rock worshipped since prehistory. Layered on top are the war legends of ancient Tohoku: the rebel lord Abe no Sadato is said to have stood on its summit around 1050, and the legendary archer Minamoto no Yoshiie is said to have loosed an arrow from here across the valley to a distant \"target stone.\" One rock, holding down both the animist deep past and the samurai epic — and doing it while looming over you like a wall.",
+    "highlights_en": [
+      "A single granite monolith about 12.5m tall and 25m around, standing upright like a gravestone hurled from the earth",
+      "The overwhelming scale — captured in a single photo — as it towers over a person-sized boulder at its base",
+      "An ancient iwakura where Yayoi pottery has been found, known locally as 'Japan's greatest roadside guardian deity'"
+    ]
+  },
+  {
+    "id": "spot-367",
+    "name": "越前がにミュージアム",
+    "name_kana": "えちぜんがにみゅーじあむ",
+    "category": "bkyu",
+    "prefecture": "福井県",
+    "city": "丹生郡越前町",
+    "address": "〒916-0422 福井県丹生郡越前町厨71-324-1",
+    "lat": 35.920008,
+    "lng": 135.998064,
+    "status": "現存",
+    "fee": "大人500円／小人（3歳以上〜小学生）300円（団体20名以上・障がい者割引あり）",
+    "hours": "9:00〜17:00（最終入館16:30）／休館：毎週火曜（夏休み期間は無休、11〜3月は第2・第4火曜）",
+    "official_url": "https://www.echizenkk.jp/kanimuseum",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E8%B6%8A%E5%89%8D%E3%81%8C%E3%81%AB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0",
+      "https://www.town-echizen.jp/spot/spot01Detail.php?id=338",
+      "https://www.fuku-e.com/spot/detail_1220.html"
+    ],
+    "summary": "越前海岸に建つ、カニ一点特化の体感型ミュージアム。2000年7月15日に開館した日本でも珍しいカニ専門博物館で、愛称は「ビックラブ」。何より目を引くのは建物そのもので、ドーム型の甲羅と左右に大きく広げたハサミを模した外観が、海に向かって身構える巨大な越前ガニのシルエットを描く。",
+    "highlights": [
+      "海に向かってハサミを広げた巨大な越前ガニを模した建物外観そのものが最大の見どころ",
+      "波しぶきまで再現した「かに漁チャレンジ漁船体験シミュレーター」で本物の漁船操舵を疑似体験",
+      "深海300mを三層吹き抜けで再現した巨大ジオラマ「パノラマ劇場」と幅10mスクリーンのビッグラブシアター"
+    ],
+    "from_kameyama": "車で約2時間30分（名阪国道→北陸自動車道 鯖江IC→越前海岸方面）",
+    "name_en": "Echizen Gani (Crab) Museum",
+    "prefecture_en": "Fukui Prefecture",
+    "city_en": "Echizen Town, Nyu District",
+    "summary_en": "On the rugged Echizen coast of Fukui Prefecture stands a building shaped like a colossal crab bracing toward the sea — a domed 'shell' with two claw-like wings flung wide. This is the Echizen Gani Museum, one of Japan's very few museums devoted entirely to a single crustacean: the Echizen crab, the male snow crab that is Fukui's iconic winter delicacy and is still presented to the Imperial Household. Opened on July 15, 2000, and nicknamed 'BigLove' (a public-vote blend of bikkura — the shock of seeing a giant crab — plus Crab plus Love), the museum commits to its one subject with total conviction, from architecture to exhibits. Inside, a three-story atrium diorama recreates the sea floor at a depth of 300 meters; a 10-meter-wide, 3-meter-high screen in the 'BigLove Theater' projects crab-fishing footage; and a fishing-boat simulator — complete with reproduced sea spray — lets visitors pilot a crab boat through the entire voyage from harbor to catch and back. It is a place where earnest marine biology and unabashed B-kyu (roadside-attraction) spectacle share the same roof, and the giant-crab building alone makes it unmistakable from the road.",
+    "highlights_en": [
+      "The building itself, shaped like a giant Echizen crab with claws spread toward the sea, is the single greatest sight",
+      "A fishing-boat simulator that reproduces even the sea spray lets visitors pilot a real crab-fishing voyage from departure to return",
+      "A three-story atrium diorama recreating the sea floor at 300 meters deep, plus the 10-meter-screen BigLove Theater"
+    ]
+  },
+  {
+    "id": "spot-368",
+    "name": "めがねミュージアム",
+    "name_kana": "めがねみゅーじあむ",
+    "category": "bkyu",
+    "prefecture": "福井県",
+    "city": "鯖江市",
+    "address": "〒916-0042 福井県鯖江市新横江2-3-4 めがね会館",
+    "lat": 35.942759,
+    "lng": 136.198812,
+    "status": "現存",
+    "fee": "めがね博物館：入館無料（体験工房は有料・要予約）",
+    "hours": "めがねSHOP 10:00〜19:00／体験工房・めがね博物館・カフェ 10:00〜17:00（水曜・年末年始休、祝日除く）",
+    "official_url": "https://www.megane.gr.jp/museum/",
+    "reference_urls": [
+      "https://www.city.sabae.fukui.jp/kanko/sightseeing/museum.html",
+      "https://www.nikkei.com/article/DGXKZO61653880X10C20A7H91A00/",
+      "https://mediall.jp/landmark/10206"
+    ],
+    "summary": "国産眼鏡フレームの約95%を生産する「めがねのまち」福井県鯖江市が、眼鏡ただ一点に特化して建てた専門ミュージアム。拠点となる「めがね会館」は屋上に赤い巨大めがねのオブジェを掲げ、真上から見ると建物そのものが眼鏡の形をしている。館内に入るとまず、約700個の金属フレームを組み上げた直径約3.2メートルの球体オブジェが頭上に浮かぶ。3階のめがね博物館は入館無料で、1905年に増永五左衛門が農閑期の副業として大阪から職人を招いたことに始まる100余年の生産史、福井発のチタンフレーム、めがね大使・大村崑が集めた美空ひばりや石原裕次郎ら著名人愛用眼鏡のコレクションを展示する。総合博物館ではなく、一産業に街ぐるみで殉じた偏執の視覚化として尖っている。",
+    "highlights": [
+      "屋上に赤い巨大めがねオブジェを掲げ、真上から見ると建物自体が眼鏡形をした「めがね会館」",
+      "約700個の眼鏡フレームで組んだ直径約3.2メートルの球体オブジェが入口の頭上に浮かぶ",
+      "喜劇俳優・大村崑が集めた美空ひばり・石原裕次郎ら著名人愛用眼鏡の「有名人眼鏡コレクション」"
+    ],
+    "from_kameyama": "車で約2時間15分（名神・北陸自動車道経由で鯖江ICから約10分）、または鉄道でJR鯖江駅下車徒歩約10分",
+    "name_en": "Megane Museum (Eyeglass Museum)",
+    "prefecture_en": "Fukui Prefecture",
+    "city_en": "Sabae City",
+    "summary_en": "In a snowbound corner of Fukui Prefecture, an entire town has devoted itself to a single object: the eyeglass. Sabae produces roughly 95% of all frames made in Japan, and the Megane Museum is the shrine that obsession built. Its home, the Megane Kaikan (\"Eyeglass Hall\"), wears a giant red pair of glasses on its roof as a landmark, and — in a detail that borders on the fanatical — the building itself is shaped like a pair of spectacles when seen from directly above. Step inside and the first thing to greet you hangs overhead: a sphere about 3.2 meters across, assembled from roughly 700 metal frames, so that hundreds of pairs of glasses coalesce into one glowing orb. The free third-floor museum traces a century-plus of local history that began in 1905, when the farmer Masunaga Gozaemon imported Osaka craftsmen to give his neighbors off-season work; it also shows the titanium frames that Sabae pioneered, and a \"celebrity eyewear collection\" gathered by comedian and eyeglass ambassador Kon Omura, including glasses once worn by singer Hibari Misora and film star Yujiro Ishihara. This is not a general museum but the visualization of an industrial monomania — a place that speaks of nothing, and everything, but glasses.",
+    "highlights_en": [
+      "The Megane Kaikan wears a giant red pair of glasses on its roof and is itself shaped like spectacles when viewed from directly above",
+      "A 3.2-meter sphere built from roughly 700 eyeglass frames hangs overhead at the entrance — hundreds of pairs of glasses fused into one orb",
+      "A 'celebrity eyewear collection' assembled by comedian Kon Omura, including glasses worn by Hibari Misora and Yujiro Ishihara"
+    ]
+  },
+  {
+    "id": "spot-369",
+    "name": "勝山城博物館",
+    "name_kana": "かつやまじょうはくぶつかん",
+    "category": "bkyu",
+    "prefecture": "福井県",
+    "city": "勝山市",
+    "address": "〒911-0806 福井県勝山市平泉寺町平泉寺85-26-1",
+    "lat": 36.042662,
+    "lng": 136.520559,
+    "status": "現存",
+    "fee": "大人700円（団体560円）／小中高校生280円（団体230円）",
+    "hours": "9:30〜16:30（入館は16:00まで）水曜休館・冬季休館あり",
+    "official_url": "http://www.katsuyamajyou.com/",
+    "reference_urls": [
+      "https://ja.wikipedia.org/wiki/%E5%8B%9D%E5%B1%B1%E5%9F%8E%E5%8D%9A%E7%89%A9%E9%A4%A8",
+      "https://www.fuku-e.com/spot/detail_1169.html"
+    ],
+    "summary": "福井県勝山市の田園地帯に、天守風建築として日本一の高さ57.8メートルを誇る白亜の巨大城郭がそびえる。姫路城天守を模したコンクリート製の模擬天守で、内部は江戸時代の大名武具や合戦図屏風などを収める登録博物館。史実の勝山城には天守が造営されたことはなく、この城型建築は史跡の再現ではない。地元出身の実業家で相互タクシー創業者・多田清が私財を投じて建て、1992年に開館させた。石垣には九頭竜川と恐竜化石にちなむ9匹の龍が彫り込まれている。",
+    "highlights": [
+      "天守風建築として日本一の高さ57.8メートル・田園にそびえる白亜の巨大模擬天守",
+      "石垣に彫られた9匹の龍（九頭竜川と勝山産恐竜化石にちなむ）",
+      "史実の城とは無関係にタクシー会社創業者が私財で建てた5層6階の登録博物館"
+    ],
+    "from_kameyama": "車で約2時間30分（名神・北陸自動車道→福井北IC経由・中部縦貫道勝山IC）",
+    "name_en": "Katsuyama Castle Museum",
+    "prefecture_en": "Fukui Prefecture",
+    "city_en": "Katsuyama City",
+    "summary_en": "Rising abruptly from the rice paddies of rural Fukui, this blinding-white castle keep is the tallest tenshu-style structure in Japan — 57.8 meters from stone base to golden ridge ornaments. It looks, from a distance, like a lost feudal fortress. It is not. No castle keep ever stood here in history; the medieval Katsuyama Castle had only a keep platform, never a tower, and its site has vanished. This gleaming five-tiered, six-story reinforced-concrete replica of Himeji Castle's keep was instead the private passion project of Tada Kiyoshi, a local boy who founded the Sōgo Taxi company and wanted to give his hometown 'a new face.' He poured his own fortune into it over three years and died in 1991, a year before it opened in 1992 as a registered museum housing daimyō armor, battle screens and Qing-dynasty embroidery. Look at the stone base and you'll find the giveaway that this is no ordinary castle: nine dragons carved in relief, honoring the Kuzuryū (Nine-Headed Dragon) River and the dinosaur fossils for which Katsuyama is famous. It is one of Japan's great mock keeps — a photograph of it raises the question 'why is there a giant castle here?' before you've read a single caption.",
+    "highlights_en": [
+      "At 57.8 meters, the tallest tenshu-style structure in Japan — a colossal white mock keep looming over open farmland",
+      "Nine dragons carved into the stone base, honoring the Kuzuryū River and Katsuyama's dinosaur fossils",
+      "A five-tiered, six-story registered museum built with the private fortune of a taxi-company founder, on a site that never had a real castle keep"
+    ]
+  },
+  {
+    "id": "spot-370",
+    "name": "みなとつるが山車会館",
+    "name_kana": "みなとつるがやまかいかん",
+    "category": "folk",
+    "prefecture": "福井県",
+    "city": "敦賀市",
+    "address": "〒914-0062 福井県敦賀市相生町7番6号",
+    "lat": 35.656817,
+    "lng": 136.068939,
+    "status": "現存",
+    "fee": "一般300円／団体（20名以上）250円／高校生以下無料（博物館との共通券は一般500円）",
+    "hours": "9:00〜17:00（最終入館16:30）。月曜休（祝日の場合は開館し翌日休）・祝日の翌日・年末年始（12/29〜1/3）休",
+    "official_url": "https://tsuruga-yama-museum.jp/",
+    "reference_urls": [
+      "https://www.city.tsuruga.lg.jp/page/4208.html",
+      "https://ja.wikipedia.org/wiki/%E3%81%BF%E3%81%AA%E3%81%A8%E3%81%A4%E3%82%8B%E3%81%8C%E5%B1%B1%E8%BB%8A%E4%BC%9A%E9%A4%A8"
+    ],
+    "summary": "氣比神宮例大祭（敦賀まつり）で巡行する巨大な山車を、屋内でそのまま見上げられる展示施設。館内に収蔵された6基のうち3基を常設展示し、多層構造の山車の頂に、本物の甲冑・能面をまとった等身大の武者人形が戦国合戦の一場面を再現して載る。白馬に跨り弓を引き絞る武将像は天井近くまでそびえ、水引幕や松の依り代を含めた総高は建物2層分に達する。祭りでは大山車の依り代の松が高さ9m超に及んだと伝わる、その巨大さと戦国絵巻の生々しさを、雨や日程に左右されず間近で体感できる稀有な珍スポットである。上映最後に山車がせり出すスクリーンシアターも備える。",
+    "highlights": [
+      "屋内展示ホールに山車が2層分の高さでそびえ、頂の武者人形が天井近くまで届く圧倒的スケール",
+      "本物の甲冑・能面を着けた等身大の武者人形が、白馬に跨り弓を引く戦国合戦の一場面を再現",
+      "上映の最後に山車が観客席へせり出すスクリーンシアターと、鎧兜がずらり並ぶ甲冑展示室"
+    ],
+    "from_kameyama": "車で約1時間20分（名神・北陸自動車道 敦賀ICから約10分）。公共交通なら亀山駅からJRで敦賀駅へ約2時間、敦賀駅から徒歩約25分またはコミュニティバス。",
+    "name_en": "Minato Tsuruga Float Museum (Minato Tsuruga Yama Kaikan)",
+    "prefecture_en": "Fukui Prefecture",
+    "city_en": "Tsuruga City",
+    "summary_en": "Most festival floats you only glimpse once a year, rolling past in a crowd. Here, in a purpose-built hall in the old port town of Tsuruga, three of the six festival floats of the Kehi Shrine grand festival stand indoors year-round — and indoors, freed from the street, their sheer scale is startling. Each float is a multi-tiered wooden tower crowned by a life-sized warrior figure dressed in genuine armor and a real Noh mask, staging a frozen moment of a Warring States battle: one warrior rears back on a white horse, drawing a bow, the whole tableau climbing nearly to the ceiling, two building-stories tall above the visitors below. The armor is not costume but the real thing, as are the masks; a second-floor gallery lets you circle a suit of it at 360 degrees. In the old days the largest floats carried a sacred pine over nine meters high as a vessel for the descending god, so wide it filled the lane. The museum keeps that gigantism and the eerie theatrical realism of the warrior scenes on tap regardless of weather or date — a rare place to stand under a festival float and feel how monstrous it really is. A screen theater seals it, with a float sliding out toward the audience at the climax.",
+    "highlights_en": [
+      "Floats standing two stories tall inside the exhibition hall, their warrior figures reaching nearly to the ceiling — a scale you never register from the street crowd",
+      "Life-sized warrior figures in genuine armor and real Noh masks, one rearing on a white horse mid-bowshot, staging a Warring States battle",
+      "A screen theater whose float slides out toward the audience at the climax, plus a gallery of real samurai armor lined up under blue light"
+    ]
   }
 ]
