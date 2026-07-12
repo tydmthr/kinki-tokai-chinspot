@@ -2527,5 +2527,23 @@
     "source_url": "https://tsuruga-kanko.jp/spot/history_culture/yama-museum/",
     "jigosyoudaku": true,
     "license_note": "著作権あり。事後承諾運用。問題あれば即時差替/撤去前提。"
+  },
+  "fest-069": {
+    "name": "あわしま・こんせい祭",
+    "primary": "https://bizarrejapan.com/photos/fest-069.jpg",
+    "credit": "でれすけ（yagimitinomise / livedoor Blog）",
+    "alt_photos": [],
+    "license": null,
+    "license_url": null,
+    "note": "事後承諾（出典: https://yagimitinomise.livedoor.blog/archives/1801611.html）"
+  },
+  "fest-123": {
+    "name": "龍ケ崎の撞舞",
+    "primary": "https://bizarrejapan.com/photos/fest-123.jpg",
+    "credit": "オマツリジャパン（omatsurijapan.com）",
+    "alt_photos": [],
+    "license": null,
+    "license_url": null,
+    "note": "事後承諾（出典: https://omatsurijapan.com/blog/ryugasaki-tsukumai/）"
   }
 }
