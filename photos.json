@@ -982,11 +982,14 @@
   },
   "fest-119": {
     "name": "恐山大祭",
-    "primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Sacred_Mount_Osorezan_20200601a_stitching9.jpg/1280px-Sacred_Mount_Osorezan_20200601a_stitching9.jpg",
-    "credit": "Wikimedia Commons / CC BY-SA 4.0",
+    "primary": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Pinwheels_-_Mount_Osore_-_Mutsu%2C_Aomori_-_DSC00653.jpg",
+    "credit": "Daderot / Wikimedia Commons / CC0 1.0",
     "alt_photos": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Sacred_Mount_Osorezan_20200601a_stitching9.jpg/1280px-Sacred_Mount_Osorezan_20200601a_stitching9.jpg",
       "https://upload.wikimedia.org/wikipedia/commons/3/3a/Shrine_-_Mount_Osore_-_Mutsu%2C_Aomori_-_DSC00425.jpg"
-    ]
+    ],
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
   },
   "fest-120": {
     "name": "宮古島のパーントゥ",
@@ -2545,5 +2548,14 @@
     "license": null,
     "license_url": null,
     "note": "事後承諾（出典: https://omatsurijapan.com/blog/ryugasaki-tsukumai/）"
+  },
+  "fest-136": {
+    "name": "牟岐姫神祭り",
+    "primary": "https://bizarrejapan.com/photos/fest-136.jpg",
+    "credit": "みなみ阿波（南阿波観光局）",
+    "alt_photos": [],
+    "license": null,
+    "license_url": null,
+    "note": "事後承諾（出典: https://minamiawa.jp/spot/2018090600220/）"
   }
 }
